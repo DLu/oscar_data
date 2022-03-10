@@ -1,6 +1,10 @@
 # oscar_data
 A curated dataset of Academy Award nominations with IMDb unique identifiers.
 
+## Main Data File
+
+[`oscars.csv`](oscars.csv)
+
 ## Generating the Data
 
 1. Manually Download HTML
@@ -10,3 +14,4 @@ A curated dataset of Academy Award nominations with IMDb unique identifiers.
     1. Download the nominations by saving [The Ceremonies Page](https://www.oscars.org/oscars/ceremonies) as `oscars_html/nominations.html`
 1. Prepare the Raw Oscars Data
     1. Run `./parse_oscars_html.py -n`
+    1. Run `./add_fields_to_csv.py`

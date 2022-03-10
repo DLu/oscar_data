@@ -1,5 +1,6 @@
 import click
 import csv
+import yaml
 
 DATA_PATH = 'oscars.csv'
 
@@ -7,6 +8,7 @@ FIELDNAMES = [
     'Ceremony',
     'Year',
     'Class',
+    'Canonical Category',
     'Category',
     'Film',
     'Name',
@@ -23,6 +25,9 @@ FIELDNAMES = [
 def read_csv(filepath=DATA_PATH):
     awards = []
     for row in csv.DictReader(open(filepath), delimiter='\t', doublequote=False, escapechar='\\'):
+        for k, v in row.items():
+            if not v:
+                row[k] = ''
         awards.append(row)
     return awards
 
@@ -51,3 +56,14 @@ def write_csv(awards, filepath=DATA_PATH):
         writer.writeheader()
         for row in awards:
             writer.writerow(format_for_csv(row))
+
+
+def read_lookup_dict(filepath, lower=False):
+    d = {}
+    for k, values in yaml.safe_load(open(filepath)).items():
+        for v in values:
+            if lower:
+                d[v.lower()] = k
+            else:
+                d[v] = k
+    return d
