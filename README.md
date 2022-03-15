@@ -41,3 +41,5 @@ A curated dataset of Academy Award nominations with IMDb unique identifiers.
     1. Run `./add_fields_to_csv.py`
     1. Run `./parse_citations.py`
       * Manually update any of the citations in `citations.yaml`, and run `parse_citations.py` again as needed.
+1. Obtain Lots of IMDB Data
+    1. Run `./scrape_imdb_html.py`
