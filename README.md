@@ -5,6 +5,30 @@ A curated dataset of Academy Award nominations with IMDb unique identifiers.
 
 [`oscars.csv`](oscars.csv)
 
+### Field Guide
+ * `Ceremony` (int) - Ordinal for which ceremony the nomination was for (starting at 1)
+ * `Year` (string) - Year(s) from which the films are honored.
+ * `Class` (string) - A custom broad grouping for categories. Values include:
+   * Title (e.g. Best Picture)
+   * Acting
+   * Directing
+   * Writing
+   * Music
+   * Production
+   * SciTech
+   * Special
+ * `Canonical Category` (string) - Removes the variations on the exact wording of the category name over the years
+ * `Category` (string) - The precise category name according to Oscars.org
+ * `Film` (string) - The title of the film (optional)
+ * `Name` (string) - The precise text used for who is being nominated.
+ * `Nominee(s)` (comma separated strings) - The names of who is nominated in a comma separated list (without any extra text like "Written by")
+ * `Winner` (bool) - True if the award was won
+ * `Detail` (string) - Detail about the nomination, which could be the character name, song title, etc.
+ * `Placement` (string) - In Ceremonies 6-8, the relative vote ranking was cited (e.g. came in second, tied for third, etc.) for non-winners in some categories.
+ * `Note` (string) - Additional information provided about the award/nomination.
+ * `Citation` (string) - Official text of the award statement, for Scientific/Technical/Honorary awards.
+ * `MultifilmNomination` (bool) - Generally the data is one nomination per row, but for certain early nominations (Ceremonies 1, 2, 3 & 8), people were nominated for multiple films, and so one nomination could be spread over multiple rows.
+
 ## Generating the Data
 
 1. Manually Download HTML
