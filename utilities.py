@@ -60,6 +60,16 @@ def write_csv(awards, filepath=DATA_PATH):
         for row in awards:
             writer.writerow(format_for_csv(row))
 
+    # Remove whitespace from the ends of lines
+    with open(filepath, 'r') as f:
+        s = f.read()
+
+    while '\t\n' in s:
+        s = s.replace('\t\n', '\n')
+
+    with open(filepath, 'w') as f:
+        f.write(s)
+
 
 def read_lookup_dict(filepath, lower=False):
     d = {}
