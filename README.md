@@ -19,9 +19,12 @@ A curated dataset of Academy Award nominations with IMDb unique identifiers.
    * Special
  * `Canonical Category` (string) - Removes the variations on the exact wording of the category name over the years
  * `Category` (string) - The precise category name according to Oscars.org
+ * `NomId` (uuid) - Unique string representing the IMDb Nomination ID
  * `Film` (string) - The title of the film (optional)
+ * `FilmId` (uuid) - Unique string representing the IMDb Title ID.
  * `Name` (string) - The precise text used for who is being nominated.
  * `Nominee(s)` (comma separated strings) - The names of who is nominated in a comma separated list (without any extra text like "Written by")
+ * `NomineeIds` (comma separated uuids) - Unique strings (or question marks) representing the IMDb Name ID.
  * `Winner` (bool) - True if the award was won
  * `Detail` (string) - Detail about the nomination, which could be the character name, song title, etc.
  * `Placement` (string) - In Ceremonies 6-8, the relative vote ranking was cited (e.g. came in second, tied for third, etc.) for non-winners in some categories.
@@ -43,3 +46,5 @@ A curated dataset of Academy Award nominations with IMDb unique identifiers.
       * Manually update any of the citations in `citations.yaml`, and run `parse_citations.py` again as needed.
 1. Obtain Lots of IMDB Data
     1. Run `./scrape_imdb_html.py`
+1. Merge in IMDB Data
+    1. Run `./merge.py -w`
