@@ -14,6 +14,12 @@ COLON_PATTERN = re.compile(r'^(.*): (.*)$')
 
 SUFFIXES = yaml.safe_load(open('aux_data/suffixes.yaml'))
 
+NOM_STATS = collections.Counter()
+FILM_STATS = collections.Counter()
+NOMINEE_STATS = collections.Counter()
+SONG_STATS = collections.Counter()
+NAME_MISSES = collections.Counter()
+
 
 def get_nabble(s):
     if s is None:
@@ -148,9 +154,12 @@ def update_entry(o_nom, nom_id, i_nom, speculative=False):
     if o_nom.get('Film'):
         if len(titles) == 1:
             updates['FilmId'] = titles[0]
+            if not speculative:
+                FILM_STATS['matched'] += 1
             titles = []
         elif not speculative:
             click.secho(f'Unable to match film for {o_nom["Category"]}', fg='yellow')
+            FILM_STATS['unmatched'] += len(titles)
 
     people = {}
     for k, v in i_nom.items():
@@ -181,6 +190,15 @@ def update_entry(o_nom, nom_id, i_nom, speculative=False):
     updates['NomineeIds'] = ','.join(nom_ids.get(nom_name, '?') for nom_name in get_nominees(o_nom, clean=False))
     o_nom.update(updates)
 
+    NOMINEE_STATS['matched'] += len(nom_ids)
+    for name in unmatched_names:
+        NAME_MISSES[name] += 1
+    if people and unmatched_names:
+        NOMINEE_STATS['mismatched'] += len(unmatched_names)
+    elif people:
+        NOMINEE_STATS['extra_i'] += len(people)
+    elif unmatched_names:
+        NOMINEE_STATS['extra_o'] += len(unmatched_names)
     return valid
 
 
@@ -208,8 +226,10 @@ def match_categories(o_noms, i_noms, speculative=False):
                 nom_id = song_lookup[song_name]
                 del song_lookup[song_name]
                 i_unmatched.remove(nom_id)
+                SONG_STATS['matched'] += 1
                 update_entry(o_nom, nom_id, i_noms[nom_id], speculative=speculative)
             elif not speculative:
+                SONG_STATS['unmatched'] += 1
                 o_unmatched.append(o_nom)
             else:
                 o_unmatched.append(o_nom)
@@ -238,6 +258,7 @@ def match_categories(o_noms, i_noms, speculative=False):
         i_matched_count = len(i_noms) - len(i_unmatched)
         return (o_matched_count + i_matched_count) / (len(o_noms) + len(i_noms))
     else:
+        NOM_STATS['matched'] += o_matched_count
         return o_unmatched, {nom_id: i_noms[nom_id] for nom_id in i_unmatched}
 
 
@@ -280,7 +301,12 @@ def match_years(oscars, imdb):
     for i_cat in unmatched_i_cats:
         unmatched_i_noms.update(imdb[i_cat])
 
-    match_categories(unmatched_o_noms, unmatched_i_noms, speculative=False)
+    new_o, new_i = match_categories(unmatched_o_noms, unmatched_i_noms, speculative=False)
+    NOM_STATS['extra_o'] += len(new_o)
+    NOM_STATS['extra_i'] += len(new_i)
+
+    for o_nom in new_o:
+        NOMINEE_STATS['misses'] += len(list(get_nominees(o_nom)))
 
 
 if __name__ == '__main__':
@@ -334,3 +360,38 @@ if __name__ == '__main__':
 
     if args.write:
         write_csv(oscars)
+
+    if args.write and not args.years:
+        f = open('stats.txt', 'w')
+    else:
+        f = None
+
+    print()
+    for name, stat_dict, cats in [('Nominations', NOM_STATS, [('matched', 'green'),
+                                                              ('extra_o', 'yellow'),
+                                                              ('extra_i', 'yellow')]),
+                                  ('Films', FILM_STATS, [('matched', 'green'),
+                                                         ('unmatched', 'yellow')]),
+                                  ('Nominees', NOMINEE_STATS, [('matched', 'green'),
+                                                               ('mismatched', 'red'),
+                                                               ('extra_o', 'yellow'),
+                                                               ('extra_i', 'yellow'),
+                                                               ('misses', 'magenta'),
+                                                               ]),
+                                  ('Songs', SONG_STATS, [('matched', 'green'),
+                                                         ('unmatched', 'yellow')])]:
+        t_line = name + '=' * (38 - len(name))
+        click.secho(t_line, bold=True)
+        if f:
+            f.write(t_line + '\n')
+        total = sum(stat_dict.values())
+        if total == 0:
+            total = 1
+        for key, color in cats:
+            c = stat_dict[key]
+            s = f'{c:05d} {key:24s}| {c * 100 / total:6.2f}'
+            click.secho(s, fg=color)
+            if f:
+                f.write(s + '\n')
+    if f:
+        f.close()
