@@ -24,4 +24,4 @@ repos:
   hooks:
   - id: codespell
     args: ['--write-changes', '--ignore-words=.codespell_words']
-    exclude: oscars.csv
+    exclude: oscars.csv|aux_data/citations.yaml

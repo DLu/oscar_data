@@ -67,3 +67,11 @@ def read_lookup_dict(filepath, lower=False):
             else:
                 d[v] = k
     return d
+
+
+def get_letters(s, lower=False):
+    letters = ''.join(c for c in s if c.isalpha())
+    if lower:
+        return letters.lower()
+    else:
+        return letters
