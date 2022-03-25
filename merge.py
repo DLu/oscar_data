@@ -14,6 +14,7 @@ COLON_PATTERN = re.compile(r'^(.*): (.*)$')
 
 SUFFIXES = yaml.safe_load(open('aux_data/suffixes.yaml'))
 FIRST_NAMES = yaml.safe_load(open('aux_data/first_names.yaml'))
+REMAP = yaml.safe_load(open('aux_data/hardcode.yaml'))
 
 NOM_STATS = collections.Counter()
 FILM_STATS = collections.Counter()
@@ -172,6 +173,8 @@ def update_entry(o_nom, nom_id, i_nom, speculative=False):
     for k, v in i_nom.items():
         if k.startswith('tt') or k == 'song' or v is None:
             continue
+        if k in REMAP:
+            v = REMAP[k]
         people[v] = k
     original_people_count = len(people)
 
@@ -234,6 +237,12 @@ def match_categories(o_noms, i_noms, speculative=False):
     names_to_noms = collections.defaultdict(list)
 
     for nom_id, nom in i_noms.items():
+        if nom_id in REMAP:
+            if REMAP[nom_id] is None:
+                i_unmatched.remove(nom_id)
+                continue
+            nom.update(REMAP[nom_id])
+
         for k, v in nom.items():
             if k == 'song':
                 song_lookup[get_nabble(v)] = nom_id
