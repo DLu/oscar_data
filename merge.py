@@ -188,6 +188,14 @@ def update_entry(o_nom, nom_id, i_nom, speculative=False):
             continue
         unmatched_names.append(nom_name)
 
+    # Special case for "Roderick Jaynes"
+    if unmatched_names == ['Roderick Jaynes'] and people == {'Ethan Coen': 'nm0001053', 'Joel Coen': 'nm0001054'}:
+        if not speculative:
+            updates['NomineeIds'] = ','.join(people.values())
+            o_nom.update(updates)
+            NOMINEE_STATS['matched'] += 1
+        return True
+
     # Special case for multifilm noms
     if o_nom.get('MultifilmNomination'):
         valid = len(nom_ids) > 0
@@ -269,6 +277,21 @@ def match_categories(o_noms, i_noms, speculative=False):
                 o_unmatched.append(o_nom)
             else:
                 o_unmatched.append(o_nom)
+            continue
+
+        # Special case just for people who win multiple technical achievement awards in one year
+        nom_id = None
+        for name, key_phrases in [('RICHARD EDLUND', {'an0053905': 'beam-splitter', 'an0053906': 'Empire Motion'}),
+                                  ('IVAN KRUGLAK', {'an0051476': 'Coherent', 'an0051466': 'wireless transmission'}),
+                                  ]:
+            if not o_nom['Citation'].startswith(f'To {name}'):
+                continue
+            for k, v in key_phrases.items():
+                if k in i_unmatched and v in o_nom['Citation']:
+                    nom_id = k
+        if nom_id:
+            if update_entry(o_nom, nom_id, i_noms[nom_id], speculative=speculative):
+                i_unmatched.remove(nom_id)
             continue
 
         # Non-Song Matching
