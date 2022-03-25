@@ -165,6 +165,8 @@ def update_entry(o_nom, nom_id, i_nom, speculative=False):
         elif not speculative:
             click.secho(f'Unable to match film for {o_nom["Category"]}', fg='yellow')
             FILM_STATS['unmatched'] += len(titles)
+            if args.mode is None or args.mode == 'missing_film_names':
+                click.secho(f'Missing Film Name: {o_nom}', fg='red')
 
     people = {}
     for k, v in i_nom.items():
@@ -198,12 +200,29 @@ def update_entry(o_nom, nom_id, i_nom, speculative=False):
     NOMINEE_STATS['matched'] += len(nom_ids)
     for name in unmatched_names:
         NAME_MISSES[name] += 1
+    should_print = args.mode is None
     if people and unmatched_names:
+        should_print |= args.mode == 'mismatched_names'
         NOMINEE_STATS['mismatched'] += len(unmatched_names)
     elif people:
+        should_print |= args.mode == 'extra_i_names'
         NOMINEE_STATS['extra_i'] += len(people)
     elif unmatched_names:
+        should_print |= args.mode == 'extra_o_names'
         NOMINEE_STATS['extra_o'] += len(unmatched_names)
+    else:
+        should_print = False
+
+    if should_print:
+        film = o_nom.get('Film', '[NO FILM]')
+        category = o_nom['Canonical Category']
+        click.secho(f'{film} {category}', fg='red')
+        if len(people) == 1 and len(unmatched_names) == 1:
+            p_name, p_id = list(people.items())[0]
+            click.secho(f'\t{nom_id}: {{{p_id}: {unmatched_names[0]}}}  # {p_name}', fg='red')
+        else:
+            click.secho(f'\t{nom_id}: {people} {unmatched_names}', fg='red')
+
     return valid
 
 
@@ -234,6 +253,9 @@ def match_categories(o_noms, i_noms, speculative=False):
                 SONG_STATS['matched'] += 1
                 update_entry(o_nom, nom_id, i_noms[nom_id], speculative=speculative)
             elif not speculative:
+                if args.mode is None or args.mode == 'songs':
+                    click.secho(f"Song doesn't match: {o_nom['Detail']} {song_name}", fg='red')
+                    click.secho(f'\t{song_lookup}', fg='red')
                 SONG_STATS['unmatched'] += 1
                 o_unmatched.append(o_nom)
             else:
@@ -313,10 +335,27 @@ def match_years(oscars, imdb):
     for o_nom in new_o:
         NOMINEE_STATS['misses'] += len(list(get_nominees(o_nom)))
 
+    if args.mode is None:
+        if new_o:
+            click.secho('Oscars Noms (unmatched):', fg='yellow')
+            for o_nom in new_o:
+                o_cat = o_nom['Canonical Category']
+                film = o_nom.get('Film', '[x]')
+                nominees = o_nom.get('Nominee(s)', '<>')
+                click.secho(f'\t{o_cat:15s} | {film:15s} | {nominees}', fg='yellow')
+        if new_i:
+            click.secho('IMDB Noms not matched:', fg='yellow')
+            for nom_id, i_nom in new_i.items():
+                film = ', '.join(v for (k, v) in i_nom.items() if 'tt' in k and v)
+                nominees = ', '.join(v for (k, v) in i_nom.items() if 'tt' not in k)
+                s = yaml.dump(i_nom, default_flow_style=True).strip()
+                click.secho(f'\t{nom_id}: {s}', fg='yellow')
+
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('years', nargs='*')
+    parser.add_argument('-m', '--mode')
     parser.add_argument('-w', '--write', action='store_true')
     args = parser.parse_args()
 
@@ -400,3 +439,9 @@ if __name__ == '__main__':
                 f.write(s + '\n')
     if f:
         f.close()
+
+    if args.mode and 'names' in args.mode:
+        for k, v in NAME_MISSES.most_common():
+            if v == 1:
+                continue
+            click.secho(f'{v:03d} {k}', bg='blue')
