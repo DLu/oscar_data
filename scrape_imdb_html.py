@@ -92,9 +92,38 @@ if __name__ == '__main__':
                 f.write(req.content)
         s = open(fn).read()
         D = parse_imdb_html(s)
+        if year == 1941:
+            D['Best Effects, Special Effects']['an0056889a'] = {
+                'nm0005738': 'Byron Haskin',
+                'nm0506080': 'Nathan Levinson',
+                'tt0033537': 'Dive Bomber'
+            }
 
         if D:
             imdb_data[year] = D
+
+    for nom_id, start_year, end_year in [('an1618957', 2020, 2019),
+                                         ('an1618959', 2020, 2019),
+                                         ('an0600656', 1956, 1957),
+                                         ('an0368019', 1985, 1986),
+                                         ]:
+        if start_year not in imdb_data or end_year not in imdb_data:
+            continue
+        cat = [cat for (cat, data) in imdb_data[start_year].items() if nom_id in data][0]
+        if cat not in imdb_data[end_year]:
+            imdb_data[end_year][cat] = {}
+        imdb_data[end_year][cat][nom_id] = imdb_data[start_year][cat][nom_id]
+        del imdb_data[start_year][cat][nom_id]
+
+    for nom_id0, nom_id1, year0, year1 in [('an0049414', 'an0811120', 1978, 1977),
+                                           ('an0050768', 'an0050769', 1990, 1990),
+                                           ]:
+        if year0 not in imdb_data or year1 not in imdb_data:
+            continue
+        cat0 = [cat for (cat, data) in imdb_data[year0].items() if nom_id0 in data][0]
+        cat1 = [cat for (cat, data) in imdb_data[year1].items() if nom_id1 in data][0]
+        imdb_data[year0][cat0][nom_id0].update(imdb_data[year1][cat1][nom_id1])
+        del imdb_data[year1][cat1][nom_id1]
 
     imdb_data_path = pathlib.Path('imdb_data')
     imdb_data_path.mkdir(exist_ok=True)
