@@ -1,16 +1,16 @@
 Nominations===========================
-10894 matched                 |  92.97
-00640 extra_o                 |   5.46
-00184 extra_i                 |   1.57
+10947 matched                 |  92.83
+00652 extra_o                 |   5.53
+00194 extra_i                 |   1.65
 Films=================================
-10233 matched                 | 100.00
+10277 matched                 | 100.00
 00000 unmatched               |   0.00
 Nominees==============================
-15366 matched                 |  85.27
-00298 mismatched              |   1.65
-01233 extra_o                 |   6.84
+15411 matched                 |  85.16
+00301 mismatched              |   1.66
+01248 extra_o                 |   6.90
 00014 extra_i                 |   0.08
-01110 misses                  |   6.16
+01122 misses                  |   6.20
 Songs=================================
 00520 matched                 |  94.20
 00032 unmatched               |   5.80

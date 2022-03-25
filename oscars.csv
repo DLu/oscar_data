@@ -229,71 +229,71 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 5	1931/32	Special	SPECIAL AWARD	SPECIAL AWARD	an0051402				Walt Disney	nm0000370	True				To Walt Disney for the creation of \"Mickey Mouse.\"
 5	1931/32	SciTech	SCIENTIFIC OR TECHNICAL AWARD (Class II)	SCIENTIFIC OR TECHNICAL AWARD (Class II)					Technicolor Motion Picture Corp.		True	Cartoon Process			To TECHNICOLOR MOTION PICTURE CORP. for its color cartoon process.
 5	1931/32	SciTech	SCIENTIFIC OR TECHNICAL AWARD (Class III)	SCIENTIFIC OR TECHNICAL AWARD (Class III)					Eastman Kodak Company		True	Laboratory			To EASTMAN KODAK COMPANY for its Type II-B Sensitometer.
-6	1932/33	Acting	ACTOR	ACTOR		Berkeley Square		Leslie Howard	Leslie Howard			Peter Standish	came in 3rd
-6	1932/33	Acting	ACTOR	ACTOR		The Private Life of Henry VIII		Charles Laughton	Charles Laughton		True	Henry VIII
-6	1932/33	Acting	ACTOR	ACTOR		I Am a Fugitive from a Chain Gang		Paul Muni	Paul Muni			James Allen	came in 2nd
-6	1932/33	Acting	ACTRESS	ACTRESS		Morning Glory		Katharine Hepburn	Katharine Hepburn		True	Eva Lovelace
-6	1932/33	Acting	ACTRESS	ACTRESS		Lady for a Day		May Robson	May Robson			Apple Annie	came in 2nd
-6	1932/33	Acting	ACTRESS	ACTRESS		Cavalcade		Diana Wynyard	Diana Wynyard			Jane Marryot	came in 3rd
-6	1932/33	Production	ART DIRECTION	ART DIRECTION		Cavalcade		William S. Darling	William S. Darling		True
-6	1932/33	Production	ART DIRECTION	ART DIRECTION		A Farewell to Arms		Hans Dreier, Roland Anderson	Hans Dreier, Roland Anderson				came in 2nd
-6	1932/33	Production	ART DIRECTION	ART DIRECTION		When Ladies Meet		Cedric Gibbons	Cedric Gibbons				came in 3rd
-6	1932/33	Directing	ASSISTANT DIRECTOR	ASSISTANT DIRECTOR				Percy Ikerd (Fox)	Percy Ikerd (Fox)
-6	1932/33	Directing	ASSISTANT DIRECTOR	ASSISTANT DIRECTOR				William Tummel (Fox)	William Tummel (Fox)		True
-6	1932/33	Directing	ASSISTANT DIRECTOR	ASSISTANT DIRECTOR				Charles Dorian (Metro-Goldwyn-Mayer)	Charles Dorian (Metro-Goldwyn-Mayer)		True
+6	1932/33	Acting	ACTOR	ACTOR	an0052208	Berkeley Square	tt0023794	Leslie Howard	Leslie Howard	nm0001366		Peter Standish	came in 3rd
+6	1932/33	Acting	ACTOR	ACTOR	an0052207	The Private Life of Henry VIII	tt0024473	Charles Laughton	Charles Laughton	nm0001452	True	Henry VIII
+6	1932/33	Acting	ACTOR	ACTOR	an0052209	I Am a Fugitive from a Chain Gang	tt0023042	Paul Muni	Paul Muni	nm0612847		James Allen	came in 2nd
+6	1932/33	Acting	ACTRESS	ACTRESS	an0052210	Morning Glory	tt0024353	Katharine Hepburn	Katharine Hepburn	nm0000031	True	Eva Lovelace
+6	1932/33	Acting	ACTRESS	ACTRESS	an0052211	Lady for a Day	tt0024240	May Robson	May Robson	nm0733480		Apple Annie	came in 2nd
+6	1932/33	Acting	ACTRESS	ACTRESS	an0052212	Cavalcade	tt0023876	Diana Wynyard	Diana Wynyard	nm0944087		Jane Marryot	came in 3rd
+6	1932/33	Production	ART DIRECTION	ART DIRECTION	an0052225	Cavalcade	tt0023876	William S. Darling	William S. Darling	nm0201419	True
+6	1932/33	Production	ART DIRECTION	ART DIRECTION	an0052226	A Farewell to Arms	tt0022879	Hans Dreier, Roland Anderson	Hans Dreier, Roland Anderson	nm0237417,nm0027380			came in 2nd
+6	1932/33	Production	ART DIRECTION	ART DIRECTION	an0052227	When Ladies Meet	tt0024763	Cedric Gibbons	Cedric Gibbons	nm0316539			came in 3rd
+6	1932/33	Directing	ASSISTANT DIRECTOR	ASSISTANT DIRECTOR	an0052242			Percy Ikerd (Fox)	Percy Ikerd (Fox)	nm0407503
+6	1932/33	Directing	ASSISTANT DIRECTOR	ASSISTANT DIRECTOR	an0052238			William Tummel (Fox)	William Tummel (Fox)	nm0876537	True
+6	1932/33	Directing	ASSISTANT DIRECTOR	ASSISTANT DIRECTOR	an0052234			Charles Dorian (Metro-Goldwyn-Mayer)	Charles Dorian (Metro-Goldwyn-Mayer)	nm0233648	True
 6	1932/33	Directing	ASSISTANT DIRECTOR	ASSISTANT DIRECTOR				Bunny Dull (Metro-Goldwyn-Mayer)	Bunny Dull (Metro-Goldwyn-Mayer)
 6	1932/33	Directing	ASSISTANT DIRECTOR	ASSISTANT DIRECTOR				John S. Waters (Metro-Goldwyn-Mayer)	John S. Waters (Metro-Goldwyn-Mayer)
-6	1932/33	Directing	ASSISTANT DIRECTOR	ASSISTANT DIRECTOR				Charles Barton (Paramount)	Charles Barton (Paramount)		True
+6	1932/33	Directing	ASSISTANT DIRECTOR	ASSISTANT DIRECTOR	an0052232			Charles Barton (Paramount)	Charles Barton (Paramount)	nm0059106	True
 6	1932/33	Directing	ASSISTANT DIRECTOR	ASSISTANT DIRECTOR				Sidney S. Brod (Paramount)	Sidney S. Brod (Paramount)
-6	1932/33	Directing	ASSISTANT DIRECTOR	ASSISTANT DIRECTOR				Arthur Jacobson (Paramount)	Arthur Jacobson (Paramount)
+6	1932/33	Directing	ASSISTANT DIRECTOR	ASSISTANT DIRECTOR	an0052243			Arthur Jacobson (Paramount)	Arthur Jacobson (Paramount)	nm0414797
 6	1932/33	Directing	ASSISTANT DIRECTOR	ASSISTANT DIRECTOR				Eddie Killey (RKO Radio)	Eddie Killey (RKO Radio)
-6	1932/33	Directing	ASSISTANT DIRECTOR	ASSISTANT DIRECTOR				Dewey Starkey (RKO Radio)	Dewey Starkey (RKO Radio)		True
-6	1932/33	Directing	ASSISTANT DIRECTOR	ASSISTANT DIRECTOR				Fred Fox (United Artists)	Fred Fox (United Artists)		True
+6	1932/33	Directing	ASSISTANT DIRECTOR	ASSISTANT DIRECTOR	an0052237			Dewey Starkey (RKO Radio)	Dewey Starkey (RKO Radio)	nm0823315	True
+6	1932/33	Directing	ASSISTANT DIRECTOR	ASSISTANT DIRECTOR	an0052235			Fred Fox (United Artists)	Fred Fox (United Artists)	nm0288995	True
 6	1932/33	Directing	ASSISTANT DIRECTOR	ASSISTANT DIRECTOR				Benjamin Silvey (United Artists)	Benjamin Silvey (United Artists)
 6	1932/33	Directing	ASSISTANT DIRECTOR	ASSISTANT DIRECTOR				Scott Beal (Universal)	Scott Beal (Universal)		True
 6	1932/33	Directing	ASSISTANT DIRECTOR	ASSISTANT DIRECTOR				Joe McDonough (Universal)	Joe McDonough (Universal)
 6	1932/33	Directing	ASSISTANT DIRECTOR	ASSISTANT DIRECTOR				W. J. Reiter (Universal)	W. J. Reiter (Universal)
 6	1932/33	Directing	ASSISTANT DIRECTOR	ASSISTANT DIRECTOR				Al Alborn (Warner Bros.)	Al Alborn (Warner Bros.)
-6	1932/33	Directing	ASSISTANT DIRECTOR	ASSISTANT DIRECTOR				Gordon Hollingshead (Warner Bros.)	Gordon Hollingshead (Warner Bros.)		True
+6	1932/33	Directing	ASSISTANT DIRECTOR	ASSISTANT DIRECTOR	an0052236			Gordon Hollingshead (Warner Bros.)	Gordon Hollingshead (Warner Bros.)	nm0391121	True
 6	1932/33	Directing	ASSISTANT DIRECTOR	ASSISTANT DIRECTOR				Frank X. Shaw (Warner Bros.)	Frank X. Shaw (Warner Bros.)
-6	1932/33	Production	CINEMATOGRAPHY	CINEMATOGRAPHY		A Farewell to Arms		Charles Bryant Lang, Jr.	Charles Bryant Lang Jr.		True
-6	1932/33	Production	CINEMATOGRAPHY	CINEMATOGRAPHY		Reunion in Vienna		George J. Folsey	George J. Folsey				came in 2nd
-6	1932/33	Production	CINEMATOGRAPHY	CINEMATOGRAPHY		The Sign of the Cross		Karl Struss	Karl Struss				came in 3rd
-6	1932/33	Directing	DIRECTING	DIRECTING		Cavalcade		Frank Lloyd	Frank Lloyd		True
-6	1932/33	Directing	DIRECTING	DIRECTING		Lady for a Day		Frank Capra	Frank Capra				came in 2nd
-6	1932/33	Directing	DIRECTING	DIRECTING		Little Women		George Cukor	George Cukor				came in 3rd
-6	1932/33	Title	BEST PICTURE	OUTSTANDING PRODUCTION		Cavalcade		Fox	Fox		True
-6	1932/33	Title	BEST PICTURE	OUTSTANDING PRODUCTION		A Farewell to Arms		Paramount	Paramount				came in 2nd
-6	1932/33	Title	BEST PICTURE	OUTSTANDING PRODUCTION		42nd Street		Warner Bros.	Warner Bros.
-6	1932/33	Title	BEST PICTURE	OUTSTANDING PRODUCTION		I Am a Fugitive from a Chain Gang		Warner Bros.	Warner Bros.
-6	1932/33	Title	BEST PICTURE	OUTSTANDING PRODUCTION		Lady for a Day		Columbia	Columbia
-6	1932/33	Title	BEST PICTURE	OUTSTANDING PRODUCTION		Little Women		RKO Radio	RKO Radio				came in 3rd
-6	1932/33	Title	BEST PICTURE	OUTSTANDING PRODUCTION		The Private Life of Henry VIII		London Films	London Films
-6	1932/33	Title	BEST PICTURE	OUTSTANDING PRODUCTION		She Done Him Wrong		Paramount	Paramount
-6	1932/33	Title	BEST PICTURE	OUTSTANDING PRODUCTION		Smilin' Through		Metro-Goldwyn-Mayer	Metro-Goldwyn-Mayer
-6	1932/33	Title	BEST PICTURE	OUTSTANDING PRODUCTION		State Fair		Fox	Fox
-6	1932/33	Title	SHORT FILM (Animated)	SHORT SUBJECT (Cartoon)		Building a Building		Walt Disney, Producer	Walt Disney				came in 2nd
-6	1932/33	Title	SHORT FILM (Animated)	SHORT SUBJECT (Cartoon)		The Merry Old Soul		Walter Lantz, Producer	Walter Lantz				came in 3rd
-6	1932/33	Title	SHORT FILM (Animated)	SHORT SUBJECT (Cartoon)		The Three Little Pigs		Walt Disney, Producer	Walt Disney		True
-6	1932/33	Title	SHORT SUBJECT (Comedy)	SHORT SUBJECT (Comedy)		Mister Mugg		Warren Doane, Producer	Warren Doane				came in 3rd
-6	1932/33	Title	SHORT SUBJECT (Comedy)	SHORT SUBJECT (Comedy)		A Preferred List		Louis Brock, Producer	Louis Brock				came in 2nd
-6	1932/33	Title	SHORT SUBJECT (Comedy)	SHORT SUBJECT (Comedy)		So This Is Harris		Louis Brock, Producer	Louis Brock		True
-6	1932/33	Title	SHORT SUBJECT (Novelty)	SHORT SUBJECT (Novelty)		Krakatoa		Joe Rock, Producer	Joe Rock		True
-6	1932/33	Title	SHORT SUBJECT (Novelty)	SHORT SUBJECT (Novelty)		Menu		Pete Smith, Producer	Pete Smith				tied for 2nd
-6	1932/33	Title	SHORT SUBJECT (Novelty)	SHORT SUBJECT (Novelty)		The Sea		Educational	Educational				tied for 2nd
-6	1932/33	Production	SOUND RECORDING	SOUND RECORDING		A Farewell to Arms		Paramount Studio Sound Department, Franklin B. Hansen, Sound Director	Paramount, Franklin B. Hansen		True
-6	1932/33	Production	SOUND RECORDING	SOUND RECORDING		42nd Street		Warner Bros. Studio Sound Department, Nathan Levinson, Sound Director	Warner Bros., Nathan Levinson
-6	1932/33	Production	SOUND RECORDING	SOUND RECORDING		Gold Diggers of 1933		Warner Bros. Studio Sound Department, Nathan Levinson, Sound Director	Warner Bros., Nathan Levinson				came in 3rd
-6	1932/33	Production	SOUND RECORDING	SOUND RECORDING		I Am a Fugitive from a Chain Gang		Warner Bros. Studio Sound Department, Nathan Levinson, Sound Director	Warner Bros., Nathan Levinson				came in 2nd
-6	1932/33	Writing	WRITING (Adapted Screenplay)	WRITING (Adaptation)		Lady for a Day		Robert Riskin	Robert Riskin				came in 2nd
-6	1932/33	Writing	WRITING (Adapted Screenplay)	WRITING (Adaptation)		Little Women		Victor Heerman, Sarah Y. Mason	Victor Heerman, Sarah Y. Mason		True
-6	1932/33	Writing	WRITING (Adapted Screenplay)	WRITING (Adaptation)		State Fair		Paul Green, Sonya Levien	Paul Green, Sonya Levien				came in 3rd
-6	1932/33	Writing	WRITING (Original Story)	WRITING (Original Story)		One Way Passage		Robert Lord	Robert Lord		True
-6	1932/33	Writing	WRITING (Original Story)	WRITING (Original Story)		The Prizefighter and the Lady		Frances Marion	Frances Marion				came in 2nd
-6	1932/33	Writing	WRITING (Original Story)	WRITING (Original Story)		Rasputin and the Empress		Charles MacArthur	Charles MacArthur				came in 3rd
+6	1932/33	Production	CINEMATOGRAPHY	CINEMATOGRAPHY	an0052222	A Farewell to Arms	tt0022879	Charles Bryant Lang, Jr.	Charles Bryant Lang Jr.	nm0485702	True
+6	1932/33	Production	CINEMATOGRAPHY	CINEMATOGRAPHY	an0052223	Reunion in Vienna	tt0024496	George J. Folsey	George J. Folsey	nm0005706			came in 2nd
+6	1932/33	Production	CINEMATOGRAPHY	CINEMATOGRAPHY	an0052224	The Sign of the Cross	tt0023470	Karl Struss	Karl Struss	nm0835365			came in 3rd
+6	1932/33	Directing	DIRECTING	DIRECTING	an0052213	Cavalcade	tt0023876	Frank Lloyd	Frank Lloyd	nm0515979	True
+6	1932/33	Directing	DIRECTING	DIRECTING	an0052214	Lady for a Day	tt0024240	Frank Capra	Frank Capra	nm0001008			came in 2nd
+6	1932/33	Directing	DIRECTING	DIRECTING	an0052215	Little Women	tt0024264	George Cukor	George Cukor	nm0002030			came in 3rd
+6	1932/33	Title	BEST PICTURE	OUTSTANDING PRODUCTION	an0052197	Cavalcade	tt0023876	Fox	Fox	?	True
+6	1932/33	Title	BEST PICTURE	OUTSTANDING PRODUCTION	an0052199	A Farewell to Arms	tt0022879	Paramount	Paramount	?			came in 2nd
+6	1932/33	Title	BEST PICTURE	OUTSTANDING PRODUCTION	an0052198	42nd Street	tt0024034	Warner Bros.	Warner Bros.	?
+6	1932/33	Title	BEST PICTURE	OUTSTANDING PRODUCTION	an0052200	I Am a Fugitive from a Chain Gang	tt0023042	Warner Bros.	Warner Bros.	?
+6	1932/33	Title	BEST PICTURE	OUTSTANDING PRODUCTION	an0052201	Lady for a Day	tt0024240	Columbia	Columbia	?
+6	1932/33	Title	BEST PICTURE	OUTSTANDING PRODUCTION	an0052202	Little Women	tt0024264	RKO Radio	RKO Radio	?			came in 3rd
+6	1932/33	Title	BEST PICTURE	OUTSTANDING PRODUCTION	an0052203	The Private Life of Henry VIII	tt0024473	London Films	London Films	?
+6	1932/33	Title	BEST PICTURE	OUTSTANDING PRODUCTION	an0052204	She Done Him Wrong	tt0024548	Paramount	Paramount	?
+6	1932/33	Title	BEST PICTURE	OUTSTANDING PRODUCTION	an0052205	Smilin' Through	tt0023488	Metro-Goldwyn-Mayer	Metro-Goldwyn-Mayer	?
+6	1932/33	Title	BEST PICTURE	OUTSTANDING PRODUCTION	an0052206	State Fair	tt0024610	Fox	Fox	?
+6	1932/33	Title	SHORT FILM (Animated)	SHORT SUBJECT (Cartoon)	an0052251	Building a Building	tt0023854	Walt Disney, Producer	Walt Disney	nm0000370			came in 2nd
+6	1932/33	Title	SHORT FILM (Animated)	SHORT SUBJECT (Cartoon)	an0052252	The Merry Old Soul	tt0142655	Walter Lantz, Producer	Walter Lantz	nm0487237			came in 3rd
+6	1932/33	Title	SHORT FILM (Animated)	SHORT SUBJECT (Cartoon)	an0052250	The Three Little Pigs	tt0024660	Walt Disney, Producer	Walt Disney	nm0000370	True
+6	1932/33	Title	SHORT SUBJECT (Comedy)	SHORT SUBJECT (Comedy)	an0052254	Mister Mugg	tt0024342	Warren Doane, Producer	Warren Doane	nm0229553			came in 3rd
+6	1932/33	Title	SHORT SUBJECT (Comedy)	SHORT SUBJECT (Comedy)	an0052255	A Preferred List	tt0024467	Louis Brock, Producer	Louis Brock	nm0110607			came in 2nd
+6	1932/33	Title	SHORT SUBJECT (Comedy)	SHORT SUBJECT (Comedy)	an0052253	So This Is Harris	tt0024580	Louis Brock, Producer	Louis Brock	nm0110607	True
+6	1932/33	Title	SHORT SUBJECT (Novelty)	SHORT SUBJECT (Novelty)	an0052256	Krakatoa	tt0024231	Joe Rock, Producer	Joe Rock	nm0734169	True
+6	1932/33	Title	SHORT SUBJECT (Novelty)	SHORT SUBJECT (Novelty)	an0052257	Menu	tt0024327	Pete Smith, Producer	Pete Smith	nm0809570			tied for 2nd
+6	1932/33	Title	SHORT SUBJECT (Novelty)	SHORT SUBJECT (Novelty)	an0052258	The Sea	tt0023443	Educational	Educational	?			tied for 2nd
+6	1932/33	Production	SOUND RECORDING	SOUND RECORDING	an0052228	A Farewell to Arms	tt0022879	Paramount Studio Sound Department, Franklin B. Hansen, Sound Director	Paramount, Franklin B. Hansen	?,nm0360630	True
+6	1932/33	Production	SOUND RECORDING	SOUND RECORDING	an0052229	42nd Street	tt0024034	Warner Bros. Studio Sound Department, Nathan Levinson, Sound Director	Warner Bros., Nathan Levinson	?,nm0506080
+6	1932/33	Production	SOUND RECORDING	SOUND RECORDING	an0052230	Gold Diggers of 1933	tt0024069	Warner Bros. Studio Sound Department, Nathan Levinson, Sound Director	Warner Bros., Nathan Levinson	?,nm0506080			came in 3rd
+6	1932/33	Production	SOUND RECORDING	SOUND RECORDING	an0052231	I Am a Fugitive from a Chain Gang	tt0023042	Warner Bros. Studio Sound Department, Nathan Levinson, Sound Director	Warner Bros., Nathan Levinson	?,nm0506080			came in 2nd
+6	1932/33	Writing	WRITING (Adapted Screenplay)	WRITING (Adaptation)	an0052217	Lady for a Day	tt0024240	Robert Riskin	Robert Riskin	nm0728307			came in 2nd
+6	1932/33	Writing	WRITING (Adapted Screenplay)	WRITING (Adaptation)	an0052216	Little Women	tt0024264	Victor Heerman, Sarah Y. Mason	Victor Heerman, Sarah Y. Mason	nm0373511,nm0556945	True
+6	1932/33	Writing	WRITING (Adapted Screenplay)	WRITING (Adaptation)	an0052218	State Fair	tt0024610	Paul Green, Sonya Levien	Paul Green, Sonya Levien	nm0338233,nm0397022			came in 3rd
+6	1932/33	Writing	WRITING (Original Story)	WRITING (Original Story)	an0052219	One Way Passage	tt0023305	Robert Lord	Robert Lord	nm0520501	True
+6	1932/33	Writing	WRITING (Original Story)	WRITING (Original Story)	an0052220	The Prizefighter and the Lady	tt0024475	Frances Marion	Frances Marion	nm0547966			came in 2nd
+6	1932/33	Writing	WRITING (Original Story)	WRITING (Original Story)	an0052221	Rasputin and the Empress	tt0023374	Charles MacArthur	Charles MacArthur	nm0531269			came in 3rd
 6	1932/33	SciTech	SCIENTIFIC OR TECHNICAL AWARD (Class II)	SCIENTIFIC OR TECHNICAL AWARD (Class II)					Electrical Research Products		True	Sound			To ELECTRICAL RESEARCH PRODUCTS, INC. for their wide range recording and reproducing system.
 6	1932/33	SciTech	SCIENTIFIC OR TECHNICAL AWARD (Class II)	SCIENTIFIC OR TECHNICAL AWARD (Class II)					Rca-Victor Company Inc.		True	Sound			To RCA-VICTOR COMPANY, INC. for their high-fidelity recording and reproducing system.
-6	1932/33	SciTech	SCIENTIFIC OR TECHNICAL AWARD (Class III)	SCIENTIFIC OR TECHNICAL AWARD (Class III)					Fox Film Corporation, FRED JACKMAN, WARNER BROS. PICTURES INC., SIDNEY SANDERS		True	Special Photographic			To FOX FILM CORPORATION, FRED JACKMAN and WARNER BROS. PICTURES, INC., and SIDNEY SANDERS of RKO Studios, Inc., for their development and effective use of the translucent cellulose screen in composite photography.
+6	1932/33	SciTech	SCIENTIFIC OR TECHNICAL AWARD (Class III)	SCIENTIFIC OR TECHNICAL AWARD (Class III)	an0049539				Fox Film Corporation, FRED JACKMAN, WARNER BROS. PICTURES INC., SIDNEY SANDERS	?,nm0413164,?,?	True	Special Photographic			To FOX FILM CORPORATION, FRED JACKMAN and WARNER BROS. PICTURES, INC., and SIDNEY SANDERS of RKO Studios, Inc., for their development and effective use of the translucent cellulose screen in composite photography.
 7	1934	Acting	ACTOR	ACTOR	an0056489	It Happened One Night	tt0025316	Clark Gable	Clark Gable	nm0000022	True	Peter Warne
 7	1934	Acting	ACTOR	ACTOR	an0056490	The Affairs of Cellini	tt0024816	Frank Morgan	Frank Morgan	nm0604656		Allesandro, Duke of Florence	came in 2nd
 7	1934	Acting	ACTOR	ACTOR	an0056491	The Thin Man	tt0025878	William Powell	William Powell	nm0001635		Nick Charles	came in 3rd

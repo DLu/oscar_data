@@ -75,14 +75,21 @@ if __name__ == '__main__':
 
     EDGE_CASE_URLS = {
         # Oscars year : Imdb URL
-        1927: '1929/1',
-        1928: '1930/1',
-        1929: '1930/2',
+        1927: '1929/1',  # Ceremony 1
+        1928: '1930/1',  # Ceremony 2
+        1929: '1930/2',  # Ceremony 3
+        # 1930: '1931/1'   Ceremony 4
+        # 1931: '1932/1'   Ceremony 5
+        1932: '1934/1',  # Ceremony 6
+        1933: None,
+        # 1934: '1935/1', Ceremony 7
     }
 
     for year in pbar:
         pbar.set_description(str(year))
         year_s = EDGE_CASE_URLS.get(year, f'{year + 1}/1')
+        if not year_s:
+            continue
         url = f'https://www.imdb.com/event/ev0000003/{year_s}/?ref_=ev_eh'
         fn = pathlib.Path(f'imdb_src/{year}.html')
         if not fn.exists() or args.force:
