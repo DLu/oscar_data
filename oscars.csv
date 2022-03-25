@@ -519,7 +519,7 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 9	1936	Music	MUSIC (Original Song)	MUSIC (Song)	an0056338	Suzy	tt0028330	Music by Walter Donaldson; Lyrics by Harold Adamson	Walter Donaldson, Harold Adamson	nm0232164,nm0011488		Did I Remember
 9	1936	Music	MUSIC (Original Song)	MUSIC (Song)	an0056339	Born to Dance	tt0027387	Music and Lyrics by Cole Porter	Cole Porter	nm0006234		I've Got You Under My Skin
 9	1936	Music	MUSIC (Original Song)	MUSIC (Song)	an0056340	Trail of the Lonesome Pine	tt0028401	Music by Louis Alter; Lyrics by Sidney Mitchell	Louis Alter, Sidney Mitchell	nm0022746,nm0593733		A Melody From The Sky
-9	1936	Music	MUSIC (Original Song)	MUSIC (Song)		Pennies from Heaven		Music by Arthur Johnston; Lyrics by Johnny Burke	Arthur Johnston, Johnny Burke			Pennies From Heaven
+9	1936	Music	MUSIC (Original Song)	MUSIC (Song)	an0056341	Pennies from Heaven	tt0028092	Music by Arthur Johnston; Lyrics by Johnny Burke	Arthur Johnston, Johnny Burke	nm0426534,nm0121741		Pennies From Heaven
 9	1936	Music	MUSIC (Original Song)	MUSIC (Song)	an0056337	Swing Time	tt0028333	Music by Jerome Kern; Lyrics by Dorothy Fields	Jerome Kern, Dorothy Fields	nm0006153,nm0276227	True	The Way You Look Tonight
 9	1936	Music	MUSIC (Original Song)	MUSIC (Song)	an0056342	Sing, Baby, Sing	tt0028255	Music by Richard A. Whiting; Lyrics by Walter Bullock	Richard A. Whiting, Walter Bullock	nm0926028,nm0120190		When Did You Leave Heaven
 9	1936	Title	BEST PICTURE	OUTSTANDING PRODUCTION	an0056256	Anthony Adverse	tt0027300	Warner Bros.	Warner Bros.	?
@@ -781,7 +781,7 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 11	1938	Music	MUSIC (Scoring)	MUSIC (Scoring)	an0049938	Tropic Holiday	tt0030897	Boris Morros	Boris Morros	nm0607448
 11	1938	Music	MUSIC (Scoring)	MUSIC (Scoring)	an0049939	The Young in Heart	tt0031002	Franz Waxman	Franz Waxman	nm0000077
 11	1938	Music	MUSIC (Original Song)	MUSIC (Song)	an0049920	Mannequin	tt0030413	Music by Edward Ward; Lyrics by Chet Forrest and Bob Wright	Edward Ward, Chet Forrest, Bob Wright	nm0911518,nm0286609,nm0942243		Always And Always
-11	1938	Music	MUSIC (Original Song)	MUSIC (Song)		Carefree		Music and Lyrics by Irving Berlin	Irving Berlin			Change Partners
+11	1938	Music	MUSIC (Original Song)	MUSIC (Song)	an0049921	Carefree	tt0029971	Music and Lyrics by Irving Berlin	Irving Berlin	nm0000927		Change Partners
 11	1938	Music	MUSIC (Original Song)	MUSIC (Song)	an0049922	The Cowboy and the Lady	tt0030018	Music by Lionel Newman; Lyrics by Arthur Quenzer	Lionel Newman, Arthur Quenzer	nm0006213,nm0703242		The Cowboy And The Lady
 11	1938	Music	MUSIC (Original Song)	MUSIC (Song)	an0049923	Under Western Stars	tt0030910	Music and Lyrics by Johnny Marvin	Johnny Marvin	nm0555541		Dust
 11	1938	Music	MUSIC (Original Song)	MUSIC (Song)	an0049924	Going Places	tt0030190	Music by Harry Warren; Lyrics by Johnny Mercer	Harry Warren, Johnny Mercer	nm0912851,nm0006197		Jeepers Creepers
@@ -1087,7 +1087,7 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 13	1940	Music	MUSIC (Scoring)	MUSIC (Scoring)	an0053043	Spring Parade	tt0033095	Charles Previn	Charles Previn	nm0006239
 13	1940	Music	MUSIC (Scoring)	MUSIC (Scoring)	an0053044	Strike Up the Band	tt0033110	Roger Edens, Georgie Stoll	Roger Edens, Georgie Stoll	nm0249136,nm0006303
 13	1940	Music	MUSIC (Scoring)	MUSIC (Scoring)	an0053036	Tin Pan Alley	tt0033167	Alfred Newman	Alfred Newman	nm0000055	True
-13	1940	Music	MUSIC (Original Song)	MUSIC (Song)		Down Argentine Way		Music by Harry Warren; Lyrics by Mack Gordon	Harry Warren, Mack Gordon			Down Argentina Way
+13	1940	Music	MUSIC (Original Song)	MUSIC (Song)	an0053028	Down Argentine Way	tt0032410	Music by Harry Warren; Lyrics by Mack Gordon	Harry Warren, Mack Gordon	nm0912851,nm0330418		Down Argentina Way
 13	1940	Music	MUSIC (Original Song)	MUSIC (Song)	an0053029	You'll Find Out	tt0033283	Music by Jimmy McHugh; Lyrics by Johnny Mercer	Jimmy McHugh, Johnny Mercer	nm0006192,nm0006197		I'd Know You Anywhere
 13	1940	Music	MUSIC (Original Song)	MUSIC (Song)	an0053030	Music in My Heart	tt0032823	Music and Lyrics by Chet Forrest and Bob Wright	Chet Forrest, Bob Wright	nm0286609,nm0942243		It's A Blue World
 13	1940	Music	MUSIC (Original Song)	MUSIC (Song)	an0053031	Second Chorus	tt0033029	Music by Artie Shaw; Lyrics by Johnny Mercer	Artie Shaw, Johnny Mercer	nm0789600,nm0006197		Love Of My Life
@@ -1652,11 +1652,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 16	1943	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Scoring of a Musical Picture)	an0049681	Star Spangled Rhythm	tt0035379	Robert Emmett Dolan	Robert Emmett Dolan	nm0006040
 16	1943	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Scoring of a Musical Picture)	an0049673	This Is the Army	tt0036430	Ray Heindorf	Ray Heindorf	nm0006127	True
 16	1943	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Scoring of a Musical Picture)	an0049682	Thousands Cheer	tt0036432	Herbert Stothart	Herbert Stothart	nm0006307
-16	1943	Music	MUSIC (Original Song)	MUSIC (Song)		Hit Parade of 1943		Music by Jule Styne; Lyrics by Harold Adamson	Jule Styne, Harold Adamson			A Change Of Heart
+16	1943	Music	MUSIC (Original Song)	MUSIC (Song)	an0049648	Hit Parade of 1943	tt0035727	Music by Jule Styne; Lyrics by Harold Adamson	Jule Styne, Harold Adamson	nm0006312,nm0011488		A Change Of Heart
 16	1943	Music	MUSIC (Original Song)	MUSIC (Song)	an0049649	Cabin in the Sky	tt0035703	Music by Harold Arlen; Lyrics by E. Y. Harburg	Harold Arlen, E. Y. Harburg	nm0002182,nm0361971		Happiness Is A Thing Called Joe
 16	1943	Music	MUSIC (Original Song)	MUSIC (Song)	an0049650	The Sky's the Limit	tt0036363	Music by Harold Arlen; Lyrics by Johnny Mercer	Harold Arlen, Johnny Mercer	nm0002182,nm0006197		My Shining Hour
 16	1943	Music	MUSIC (Original Song)	MUSIC (Song)	an0049651	Saludos Amigos	tt0036326	Music by Charles Wolcott; Lyrics by Ned Washington	Charles Wolcott, Ned Washington	nm0937592,nm0913513		Saludos Amigos
-16	1943	Music	MUSIC (Original Song)	MUSIC (Song)		Hers to Hold		Music by Jimmy McHugh; Lyrics by Herb Magidson	Jimmy McHugh, Herb Magidson			Say A Pray'r For The Boys Over There
+16	1943	Music	MUSIC (Original Song)	MUSIC (Song)	an0049652	Hers to Hold	tt0035993	Music by Jimmy McHugh; Lyrics by Herb Magidson	Jimmy McHugh, Herb Magidson	nm0006192,nm0536054		Say A Pray'r For The Boys Over There
 16	1943	Music	MUSIC (Original Song)	MUSIC (Song)	an0049653	Star Spangled Rhythm	tt0035379	Music by Harold Arlen; Lyrics by Johnny Mercer	Harold Arlen, Johnny Mercer	nm0002182,nm0006197		That Old Black Magic		NOTE: This song was nominated under the title \"Black Magic,\" as it was submitted by Paramount's Music Department. Academy records have been changed to show the more common form of the title.
 16	1943	Music	MUSIC (Original Song)	MUSIC (Song)	an0049654	Thank Your Lucky Stars	tt0036422	Music by Arthur Schwartz; Lyrics by Frank Loesser	Arthur Schwartz, Frank Loesser	nm0777150,nm0004230		They're Either Too Young Or Too Old
 16	1943	Music	MUSIC (Original Song)	MUSIC (Song)	an0049655	Stage Door Canteen	tt0036384	Music by James Monaco; Lyrics by Al Dubin	James Monaco, Al Dubin	nm0597444,nm0006048		We Mustn't Say Goodbye
@@ -2128,7 +2128,7 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 19	1946	Music	MUSIC (Original Song)	MUSIC (Song)	an0047634	Centennial Summer	tt0038406	Music by Jerome Kern; Lyrics by Oscar Hammerstein II	Jerome Kern, Oscar Hammerstein II	nm0006153,nm0358564		All Through The Day
 19	1946	Music	MUSIC (Original Song)	MUSIC (Song)	an0047635	The Dolly Sisters	tt0037651	Music by James Monaco; Lyrics by Mack Gordon	James Monaco, Mack Gordon	nm0597444,nm0330418		I Can't Begin To Tell You
 19	1946	Music	MUSIC (Original Song)	MUSIC (Song)	an0047636	Canyon Passage	tt0038395	Music by Hoagy Carmichael; Lyrics by Jack Brooks	Hoagy Carmichael, Jack Brooks	nm0005994,nm0112032		Ole Buttermilk Sky
-19	1946	Music	MUSIC (Original Song)	MUSIC (Song)		The Harvey Girls		Music by Harry Warren; Lyrics by Johnny Mercer	Harry Warren, Johnny Mercer		True	On The Atchison, Topeka And The Santa Fe
+19	1946	Music	MUSIC (Original Song)	MUSIC (Song)	an0047633	The Harvey Girls	tt0038589	Music by Harry Warren; Lyrics by Johnny Mercer	Harry Warren, Johnny Mercer	nm0912851,nm0006197	True	On The Atchison, Topeka And The Santa Fe
 19	1946	Music	MUSIC (Original Song)	MUSIC (Song)	an0047637	Blue Skies	tt0038370	Music and Lyrics by Irving Berlin	Irving Berlin	nm0000927		You Keep Coming Back Like A Song
 19	1946	Title	BEST PICTURE	BEST MOTION PICTURE	an0047568	The Best Years of Our Lives	tt0036868	Samuel Goldwyn Productions	Samuel Goldwyn Productions	?	True
 19	1946	Title	BEST PICTURE	BEST MOTION PICTURE	an0047569	Henry V	tt0036910	J. Arthur Rank-Two Cities Films	J. Arthur Rank, Two Cities Films	?,?
@@ -3872,7 +3872,7 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 33	1960	Music	MUSIC (Original Song)	MUSIC (Song)	an0051924	The Facts of Life	tt0053810	Music and Lyrics by Johnny Mercer	Johnny Mercer	nm0006197		The Facts Of Life
 33	1960	Music	MUSIC (Original Song)	MUSIC (Song)	an0051925	Pepe	tt0054172	Music by Andre Previn; Lyrics by Dory Langdon	Andre Previn, Dory Langdon	nm0006238,?		Faraway Part Of Town
 33	1960	Music	MUSIC (Original Song)	MUSIC (Song)	an0051926	The Alamo	tt0053580	Music by Dimitri Tiomkin; Lyrics by Paul Francis Webster	Dimitri Tiomkin, Paul Francis Webster	nm0006323,nm0916990		The Green Leaves Of Summer
-33	1960	Music	MUSIC (Original Song)	MUSIC (Song)		Never on Sunday		Music and Lyrics by Manos Hadjidakis	Manos Hadjidakis		True	Never On Sunday
+33	1960	Music	MUSIC (Original Song)	MUSIC (Song)	an0051923	Never on Sunday	tt0054198	Music and Lyrics by Manos Hadjidakis	Manos Hadjidakis	?	True	Never On Sunday
 33	1960	Music	MUSIC (Original Song)	MUSIC (Song)	an0051927	High Time	tt0053912	Music by James Van Heusen; Lyrics by Sammy Cahn	James Van Heusen, Sammy Cahn	nm0006329,nm0005991		The Second Time Around
 33	1960	Title	BEST PICTURE	BEST MOTION PICTURE	an0051842	The Alamo	tt0053580	John Wayne, Producer	John Wayne	nm0000078
 33	1960	Title	BEST PICTURE	BEST MOTION PICTURE	an0051841	The Apartment	tt0053604	Billy Wilder, Producer	Billy Wilder	nm0000697	True
@@ -4125,7 +4125,7 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 35	1962	Music	MUSIC (Original Song)	MUSIC (Song)	an0053720	Days of Wine and Roses	tt0055895	Music by Henry Mancini; Lyrics by Johnny Mercer	Henry Mancini, Johnny Mercer	nm0000049,nm0006197	True	Days Of Wine And Roses
 35	1962	Music	MUSIC (Original Song)	MUSIC (Song)	an0053721	Mutiny on the Bounty	tt0056264	Music by Bronislau Kaper; Lyrics by Paul Francis Webster	Bronislau Kaper, Paul Francis Webster	nm0006147,nm0916990		Love Song From Mutiny On The Bounty (Follow Me)
 35	1962	Music	MUSIC (Original Song)	MUSIC (Song)	an0053722	Two for the Seesaw	tt0056626	Music by Andre Previn; Lyrics by Dory Langdon	Andre Previn, Dory Langdon	nm0006238,?		Song From Two For The Seesaw (Second Chance)
-35	1962	Music	MUSIC (Original Song)	MUSIC (Song)		Tender Is the Night		Music by Sammy Fain; Lyrics by Paul Francis Webster	Sammy Fain, Paul Francis Webster			Tender Is The Night
+35	1962	Music	MUSIC (Original Song)	MUSIC (Song)	an0053723	Tender Is the Night	tt0056566	Music by Sammy Fain; Lyrics by Paul Francis Webster	Sammy Fain, Paul Francis Webster	nm0006066,nm0916990		Tender Is The Night
 35	1962	Music	MUSIC (Original Song)	MUSIC (Song)	an0053724	Walk on the Wild Side	tt0056671	Music by Elmer Bernstein; Lyrics by Mack David	Elmer Bernstein, Mack David	nm0000930,nm0202988		Walk On The Wild Side
 35	1962	Title	BEST PICTURE	BEST PICTURE	an0053638	Lawrence of Arabia	tt0056172	Sam Spiegel, Producer	Sam Spiegel	nm0818545	True
 35	1962	Title	BEST PICTURE	BEST PICTURE	an0053639	The Longest Day	tt0056197	Darryl F. Zanuck, Producer	Darryl F. Zanuck	nm0953123
@@ -4984,7 +4984,7 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 42	1969	Music	MUSIC (Original Song)	MUSIC (Song--Original for the Picture)	an0056443	The Prime of Miss Jean Brodie	tt0064840	Music and Lyrics by Rod McKuen	Rod McKuen	nm0572106		Jean
 42	1969	Music	MUSIC (Original Song)	MUSIC (Song--Original for the Picture)	an0056441	Butch Cassidy and the Sundance Kid	tt0064115	Music by Burt Bacharach; Lyrics by Hal David	Burt Bacharach, Hal David	nm0000820,nm0202910	True	Raindrops Keep Fallin' On My Head
 42	1969	Music	MUSIC (Original Song)	MUSIC (Song--Original for the Picture)	an0056444	True Grit	tt0065126	Music by Elmer Bernstein; Lyrics by Don Black	Elmer Bernstein, Don Black	nm0000930,nm0085246		True Grit
-42	1969	Music	MUSIC (Original Song)	MUSIC (Song--Original for the Picture)		The Happy Ending		Music by Michel Legrand; Lyrics by Alan Bergman and Marilyn Bergman	Michel Legrand, Alan Bergman, Marilyn Bergman			What Are You Doing The Rest Of Your Life?
+42	1969	Music	MUSIC (Original Song)	MUSIC (Song--Original for the Picture)	an0056445	The Happy Ending	tt0064405	Music by Michel Legrand; Lyrics by Alan Bergman and Marilyn Bergman	Michel Legrand, Alan Bergman, Marilyn Bergman	nm0006166,nm0074732,nm0004750		What Are You Doing The Rest Of Your Life?
 42	1969	Title	BEST PICTURE	BEST PICTURE	an0056375	Anne of the Thousand Days	tt0064030	Hal B. Wallis, Producer	Hal B. Wallis	nm0909259
 42	1969	Title	BEST PICTURE	BEST PICTURE	an0056376	Butch Cassidy and the Sundance Kid	tt0064115	John Foreman, Producer	John Foreman	nm0286048
 42	1969	Title	BEST PICTURE	BEST PICTURE	an0056377	Hello, Dolly!	tt0064418	Ernest Lehman, Producer	Ernest Lehman	nm0499626
@@ -5206,7 +5206,7 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 44	1971	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Scoring: Adaptation and Original Song Score)	an0057044	Willy Wonka and the Chocolate Factory	tt0067992	Song Score by Leslie Bricusse and Anthony Newley; Adaptation Score by Walter Scharf	Leslie Bricusse, Anthony Newley, Walter Scharf	nm0108634,nm0627969,nm0770127
 44	1971	Music	MUSIC (Original Song)	MUSIC (Song--Original for the Picture)	an0057031	Bedknobs and Broomsticks	tt0066817	Music and Lyrics by Richard M. Sherman and Robert B. Sherman	Richard M. Sherman, Robert B. Sherman	nm0792556,nm0792567		The Age Of Not Believing
 44	1971	Music	MUSIC (Original Song)	MUSIC (Song--Original for the Picture)	an0057032	Sometimes a Great Notion	tt0067774	Music by Henry Mancini; Lyrics by Alan Bergman and Marilyn Bergman	Henry Mancini, Alan Bergman, Marilyn Bergman	nm0000049,nm0074732,nm0004750		All His Children
-44	1971	Music	MUSIC (Original Song)	MUSIC (Song--Original for the Picture)		Bless the Beasts & Children		Music and Lyrics by Barry DeVorzon and Perry Botkin, Jr.	Barry DeVorzon, Perry Botkin Jr.			Bless The Beasts & Children
+44	1971	Music	MUSIC (Original Song)	MUSIC (Song--Original for the Picture)	an0057033	Bless the Beasts & Children	tt0068286	Music and Lyrics by Barry DeVorzon and Perry Botkin, Jr.	Barry DeVorzon, Perry Botkin Jr.	nm0006031,nm0098559		Bless The Beasts & Children
 44	1971	Music	MUSIC (Original Song)	MUSIC (Song--Original for the Picture)	an0057034	Kotch	tt0067314	Music by Marvin Hamlisch; Lyrics by Johnny Mercer	Marvin Hamlisch, Johnny Mercer	nm0006121,nm0006197		Life Is What You Make It
 44	1971	Music	MUSIC (Original Song)	MUSIC (Song--Original for the Picture)	an0057030	Shaft	tt0067741	Music and Lyrics by Isaac Hayes	Isaac Hayes	nm0005002	True	Theme From Shaft
 44	1971	Title	BEST PICTURE	BEST PICTURE	an0056966	A Clockwork Orange	tt0066921	Stanley Kubrick, Producer	Stanley Kubrick	nm0000040
@@ -6118,11 +6118,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 52	1979	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Original Song Score and Its Adaptation -or- Adaptation Score)	an0057148	All That Jazz	tt0078754	Adaptation Score by Ralph Burns	Ralph Burns	nm0005985	True
 52	1979	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Original Song Score and Its Adaptation -or- Adaptation Score)	an0057149	Breaking Away	tt0078902	Adaptation Score by Patrick Williams	Patrick Williams	nm0002305
 52	1979	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Original Song Score and Its Adaptation -or- Adaptation Score)	an0057150	The Muppet Movie	tt0079588	Song Score by Paul Williams and Kenny Ascher; Adaptation Score by Paul Williams	Paul Williams, Kenny Ascher	nm0931437,nm0038502
-52	1979	Music	MUSIC (Original Song)	MUSIC (Original Song)		The Promise		Music by David Shire; Lyric by Alan Bergman and Marilyn Bergman	David Shire, Alan Bergman, Marilyn Bergman			I'll Never Say 'Goodbye'
+52	1979	Music	MUSIC (Original Song)	MUSIC (Original Song)	an0057142	The Promise	tt0079756	Music by David Shire; Lyric by Alan Bergman and Marilyn Bergman	David Shire, Alan Bergman, Marilyn Bergman	nm0006288,nm0074732,nm0004750		I'll Never Say 'Goodbye'
 52	1979	Music	MUSIC (Original Song)	MUSIC (Original Song)	an0057138	Norma Rae	tt0079638	Music by David Shire; Lyric by Norman Gimbel	David Shire, Norman Gimbel	nm0006288,nm0319757	True	It Goes Like It Goes
-52	1979	Music	MUSIC (Original Song)	MUSIC (Original Song)		10		Music by Henry Mancini; Lyric by Robert Wells	Henry Mancini, Robert Wells			It's Easy To Say
+52	1979	Music	MUSIC (Original Song)	MUSIC (Original Song)	an0057140	10	tt0078721	Music by Henry Mancini; Lyric by Robert Wells	Henry Mancini, Robert Wells	nm0000049,nm0920398		It's Easy To Say
 52	1979	Music	MUSIC (Original Song)	MUSIC (Original Song)	an0057139	The Muppet Movie	tt0079588	Music and Lyric by Paul Williams and Kenny Ascher	Paul Williams, Kenny Ascher	nm0931437,nm0038502		The Rainbow Connection
-52	1979	Music	MUSIC (Original Song)	MUSIC (Original Song)		Ice Castles		Music by Marvin Hamlisch; Lyric by Carole Bayer Sager	Marvin Hamlisch, Carole Bayer Sager			Through The Eyes Of Love
+52	1979	Music	MUSIC (Original Song)	MUSIC (Original Song)	an0057141	Ice Castles	tt0077716	Music by Marvin Hamlisch; Lyric by Carole Bayer Sager	Marvin Hamlisch, Carole Bayer Sager	nm0006121,nm0004728		Through The Eyes Of Love
 52	1979	Title	BEST PICTURE	BEST PICTURE	an0057069	All That Jazz	tt0078754	Robert Alan Aurthur, Producer	Robert Alan Aurthur	nm0015899
 52	1979	Title	BEST PICTURE	BEST PICTURE	an0057070	Apocalypse Now	tt0078788	Francis Coppola, Producer; Fred Roos, Gray Frederickson and Tom Sternberg, Co-Producers	Francis Coppola, Fred Roos, Gray Frederickson, Tom Sternberg	nm0000338,nm0740407,nm0292875,nm0827923
 52	1979	Title	BEST PICTURE	BEST PICTURE	an0057071	Breaking Away	tt0078902	Peter Yates, Producer	Peter Yates	nm0946811
@@ -8066,7 +8066,7 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 68	1995	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Original Musical or Comedy Score)	an0051179	Toy Story	tt0114709	Randy Newman	Randy Newman	nm0005271
 68	1995	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Original Musical or Comedy Score)	an0051180	Unstrung Heroes	tt0114798	Thomas Newman	Thomas Newman	nm0002353
 68	1995	Music	MUSIC (Original Song)	MUSIC (Original Song)	an0051171	Pocahontas	tt0114148	Music by Alan Menken; Lyric by Stephen Schwartz	Alan Menken, Stephen Schwartz	nm0579678,nm0777451	True	Colors Of The Wind
-68	1995	Music	MUSIC (Original Song)	MUSIC (Original Song)		Dead Man Walking		Music and Lyric by Bruce Springsteen	Bruce Springsteen			Dead Man Walkin'
+68	1995	Music	MUSIC (Original Song)	MUSIC (Original Song)	an0051172	Dead Man Walking	tt0112818	Music and Lyric by Bruce Springsteen	Bruce Springsteen	nm0819803		Dead Man Walkin'
 68	1995	Music	MUSIC (Original Song)	MUSIC (Original Song)	an0051173	Don Juan DeMarco	tt0112883	Music and Lyric by Michael Kamen, Bryan Adams and Robert John Lange	Michael Kamen, Bryan Adams, Robert John Lange	nm0004383,nm0001898,?		Have You Ever Really Loved A Woman
 68	1995	Music	MUSIC (Original Song)	MUSIC (Original Song)	an0051174	Sabrina	tt0114319	Music by John Williams; Lyric by Alan Bergman and Marilyn Bergman	John Williams, Alan Bergman, Marilyn Bergman	nm0002354,nm0074732,nm0004750		Moonlight
 68	1995	Music	MUSIC (Original Song)	MUSIC (Original Song)	an0051175	Toy Story	tt0114709	Music and Lyric by Randy Newman	Randy Newman	nm0005271		You've Got A Friend In Me
@@ -8207,7 +8207,7 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 69	1996	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Original Musical or Comedy Score)	an0047838	The Preacher's Wife	tt0117372	Hans Zimmer	Hans Zimmer	nm0001877
 69	1996	Music	MUSIC (Original Song)	MUSIC (Original Song)	an0047830	Up Close and Personal	tt0118055	Music and Lyric by Diane Warren	Diane Warren	nm0005534		Because You Loved Me
 69	1996	Music	MUSIC (Original Song)	MUSIC (Original Song)	an0047831	One Fine Day	tt0117247	Music and Lyric by James Newton Howard, Jud J. Friedman and Allan Dennis Rich	James Newton Howard, Jud J. Friedman, Allan Dennis Rich	nm0006133,nm0295267,nm0723591		For The First Time
-69	1996	Music	MUSIC (Original Song)	MUSIC (Original Song)		The Mirror Has Two Faces		Music and Lyric by Barbra Streisand, Marvin Hamlisch, Bryan Adams and Robert 'Mutt' Lange	Barbra Streisand, Marvin Hamlisch, Bryan Adams, Robert 'Mutt' Lange			I Finally Found Someone
+69	1996	Music	MUSIC (Original Song)	MUSIC (Original Song)	an0047832	The Mirror Has Two Faces	tt0117057	Music and Lyric by Barbra Streisand, Marvin Hamlisch, Bryan Adams and Robert 'Mutt' Lange	Barbra Streisand, Marvin Hamlisch, Bryan Adams, Robert 'Mutt' Lange	nm0000659,nm0006121,nm0001898,?		I Finally Found Someone
 69	1996	Music	MUSIC (Original Song)	MUSIC (Original Song)	an0047833	That Thing You Do!	tt0117887	Music and Lyric by Adam Schlesinger	Adam Schlesinger	nm0772245		That Thing You Do!
 69	1996	Music	MUSIC (Original Song)	MUSIC (Original Song)	an0047829	Evita	tt0116250	Music by Andrew Lloyd Webber; Lyric by Tim Rice	Andrew Lloyd Webber, Tim Rice	nm0515908,nm0005358	True	You Must Love Me
 69	1996	Title	BEST PICTURE	BEST PICTURE	an0047755	The English Patient	tt0116209	Saul Zaentz, Producer	Saul Zaentz	nm0951763	True
@@ -9901,7 +9901,7 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 82	2009	Music	MUSIC (Original Song)	MUSIC (Original Song)	an0048349	The Princess and the Frog	tt0780521	Music and Lyric by Randy Newman	Randy Newman	nm0005271		Down In New Orleans
 82	2009	Music	MUSIC (Original Song)	MUSIC (Original Song)	an0048346	Paris 36	tt0948535	Music by Reinhardt Wagner; Lyric by Frank Thomas	Reinhardt Wagner, Frank Thomas	nm0906067,nm3637172		Loin De Paname
 82	2009	Music	MUSIC (Original Song)	MUSIC (Original Song)	an0048347	Nine	tt0875034	Music and Lyric by Maury Yeston	Maury Yeston	nm1169564		Take It All
-82	2009	Music	MUSIC (Original Song)	MUSIC (Original Song)		Crazy Heart		Music and Lyric by Ryan Bingham and T Bone Burnett	Ryan Bingham, T Bone Burnett		True	The Weary Kind (Theme From Crazy Heart)
+82	2009	Music	MUSIC (Original Song)	MUSIC (Original Song)	an0048345	Crazy Heart	tt1263670	Music and Lyric by Ryan Bingham and T Bone Burnett	Ryan Bingham, T Bone Burnett	nm1123709,nm0122439	True	The Weary Kind (Theme From Crazy Heart)
 82	2009	Title	BEST PICTURE	BEST PICTURE	an0048275	Avatar	tt0499549	James Cameron and Jon Landau, Producers	James Cameron, Jon Landau	nm0000116,nm0484457
 82	2009	Title	BEST PICTURE	BEST PICTURE	an0048279	The Blind Side	tt0878804	Gil Netter, Andrew A. Kosove and Broderick Johnson, Producers	Gil Netter, Andrew A. Kosove, Broderick Johnson	nm0626696,nm0467255,nm0424663
 82	2009	Title	BEST PICTURE	BEST PICTURE	an0048276	District 9	tt1136608	Peter Jackson and Carolynne Cunningham, Producers	Peter Jackson, Carolynne Cunningham	nm0001392,nm0192254
