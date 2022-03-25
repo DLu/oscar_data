@@ -13,6 +13,7 @@ PAREN_PATTERN = re.compile(r'^(.*) \((.*)\)$')
 COLON_PATTERN = re.compile(r'^(.*): (.*)$')
 
 SUFFIXES = yaml.safe_load(open('aux_data/suffixes.yaml'))
+FIRST_NAMES = yaml.safe_load(open('aux_data/first_names.yaml'))
 
 NOM_STATS = collections.Counter()
 FILM_STATS = collections.Counter()
@@ -88,6 +89,10 @@ def first_names_match(a, b, length=3):
 
     if (len(a) > 1 and a[1] == '.') or (len(b) > 1 and b[1] == '.'):
         if a[0] == b[0]:
+            return True
+
+    for row in FIRST_NAMES:
+        if a in row and b in row:
             return True
 
 
