@@ -94,7 +94,8 @@ def split_nominees(s, nom):
 
 if __name__ == '__main__':
     canonical_award_names = read_lookup_dict('aux_data/canonical.yaml')
-    class_lookup = read_lookup_dict('aux_data/classes.yaml', lower=True)
+    class_lookup = read_lookup_dict('aux_data/classes.yaml')
+    missing_canonical = set()
 
     o_noms = []
     # Hack to remove one nomination
@@ -112,7 +113,25 @@ if __name__ == '__main__':
         # Add Canonical Category
         ceremony = int(nom['Ceremony'])
         category = nom['Category']
-        canon = canonical_award_names.get(category, category)
+        if category in canonical_award_names:
+            canon = canonical_award_names[category]
+        elif category in class_lookup:
+            canon = category
+        else:
+            # update capitalization on nominees
+            main, _, parenthetical = category.partition('(')
+            if parenthetical:
+                upper_cat = f'{main.upper()}({parenthetical}'
+            else:
+                upper_cat = main.upper()
+            if upper_cat in class_lookup:
+                canon = upper_cat
+            else:
+                if category not in missing_canonical:
+                    click.secho(f'Unknown cat: {category}', fg='yellow')
+                    missing_canonical.add(category)
+                continue
+            # canon = canonical_award_names.get(category, category)
         nom['Canonical Category'] = canon
 
         # Check for overloading of canon categories
@@ -122,7 +141,7 @@ if __name__ == '__main__':
 
         # Rewrite the broad award classes
         try:
-            nom['Class'] = class_lookup[canon.lower()]
+            nom['Class'] = class_lookup[canon]
         except KeyError:
             click.secho(f'Weird Category: "{canon}" ({category})', fg='red')
 
