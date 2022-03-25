@@ -10,6 +10,7 @@ SCORE_PATTERN = re.compile(r'([^,]+), ([^,]+), (head of department|musical direc
 DEPARTMENTS = yaml.safe_load(open('aux_data/departments.yaml'))
 SUFFIXES = yaml.safe_load(open('aux_data/suffixes.yaml'))
 SPLITS = yaml.safe_load(open('aux_data/hardcode_splits.yaml'))
+COUNTRIES = yaml.safe_load(open('aux_data/countries.yaml'))
 
 IGNORABLE_MEMBERS = {
     'producer',
@@ -23,7 +24,7 @@ IGNORABLE_MEMBERS = {
 }
 
 
-def split_nominees(s):
+def split_nominees(s, nom):
     if s in SPLITS:
         return SPLITS[s]
 
@@ -68,6 +69,12 @@ def split_nominees(s):
     for p in pieces:
         if p.lower() in IGNORABLE_MEMBERS:
             continue
+        if nom['Canonical Category'] == 'INTERNATIONAL FEATURE FILM':
+            if p.lower() in COUNTRIES:
+                continue
+            elif nom['Ceremony'] != '29':
+                # 1956 they nominated the producers too
+                click.secho(f'Unexpected Country name "{p}" for International Film', fg='yellow')
         if p[0] == '(' and p[-1] == ')':
             p = p[1:-1]
         for suffix in DEPARTMENTS:
@@ -122,6 +129,6 @@ if __name__ == '__main__':
         # Extra parsing for name(s)
         name = nom.get('Name', '')
         if name:
-            nom['Nominee(s)'] = split_nominees(name)
+            nom['Nominee(s)'] = split_nominees(name, nom)
 
     write_csv(o_noms)

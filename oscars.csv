@@ -3375,11 +3375,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 29	1956	Production	FILM EDITING	FILM EDITING	an0051561	Giant	tt0049261	William Hornbeck, Philip W. Anderson, Fred Bohanan	William Hornbeck, Philip W. Anderson, Fred Bohanan	nm0394962,nm0027294,nm0091980
 29	1956	Production	FILM EDITING	FILM EDITING	an0051562	Somebody Up There Likes Me	tt0049778	Albert Akst	Albert Akst	nm0015573
 29	1956	Production	FILM EDITING	FILM EDITING	an0051563	The Ten Commandments	tt0049833	Anne Bauchens	Anne Bauchens	nm0061640
-29	1956	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0051600	The Captain of Kopenick	tt0049293	Federal Republic of Germany - West; Gyula Trebitsch and Walter Koppel, Producers	Federal Republic of Germany - West, Gyula Trebitsch, Walter Koppel	?,nm0871632,nm0465904				NOTE: For the 29th Academy Awards, the name(s) of the producer(s) were included in the nomination for the Foreign Language Film category.
-29	1956	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0051601	Gervaise	tt0049259	France; Annie Dorfmann, Producer	France, Annie Dorfmann	?,?				NOTE: For the 29th Academy Awards, the name(s) of the producer(s) were included in the nomination for the Foreign Language Film category.
-29	1956	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0051602	Harp of Burma	tt0049012	Japan; Masayuki Takagi, Producer	Japan, Masayuki Takagi	?,nm0847067				NOTE: For the 29th Academy Awards, the name(s) of the producer(s) were included in the nomination for the Foreign Language Film category.
-29	1956	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0051599	La Strada	tt0047528	Italy; Dino De Laurentiis and Carlo Ponti, Producers	Italy, Dino De Laurentiis, Carlo Ponti	?,nm0209569,nm0690638	True			NOTE: For the 29th Academy Awards, the name(s) of the producer(s) were included in the nomination for the Foreign Language Film category.
-29	1956	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0051603	Qivitoq	tt0048523	Denmark; O. Dalsgaard-Olsen, Producer	Denmark, O. Dalsgaard-Olsen	?,nm11004642				NOTE: For the 29th Academy Awards, the name(s) of the producer(s) were included in the nomination for the Foreign Language Film category.
+29	1956	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0051600	The Captain of Kopenick	tt0049293	Federal Republic of Germany - West; Gyula Trebitsch and Walter Koppel, Producers	Gyula Trebitsch, Walter Koppel	nm0871632,nm0465904				NOTE: For the 29th Academy Awards, the name(s) of the producer(s) were included in the nomination for the Foreign Language Film category.
+29	1956	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0051601	Gervaise	tt0049259	France; Annie Dorfmann, Producer	Annie Dorfmann	?				NOTE: For the 29th Academy Awards, the name(s) of the producer(s) were included in the nomination for the Foreign Language Film category.
+29	1956	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0051602	Harp of Burma	tt0049012	Japan; Masayuki Takagi, Producer	Masayuki Takagi	nm0847067				NOTE: For the 29th Academy Awards, the name(s) of the producer(s) were included in the nomination for the Foreign Language Film category.
+29	1956	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0051599	La Strada	tt0047528	Italy; Dino De Laurentiis and Carlo Ponti, Producers	Dino De Laurentiis, Carlo Ponti	nm0209569,nm0690638	True			NOTE: For the 29th Academy Awards, the name(s) of the producer(s) were included in the nomination for the Foreign Language Film category.
+29	1956	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0051603	Qivitoq	tt0048523	Denmark; O. Dalsgaard-Olsen, Producer	O. Dalsgaard-Olsen	nm11004642				NOTE: For the 29th Academy Awards, the name(s) of the producer(s) were included in the nomination for the Foreign Language Film category.
 29	1956	Music	MUSIC (Original Score)	MUSIC (Music Score of a Dramatic or Comedy Picture)	an0051572	Anastasia	tt0048947	Alfred Newman	Alfred Newman	nm0000055
 29	1956	Music	MUSIC (Original Score)	MUSIC (Music Score of a Dramatic or Comedy Picture)	an0051571	Around the World in 80 Days	tt0048960	Victor Young	Victor Young	nm0000082	True
 29	1956	Music	MUSIC (Original Score)	MUSIC (Music Score of a Dramatic or Comedy Picture)	an0051573	Between Heaven and Hell	tt0049004	Hugo Friedhofer	Hugo Friedhofer	nm0006087
@@ -3489,11 +3489,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 30	1957	Production	FILM EDITING	FILM EDITING	an0053571	Pal Joey	tt0050815	Viola Lawrence, Jerome Thoms	Viola Lawrence, Jerome Thoms	nm0493072,nm0860870
 30	1957	Production	FILM EDITING	FILM EDITING	an0053572	Sayonara	tt0050933	Arthur P. Schmidt, Philip W. Anderson	Arthur P. Schmidt, Philip W. Anderson	nm0772834,nm0027294
 30	1957	Production	FILM EDITING	FILM EDITING	an0053573	Witness for the Prosecution	tt0051201	Daniel Mandell	Daniel Mandell	nm0541721
-30	1957	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		The Devil Came at Night		West Germany	West Germany
-30	1957	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0053601	Gates of Paris	tt0050850	France	France	?
-30	1957	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0053602	Mother India	tt0050188	India	India	?
-30	1957	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0053599	The Nights of Cabiria	tt0050783	Italy	Italy	?	True
-30	1957	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0053603	Nine Lives	tt0050762	Norway	Norway	?
+30	1957	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		The Devil Came at Night		West Germany
+30	1957	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0053601	Gates of Paris	tt0050850	France
+30	1957	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0053602	Mother India	tt0050188	India
+30	1957	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0053599	The Nights of Cabiria	tt0050783	Italy			True
+30	1957	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0053603	Nine Lives	tt0050762	Norway
 30	1957	Music	MUSIC (Scoring)	MUSIC (Scoring)	an0053582	An Affair to Remember	tt0050105	Hugo Friedhofer	Hugo Friedhofer	nm0006087
 30	1957	Music	MUSIC (Scoring)	MUSIC (Scoring)	an0053583	Boy on a Dolphin	tt0050208	Hugo Friedhofer	Hugo Friedhofer	nm0006087
 30	1957	Music	MUSIC (Scoring)	MUSIC (Scoring)	an0053581	The Bridge on the River Kwai	tt0050212	Malcolm Arnold	Malcolm Arnold	nm0002185	True
@@ -3605,11 +3605,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 31	1958	Production	FILM EDITING	FILM EDITING	an0055554	The Defiant Ones	tt0051525	Frederic Knudtson	Frederic Knudtson	nm0461772
 31	1958	Production	FILM EDITING	FILM EDITING	an0055551	Gigi	tt0051658	Adrienne Fazan	Adrienne Fazan	nm0269751	True
 31	1958	Production	FILM EDITING	FILM EDITING	an0055555	I Want to Live!	tt0051758	William Hornbeck	William Hornbeck	nm0394962
-31	1958	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0055591	Arms and the Man	tt0051712	West Germany	West Germany	?
-31	1958	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0055594	La Venganza	tt0051155	Spain	Spain	?
-31	1958	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		My Uncle		France	France		True
-31	1958	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		The Road a Year Long		Yugoslavia	Yugoslavia
-31	1958	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		The Usual Unidentified Thieves		Italy	Italy
+31	1958	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0055591	Arms and the Man	tt0051712	West Germany
+31	1958	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0055594	La Venganza	tt0051155	Spain
+31	1958	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		My Uncle		France			True
+31	1958	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		The Road a Year Long		Yugoslavia
+31	1958	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		The Usual Unidentified Thieves		Italy
 31	1958	Music	MUSIC (Original Score)	MUSIC (Music Score of a Dramatic or Comedy Picture)	an0055564	The Big Country	tt0051411	Jerome Moross	Jerome Moross	nm0606108
 31	1958	Music	MUSIC (Original Score)	MUSIC (Music Score of a Dramatic or Comedy Picture)	an0055563	The Old Man and the Sea	tt0052027	Dimitri Tiomkin	Dimitri Tiomkin	nm0006323	True
 31	1958	Music	MUSIC (Original Score)	MUSIC (Music Score of a Dramatic or Comedy Picture)	an0055565	Separate Tables	tt0052182	David Raksin	David Raksin	nm0000710
@@ -3726,11 +3726,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 32	1959	Production	FILM EDITING	FILM EDITING	an0055802	North by Northwest	tt0053125	George Tomasini	George Tomasini	nm0866462
 32	1959	Production	FILM EDITING	FILM EDITING	an0055803	The Nun's Story	tt0053131	Walter Thompson	Walter Thompson	nm0860828
 32	1959	Production	FILM EDITING	FILM EDITING	an0055804	On the Beach	tt0053137	Frederic Knudtson	Frederic Knudtson	nm0461772
-32	1959	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0055836	Black Orpheus	tt0053146	France	France	?	True
-32	1959	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0055837	The Bridge	tt0052654	West Germany	West Germany	?
-32	1959	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0055838	The Great War	tt0052861	Italy	Italy	?
-32	1959	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		Paw		Denmark	Denmark
-32	1959	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		The Village on the River		The Netherlands	The Netherlands
+32	1959	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0055836	Black Orpheus	tt0053146	France			True
+32	1959	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0055837	The Bridge	tt0052654	West Germany
+32	1959	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0055838	The Great War	tt0052861	Italy
+32	1959	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		Paw		Denmark
+32	1959	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		The Village on the River		The Netherlands
 32	1959	Music	MUSIC (Original Score)	MUSIC (Music Score of a Dramatic or Comedy Picture)	an0055812	Ben-Hur	tt0052618	Miklos Rozsa	Miklos Rozsa	nm0000067	True
 32	1959	Music	MUSIC (Original Score)	MUSIC (Music Score of a Dramatic or Comedy Picture)	an0055813	The Diary of Anne Frank	tt0052738	Alfred Newman	Alfred Newman	nm0000055
 32	1959	Music	MUSIC (Original Score)	MUSIC (Music Score of a Dramatic or Comedy Picture)	an0055814	The Nun's Story	tt0053131	Franz Waxman	Franz Waxman	nm0000077
@@ -3854,11 +3854,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 33	1960	Production	FILM EDITING	FILM EDITING	an0051918	Inherit the Wind	tt0053946	Frederic Knudtson	Frederic Knudtson	nm0461772
 33	1960	Production	FILM EDITING	FILM EDITING	an0051919	Pepe	tt0054172	Viola Lawrence, Al Clark	Viola Lawrence, Al Clark	nm0493072,nm0163617
 33	1960	Production	FILM EDITING	FILM EDITING	an0051920	Spartacus	tt0054331	Robert Lawrence	Robert Lawrence	nm0492992
-33	1960	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0051955	Kapo	tt0052961	Italy	Italy	?
-33	1960	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0051956	La Vérité	tt0054452	France	France	?
-33	1960	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0051957	Macario	tt0054042	Mexico	Mexico	?
-33	1960	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0051958	The Ninth Circle	tt0053764	Yugoslavia	Yugoslavia	?
-33	1960	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0051954	The Virgin Spring	tt0053976	Sweden	Sweden	?	True
+33	1960	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0051955	Kapo	tt0052961	Italy
+33	1960	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0051956	La Vérité	tt0054452	France
+33	1960	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0051957	Macario	tt0054042	Mexico
+33	1960	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0051958	The Ninth Circle	tt0053764	Yugoslavia
+33	1960	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0051954	The Virgin Spring	tt0053976	Sweden			True
 33	1960	Music	MUSIC (Original Score)	MUSIC (Music Score of a Dramatic or Comedy Picture)	an0051929	The Alamo	tt0053580	Dimitri Tiomkin	Dimitri Tiomkin	nm0006323
 33	1960	Music	MUSIC (Original Score)	MUSIC (Music Score of a Dramatic or Comedy Picture)	an0051930	Elmer Gantry	tt0053793	Andre Previn	Andre Previn	nm0006238
 33	1960	Music	MUSIC (Original Score)	MUSIC (Music Score of a Dramatic or Comedy Picture)	an0051928	Exodus	tt0053804	Ernest Gold	Ernest Gold	nm0006104	True
@@ -3980,11 +3980,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 34	1961	Production	FILM EDITING	FILM EDITING	an0048471	Judgment at Nuremberg	tt0055031	Frederic Knudtson	Frederic Knudtson	nm0461772
 34	1961	Production	FILM EDITING	FILM EDITING	an0048472	The Parent Trap	tt0055277	Philip W. Anderson	Philip W. Anderson	nm0027294
 34	1961	Production	FILM EDITING	FILM EDITING	an0048468	West Side Story	tt0055614	Thomas Stanford	Thomas Stanford	nm0822201	True
-34	1961	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		Harry and the Butler		Denmark	Denmark
-34	1961	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0048509	Immortal Love	tt0054845	Japan	Japan	?
-34	1961	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		The Important Man		Mexico	Mexico
-34	1961	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0048511	Placido	tt0055310	Spain	Spain	?
-34	1961	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0048507	Through a Glass Darkly	tt0055499	Sweden	Sweden	?	True
+34	1961	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		Harry and the Butler		Denmark
+34	1961	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0048509	Immortal Love	tt0054845	Japan
+34	1961	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		The Important Man		Mexico
+34	1961	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0048511	Placido	tt0055310	Spain
+34	1961	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0048507	Through a Glass Darkly	tt0055499	Sweden			True
 34	1961	Music	MUSIC (Original Score)	MUSIC (Music Score of a Dramatic or Comedy Picture)	an0048480	Breakfast at Tiffany's	tt0054698	Henry Mancini	Henry Mancini	nm0000049	True
 34	1961	Music	MUSIC (Original Score)	MUSIC (Music Score of a Dramatic or Comedy Picture)	an0048481	El Cid	tt0054847	Miklos Rozsa	Miklos Rozsa	nm0000067
 34	1961	Music	MUSIC (Original Score)	MUSIC (Music Score of a Dramatic or Comedy Picture)	an0048482	Fanny	tt0054866	Morris Stoloff, Harry Sukman	Morris Stoloff, Harry Sukman	nm0006304,nm0006313
@@ -4107,11 +4107,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 35	1962	Production	FILM EDITING	FILM EDITING	an0053715	The Manchurian Candidate	tt0056218	Ferris Webster	Ferris Webster	nm0916883
 35	1962	Production	FILM EDITING	FILM EDITING	an0053716	Meredith Willson's The Music Man	tt0056262	William Ziegler	William Ziegler	nm0956155
 35	1962	Production	FILM EDITING	FILM EDITING	an0053717	Mutiny on the Bounty	tt0056264	John McSweeney, Jr.	John McSweeney Jr.	nm0574578
-35	1962	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0053751	Electra	tt0055950	Greece	Greece	?
-35	1962	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0053752	The Four Days of Naples	tt0056389	Italy	Italy	?
-35	1962	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0053753	Keeper of Promises (The Given Word)	tt0056322	Brazil	Brazil	?
-35	1962	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0053750	Sundays and Cybele	tt0055910	France	France	?	True
-35	1962	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0053754	Tlayucan	tt0055527	Mexico	Mexico	?
+35	1962	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0053751	Electra	tt0055950	Greece
+35	1962	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0053752	The Four Days of Naples	tt0056389	Italy
+35	1962	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0053753	Keeper of Promises (The Given Word)	tt0056322	Brazil
+35	1962	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0053750	Sundays and Cybele	tt0055910	France			True
+35	1962	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0053754	Tlayucan	tt0055527	Mexico
 35	1962	Music	MUSIC (Original Score)	MUSIC (Music Score--substantially original)	an0053726	Freud	tt0055998	Jerry Goldsmith	Jerry Goldsmith	nm0000025
 35	1962	Music	MUSIC (Original Score)	MUSIC (Music Score--substantially original)	an0053725	Lawrence of Arabia	tt0056172	Maurice Jarre	Maurice Jarre	nm0003574	True
 35	1962	Music	MUSIC (Original Score)	MUSIC (Music Score--substantially original)	an0053727	Mutiny on the Bounty	tt0056264	Bronislau Kaper	Bronislau Kaper	nm0006147
@@ -4235,11 +4235,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 36	1963	Production	FILM EDITING	FILM EDITING	an0048199	The Great Escape	tt0057115	Ferris Webster	Ferris Webster	nm0916883
 36	1963	Production	FILM EDITING	FILM EDITING	an0048196	How the West Was Won	tt0056085	Harold F. Kress	Harold F. Kress	nm0470932	True
 36	1963	Production	FILM EDITING	FILM EDITING	an0048200	It's a Mad, Mad, Mad, Mad World	tt0057193	Frederic Knudtson, Robert C. Jones, Gene Fowler, Jr.	Frederic Knudtson, Robert C. Jones, Gene Fowler Jr.	nm0461772,nm0002717,nm0288635
-36	1963	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		Federico Fellini's 8-1/2		Italy	Italy		True
-36	1963	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0048239	Knife in the Water	tt0056291	Poland	Poland	?
-36	1963	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0048240	Los Tarantos	tt0056555	Spain	Spain	?
-36	1963	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0048241	The Red Lanterns	tt0057229	Greece	Greece	?
-36	1963	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		Twin Sisters of Kyoto		Japan	Japan
+36	1963	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		Federico Fellini's 8-1/2		Italy			True
+36	1963	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0048239	Knife in the Water	tt0056291	Poland
+36	1963	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0048240	Los Tarantos	tt0056555	Spain
+36	1963	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0048241	The Red Lanterns	tt0057229	Greece
+36	1963	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		Twin Sisters of Kyoto		Japan
 36	1963	Music	MUSIC (Original Score)	MUSIC (Music Score--substantially original)	an0048211	Cleopatra	tt0056937	Alex North	Alex North	nm0006218
 36	1963	Music	MUSIC (Original Score)	MUSIC (Music Score--substantially original)	an0048212	55 Days at Peking	tt0056800	Dimitri Tiomkin	Dimitri Tiomkin	nm0006323
 36	1963	Music	MUSIC (Original Score)	MUSIC (Music Score--substantially original)	an0048213	How the West Was Won	tt0056085	Alfred Newman, Ken Darby	Alfred Newman, Ken Darby	nm0000055,nm0006024
@@ -4361,11 +4361,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 37	1964	Production	FILM EDITING	FILM EDITING	an0052498	Hush...Hush, Sweet Charlotte	tt0058213	Michael Luciano	Michael Luciano	nm0524597
 37	1964	Production	FILM EDITING	FILM EDITING	an0052495	Mary Poppins	tt0058331	Cotton Warburton	Cotton Warburton	nm0911307	True
 37	1964	Production	FILM EDITING	FILM EDITING	an0052499	My Fair Lady	tt0058385	William Ziegler	William Ziegler	nm0956155
-37	1964	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0052537	Raven's End	tt0057237	Sweden	Sweden	?
-37	1964	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0052538	Sallah	tt0058541	Israel	Israel	?
-37	1964	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0052539	The Umbrellas of Cherbourg	tt0058450	France	France	?
-37	1964	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0052540	Woman in the Dunes	tt0058625	Japan	Japan	?
-37	1964	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0052536	Yesterday, Today and Tomorrow	tt0057171	Italy	Italy	?	True
+37	1964	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0052537	Raven's End	tt0057237	Sweden
+37	1964	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0052538	Sallah	tt0058541	Israel
+37	1964	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0052539	The Umbrellas of Cherbourg	tt0058450	France
+37	1964	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0052540	Woman in the Dunes	tt0058625	Japan
+37	1964	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0052536	Yesterday, Today and Tomorrow	tt0057171	Italy			True
 37	1964	Music	MUSIC (Original Score)	MUSIC (Music Score--substantially original)	an0052510	Becket	tt0057877	Laurence Rosenthal	Laurence Rosenthal	nm0002304
 37	1964	Music	MUSIC (Original Score)	MUSIC (Music Score--substantially original)	an0052511	The Fall of the Roman Empire	tt0058085	Dimitri Tiomkin	Dimitri Tiomkin	nm0006323
 37	1964	Music	MUSIC (Original Score)	MUSIC (Music Score--substantially original)	an0052512	Hush...Hush, Sweet Charlotte	tt0058213	Frank DeVol	Frank DeVol	nm0006030
@@ -4492,11 +4492,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 38	1965	Production	FILM EDITING	FILM EDITING	an0054112	The Flight of the Phoenix	tt0059183	Michael Luciano	Michael Luciano	nm0524597
 38	1965	Production	FILM EDITING	FILM EDITING	an0054113	The Great Race	tt0059243	Ralph E. Winters	Ralph E. Winters	nm0935988
 38	1965	Production	FILM EDITING	FILM EDITING	an0054109	The Sound of Music	tt0059742	William Reynolds	William Reynolds	nm0722000	True
-38	1965	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0054152	Blood on the Land	tt0057892	Greece	Greece	?
-38	1965	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0054153	Dear John	tt0058281	Sweden	Sweden	?
-38	1965	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0054154	Kwaidan	tt0058279	Japan	Japan	?
-38	1965	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0054155	Marriage Italian Style	tt0058335	Italy	Italy	?
-38	1965	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0054151	The Shop on Main Street	tt0059527	Czechoslovakia	Czechoslovakia	?	True
+38	1965	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0054152	Blood on the Land	tt0057892	Greece
+38	1965	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0054153	Dear John	tt0058281	Sweden
+38	1965	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0054154	Kwaidan	tt0058279	Japan
+38	1965	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0054155	Marriage Italian Style	tt0058335	Italy
+38	1965	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0054151	The Shop on Main Street	tt0059527	Czechoslovakia			True
 38	1965	Music	MUSIC (Original Score)	MUSIC (Music Score--substantially original)	an0054124	The Agony and the Ecstasy	tt0058886	Alex North	Alex North	nm0006218
 38	1965	Music	MUSIC (Original Score)	MUSIC (Music Score--substantially original)	an0054123	Doctor Zhivago	tt0059113	Maurice Jarre	Maurice Jarre	nm0003574	True
 38	1965	Music	MUSIC (Original Score)	MUSIC (Music Score--substantially original)	an0054125	The Greatest Story Ever Told	tt0059245	Alfred Newman	Alfred Newman	nm0000055
@@ -4619,11 +4619,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 39	1966	Production	FILM EDITING	FILM EDITING	an0054476	The Russians Are Coming The Russians Are Coming	tt0060921	Hal Ashby, J. Terry Williams	Hal Ashby, J. Terry Williams	nm0000797,nm0930802
 39	1966	Production	FILM EDITING	FILM EDITING	an0054477	The Sand Pebbles	tt0060934	William Reynolds	William Reynolds	nm0722000
 39	1966	Production	FILM EDITING	FILM EDITING	an0054478	Who's Afraid of Virginia Woolf?	tt0061184	Sam O'Steen	Sam O'Steen	nm0642714
-39	1966	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0054515	The Battle of Algiers	tt0058946	Italy	Italy	?
-39	1966	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		Loves of a Blonde		Czechoslovakia	Czechoslovakia
-39	1966	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0054514	A Man and a Woman	tt0061138	France	France	?	True
-39	1966	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0054517	Pharaoh	tt0060401	Poland	Poland	?
-39	1966	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0054518	Three	tt0059829	Yugoslavia	Yugoslavia	?
+39	1966	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0054515	The Battle of Algiers	tt0058946	Italy
+39	1966	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		Loves of a Blonde		Czechoslovakia
+39	1966	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0054514	A Man and a Woman	tt0061138	France			True
+39	1966	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0054517	Pharaoh	tt0060401	Poland
+39	1966	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0054518	Three	tt0059829	Yugoslavia
 39	1966	Music	MUSIC (Original Score)	MUSIC (Original Music Score)	an0054489	The Bible	tt0060164	Toshiro Mayuzumi	Toshiro Mayuzumi	nm0006191
 39	1966	Music	MUSIC (Original Score)	MUSIC (Original Music Score)	an0054488	Born Free	tt0060182	John Barry	John Barry	nm0000290	True
 39	1966	Music	MUSIC (Original Score)	MUSIC (Original Music Score)	an0054490	Hawaii	tt0060491	Elmer Bernstein	Elmer Bernstein	nm0000930
@@ -4733,11 +4733,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 40	1967	Production	FILM EDITING	FILM EDITING	an0048829	Doctor Dolittle	tt0061584	Samuel E. Beetley, Marjorie Fowler	Samuel E. Beetley, Marjorie Fowler	nm0066622,nm0288761
 40	1967	Production	FILM EDITING	FILM EDITING	an0048830	Guess Who's Coming to Dinner	tt0061735	Robert C. Jones	Robert C. Jones	nm0002717
 40	1967	Production	FILM EDITING	FILM EDITING	an0048826	In the Heat of the Night	tt0061811	Hal Ashby	Hal Ashby	nm0000797	True
-40	1967	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0048867	Closely Watched Trains	tt0060802	Czechoslovakia	Czechoslovakia	?	True
-40	1967	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		El Amor Brujo		Spain	Spain
-40	1967	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0048869	I Even Met Happy Gypsies	tt0062277	Yugoslavia	Yugoslavia	?
-40	1967	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0048870	Live for Life	tt0062452	France	France	?
-40	1967	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		Portrait of Chieko		Japan	Japan
+40	1967	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0048867	Closely Watched Trains	tt0060802	Czechoslovakia			True
+40	1967	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		El Amor Brujo		Spain
+40	1967	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0048869	I Even Met Happy Gypsies	tt0062277	Yugoslavia
+40	1967	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0048870	Live for Life	tt0062452	France
+40	1967	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		Portrait of Chieko		Japan
 40	1967	Music	MUSIC (Original Score)	MUSIC (Original Music Score)	an0048841	Cool Hand Luke	tt0061512	Lalo Schifrin	Lalo Schifrin	nm0006277
 40	1967	Music	MUSIC (Original Score)	MUSIC (Original Music Score)	an0048842	Doctor Dolittle	tt0061584	Leslie Bricusse	Leslie Bricusse	nm0108634
 40	1967	Music	MUSIC (Original Score)	MUSIC (Original Music Score)	an0048843	Far from the Madding Crowd	tt0061648	Richard Rodney Bennett	Richard Rodney Bennett	nm0005961
@@ -4846,11 +4846,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 41	1968	Production	FILM EDITING	FILM EDITING	an0055671	The Odd Couple	tt0063374	Frank Bracht	Frank Bracht	nm0102758
 41	1968	Production	FILM EDITING	FILM EDITING	an0055672	Oliver!	tt0063385	Ralph Kemplen	Ralph Kemplen	nm0447469
 41	1968	Production	FILM EDITING	FILM EDITING	an0055673	Wild in the Streets	tt0063808	Fred Feitshans, Eve Newman	Fred Feitshans, Eve Newman	nm0270808,nm0628085
-41	1968	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0055710	The Boys of Paul Street	tt0062164	Hungary	Hungary	?
-41	1968	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0055711	The Firemen's Ball	tt0061781	Czechoslovakia	Czechoslovakia	?
-41	1968	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		The Girl with the Pistol		Italy	Italy
-41	1968	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0055713	Stolen Kisses	tt0062695	France	France	?
-41	1968	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0055709	War and Peace	tt0063794	Union of Soviet Socialist Republics	Union of Soviet Socialist Republics	?	True
+41	1968	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0055710	The Boys of Paul Street	tt0062164	Hungary
+41	1968	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0055711	The Firemen's Ball	tt0061781	Czechoslovakia
+41	1968	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		The Girl with the Pistol		Italy
+41	1968	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0055713	Stolen Kisses	tt0062695	France
+41	1968	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0055709	War and Peace	tt0063794	Union of Soviet Socialist Republics			True
 41	1968	Music	MUSIC (Original Score)	MUSIC (Original Score--for a motion picture [not a musical])	an0055682	The Fox	tt0062990	Lalo Schifrin	Lalo Schifrin	nm0006277
 41	1968	Music	MUSIC (Original Score)	MUSIC (Original Score--for a motion picture [not a musical])	an0055681	The Lion in Winter	tt0063227	John Barry	John Barry	nm0000290	True
 41	1968	Music	MUSIC (Original Score)	MUSIC (Original Score--for a motion picture [not a musical])	an0055683	Planet of the Apes	tt0063442	Jerry Goldsmith	Jerry Goldsmith	nm0000025
@@ -4965,11 +4965,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 42	1969	Production	FILM EDITING	FILM EDITING	an0056437	The Secret of Santa Vittoria	tt0064952	William Lyon, Earle Herdan	William Lyon, Earle Herdan	nm0528995,nm0378804
 42	1969	Production	FILM EDITING	FILM EDITING	an0056438	They Shoot Horses, Don't They?	tt0065088	Fredric Steinkamp	Fredric Steinkamp	nm0826114
 42	1969	Production	FILM EDITING	FILM EDITING	an0056434	Z	tt0065234	Françoise Bonnot	Françoise Bonnot	nm0095089	True
-42	1969	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0056473	Ådalen '31	tt0065261	Sweden	Sweden	?
-42	1969	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0056474	The Battle of Neretva	tt0064091	Yugoslavia	Yugoslavia	?
-42	1969	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0056475	The Brothers Karamazov	tt0062757	Union of Soviet Socialist Republics	Union of Soviet Socialist Republics	?
-42	1969	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0056476	My Night at Maud's	tt0064612	France	France	?				NOTE: Film received its 1969 nomination under the title My Night with Maud. It had no US distributor at the time.
-42	1969	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0056472	Z	tt0065234	Algeria	Algeria	?	True
+42	1969	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0056473	Ådalen '31	tt0065261	Sweden
+42	1969	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0056474	The Battle of Neretva	tt0064091	Yugoslavia
+42	1969	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0056475	The Brothers Karamazov	tt0062757	Union of Soviet Socialist Republics
+42	1969	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0056476	My Night at Maud's	tt0064612	France						NOTE: Film received its 1969 nomination under the title My Night with Maud. It had no US distributor at the time.
+42	1969	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0056472	Z	tt0065234	Algeria			True
 42	1969	Music	MUSIC (Original Score)	MUSIC (Original Score--for a motion picture [not a musical])	an0056447	Anne of the Thousand Days	tt0064030	Georges Delerue	Georges Delerue	nm0000016
 42	1969	Music	MUSIC (Original Score)	MUSIC (Original Score--for a motion picture [not a musical])	an0056446	Butch Cassidy and the Sundance Kid	tt0064115	Burt Bacharach	Burt Bacharach	nm0000820	True
 42	1969	Music	MUSIC (Original Score)	MUSIC (Original Score--for a motion picture [not a musical])	an0056448	The Reivers	tt0064886	John Williams	John Williams	nm0002354
@@ -5077,11 +5077,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 43	1970	Production	FILM EDITING	FILM EDITING	an0055931	Patton	tt0066206	Hugh S. Fowler	Hugh S. Fowler	nm0288719	True
 43	1970	Production	FILM EDITING	FILM EDITING	an0055934	Tora! Tora! Tora!	tt0066473	James E. Newcom, Pembroke J. Herring, Inoue Chikaya	James E. Newcom, Pembroke J. Herring, Inoue Chikaya	nm0627727,nm0380670,?
 43	1970	Production	FILM EDITING	FILM EDITING	an0055935	Woodstock	tt0066580	Thelma Schoonmaker	Thelma Schoonmaker	nm0774817
-43	1970	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0055970	First Love	tt0065703	Switzerland	Switzerland	?
-43	1970	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0055971	Hoa-Binh	tt0065838	France	France	?
-43	1970	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0055969	Investigation of a Citizen above Suspicion	tt0065889	Italy	Italy	?	True
-43	1970	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		Paix Sur Les Champs		Belgium	Belgium
-43	1970	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0055973	Tristana	tt0066491	Spain	Spain	?
+43	1970	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0055970	First Love	tt0065703	Switzerland
+43	1970	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0055971	Hoa-Binh	tt0065838	France
+43	1970	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0055969	Investigation of a Citizen above Suspicion	tt0065889	Italy			True
+43	1970	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		Paix Sur Les Champs		Belgium
+43	1970	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0055973	Tristana	tt0066491	Spain
 43	1970	Music	MUSIC (Original Score)	MUSIC (Original Score)	an0055944	Airport	tt0065377	Alfred Newman	Alfred Newman	nm0000055
 43	1970	Music	MUSIC (Original Score)	MUSIC (Original Score)	an0055945	Cromwell	tt0065593	Frank Cordell	Frank Cordell	nm0179460
 43	1970	Music	MUSIC (Original Score)	MUSIC (Original Score)	an0055943	Love Story	tt0066011	Francis Lai	Francis Lai	nm0006162	True
@@ -5189,11 +5189,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 44	1971	Production	FILM EDITING	FILM EDITING	an0057025	The French Connection	tt0067116	Jerry Greenberg	Jerry Greenberg	?	True
 44	1971	Production	FILM EDITING	FILM EDITING	an0057028	Kotch	tt0067314	Ralph E. Winters	Ralph E. Winters	nm0935988
 44	1971	Production	FILM EDITING	FILM EDITING	an0057029	Summer of '42	tt0067803	Folmar Blangsted	Folmar Blangsted	nm0087467
-44	1971	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0057064	Dodes'ka-Den	tt0065649	Japan	Japan	?
-44	1971	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0057065	The Emigrants	tt0067919	Sweden	Sweden	?
-44	1971	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347220	The Garden of the Finzi Continis	tt0065777	Italy	Italy	?	True
-44	1971	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0057066	The Policeman	tt0066374	Israel	Israel	?
-44	1971	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0057067	Tchaikovsky	tt0065127	Union of Soviet Socialist Republics	Union of Soviet Socialist Republics	?
+44	1971	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0057064	Dodes'ka-Den	tt0065649	Japan
+44	1971	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0057065	The Emigrants	tt0067919	Sweden
+44	1971	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347220	The Garden of the Finzi Continis	tt0065777	Italy			True
+44	1971	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0057066	The Policeman	tt0066374	Israel
+44	1971	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0057067	Tchaikovsky	tt0065127	Union of Soviet Socialist Republics
 44	1971	Music	MUSIC (Original Score)	MUSIC (Original Dramatic Score)	an0057036	Mary, Queen of Scots	tt0067402	John Barry	John Barry	nm0000290
 44	1971	Music	MUSIC (Original Score)	MUSIC (Original Dramatic Score)	an0057037	Nicholas and Alexandra	tt0067483	Richard Rodney Bennett	Richard Rodney Bennett	nm0005961
 44	1971	Music	MUSIC (Original Score)	MUSIC (Original Dramatic Score)	an0057038	Shaft	tt0067741	Isaac Hayes	Isaac Hayes	nm0005002
@@ -5299,11 +5299,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 45	1972	Production	FILM EDITING	FILM EDITING	an0053996	The Godfather	tt0068646	William Reynolds, Peter Zinner	William Reynolds, Peter Zinner	nm0722000,nm0957038
 45	1972	Production	FILM EDITING	FILM EDITING	an0053997	The Hot Rock	tt0068718	Frank P. Keller, Fred W. Berger	Frank P. Keller, Fred W. Berger	nm0445628,nm0074179
 45	1972	Production	FILM EDITING	FILM EDITING	an0053998	The Poseidon Adventure	tt0069113	Harold F. Kress	Harold F. Kress	nm0470932
-45	1972	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0054030	The Dawns Here Are Quiet	tt0068161	Union of Soviet Socialist Republics	Union of Soviet Socialist Republics	?
-45	1972	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0054029	The Discreet Charm of the Bourgeoisie	tt0068361	France	France	?	True
-45	1972	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0054031	I Love You Rosa	tt0068213	Israel	Israel	?
-45	1972	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		My Dearest Señorita		Spain	Spain
-45	1972	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0054033	The New Land	tt0069035	Sweden	Sweden	?
+45	1972	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0054030	The Dawns Here Are Quiet	tt0068161	Union of Soviet Socialist Republics
+45	1972	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0054029	The Discreet Charm of the Bourgeoisie	tt0068361	France			True
+45	1972	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0054031	I Love You Rosa	tt0068213	Israel
+45	1972	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		My Dearest Señorita		Spain
+45	1972	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0054033	The New Land	tt0069035	Sweden
 45	1972	Music	MUSIC (Original Score)	MUSIC (Original Dramatic Score)	an0054009	The Godfather	tt0068646	Nino Rota	Nino Rota	nm0000065				NOTE: THIS IS NOT AN OFFICIAL NOMINATION. The Godfather score, composed by Nino Rota, was originally announced as one of the five official nominees. It was later pointed out that portions of the score and the main theme were composed by Rota for his score to the 1958 Italian film, Fortunella. The Music Branch was given this information and re-balloted to determine the fifth nomination. The list of six films they were to choose from were the remaining five of the top ten preliminary listings, plus The Godfather score. The results of the re-balloting was that the fifth nomination became Sleuth, composed by John Addison.
 45	1972	Music	MUSIC (Original Score)	MUSIC (Original Dramatic Score)	an0054005	images	tt0068732	John Williams	John Williams	nm0002354
 45	1972	Music	MUSIC (Original Score)	MUSIC (Original Dramatic Score)	an0054004	Limelight	tt0044837	Charles Chaplin, Raymond Rasch, Larry Russell	Charles Chaplin, Raymond Rasch, Larry Russell	nm0000122,nm0711050,nm0751282	True
@@ -5412,11 +5412,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 46	1973	Production	FILM EDITING	FILM EDITING	an0385639	The Exorcist	tt0070047	Jordan Leondopoulos, Bud Smith, Evan Lottman, Norman Gay	Jordan Leondopoulos, Bud Smith, Evan Lottman, Norman Gay	nm4362797,nm0807573,nm0521554,nm0310797
 46	1973	Production	FILM EDITING	FILM EDITING	an0385304	Jonathan Livingston Seagull	tt0070248	Frank P. Keller, James Galloway	Frank P. Keller, James Galloway	nm0445628,nm0303178
 46	1973	Production	FILM EDITING	FILM EDITING	an0050487	The Sting	tt0070735	William Reynolds	William Reynolds	nm0722000	True
-46	1973	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0050521	Day for Night	tt0070460	France	France	?	True
-46	1973	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0050522	The House on Chelouche Street	tt0069771	Israel	Israel	?
-46	1973	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		L'Invitation		Switzerland	Switzerland
-46	1973	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0050524	The Pedestrian	tt0070086	West Germany	West Germany	?
-46	1973	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0050525	Turkish Delight	tt0070842	The Netherlands	The Netherlands	?
+46	1973	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0050521	Day for Night	tt0070460	France			True
+46	1973	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0050522	The House on Chelouche Street	tt0069771	Israel
+46	1973	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		L'Invitation		Switzerland
+46	1973	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0050524	The Pedestrian	tt0070086	West Germany
+46	1973	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0050525	Turkish Delight	tt0070842	The Netherlands
 46	1973	Music	MUSIC (Original Score)	MUSIC (Original Dramatic Score)	an0050498	Cinderella Liberty	tt0069883	John Williams	John Williams	nm0002354
 46	1973	Music	MUSIC (Original Score)	MUSIC (Original Dramatic Score)	an0050499	The Day of the Dolphin	tt0069946	Georges Delerue	Georges Delerue	nm0000016
 46	1973	Music	MUSIC (Original Score)	MUSIC (Original Dramatic Score)	an0050500	Papillon	tt0070511	Jerry Goldsmith	Jerry Goldsmith	nm0000025
@@ -5521,11 +5521,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 47	1974	Production	FILM EDITING	FILM EDITING	an0053390	Earthquake	tt0071455	Dorothy Spencer	Dorothy Spencer	nm0817929
 47	1974	Production	FILM EDITING	FILM EDITING	an0053391	The Longest Yard	tt0071771	Michael Luciano	Michael Luciano	nm0524597
 47	1974	Production	FILM EDITING	FILM EDITING	an0053387	The Towering Inferno	tt0072308	Harold F. Kress, Carl Kress	Harold F. Kress, Carl Kress	nm0470932,nm0470927	True
-47	1974	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0053425	Amarcord	tt0071129	Italy	Italy	?	True
-47	1974	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0053426	Cats' Play	tt0068891	Hungary	Hungary	?
-47	1974	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0053427	The Deluge	tt0072021	Poland	Poland	?
-47	1974	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0053428	Lacombe, Lucien	tt0071733	France	France	?
-47	1974	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0053429	The Truce	tt0072315	Argentina	Argentina	?
+47	1974	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0053425	Amarcord	tt0071129	Italy			True
+47	1974	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0053426	Cats' Play	tt0068891	Hungary
+47	1974	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0053427	The Deluge	tt0072021	Poland
+47	1974	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0053428	Lacombe, Lucien	tt0071733	France
+47	1974	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0053429	The Truce	tt0072315	Argentina
 47	1974	Music	MUSIC (Original Score)	MUSIC (Original Dramatic Score)	an0053398	Chinatown	tt0071315	Jerry Goldsmith	Jerry Goldsmith	nm0000025
 47	1974	Music	MUSIC (Original Score)	MUSIC (Original Dramatic Score)	an0053397	The Godfather Part II	tt0071562	Nino Rota, Carmine Coppola	Nino Rota, Carmine Coppola	nm0000065,nm0178874	True
 47	1974	Music	MUSIC (Original Score)	MUSIC (Original Dramatic Score)	an0053399	Murder on the Orient Express	tt0071877	Richard Rodney Bennett	Richard Rodney Bennett	nm0005961
@@ -5635,11 +5635,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 48	1975	Production	FILM EDITING	FILM EDITING	an0051348	The Man Who Would Be King	tt0073341	Russell Lloyd	Russell Lloyd	nm0516125
 48	1975	Production	FILM EDITING	FILM EDITING	an0051349	One Flew over the Cuckoo's Nest	tt0073486	Richard Chew, Lynzee Klingman, Sheldon Kahn	Richard Chew, Lynzee Klingman, Sheldon Kahn	nm0156816,nm0459806,nm0434922
 48	1975	Production	FILM EDITING	FILM EDITING	an0051350	Three Days of the Condor	tt0073802	Fredric Steinkamp, Don Guidice	Fredric Steinkamp, Don Guidice	nm0826114,nm0346756
-48	1975	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0051383	Dersu Uzala	tt0071411	Union of Soviet Socialist Republics	Union of Soviet Socialist Republics	?	True
-48	1975	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		Land of Promise		Poland	Poland
-48	1975	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0051384	Letters from Marusia	tt0072601	Mexico	Mexico	?
-48	1975	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		Sandakan No. 8		Japan	Japan
-48	1975	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0051385	Scent of a Woman	tt0072037	Italy	Italy	?
+48	1975	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0051383	Dersu Uzala	tt0071411	Union of Soviet Socialist Republics			True
+48	1975	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		Land of Promise		Poland
+48	1975	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0051384	Letters from Marusia	tt0072601	Mexico
+48	1975	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		Sandakan No. 8		Japan
+48	1975	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0051385	Scent of a Woman	tt0072037	Italy
 48	1975	Music	MUSIC (Original Score)	MUSIC (Original Score)	an0051357	Birds Do It, Bees Do It	tt0072703	Gerald Fried	Gerald Fried	nm0006086
 48	1975	Music	MUSIC (Original Score)	MUSIC (Original Score)	an0051358	Bite the Bullet	tt0072705	Alex North	Alex North	nm0006218
 48	1975	Music	MUSIC (Original Score)	MUSIC (Original Score)	an0051356	Jaws	tt0073195	John Williams	John Williams	nm0002354	True
@@ -5751,11 +5751,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 49	1976	Production	FILM EDITING	FILM EDITING	an0054593	Network	tt0074958	Alan Heim	Alan Heim	nm0374189
 49	1976	Production	FILM EDITING	FILM EDITING	an0054590	Rocky	tt0075148	Richard Halsey, Scott Conrad	Richard Halsey, Scott Conrad	nm0357041,nm0175722	True
 49	1976	Production	FILM EDITING	FILM EDITING	an0054594	Two-Minute Warning	tt0075359	Eve Newman, Walter Hannemann	Eve Newman, Walter Hannemann	nm0628085,nm0360385
-49	1976	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347218	Black and White in Color	tt0074972	Ivory Coast	Ivory Coast	?	True
-49	1976	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0054627	Cousin, Cousine	tt0072826	France	France	?
-49	1976	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0054628	Jacob, the Liar	tt0071688	German Democratic Republic	German Democratic Republic	?
-49	1976	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		Nights and Days		Poland	Poland
-49	1976	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0054630	Seven Beauties	tt0075040	Italy	Italy	?
+49	1976	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347218	Black and White in Color	tt0074972	Ivory Coast			True
+49	1976	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0054627	Cousin, Cousine	tt0072826	France
+49	1976	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0054628	Jacob, the Liar	tt0071688	German Democratic Republic
+49	1976	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		Nights and Days		Poland
+49	1976	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0054630	Seven Beauties	tt0075040	Italy
 49	1976	Music	MUSIC (Original Score)	MUSIC (Original Score)	an0054601	Obsession	tt0074991	Bernard Herrmann	Bernard Herrmann	nm0002136
 49	1976	Music	MUSIC (Original Score)	MUSIC (Original Score)	an0054600	The Omen	tt0075005	Jerry Goldsmith	Jerry Goldsmith	nm0000025	True
 49	1976	Music	MUSIC (Original Score)	MUSIC (Original Score)	an0054602	The Outlaw Josey Wales	tt0075029	Jerry Fielding	Jerry Fielding	nm0006076
@@ -5862,11 +5862,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 50	1977	Production	FILM EDITING	FILM EDITING	an0051057	Smokey and the Bandit	tt0076729	Walter Hannemann, Angelo Ross	Walter Hannemann, Angelo Ross	nm0360385,nm0743207
 50	1977	Production	FILM EDITING	FILM EDITING	an0051054	Star Wars	tt0076759	Paul Hirsch, Marcia Lucas, Richard Chew	Paul Hirsch, Marcia Lucas, Richard Chew	nm0386532,nm0524235,nm0156816	True
 50	1977	Production	FILM EDITING	FILM EDITING	an0051058	The Turning Point	tt0076843	William Reynolds	William Reynolds	nm0722000
-50	1977	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0051094	Iphigenia	tt0076208	Greece	Greece	?
-50	1977	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0051093	Madame Rosa	tt0076348	France	France	?	True
-50	1977	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0051095	Operation Thunderbolt	tt0076398	Israel	Israel	?
-50	1977	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0051096	A Special Day	tt0076085	Italy	Italy	?
-50	1977	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0051097	That Obscure Object of Desire	tt0075824	Spain	Spain	?
+50	1977	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0051094	Iphigenia	tt0076208	Greece
+50	1977	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0051093	Madame Rosa	tt0076348	France			True
+50	1977	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0051095	Operation Thunderbolt	tt0076398	Israel
+50	1977	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0051096	A Special Day	tt0076085	Italy
+50	1977	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0051097	That Obscure Object of Desire	tt0075824	Spain
 50	1977	Music	MUSIC (Original Score)	MUSIC (Original Score)	an0051067	Close Encounters of the Third Kind	tt0075860	John Williams	John Williams	nm0002354
 50	1977	Music	MUSIC (Original Score)	MUSIC (Original Score)	an0051068	Julia	tt0076245	Georges Delerue	Georges Delerue	nm0000016
 50	1977	Music	MUSIC (Original Score)	MUSIC (Original Score)	an0051069	Mohammad - Messenger of God	tt0074896	Maurice Jarre	Maurice Jarre	nm0003574
@@ -5986,11 +5986,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 51	1978	Production	FILM EDITING	FILM EDITING	an0050179	The Deer Hunter	tt0077416	Peter Zinner	Peter Zinner	nm0957038	True
 51	1978	Production	FILM EDITING	FILM EDITING	an0050182	Midnight Express	tt0077928	Gerry Hambling	Gerry Hambling	nm0357421
 51	1978	Production	FILM EDITING	FILM EDITING	an0050183	Superman	tt0078346	Stuart Baird	Stuart Baird	nm0000829
-51	1978	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0050214	Get Out Your Handkerchiefs	tt0078122	France	France	?	True
-51	1978	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0050215	The Glass Cell	tt0077615	German Federal Republic	German Federal Republic	?
-51	1978	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		Hungarians		Hungary	Hungary
-51	1978	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0050217	Viva Italia!	tt0078012	Italy	Italy	?
-51	1978	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		White Bim Black Ear		Union of Soviet Socialist Republics	Union of Soviet Socialist Republics
+51	1978	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0050214	Get Out Your Handkerchiefs	tt0078122	France			True
+51	1978	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0050215	The Glass Cell	tt0077615	German Federal Republic
+51	1978	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		Hungarians		Hungary
+51	1978	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0050217	Viva Italia!	tt0078012	Italy
+51	1978	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		White Bim Black Ear		Union of Soviet Socialist Republics
 51	1978	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Adaptation Score)	an0050194	The Buddy Holly Story	tt0077280	Joe Renzetti	Joe Renzetti	nm0006250	True
 51	1978	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Adaptation Score)	an0050195	Pretty Baby	tt0078111	Jerry Wexler	Jerry Wexler	nm0923310
 51	1978	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Adaptation Score)	an0050196	The Wiz	tt0078504	Quincy Jones	Quincy Jones	nm0005065
@@ -6105,11 +6105,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 52	1979	Production	FILM EDITING	FILM EDITING	an0057130	The Black Stallion	tt0078872	Robert Dalva	Robert Dalva	nm0198395
 52	1979	Production	FILM EDITING	FILM EDITING	an0057131	Kramer vs. Kramer	tt0079417	Jerry Greenberg	Jerry Greenberg	?
 52	1979	Production	FILM EDITING	FILM EDITING	an0057132	The Rose	tt0079826	Robert L. Wolfe, C. Timothy O'Meara	Robert L. Wolfe, C. Timothy O'Meara	nm0938130,nm0641839
-52	1979	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0057170	The Maids of Wilko	tt0079696	Poland	Poland	?
-52	1979	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		Mama Turns a Hundred		Spain	Spain
-52	1979	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0057172	A Simple Story	tt0075975	France	France	?
-52	1979	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0057169	The Tin Drum	tt0078875	Federal Republic of Germany	Federal Republic of Germany	?	True
-52	1979	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0057173	To Forget Venice	tt0079054	Italy	Italy	?
+52	1979	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0057170	The Maids of Wilko	tt0079696	Poland
+52	1979	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		Mama Turns a Hundred		Spain
+52	1979	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0057172	A Simple Story	tt0075975	France
+52	1979	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0057169	The Tin Drum	tt0078875	Federal Republic of Germany			True
+52	1979	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0057173	To Forget Venice	tt0079054	Italy
 52	1979	Music	MUSIC (Original Score)	MUSIC (Original Score)	an0057144	The Amityville Horror	tt0078767	Lalo Schifrin	Lalo Schifrin	nm0006277
 52	1979	Music	MUSIC (Original Score)	MUSIC (Original Score)	an0057145	The Champ	tt0078950	Dave Grusin	Dave Grusin	nm0006115
 52	1979	Music	MUSIC (Original Score)	MUSIC (Original Score)	an0057143	A Little Romance	tt0079477	Georges Delerue	Georges Delerue	nm0000016	True
@@ -6229,11 +6229,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 53	1980	Production	FILM EDITING	FILM EDITING	an0054836	The Elephant Man	tt0080678	Anne V. Coates	Anne V. Coates	nm0167613
 53	1980	Production	FILM EDITING	FILM EDITING	an0054837	Fame	tt0080716	Gerry Hambling	Gerry Hambling	nm0357421
 53	1980	Production	FILM EDITING	FILM EDITING	an0054833	Raging Bull	tt0081398	Thelma Schoonmaker	Thelma Schoonmaker	nm0774817	True
-53	1980	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0054865	Confidence	tt0078868	Hungary	Hungary	?
-53	1980	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0054866	Kagemusha (The Shadow Warrior)	tt0080979	Japan	Japan	?
-53	1980	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0054867	The Last Metro	tt0080610	France	France	?
-53	1980	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0054864	Moscow Does Not Believe in Tears	tt0079579	Union of Soviet Socialist Republics	Union of Soviet Socialist Republics	?	True
-53	1980	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		The Nest		Spain	Spain
+53	1980	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0054865	Confidence	tt0078868	Hungary
+53	1980	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0054866	Kagemusha (The Shadow Warrior)	tt0080979	Japan
+53	1980	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0054867	The Last Metro	tt0080610	France
+53	1980	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0054864	Moscow Does Not Believe in Tears	tt0079579	Union of Soviet Socialist Republics			True
+53	1980	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		The Nest		Spain
 53	1980	Music	MUSIC (Original Score)	MUSIC (Original Score)	an0054844	Altered States	tt0080360	John Corigliano	John Corigliano	nm0179858
 53	1980	Music	MUSIC (Original Score)	MUSIC (Original Score)	an0054845	The Elephant Man	tt0080678	John Morris	John Morris	nm0606657
 53	1980	Music	MUSIC (Original Score)	MUSIC (Original Score)	an0054846	The Empire Strikes Back	tt0080684	John Williams	John Williams	nm0002354
@@ -6341,11 +6341,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 54	1981	Production	FILM EDITING	FILM EDITING	an0049784	On Golden Pond	tt0082846	Robert L. Wolfe	Robert L. Wolfe	nm0938130
 54	1981	Production	FILM EDITING	FILM EDITING	an0049781	Raiders of the Lost Ark	tt0082971	Michael Kahn	Michael Kahn	nm0434883	True
 54	1981	Production	FILM EDITING	FILM EDITING	an0049785	Reds	tt0082979	Dede Allen, Craig McKay	Dede Allen, Craig McKay	nm0020441,nm0570947
-54	1981	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0049817	The Boat Is Full	tt0082095	Switzerland	Switzerland	?
-54	1981	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0049818	Man of Iron	tt0082222	Poland	Poland	?
-54	1981	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0049816	Mephisto	tt0082736	Hungary	Hungary	?	True
-54	1981	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0049819	Muddy River	tt0082280	Japan	Japan	?
-54	1981	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0049820	Three Brothers	tt0083226	Italy	Italy	?
+54	1981	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0049817	The Boat Is Full	tt0082095	Switzerland
+54	1981	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0049818	Man of Iron	tt0082222	Poland
+54	1981	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0049816	Mephisto	tt0082736	Hungary			True
+54	1981	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0049819	Muddy River	tt0082280	Japan
+54	1981	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0049820	Three Brothers	tt0083226	Italy
 54	1981	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0049798	An American Werewolf in London	tt0082010	Rick Baker	Rick Baker	nm0000711	True
 54	1981	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0049799	Heartbeeps	tt0082507	Stan Winston	Stan Winston	nm0935644
 54	1981	Music	MUSIC (Original Score)	MUSIC (Original Score)	an0049793	Chariots of Fire	tt0082158	Vangelis	Vangelis	nm0006331	True
@@ -6460,11 +6460,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 55	1982	Production	FILM EDITING	FILM EDITING	an0052019	Gandhi	tt0083987	John Bloom	John Bloom	nm0089182	True
 55	1982	Production	FILM EDITING	FILM EDITING	an0052022	An Officer and a Gentleman	tt0084434	Peter Zinner	Peter Zinner	nm0957038
 55	1982	Production	FILM EDITING	FILM EDITING	an0052023	Tootsie	tt0084805	Fredric Steinkamp, William Steinkamp	Fredric Steinkamp, William Steinkamp	nm0826114,nm0826119
-55	1982	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0052064	Alsino and the Condor	tt0083543	Nicaragua	Nicaragua	?
-55	1982	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		Coup de Torchon ('Clean Slate')		France	France
-55	1982	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0052066	The Flight of the Eagle	tt0084136	Sweden	Sweden	?
-55	1982	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0052067	Private Life	tt0083732	Union of Soviet Socialist Republics	Union of Soviet Socialist Republics	?
-55	1982	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		Volver a Empezar ('To Begin Again')		Spain	Spain		True
+55	1982	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0052064	Alsino and the Condor	tt0083543	Nicaragua
+55	1982	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		Coup de Torchon ('Clean Slate')		France
+55	1982	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0052066	The Flight of the Eagle	tt0084136	Sweden
+55	1982	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0052067	Private Life	tt0083732	Union of Soviet Socialist Republics
+55	1982	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		Volver a Empezar ('To Begin Again')		Spain			True
 55	1982	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0052044	Gandhi	tt0083987	Tom Smith	Tom Smith	nm0810182
 55	1982	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0052043	Quest for Fire	tt0082484	Sarah Monzani, Michèle Burke	Sarah Monzani, Michèle Burke	nm0600389,nm0121807	True
 55	1982	Music	MUSIC (Original Score)	MUSIC (Original Score)	an0052035	E.T. The Extra-Terrestrial	tt0083866	John Williams	John Williams	nm0002354	True
@@ -6583,11 +6583,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 56	1983	Production	FILM EDITING	FILM EDITING	an0052144	The Right Stuff	tt0086197	Glenn Farr, Lisa Fruchtman, Stephen A. Rotter, Douglas Stewart, Tom Rolf	Glenn Farr, Lisa Fruchtman, Stephen A. Rotter, Douglas Stewart, Tom Rolf	nm0268021,nm0296636,nm0745450,nm0829339,nm0738196	True
 56	1983	Production	FILM EDITING	FILM EDITING	an0052147	Silkwood	tt0086312	Sam O'Steen	Sam O'Steen	nm0642714
 56	1983	Production	FILM EDITING	FILM EDITING	an0052148	Terms of Endearment	tt0086425	Richard Marks	Richard Marks	nm0548943
-56	1983	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0052181	Carmen	tt0085297	Spain	Spain	?
-56	1983	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0052182	Entre Nous	tt0085370	France	France	?
-56	1983	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		Fanny & Alexander		Sweden	Sweden		True
-56	1983	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		Job's Revolt		Hungary	Hungary
-56	1983	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0052183	Le Bal	tt0085213	Algeria	Algeria	?
+56	1983	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0052181	Carmen	tt0085297	Spain
+56	1983	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0052182	Entre Nous	tt0085370	France
+56	1983	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		Fanny & Alexander		Sweden			True
+56	1983	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		Job's Revolt		Hungary
+56	1983	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0052183	Le Bal	tt0085213	Algeria
 56	1983	Music	MUSIC (Original Score)	MUSIC (Original Score)	an0052157	Cross Creek	tt0085380	Leonard Rosenman	Leonard Rosenman	nm0006260
 56	1983	Music	MUSIC (Original Score)	MUSIC (Original Score)	an0052158	Return of the Jedi	tt0086190	John Williams	John Williams	nm0002354
 56	1983	Music	MUSIC (Original Score)	MUSIC (Original Score)	an0052156	The Right Stuff	tt0086197	Bill Conti	Bill Conti	nm0006015	True
@@ -6698,11 +6698,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 57	1984	Production	FILM EDITING	FILM EDITING	an0052869	The Killing Fields	tt0087553	Jim Clark	Jim Clark	nm0164083	True
 57	1984	Production	FILM EDITING	FILM EDITING	an0052872	A Passage to India	tt0087892	David Lean	David Lean	nm0000180
 57	1984	Production	FILM EDITING	FILM EDITING	an0052873	Romancing the Stone	tt0088011	Donn Cambern, Frank Morriss	Donn Cambern, Frank Morriss	nm0131333,nm0607359
-57	1984	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0052910	Beyond the Walls	tt0087699	Israel	Israel	?
-57	1984	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0052911	Camila	tt0087027	Argentina	Argentina	?
-57	1984	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347215	Dangerous Moves	tt0087144	Switzerland	Switzerland	?	True
-57	1984	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0052912	Double Feature	tt0088090	Spain	Spain	?
-57	1984	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		Wartime Romance		Union of Soviet Socialist Republics	Union of Soviet Socialist Republics
+57	1984	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0052910	Beyond the Walls	tt0087699	Israel
+57	1984	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0052911	Camila	tt0087027	Argentina
+57	1984	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347215	Dangerous Moves	tt0087144	Switzerland			True
+57	1984	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0052912	Double Feature	tt0088090	Spain
+57	1984	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		Wartime Romance		Union of Soviet Socialist Republics
 57	1984	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0052890	Amadeus	tt0086879	Paul LeBlanc, Dick Smith	Paul LeBlanc, Dick Smith	nm0495741,nm0004615	True
 57	1984	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0052891	Greystoke: The Legend of Tarzan, Lord of the Apes	tt0087365	Rick Baker, Paul Engelen	Rick Baker, Paul Engelen	nm0000711,nm0257204
 57	1984	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0052892	2010	tt0086837	Michael Westmore	Michael Westmore	nm0922878
@@ -6818,11 +6818,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 58	1985	Production	FILM EDITING	FILM EDITING	an0048067	Prizzi's Honor	tt0089841	Rudi Fehr, Kaja Fehr	Rudi Fehr, Kaja Fehr	nm0270458,nm0270454
 58	1985	Production	FILM EDITING	FILM EDITING	an0048068	Runaway Train	tt0089941	Henry Richardson	Henry Richardson	nm0724572
 58	1985	Production	FILM EDITING	FILM EDITING	an0048064	Witness	tt0090329	Thom Noble	Thom Noble	nm0633677	True
-58	1985	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0048105	Angry Harvest	tt0088811	Federal Republic of Germany	Federal Republic of Germany	?
-58	1985	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0048106	Colonel Redl	tt0089716	Hungary	Hungary	?
-58	1985	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0048104	The Official Story	tt0089276	Argentina	Argentina	?	True
-58	1985	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0048107	Three Men and a Cradle	tt0090206	France	France	?
-58	1985	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0048108	When Father Was Away on Business	tt0089748	Yugoslavia	Yugoslavia	?
+58	1985	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0048105	Angry Harvest	tt0088811	Federal Republic of Germany
+58	1985	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0048106	Colonel Redl	tt0089716	Hungary
+58	1985	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0048104	The Official Story	tt0089276	Argentina			True
+58	1985	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0048107	Three Men and a Cradle	tt0090206	France
+58	1985	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0048108	When Father Was Away on Business	tt0089748	Yugoslavia
 58	1985	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0048086	The Color Purple	tt0088939	Ken Chase	Ken Chase	nm0153793
 58	1985	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0048085	Mask	tt0089560	Michael Westmore, Zoltan Elek	Michael Westmore, Zoltan Elek	nm0922878,nm0253227	True
 58	1985	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0048087	Remo Williams: The Adventure Begins	tt0089901	Carl Fullerton	Carl Fullerton	nm0298379
@@ -6934,11 +6934,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 59	1986	Production	FILM EDITING	FILM EDITING	an0049205	The Mission	tt0091530	Jim Clark	Jim Clark	nm0164083
 59	1986	Production	FILM EDITING	FILM EDITING	an0049202	Platoon	tt0091763	Claire Simpson	Claire Simpson	nm0800943	True
 59	1986	Production	FILM EDITING	FILM EDITING	an0049206	Top Gun	tt0092099	Billy Weber, Chris Lebenzon	Billy Weber, Chris Lebenzon	nm0916502,nm0495605
-59	1986	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0049242	The Assault	tt0090576	The Netherlands	The Netherlands	?	True
-59	1986	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0049243	Betty Blue	tt0090563	France	France	?
-59	1986	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0049244	The Decline of the American Empire	tt0090985	Canada	Canada	?
-59	1986	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0049245	My Sweet Little Village	tt0090257	Czechoslovakia	Czechoslovakia	?
-59	1986	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0049246	'38'	tt0090554	Austria	Austria	?
+59	1986	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0049242	The Assault	tt0090576	The Netherlands			True
+59	1986	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0049243	Betty Blue	tt0090563	France
+59	1986	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0049244	The Decline of the American Empire	tt0090985	Canada
+59	1986	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0049245	My Sweet Little Village	tt0090257	Czechoslovakia
+59	1986	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0049246	'38'	tt0090554	Austria
 59	1986	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0049224	The Clan of the Cave Bear	tt0090848	Michael G. Westmore, Michèle Burke	Michael G. Westmore, Michèle Burke	nm0922878,nm0121807
 59	1986	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0049223	The Fly	tt0091064	Chris Walas, Stephan Dupuis	Chris Walas, Stephan Dupuis	nm0906901,nm0243518	True
 59	1986	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0049225	Legend	tt0089469	Rob Bottin, Peter Robb-King	Rob Bottin, Peter Robb-King	nm0001964,nm0730228
@@ -7057,11 +7057,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 60	1987	Production	FILM EDITING	FILM EDITING	an0050957	Fatal Attraction	tt0093010	Michael Kahn, Peter E. Berger	Michael Kahn, Peter E. Berger	nm0434883,nm0074318
 60	1987	Production	FILM EDITING	FILM EDITING	an0050954	The Last Emperor	tt0093389	Gabriella Cristiani	Gabriella Cristiani	nm0188098	True
 60	1987	Production	FILM EDITING	FILM EDITING	an0050958	RoboCop	tt0093870	Frank J. Urioste	Frank J. Urioste	nm0881973
-60	1987	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		Au Revoir Les Enfants (Goodbye, Children)		France	France
-60	1987	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0050989	Babette's Feast	tt0092603	Denmark	Denmark	?	True
-60	1987	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0050991	Course Completed	tt0092584	Spain	Spain	?
-60	1987	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0050992	The Family	tt0093004	Italy	Italy	?
-60	1987	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0050993	Pathfinder	tt0093668	Norway	Norway	?
+60	1987	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		Au Revoir Les Enfants (Goodbye, Children)		France
+60	1987	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0050989	Babette's Feast	tt0092603	Denmark			True
+60	1987	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0050991	Course Completed	tt0092584	Spain
+60	1987	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0050992	The Family	tt0093004	Italy
+60	1987	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0050993	Pathfinder	tt0093668	Norway
 60	1987	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0050972	Happy New Year	tt0093145	Bob Laden	Bob Laden	?
 60	1987	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0050971	Harry and the Hendersons	tt0093148	Rick Baker	Rick Baker	nm0000711	True
 60	1987	Music	MUSIC (Original Score)	MUSIC (Original Score)	an0050967	Cry Freedom	tt0092804	George Fenton, Jonas Gwangwa	George Fenton, Jonas Gwangwa	nm0006070,nm0350308
@@ -7175,11 +7175,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 61	1988	Production	FILM EDITING	FILM EDITING	an0054359	Mississippi Burning	tt0095647	Gerry Hambling	Gerry Hambling	nm0357421
 61	1988	Production	FILM EDITING	FILM EDITING	an0054360	Rain Man	tt0095953	Stu Linder	Stu Linder	nm0511742
 61	1988	Production	FILM EDITING	FILM EDITING	an0054356	Who Framed Roger Rabbit	tt0096438	Arthur Schmidt	Arthur Schmidt	nm0772831	True
-61	1988	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0054395	Hanussen	tt0095276	Hungary	Hungary	?
-61	1988	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0054396	The Music Teacher	tt0095606	Belgium	Belgium	?
-61	1988	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0054394	Pelle the Conqueror	tt0093713	Denmark	Denmark	?	True
-61	1988	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0054397	Salaam Bombay!	tt0096028	India	India	?
-61	1988	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0054398	Women on the Verge of a Nervous Breakdown	tt0095675	Spain	Spain	?
+61	1988	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0054395	Hanussen	tt0095276	Hungary
+61	1988	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0054396	The Music Teacher	tt0095606	Belgium
+61	1988	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0054394	Pelle the Conqueror	tt0093713	Denmark			True
+61	1988	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0054397	Salaam Bombay!	tt0096028	India
+61	1988	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0054398	Women on the Verge of a Nervous Breakdown	tt0095675	Spain
 61	1988	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0054375	Beetlejuice	tt0094721	Ve Neill, Steve La Porte, Robert Short	Ve Neill, Steve La Porte, Robert Short	nm0624763,nm0478867,nm0324271	True
 61	1988	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0054376	Coming to America	tt0094898	Rick Baker	Rick Baker	nm0000711
 61	1988	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0054377	Scrooged	tt0096061	Tom Burman, Bari Dreiband-Burman	Tom Burman, Bari Dreiband-Burman	?,nm0237412
@@ -7295,11 +7295,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 62	1989	Production	FILM EDITING	FILM EDITING	an0052768	Driving Miss Daisy	tt0097239	Mark Warner	Mark Warner	nm0912536
 62	1989	Production	FILM EDITING	FILM EDITING	an0052769	The Fabulous Baker Boys	tt0097322	William Steinkamp	William Steinkamp	nm0826119
 62	1989	Production	FILM EDITING	FILM EDITING	an0052770	Glory	tt0097441	Steven Rosenblum	Steven Rosenblum	nm0742475
-62	1989	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0052805	Camille Claudel	tt0094828	France	France	?
-62	1989	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0052804	Cinema Paradiso	tt0095765	Italy	Italy	?	True
-62	1989	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0052806	Jesus of Montreal	tt0097635	Canada	Canada	?
-62	1989	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		Waltzing Regitze		Denmark	Denmark
-62	1989	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		What Happened to Santiago		Puerto Rico	Puerto Rico
+62	1989	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0052805	Camille Claudel	tt0094828	France
+62	1989	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0052804	Cinema Paradiso	tt0095765	Italy			True
+62	1989	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0052806	Jesus of Montreal	tt0097635	Canada
+62	1989	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		Waltzing Regitze		Denmark
+62	1989	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		What Happened to Santiago		Puerto Rico
 62	1989	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0052778	The Adventures of Baron Munchausen	tt0096764	Maggie Weston, Fabrizio Sforza	Maggie Weston, Fabrizio Sforza	nm1461907,nm0786969
 62	1989	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0052779	Dad	tt0097142	Dick Smith, Ken Diaz, Greg Nelson	Dick Smith, Ken Diaz, Greg Nelson	nm0004615,nm0225004,nm0625397
 62	1989	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0052777	Driving Miss Daisy	tt0097239	Manlio Rocchetti, Lynn Barber, Kevin Haney	Manlio Rocchetti, Lynn Barber, Kevin Haney	nm0733647,nm0053430,nm0359790	True
@@ -7411,11 +7411,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 63	1990	Production	FILM EDITING	FILM EDITING	an0053134	The Godfather, Part III	tt0099674	Barry Malkin, Lisa Fruchtman, Walter Murch	Barry Malkin, Lisa Fruchtman, Walter Murch	nm0539794,nm0296636,nm0004555
 63	1990	Production	FILM EDITING	FILM EDITING	an0053135	Good Fellas	tt0099685	Thelma Schoonmaker	Thelma Schoonmaker	nm0774817
 63	1990	Production	FILM EDITING	FILM EDITING	an0053136	The Hunt for Red October	tt0099810	Dennis Virkler, John Wright	Dennis Virkler, John Wright	nm0899398,nm0942510
-63	1990	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347210	Cyrano de Bergerac	tt0099334	France	France	?
-63	1990	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347209	Journey of Hope	tt0100470	Switzerland	Switzerland	?	True
-63	1990	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347213	Ju Dou	tt0099902	People's Republic of China	People's Republic of China	?
-63	1990	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347211	The Nasty Girl	tt0100557	Germany	Germany	?
-63	1990	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347212	Open Doors	tt0100389	Italy	Italy	?
+63	1990	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347210	Cyrano de Bergerac	tt0099334	France
+63	1990	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347209	Journey of Hope	tt0100470	Switzerland			True
+63	1990	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347213	Ju Dou	tt0099902	People's Republic of China
+63	1990	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347211	The Nasty Girl	tt0100557	Germany
+63	1990	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347212	Open Doors	tt0100389	Italy
 63	1990	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0053141	Cyrano de Bergerac	tt0099334	Michèle Burke, Jean-Pierre Eychenne	Michèle Burke, Jean-Pierre Eychenne	nm0121807,nm0264108
 63	1990	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0053140	Dick Tracy	tt0099422	John Caglione, Jr., Doug Drexler	John Caglione Jr., Doug Drexler	nm0128550,nm0237774	True
 63	1990	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0053142	Edward Scissorhands	tt0099487	Ve Neill, Stan Winston	Ve Neill, Stan Winston	nm0624763,nm0935644
@@ -7539,11 +7539,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 64	1991	Production	FILM EDITING	FILM EDITING	an0049493	The Silence of the Lambs	tt0102926	Craig McKay	Craig McKay	nm0570947
 64	1991	Production	FILM EDITING	FILM EDITING	an0049494	Terminator 2: Judgment Day	tt0103064	Conrad Buff, Mark Goldblatt, Richard A. Harris	Conrad Buff, Mark Goldblatt, Richard A. Harris	nm0119322,nm0325358,nm0365239
 64	1991	Production	FILM EDITING	FILM EDITING	an0049495	Thelma & Louise	tt0103074	Thom Noble	Thom Noble	nm0633677
-64	1991	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347202	Children of Nature	tt0101526	Iceland	Iceland	?
-64	1991	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347201	The Elementary School	tt0102571	Czechoslovakia	Czechoslovakia	?
-64	1991	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347199	Mediterraneo	tt0102426	Italy	Italy	?	True
-64	1991	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347200	The Ox	tt0102619	Sweden	Sweden	?
-64	1991	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347203	Raise the Red Lantern	tt0101640	Hong Kong	Hong Kong	?
+64	1991	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347202	Children of Nature	tt0101526	Iceland
+64	1991	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347201	The Elementary School	tt0102571	Czechoslovakia
+64	1991	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347199	Mediterraneo	tt0102426	Italy			True
+64	1991	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347200	The Ox	tt0102619	Sweden
+64	1991	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347203	Raise the Red Lantern	tt0101640	Hong Kong
 64	1991	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0049503	Hook	tt0102057	Christina Smith, Monty Westmore, Greg Cannom	Christina Smith, Monty Westmore, Greg Cannom	nm0807702,nm0922881,nm0134148
 64	1991	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0049504	Star Trek VI The Undiscovered Country	tt0102975	Michael Mills, Edward French, Richard Snell	Michael Mills, Edward French, Richard Snell	nm0590114,?,nm0811057
 64	1991	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0049502	Terminator 2: Judgment Day	tt0103064	Stan Winston, Jeff Dawn	Stan Winston, Jeff Dawn	nm0935644,nm0206015	True
@@ -7664,11 +7664,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 65	1992	Production	FILM EDITING	FILM EDITING	an0050381	A Few Good Men	tt0104257	Robert Leighton	Robert Leighton	nm0500371
 65	1992	Production	FILM EDITING	FILM EDITING	an0050382	The Player	tt0105151	Geraldine Peroni	Geraldine Peroni	nm0674419
 65	1992	Production	FILM EDITING	FILM EDITING	an0050378	Unforgiven	tt0105695	Joel Cox	Joel Cox	nm0185088	True
-65	1992	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347193	Close to Eden	tt0103176	Russia	Russia	?
-65	1992	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347192	Daens	tt0104046	Belgium	Belgium	?
-65	1992	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347189	Indochine	tt0104507	France	France	?	True
-65	1992	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347190	A Place in the World	tt0104774	Uruguay	Uruguay	?				NOTE: THIS IS NOT AN OFFICIAL NOMINATION. After nominations were announced, information came to light that showed that this film was wholly produced in Argentina, and had insufficient Uruguayan artistic control. The film was declared ineligible and removed from the final ballot.
-65	1992	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347191	Schtonk!	tt0105328	Germany	Germany	?
+65	1992	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347193	Close to Eden	tt0103176	Russia
+65	1992	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347192	Daens	tt0104046	Belgium
+65	1992	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347189	Indochine	tt0104507	France			True
+65	1992	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347190	A Place in the World	tt0104774	Uruguay						NOTE: THIS IS NOT AN OFFICIAL NOMINATION. After nominations were announced, information came to light that showed that this film was wholly produced in Argentina, and had insufficient Uruguayan artistic control. The film was declared ineligible and removed from the final ballot.
+65	1992	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347191	Schtonk!	tt0105328	Germany
 65	1992	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0050390	Batman Returns	tt0103776	Ve Neill, Ronnie Specter, Stan Winston	Ve Neill, Ronnie Specter, Stan Winston	nm0624763,nm0817463,nm0935644
 65	1992	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0050389	Bram Stoker's Dracula	tt0103874	Greg Cannom, Michèle Burke, Matthew W. Mungle	Greg Cannom, Michèle Burke, Matthew W. Mungle	nm0134148,nm0121807,nm0612817	True
 65	1992	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0050391	Hoffa	tt0104427	Ve Neill, Greg Cannom, John Blake	Ve Neill, Greg Cannom, John Blake	nm0624763,nm0134148,nm0086601
@@ -7788,11 +7788,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 66	1993	Production	FILM EDITING	FILM EDITING	an0049098	In the Name of the Father	tt0107207	Gerry Hambling	Gerry Hambling	nm0357421
 66	1993	Production	FILM EDITING	FILM EDITING	an0049099	The Piano	tt0107822	Veronika Jenet	Veronika Jenet	nm0353074
 66	1993	Production	FILM EDITING	FILM EDITING	an0049095	Schindler's List	tt0108052	Michael Kahn	Michael Kahn	nm0434883	True
-66	1993	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347176	Belle Epoque	tt0103791	Spain	Spain	?	True
-66	1993	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347177	Farewell My Concubine	tt0106332	Hong Kong	Hong Kong	?
-66	1993	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347180	Hedd Wyn	tt0104403	United Kingdom	United Kingdom	?
-66	1993	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347179	The Scent of Green Papaya	tt0107617	Vietnam	Vietnam	?
-66	1993	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347178	The Wedding Banquet	tt0107156	Taiwan	Taiwan	?
+66	1993	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347176	Belle Epoque	tt0103791	Spain			True
+66	1993	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347177	Farewell My Concubine	tt0106332	Hong Kong
+66	1993	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347180	Hedd Wyn	tt0104403	United Kingdom
+66	1993	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347179	The Scent of Green Papaya	tt0107617	Vietnam
+66	1993	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347178	The Wedding Banquet	tt0107156	Taiwan
 66	1993	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0049106	Mrs. Doubtfire	tt0107614	Greg Cannom, Ve Neill, Yolanda Toussieng	Greg Cannom, Ve Neill, Yolanda Toussieng	nm0134148,nm0624763,nm0869758	True
 66	1993	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0049107	Philadelphia	tt0107818	Carl Fullerton, Alan D'Angerio	Carl Fullerton, Alan D'Angerio	nm0298379,nm0195310
 66	1993	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0049108	Schindler's List	tt0108052	Christina Smith, Matthew Mungle, Judy Alexander Cory	Christina Smith, Matthew Mungle, Judy Alexander Cory	nm0807702,nm0612817,nm0181677
@@ -7909,11 +7909,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 67	1994	Production	FILM EDITING	FILM EDITING	an0053247	Pulp Fiction	tt0110912	Sally Menke	Sally Menke	nm0579673
 67	1994	Production	FILM EDITING	FILM EDITING	an0053248	The Shawshank Redemption	tt0111161	Richard Francis-Bruce	Richard Francis-Bruce	nm0290358
 67	1994	Production	FILM EDITING	FILM EDITING	an0053249	Speed	tt0111257	John Wright	John Wright	nm0942510
-67	1994	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347167	Before the Rain	tt0110882	The Former Yugoslav Republic of Macedonia	The Former Yugoslav Republic of Macedonia	?
-67	1994	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347166	Burnt by the Sun	tt0111579	Russia	Russia	?	True
-67	1994	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347170	Eat Drink Man Woman	tt0111797	Taiwan	Taiwan	?
-67	1994	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347169	Farinelli: Il Castrato	tt0109771	Belgium	Belgium	?
-67	1994	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		Strawberry and Chocolate		Cuba	Cuba
+67	1994	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347167	Before the Rain	tt0110882	The Former Yugoslav Republic of Macedonia
+67	1994	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347166	Burnt by the Sun	tt0111579	Russia			True
+67	1994	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347170	Eat Drink Man Woman	tt0111797	Taiwan
+67	1994	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347169	Farinelli: Il Castrato	tt0109771	Belgium
+67	1994	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		Strawberry and Chocolate		Cuba
 67	1994	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0053256	Ed Wood	tt0109707	Rick Baker, Ve Neill, Yolanda Toussieng	Rick Baker, Ve Neill, Yolanda Toussieng	nm0000711,nm0624763,nm0869758	True
 67	1994	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0053257	Forrest Gump	tt0109830	Daniel C. Striepeke, Hallie D'Amore, Judith A. Cory	Daniel C. Striepeke, Hallie D'Amore, Judith A. Cory	nm0834475,nm0195180,nm0181677
 67	1994	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0053258	Mary Shelley's Frankenstein	tt0109836	Daniel Parker, Paul Engelen, Carol Hemming	Daniel Parker, Paul Engelen, Carol Hemming	nm0662173,nm0257204,nm0376080
@@ -8047,11 +8047,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 68	1995	Production	FILM EDITING	FILM EDITING	an0051160	Braveheart	tt0112573	Steven Rosenblum	Steven Rosenblum	nm0742475
 68	1995	Production	FILM EDITING	FILM EDITING	an0051161	Crimson Tide	tt0112740	Chris Lebenzon	Chris Lebenzon	nm0495605
 68	1995	Production	FILM EDITING	FILM EDITING	an0051162	Seven	tt0114369	Richard Francis-Bruce	Richard Francis-Bruce	nm0290358
-68	1995	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		All Things Fair		Sweden	Sweden
-68	1995	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347155	Antonia's Line	tt0112379	The Netherlands	The Netherlands	?	True
-68	1995	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347158	Dust of Life	tt0110880	Algeria	Algeria	?
-68	1995	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347157	O Quatrilho	tt0114212	Brazil	Brazil	?
-68	1995	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347156	The Star Maker	tt0114808	Italy	Italy	?
+68	1995	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		All Things Fair		Sweden
+68	1995	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347155	Antonia's Line	tt0112379	The Netherlands			True
+68	1995	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347158	Dust of Life	tt0110880	Algeria
+68	1995	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347157	O Quatrilho	tt0114212	Brazil
+68	1995	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347156	The Star Maker	tt0114808	Italy
 68	1995	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0051168	Braveheart	tt0112573	Peter Frampton, Paul Pattison, Lois Burwell	Peter Frampton, Paul Pattison, Lois Burwell	nm0289760,nm0666519,nm0006627	True
 68	1995	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0051169	My Family, Mi Familia	tt0113896	Ken Diaz, Mark Sanchez	Ken Diaz, Mark Sanchez	nm0225004,nm0761006
 68	1995	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0051170	Roommates	tt0114296	Greg Cannom, Bob Laden, Colleen Callaghan	Greg Cannom, Bob Laden, Colleen Callaghan	nm0134148,?,nm0130128
@@ -8187,11 +8187,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 69	1996	Production	FILM EDITING	FILM EDITING	an0047817	Fargo	tt0116282	Roderick Jaynes	Roderick Jaynes	?
 69	1996	Production	FILM EDITING	FILM EDITING	an0047818	Jerry Maguire	tt0116695	Joe Hutshing	Joe Hutshing	nm0404528
 69	1996	Production	FILM EDITING	FILM EDITING	an0047819	Shine	tt0117631	Pip Karmel	Pip Karmel	nm0006729
-69	1996	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347147	A Chef in Love	tt0117050	Georgia	Georgia	?
-69	1996	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347145	Kolya	tt0116790	Czech Republic	Czech Republic	?	True
-69	1996	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347146	The Other Side of Sunday	tt0117817	Norway	Norway	?
-69	1996	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347149	Prisoner of the Mountains	tt0116754	Russia	Russia	?
-69	1996	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347148	Ridicule	tt0117477	France	France	?
+69	1996	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347147	A Chef in Love	tt0117050	Georgia
+69	1996	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347145	Kolya	tt0116790	Czech Republic			True
+69	1996	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347146	The Other Side of Sunday	tt0117817	Norway
+69	1996	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347149	Prisoner of the Mountains	tt0116754	Russia
+69	1996	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347148	Ridicule	tt0117477	France
 69	1996	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0047827	Ghosts of Mississippi	tt0116410	Matthew W. Mungle, Deborah La Mia Denaver	Matthew W. Mungle, Deborah La Mia Denaver	nm0612817,nm0218899
 69	1996	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0047826	The Nutty Professor	tt0117218	Rick Baker, David LeRoy Anderson	Rick Baker, David LeRoy Anderson	nm0000711,nm0026600	True
 69	1996	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0047828	Star Trek: First Contact	tt0117731	Michael Westmore, Scott Wheeler, Jake Garber	Michael Westmore, Scott Wheeler, Jake Garber	nm0922878,nm0923958,nm0304948
@@ -8318,11 +8318,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 70	1997	Production	FILM EDITING	FILM EDITING	an0048603	Good Will Hunting	tt0119217	Pietro Scalia	Pietro Scalia	nm0768817
 70	1997	Production	FILM EDITING	FILM EDITING	an0048604	L.A. Confidential	tt0119488	Peter Honess	Peter Honess	nm0392000
 70	1997	Production	FILM EDITING	FILM EDITING	an0048600	Titanic	tt0120338	Conrad Buff, James Cameron, Richard A. Harris	Conrad Buff, James Cameron, Richard A. Harris	nm0119322,nm0000116,nm0365239	True
-70	1997	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347138	Beyond Silence	tt0116692	Germany	Germany	?
-70	1997	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347134	Character	tt0119448	The Netherlands	The Netherlands	?	True
-70	1997	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347136	Four Days in September	tt0119815	Brazil	Brazil	?
-70	1997	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347137	Secrets of the Heart	tt0120090	Spain	Spain	?
-70	1997	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347135	The Thief	tt0124207	Russia	Russia	?
+70	1997	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347138	Beyond Silence	tt0116692	Germany
+70	1997	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347134	Character	tt0119448	The Netherlands			True
+70	1997	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347136	Four Days in September	tt0119815	Brazil
+70	1997	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347137	Secrets of the Heart	tt0120090	Spain
+70	1997	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347135	The Thief	tt0124207	Russia
 70	1997	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0048611	Men in Black	tt0119654	Rick Baker, David LeRoy Anderson	Rick Baker, David LeRoy Anderson	nm0000711,nm0026600	True
 70	1997	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0048612	Mrs. Brown	tt0119280	Lisa Westcott, Veronica Brebner, Beverley Binda	Lisa Westcott, Veronica Brebner, Beverley Binda	nm0922509,?,nm0082762
 70	1997	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0048613	Titanic	tt0120338	Tina Earnshaw, Greg Cannom, Simon Thompson	Tina Earnshaw, Greg Cannom, Simon Thompson	nm0247444,nm0134148,nm0860717
@@ -8453,11 +8453,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 71	1998	Production	FILM EDITING	FILM EDITING	an0057234	Saving Private Ryan	tt0120815	Michael Kahn	Michael Kahn	nm0434883	True
 71	1998	Production	FILM EDITING	FILM EDITING	an0057237	Shakespeare in Love	tt0138097	David Gamble	David Gamble	nm0303775
 71	1998	Production	FILM EDITING	FILM EDITING	an0057238	The Thin Red Line	tt0120863	Billy Weber, Leslie Jones, Saar Klein	Billy Weber, Leslie Jones, Saar Klein	nm0916502,nm0428655,nm0458964
-71	1998	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347128	Central Station	tt0140888	Brazil	Brazil	?
-71	1998	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347127	Children of Heaven	tt0118849	Iran	Iran	?
-71	1998	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347126	The Grandfather	tt0176415	Spain	Spain	?
-71	1998	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347124	Life Is Beautiful	tt0118799	Italy	Italy	?	True
-71	1998	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347125	Tango	tt0120274	Argentina	Argentina	?
+71	1998	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347128	Central Station	tt0140888	Brazil
+71	1998	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347127	Children of Heaven	tt0118849	Iran
+71	1998	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347126	The Grandfather	tt0176415	Spain
+71	1998	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347124	Life Is Beautiful	tt0118799	Italy			True
+71	1998	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347125	Tango	tt0120274	Argentina
 71	1998	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0057245	Elizabeth	tt0127536	Jenny Shircore	Jenny Shircore	nm0794246	True
 71	1998	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0057246	Saving Private Ryan	tt0120815	Lois Burwell, Conor O'Sullivan, Daniel C. Striepeke	Lois Burwell, Conor O'Sullivan, Daniel C. Striepeke	nm0006627,nm0642745,nm0834475
 71	1998	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0057247	Shakespeare in Love	tt0138097	Lisa Westcott, Veronica Brebner	Lisa Westcott, Veronica Brebner	nm0922509,?
@@ -8603,11 +8603,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 72	1999	Production	FILM EDITING	FILM EDITING	an0055217	The Insider	tt0140352	William Goldenberg, Paul Rubell, David Rosenbloom	William Goldenberg, Paul Rubell, David Rosenbloom	nm0325549,nm0747824,nm0742430
 72	1999	Production	FILM EDITING	FILM EDITING	an0055214	The Matrix	tt0133093	Zach Staenberg	Zach Staenberg	nm0821205	True
 72	1999	Production	FILM EDITING	FILM EDITING	an0055218	The Sixth Sense	tt0167404	Andrew Mondshein	Andrew Mondshein	nm0597812
-72	1999	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347102	All about My Mother	tt0185125	Spain	Spain	?	True
-72	1999	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		Caravan		Nepal	Nepal
-72	1999	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347105	East-West	tt0181530	France	France	?
-72	1999	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		Solomon and Gaenor		United Kingdom	United Kingdom
-72	1999	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347103	Under the Sun	tt0158302	Sweden	Sweden	?
+72	1999	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347102	All about My Mother	tt0185125	Spain			True
+72	1999	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		Caravan		Nepal
+72	1999	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347105	East-West	tt0181530	France
+72	1999	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		Solomon and Gaenor		United Kingdom
+72	1999	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347103	Under the Sun	tt0158302	Sweden
 72	1999	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0055220	Austin Powers: The Spy Who Shagged Me	tt0145660	Michèle Burke, Mike Smithson	Michèle Burke, Mike Smithson	nm0121807,nm0810480
 72	1999	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0055221	Bicentennial Man	tt0182789	Greg Cannom	Greg Cannom	nm0134148
 72	1999	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0055222	Life	tt0123964	Rick Baker	Rick Baker	nm0000711
@@ -8731,11 +8731,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 73	2000	Production	FILM EDITING	FILM EDITING	an0050845	Gladiator	tt0172495	Pietro Scalia	Pietro Scalia	nm0768817
 73	2000	Production	FILM EDITING	FILM EDITING	an0050843	Traffic	tt0181865	Stephen Mirrione	Stephen Mirrione	nm0592537	True
 73	2000	Production	FILM EDITING	FILM EDITING	an0050847	Wonder Boys	tt0185014	Dede Allen	Dede Allen	nm0020441
-73	2000	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347085	Amores Perros	tt0245712	Mexico	Mexico	?
-73	2000	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0361896	Crouching Tiger, Hidden Dragon	tt0190332	Taiwan	Taiwan	?	True
-73	2000	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347084	Divided We Fall	tt0234288	Czech Republic	Czech Republic	?
-73	2000	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		Everybody Famous!		Belgium	Belgium
-73	2000	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347087	The Taste of Others	tt0216787	France	France	?
+73	2000	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347085	Amores Perros	tt0245712	Mexico
+73	2000	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0361896	Crouching Tiger, Hidden Dragon	tt0190332	Taiwan			True
+73	2000	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347084	Divided We Fall	tt0234288	Czech Republic
+73	2000	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		Everybody Famous!		Belgium
+73	2000	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347087	The Taste of Others	tt0216787	France
 73	2000	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0050849	The Cell	tt0209958	Michèle Burke, Edouard Henriques	Michèle Burke, Edouard Henriques	nm0121807,nm0377667
 73	2000	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0050848	Dr. Seuss' How the Grinch Stole Christmas	tt0170016	Rick Baker, Gail Ryan	Rick Baker, Gail Ryan	nm0000711,?	True
 73	2000	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0050850	Shadow of the Vampire	tt0189998	Ann Buchanan, Amber Sibley	Ann Buchanan, Amber Sibley	nm0117973,nm0796282
@@ -8861,11 +8861,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 74	2001	Production	FILM EDITING	FILM EDITING	an0055434	The Lord of the Rings: The Fellowship of the Ring	tt0120737	John Gilbert	John Gilbert	nm0003016
 74	2001	Production	FILM EDITING	FILM EDITING	an0055435	Memento	tt0209144	Dody Dorn	Dody Dorn	nm0233827
 74	2001	Production	FILM EDITING	FILM EDITING	an0055436	Moulin Rouge	tt0203009	Jill Bilcock	Jill Bilcock	nm0082162
-74	2001	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347074	Amélie	tt0211915	France	France	?
-74	2001	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347072	Elling	tt0279064	Norway	Norway	?
-74	2001	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347073	Lagaan	tt0169102	India	India	?
-74	2001	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347071	No Man's Land	tt0283509	Bosnia & Herzegovina	Bosnia, Herzegovina	?,?	True
-74	2001	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347075	Son of the Bride	tt0292542	Argentina	Argentina	?
+74	2001	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347074	Amélie	tt0211915	France
+74	2001	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347072	Elling	tt0279064	Norway
+74	2001	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347073	Lagaan	tt0169102	India
+74	2001	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347071	No Man's Land	tt0283509	Bosnia & Herzegovina			True
+74	2001	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347075	Son of the Bride	tt0292542	Argentina
 74	2001	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0055438	A Beautiful Mind	tt0268978	Greg Cannom, Colleen Callaghan	Greg Cannom, Colleen Callaghan	nm0134148,nm0130128
 74	2001	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0055437	The Lord of the Rings: The Fellowship of the Ring	tt0120737	Peter Owen, Richard Taylor	Peter Owen, Richard Taylor	nm0654232,nm0853050	True
 74	2001	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0055439	Moulin Rouge	tt0203009	Maurizio Silvi, Aldo Signoretti	Maurizio Silvi, Aldo Signoretti	nm0799198,nm0797532
@@ -9001,11 +9001,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 75	2002	Production	FILM EDITING	FILM EDITING	an0054970	The Hours	tt0274558	Peter Boyle	Peter Boyle	nm0102316
 75	2002	Production	FILM EDITING	FILM EDITING	an0054971	The Lord of the Rings: The Two Towers	tt0167261	Michael Horton	Michael Horton	nm0395579
 75	2002	Production	FILM EDITING	FILM EDITING	an0054972	The Pianist	tt0253474	Hervé de Luze	Hervé de Luze	nm0217959
-75	2002	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		El Crimen del Padre Amaro		Mexico	Mexico
-75	2002	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0054951	Hero	tt0299977	People's Republic of China	People's Republic of China	?
-75	2002	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0054950	The Man without a Past	tt0311519	Finland	Finland	?
-75	2002	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0054948	Nowhere in Africa	tt0161860	Germany	Germany	?	True
-75	2002	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0054952	Zus & Zo	tt0245157	The Netherlands	The Netherlands	?
+75	2002	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		El Crimen del Padre Amaro		Mexico
+75	2002	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0054951	Hero	tt0299977	People's Republic of China
+75	2002	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0054950	The Man without a Past	tt0311519	Finland
+75	2002	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0054948	Nowhere in Africa	tt0161860	Germany			True
+75	2002	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0054952	Zus & Zo	tt0245157	The Netherlands
 75	2002	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0054991	Frida	tt0120679	John Jackson, Beatrice De Alba	John Jackson, Beatrice De Alba	nm0413703,nm0206866	True
 75	2002	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0054992	The Time Machine	tt0268695	John M. Elliott, Jr., Barbara Lorenz	John M. Elliott Jr., Barbara Lorenz	nm0254353,nm0520693
 75	2002	Music	MUSIC (Original Score)	MUSIC (Original Score)	an0054982	Catch Me If You Can	tt0264464	John Williams	John Williams	nm0002354
@@ -9125,11 +9125,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 76	2003	Production	FILM EDITING	FILM EDITING	an0055312	The Lord of the Rings: The Return of the King	tt0167260	Jamie Selkirk	Jamie Selkirk	nm0783241	True
 76	2003	Production	FILM EDITING	FILM EDITING	an0055315	Master and Commander: The Far Side of the World	tt0311113	Lee Smith	Lee Smith	nm0809059
 76	2003	Production	FILM EDITING	FILM EDITING	an0055316	Seabiscuit	tt0329575	William Goldenberg	William Goldenberg	nm0325549
-76	2003	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0055354	The Barbarian Invasions	tt0338135	Canada	Canada	?	True
-76	2003	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0055355	Evil	tt0338309	Sweden	Sweden	?
-76	2003	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0055356	The Twilight Samurai	tt0351817	Japan	Japan	?
-76	2003	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0055357	Twin Sisters	tt0322674	The Netherlands	The Netherlands	?
-76	2003	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0055358	Zelary	tt0288330	Czech Republic	Czech Republic	?
+76	2003	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0055354	The Barbarian Invasions	tt0338135	Canada			True
+76	2003	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0055355	Evil	tt0338309	Sweden
+76	2003	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0055356	The Twilight Samurai	tt0351817	Japan
+76	2003	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0055357	Twin Sisters	tt0322674	The Netherlands
+76	2003	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0055358	Zelary	tt0288330	Czech Republic
 76	2003	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0055327	The Lord of the Rings: The Return of the King	tt0167260	Richard Taylor and Peter King	Richard Taylor, Peter King	nm0853050,nm0455135	True
 76	2003	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0055328	Master and Commander: The Far Side of the World	tt0311113	Edouard Henriques III and Yolanda Toussieng	Edouard Henriques III, Yolanda Toussieng	?,nm0869758
 76	2003	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0055329	Pirates of the Caribbean: The Curse of the Black Pearl	tt0325980	Ve Neill and Martin Samuel	Ve Neill, Martin Samuel	nm0624763,nm0760407
@@ -9249,11 +9249,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 77	2004	Production	FILM EDITING	FILM EDITING	an0056587	Finding Neverland	tt0308644	Matt Chesse	Matt Chesse	nm0156276
 77	2004	Production	FILM EDITING	FILM EDITING	an0056588	Million Dollar Baby	tt0405159	Joel Cox	Joel Cox	nm0185088
 77	2004	Production	FILM EDITING	FILM EDITING	an0056589	Ray	tt0350258	Paul Hirsch	Paul Hirsch	nm0386532
-77	2004	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0056629	As It Is in Heaven	tt0382330	Sweden	Sweden	?
-77	2004	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0056628	The Chorus (Les Choristes)	tt0372824	France	France	?
-77	2004	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0056630	Downfall	tt0363163	Germany	Germany	?
-77	2004	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0056627	The Sea Inside	tt0369702	Spain	Spain	?	True
-77	2004	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0056631	Yesterday	tt0419279	South Africa	South Africa	?
+77	2004	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0056629	As It Is in Heaven	tt0382330	Sweden
+77	2004	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0056628	The Chorus (Les Choristes)	tt0372824	France
+77	2004	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0056630	Downfall	tt0363163	Germany
+77	2004	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0056627	The Sea Inside	tt0369702	Spain			True
+77	2004	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0056631	Yesterday	tt0419279	South Africa
 77	2004	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0056610	Lemony Snicket's A Series of Unfortunate Events	tt0339291	Valli O'Reilly and Bill Corso	Valli O'Reilly, Bill Corso	nm0642495,nm0181134	True
 77	2004	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0056612	The Passion of the Christ	tt0335345	Keith Vanderlaan and Christien Tinsley	Keith Vanderlaan, Christien Tinsley	nm0888797,nm0864051
 77	2004	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0056611	The Sea Inside	tt0369702	Jo Allen and Manuel García	Jo Allen, Manuel García	nm0020657,nm0306323
@@ -9377,11 +9377,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 78	2005	Production	FILM EDITING	FILM EDITING	an0057354	Crash	tt0375679	Hughes Winborne	Hughes Winborne	nm0003893	True
 78	2005	Production	FILM EDITING	FILM EDITING	an0057357	Munich	tt0408306	Michael Kahn	Michael Kahn	nm0434883
 78	2005	Production	FILM EDITING	FILM EDITING	an0057358	Walk the Line	tt0358273	Michael McCusker	Michael McCusker	nm0567331
-78	2005	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0057395	Don't Tell	tt0443446	Italy	Italy	?
-78	2005	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0057396	Joyeux Noël	tt0424205	France	France	?
-78	2005	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0057397	Paradise Now	tt0445620	The Palestinian Territories	The Palestinian Territories	?
-78	2005	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0057398	Sophie Scholl - The Final Days	tt0426578	Germany	Germany	?
-78	2005	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0057394	Tsotsi	tt0468565	South Africa	South Africa	?	True
+78	2005	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0057395	Don't Tell	tt0443446	Italy
+78	2005	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0057396	Joyeux Noël	tt0424205	France
+78	2005	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0057397	Paradise Now	tt0445620	The Palestinian Territories
+78	2005	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0057398	Sophie Scholl - The Final Days	tt0426578	Germany
+78	2005	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0057394	Tsotsi	tt0468565	South Africa			True
 78	2005	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0057377	The Chronicles of Narnia: The Lion, the Witch and the Wardrobe	tt0363771	Howard Berger and Tami Lane	Howard Berger, Tami Lane	nm0074205,nm0485577	True
 78	2005	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0057378	Cinderella Man	tt0352248	David Leroy Anderson and Lance Anderson	David Leroy Anderson, Lance Anderson	nm0026600,nm0027052
 78	2005	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0057379	Star Wars: Episode III Revenge of the Sith	tt0121766	Dave Elsey and Nikki Gooley	Dave Elsey, Nikki Gooley	nm0255642,nm0329618
@@ -9506,11 +9506,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 79	2006	Production	FILM EDITING	FILM EDITING	an0056723	Children of Men	tt0206634	Alex Rodríguez and Alfonso Cuarón	Alex Rodríguez, Alfonso Cuarón	nm1008771,nm0190859
 79	2006	Production	FILM EDITING	FILM EDITING	an0056720	The Departed	tt0407887	Thelma Schoonmaker	Thelma Schoonmaker	nm0774817	True
 79	2006	Production	FILM EDITING	FILM EDITING	an0056724	United 93	tt0475276	Clare Douglas, Christopher Rouse and Richard Pearson	Clare Douglas, Christopher Rouse, Richard Pearson	nm0234995,nm0002582,nm0669362
-79	2006	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0056765	After the Wedding	tt0457655	Denmark	Denmark	?
-79	2006	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0056766	Days of Glory (Indigènes)	tt0444182	Algeria	Algeria	?
-79	2006	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0056764	The Lives of Others	tt0405094	Germany	Germany	?	True
-79	2006	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0056767	Pan's Labyrinth	tt0457430	Mexico	Mexico	?
-79	2006	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0056768	Water	tt0240200	Canada	Canada	?
+79	2006	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0056765	After the Wedding	tt0457655	Denmark
+79	2006	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0056766	Days of Glory (Indigènes)	tt0444182	Algeria
+79	2006	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0056764	The Lives of Others	tt0405094	Germany			True
+79	2006	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0056767	Pan's Labyrinth	tt0457430	Mexico
+79	2006	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0056768	Water	tt0240200	Canada
 79	2006	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0056746	Apocalypto	tt0472043	Aldo Signoretti and Vittorio Sodano	Aldo Signoretti, Vittorio Sodano	nm0797532,nm0812006
 79	2006	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0056747	Click	tt0389860	Kazuhiro Tsuji and Bill Corso	Kazuhiro Tsuji, Bill Corso	?,nm0181134
 79	2006	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0056745	Pan's Labyrinth	tt0457430	David Martí and Montse Ribé	David Martí, Montse Ribé	nm0554480,nm1556767	True
@@ -9636,11 +9636,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 80	2007	Production	FILM EDITING	FILM EDITING	an0052353	Into the Wild	tt0758758	Jay Cassidy	Jay Cassidy	nm0144203
 80	2007	Production	FILM EDITING	FILM EDITING	an0052354	No Country for Old Men	tt0477348	Roderick Jaynes	Roderick Jaynes	?
 80	2007	Production	FILM EDITING	FILM EDITING	an0052356	There Will Be Blood	tt0469494	Dylan Tichenor	Dylan Tichenor	nm0862664
-80	2007	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347053	Beaufort	tt0758732	Israel	Israel	?
-80	2007	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347052	The Counterfeiters	tt0813547	Austria	Austria	?	True
-80	2007	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347055	Katyn	tt0879843	Poland	Poland	?
-80	2007	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347054	Mongol	tt0416044	Kazakhstan	Kazakhstan	?
-80	2007	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347056	12	tt0488478	Russia	Russia	?
+80	2007	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347053	Beaufort	tt0758732	Israel
+80	2007	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347052	The Counterfeiters	tt0813547	Austria			True
+80	2007	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347055	Katyn	tt0879843	Poland
+80	2007	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347054	Mongol	tt0416044	Kazakhstan
+80	2007	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347056	12	tt0488478	Russia
 80	2007	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0052367	La Vie en Rose	tt0450188	Didier Lavergne and Jan Archibald	Didier Lavergne, Jan Archibald	nm0491918,nm0033767	True
 80	2007	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0052368	Norbit	tt0477051	Rick Baker and Kazuhiro Tsuji	Rick Baker, Kazuhiro Tsuji	nm0000711,?
 80	2007	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0052369	Pirates of the Caribbean: At World's End	tt0449088	Ve Neill and Martin Samuel	Ve Neill, Martin Samuel	nm0624763,nm0760407
@@ -9763,11 +9763,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 81	2008	Production	FILM EDITING	FILM EDITING	an0048933	Frost/Nixon	tt0870111	Mike Hill and Dan Hanley	Mike Hill, Dan Hanley	nm0384528,nm0360067
 81	2008	Production	FILM EDITING	FILM EDITING	an0048934	Milk	tt1013753	Elliot Graham	Elliot Graham	nm0971680
 81	2008	Production	FILM EDITING	FILM EDITING	an0048930	Slumdog Millionaire	tt1010048	Chris Dickens	Chris Dickens	nm0225323	True
-81	2008	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347039	The Baader Meinhof Complex	tt0765432	Germany	Germany	?
-81	2008	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347038	The Class	tt1068646	France	France	?
-81	2008	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347037	Departures	tt1069238	Japan	Japan	?	True
-81	2008	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347041	Revanche	tt1173745	Austria	Austria	?
-81	2008	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347040	Waltz with Bashir	tt1185616	Israel	Israel	?
+81	2008	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347039	The Baader Meinhof Complex	tt0765432	Germany
+81	2008	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347038	The Class	tt1068646	France
+81	2008	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347037	Departures	tt1069238	Japan			True
+81	2008	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347041	Revanche	tt1173745	Austria
+81	2008	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347040	Waltz with Bashir	tt1185616	Israel
 81	2008	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0048945	The Curious Case of Benjamin Button	tt0421715	Greg Cannom	Greg Cannom	nm0134148	True
 81	2008	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0048946	The Dark Knight	tt0468569	John Caglione, Jr. and Conor O'Sullivan	John Caglione Jr., Conor O'Sullivan	nm0128550,nm0642745
 81	2008	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0048947	Hellboy II: The Golden Army	tt0411477	Mike Elizalde and Thom Floutz	Mike Elizalde, Thom Floutz	nm0253761,nm0283134
@@ -9884,11 +9884,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 82	2009	Production	FILM EDITING	FILM EDITING	an0048322	The Hurt Locker	tt0887912	Bob Murawski and Chris Innis	Bob Murawski, Chris Innis	nm0613657,nm0409197	True
 82	2009	Production	FILM EDITING	FILM EDITING	an0048325	Inglourious Basterds	tt0361748	Sally Menke	Sally Menke	nm0579673
 82	2009	Production	FILM EDITING	FILM EDITING	an0048326	Precious: Based on the Novel 'Push' by Sapphire	tt0929632	Joe Klotz	Joe Klotz	nm0460114
-82	2009	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347030	Ajami	tt1077262	Israel	Israel	?
-82	2009	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347028	The Milk of Sorrow	tt1206488	Peru	Peru	?
-82	2009	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347031	A Prophet	tt1235166	France	France	?
-82	2009	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347027	The Secret in Their Eyes	tt1305806	Argentina	Argentina	?	True
-82	2009	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347029	The White Ribbon	tt1149362	Germany	Germany	?
+82	2009	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347030	Ajami	tt1077262	Israel
+82	2009	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347028	The Milk of Sorrow	tt1206488	Peru
+82	2009	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347031	A Prophet	tt1235166	France
+82	2009	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347027	The Secret in Their Eyes	tt1305806	Argentina			True
+82	2009	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347029	The White Ribbon	tt1149362	Germany
 82	2009	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0048338	Il Divo	tt1023490	Aldo Signoretti and Vittorio Sodano	Aldo Signoretti, Vittorio Sodano	nm0797532,nm0812006
 82	2009	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0048337	Star Trek	tt0796366	Barney Burman, Mindy Hall and Joel Harlow	Barney Burman, Mindy Hall, Joel Harlow	nm0122178,nm0355931,nm0363355	True
 82	2009	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0048339	The Young Victoria	tt0962736	Jon Henry Gordon and Jenny Shircore	Jon Henry Gordon, Jenny Shircore	nm0330331,nm0794246
@@ -10022,11 +10022,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 83	2010	Production	FILM EDITING	FILM EDITING	an0310811	The King's Speech	tt1504320	Tariq Anwar	Tariq Anwar	nm0031697
 83	2010	Production	FILM EDITING	FILM EDITING	an0310808	127 Hours	tt1542344	Jon Harris	Jon Harris	nm1154184
 83	2010	Production	FILM EDITING	FILM EDITING	an0310812	The Social Network	tt1285016	Angus Wall and Kirk Baxter	Angus Wall, Kirk Baxter	nm0908370,nm0062775	True
-83	2010	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347018	Biutiful	tt1164999	Mexico	Mexico	?
-83	2010	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347019	Dogtooth	tt1379182	Greece	Greece	?
-83	2010	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347017	In a Better World	tt1340107	Denmark	Denmark	?	True
-83	2010	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347020	Incendies	tt1255953	Canada	Canada	?
-83	2010	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347021	Outside the Law (Hors-la-loi)	tt1229381	Algeria	Algeria	?
+83	2010	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347018	Biutiful	tt1164999	Mexico
+83	2010	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347019	Dogtooth	tt1379182	Greece
+83	2010	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347017	In a Better World	tt1340107	Denmark			True
+83	2010	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347020	Incendies	tt1255953	Canada
+83	2010	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347021	Outside the Law (Hors-la-loi)	tt1229381	Algeria
 83	2010	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0310823	Barney's Version	tt1423894	Adrien Morot	Adrien Morot	nm0606110
 83	2010	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0310824	The Way Back	tt1023114	Edouard F. Henriques, Gregory Funk and Yolanda Toussieng	Edouard F. Henriques, Gregory Funk, Yolanda Toussieng	nm0377667,nm0298727,nm0869758
 83	2010	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0310825	The Wolfman	tt0780653	Rick Baker and Dave Elsey	Rick Baker, Dave Elsey	nm0000711,nm0255642	True
@@ -10159,11 +10159,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 84	2011	Production	FILM EDITING	FILM EDITING	an0367921	The Girl with the Dragon Tattoo	tt1568346	Kirk Baxter and Angus Wall	Kirk Baxter, Angus Wall	nm0062775,nm0908370	True
 84	2011	Production	FILM EDITING	FILM EDITING	an0367922	Hugo	tt0970179	Thelma Schoonmaker	Thelma Schoonmaker	nm0774817
 84	2011	Production	FILM EDITING	FILM EDITING	an0367923	Moneyball	tt1210166	Christopher Tellefsen	Christopher Tellefsen	nm0854403
-84	2011	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		Bullhead		Belgium	Belgium
-84	2011	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0367910	Footnote	tt1445520	Israel	Israel	?
-84	2011	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0367911	In Darkness	tt1417075	Poland	Poland	?
-84	2011	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0367912	Monsieur Lazhar	tt2011971	Canada	Canada	?
-84	2011	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0367913	A Separation	tt1832382	Iran	Iran	?	True
+84	2011	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM		Bullhead		Belgium
+84	2011	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0367910	Footnote	tt1445520	Israel
+84	2011	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0367911	In Darkness	tt1417075	Poland
+84	2011	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0367912	Monsieur Lazhar	tt2011971	Canada
+84	2011	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0367913	A Separation	tt1832382	Iran			True
 84	2011	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0367934	Albert Nobbs	tt1602098	Martial Corneville, Lynn Johnston and Matthew W. Mungle	Martial Corneville, Lynn Johnston, Matthew W. Mungle	nm0180355,nm0425699,nm0612817
 84	2011	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0367935	Harry Potter and the Deathly Hallows Part 2	tt1201607	Nick Dudman, Amanda Knight and Lisa Tomblin	Nick Dudman, Amanda Knight, Lisa Tomblin	nm0240183,nm0460792,nm0866566
 84	2011	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0367936	The Iron Lady	tt1007029	Mark Coulier and J. Roy Helland	Mark Coulier, J. Roy Helland	nm0183418,nm0375187	True
@@ -10286,11 +10286,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 85	2012	Production	FILM EDITING	FILM EDITING	an0428461	Lincoln	tt0443272	Michael Kahn	Michael Kahn	nm0434883
 85	2012	Production	FILM EDITING	FILM EDITING	an0428462	Silver Linings Playbook	tt1045658	Jay Cassidy and Crispin Struthers	Jay Cassidy, Crispin Struthers	nm0144203,nm0835370
 85	2012	Production	FILM EDITING	FILM EDITING	an0428463	Zero Dark Thirty	tt1790885	Dylan Tichenor and William Goldenberg	Dylan Tichenor, William Goldenberg	nm0862664,nm0325549
-85	2012	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0428449	Amour	tt1602620	Austria	Austria	?	True
-85	2012	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0428453	Kon-Tiki	tt1613750	Norway	Norway	?
-85	2012	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0428451	No	tt2059255	Chile	Chile	?
-85	2012	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0428452	A Royal Affair	tt1276419	Denmark	Denmark	?
-85	2012	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0428450	War Witch	tt1820488	Canada	Canada	?
+85	2012	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0428449	Amour	tt1602620	Austria			True
+85	2012	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0428453	Kon-Tiki	tt1613750	Norway
+85	2012	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0428451	No	tt2059255	Chile
+85	2012	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0428452	A Royal Affair	tt1276419	Denmark
+85	2012	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0428450	War Witch	tt1820488	Canada
 85	2012	Production	MAKEUP AND HAIRSTYLING	MAKEUP AND HAIRSTYLING	an0428474	Hitchcock	tt0975645	Howard Berger, Peter Montagna and Martin Samuel	Howard Berger, Peter Montagna, Martin Samuel	nm0074205,nm0598713,nm0760407
 85	2012	Production	MAKEUP AND HAIRSTYLING	MAKEUP AND HAIRSTYLING	an0428475	The Hobbit: An Unexpected Journey	tt0903624	Peter Swords King, Rick Findlater and Tami Lane	Peter Swords King, Rick Findlater, Tami Lane	nm0455135,nm0277515,nm0485577
 85	2012	Production	MAKEUP AND HAIRSTYLING	MAKEUP AND HAIRSTYLING	an0428476	Les Misérables	tt1707386	Lisa Westcott and Julie Dartnell	Lisa Westcott, Julie Dartnell	nm0922509,nm0201757	True
@@ -10422,11 +10422,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 86	2013	Production	FILM EDITING	FILM EDITING	an0481797	Dallas Buyers Club	tt0790636	John Mac McMurphy and Martin Pensa	John Mac McMurphy, Martin Pensa	?,nm3819839
 86	2013	Production	FILM EDITING	FILM EDITING	an0481798	Gravity	tt1454468	Alfonso Cuarón and Mark Sanger	Alfonso Cuarón, Mark Sanger	nm0190859,nm0002747	True
 86	2013	Production	FILM EDITING	FILM EDITING	an0481799	12 Years a Slave	tt2024544	Joe Walker	Joe Walker	nm0907863
-86	2013	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0481800	The Broken Circle Breakdown	tt2024519	Belgium	Belgium	?
-86	2013	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0481801	The Great Beauty	tt2358891	Italy	Italy	?	True
-86	2013	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0481802	The Hunt	tt2106476	Denmark	Denmark	?
-86	2013	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0481803	The Missing Picture	tt2852470	Cambodia	Cambodia	?
-86	2013	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0481804	Omar	tt2852406	Palestine	Palestine	?
+86	2013	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0481800	The Broken Circle Breakdown	tt2024519	Belgium
+86	2013	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0481801	The Great Beauty	tt2358891	Italy			True
+86	2013	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0481802	The Hunt	tt2106476	Denmark
+86	2013	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0481803	The Missing Picture	tt2852470	Cambodia
+86	2013	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0481804	Omar	tt2852406	Palestine
 86	2013	Production	MAKEUP AND HAIRSTYLING	MAKEUP AND HAIRSTYLING	an0481805	Dallas Buyers Club	tt0790636	Adruitha Lee and Robin Mathews	Adruitha Lee, Robin Mathews	nm0496759,nm0560165	True
 86	2013	Production	MAKEUP AND HAIRSTYLING	MAKEUP AND HAIRSTYLING	an0481806	Jackass Presents: Bad Grandpa	tt3063516	Stephen Prouty	Stephen Prouty	nm0698990
 86	2013	Production	MAKEUP AND HAIRSTYLING	MAKEUP AND HAIRSTYLING	an0481807	The Lone Ranger	tt1210819	Joel Harlow and Gloria Pasqua-Casny	Joel Harlow, Gloria Pasqua-Casny	nm0363355,nm0664675
@@ -10569,11 +10569,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 87	2014	Production	FILM EDITING	FILM EDITING	an0606517	The Grand Budapest Hotel	tt2278388	Barney Pilling	Barney Pilling	nm1306189
 87	2014	Production	FILM EDITING	FILM EDITING	an0606516	The Imitation Game	tt2084970	William Goldenberg	William Goldenberg	nm0325549
 87	2014	Production	FILM EDITING	FILM EDITING	an0606518	Whiplash	tt2582802	Tom Cross	Tom Cross	nm0189285	True
-87	2014	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0606506	Ida	tt2718492	Poland	Poland	?	True
-87	2014	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0606507	Leviathan	tt2802154	Russia	Russia	?
-87	2014	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0606505	Tangerines	tt2991224	Estonia	Estonia	?
-87	2014	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0606509	Timbuktu	tt3409392	Mauritania	Mauritania	?
-87	2014	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0606508	Wild Tales	tt3011894	Argentina	Argentina	?
+87	2014	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0606506	Ida	tt2718492	Poland			True
+87	2014	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0606507	Leviathan	tt2802154	Russia
+87	2014	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0606505	Tangerines	tt2991224	Estonia
+87	2014	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0606509	Timbuktu	tt3409392	Mauritania
+87	2014	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0606508	Wild Tales	tt3011894	Argentina
 87	2014	Production	MAKEUP AND HAIRSTYLING	MAKEUP AND HAIRSTYLING	an0606530	Foxcatcher	tt1100089	Bill Corso and Dennis Liddiard	Bill Corso, Dennis Liddiard	nm0181134,nm0509187
 87	2014	Production	MAKEUP AND HAIRSTYLING	MAKEUP AND HAIRSTYLING	an0606531	The Grand Budapest Hotel	tt2278388	Frances Hannon and Mark Coulier	Frances Hannon, Mark Coulier	nm0360470,nm0183418	True
 87	2014	Production	MAKEUP AND HAIRSTYLING	MAKEUP AND HAIRSTYLING	an0606532	Guardians of the Galaxy	tt2015381	Elizabeth Yianni-Georgiou and David White	Elizabeth Yianni-Georgiou, David White	nm0947958,nm0924675
@@ -10716,11 +10716,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 88	2015	Production	FILM EDITING	FILM EDITING	an0704524	The Revenant	tt1663202	Stephen Mirrione	Stephen Mirrione	nm0592537
 88	2015	Production	FILM EDITING	FILM EDITING	an0704523	Spotlight	tt1895587	Tom McArdle	Tom McArdle	nm0002500
 88	2015	Production	FILM EDITING	FILM EDITING	an0704525	Star Wars: The Force Awakens	tt2488496	Maryann Brandon and Mary Jo Markey	Maryann Brandon, Mary Jo Markey	nm0104783,nm0548407
-88	2015	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0704511	Embrace of the Serpent	tt4285496	Colombia	Colombia	?
-88	2015	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0704513	Mustang	tt3966404	France	France	?
-88	2015	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0704514	Son of Saul	tt3808342	Hungary	Hungary	?	True
-88	2015	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0704515	Theeb	tt3170902	Jordan	Jordan	?
-88	2015	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0704512	A War	tt3830162	Denmark	Denmark	?
+88	2015	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0704511	Embrace of the Serpent	tt4285496	Colombia
+88	2015	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0704513	Mustang	tt3966404	France
+88	2015	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0704514	Son of Saul	tt3808342	Hungary			True
+88	2015	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0704515	Theeb	tt3170902	Jordan
+88	2015	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0704512	A War	tt3830162	Denmark
 88	2015	Production	MAKEUP AND HAIRSTYLING	MAKEUP AND HAIRSTYLING	an0704536	Mad Max: Fury Road	tt1392190	Lesley Vanderwalt, Elka Wardega and Damian Martin	Lesley Vanderwalt, Elka Wardega, Damian Martin	nm0886488,nm0911975,nm1914735	True
 88	2015	Production	MAKEUP AND HAIRSTYLING	MAKEUP AND HAIRSTYLING	an0704537	The 100-Year-Old Man Who Climbed out the Window and Disappeared	tt2113681	Love Larson and Eva von Bahr	Love Larson, Eva von Bahr	nm1037627,nm0901913
 88	2015	Production	MAKEUP AND HAIRSTYLING	MAKEUP AND HAIRSTYLING	an0704538	The Revenant	tt1663202	Siân Grigg, Duncan Jarman and Robert Pandini	Siân Grigg, Duncan Jarman, Robert Pandini	nm0341812,nm0418749,nm0006453
@@ -10851,11 +10851,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 89	2016	Production	FILM EDITING	FILM EDITING	an0808578	Hell or High Water	tt2582782	Jake Roberts	Jake Roberts	nm1075638
 89	2016	Production	FILM EDITING	FILM EDITING	an0808574	La La Land	tt3783958	Tom Cross	Tom Cross	nm0189285
 89	2016	Production	FILM EDITING	FILM EDITING	an0808576	Moonlight	tt4975722	Nat Sanders and Joi McMillon	Nat Sanders, Joi McMillon	nm1477623,nm1536314
-89	2016	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0808568	Land of Mine	tt3841424	Denmark	Denmark	?
-89	2016	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0808564	A Man Called Ove	tt4080728	Sweden	Sweden	?
-89	2016	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0808565	The Salesman	tt5186714	Iran	Iran	?	True
-89	2016	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0808566	Tanna	tt4239726	Australia	Australia	?
-89	2016	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0808567	Toni Erdmann	tt4048272	Germany	Germany	?
+89	2016	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0808568	Land of Mine	tt3841424	Denmark
+89	2016	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0808564	A Man Called Ove	tt4080728	Sweden
+89	2016	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0808565	The Salesman	tt5186714	Iran			True
+89	2016	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0808566	Tanna	tt4239726	Australia
+89	2016	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0808567	Toni Erdmann	tt4048272	Germany
 89	2016	Production	MAKEUP AND HAIRSTYLING	MAKEUP AND HAIRSTYLING	an0808589	A Man Called Ove	tt4080728	Eva von Bahr and Love Larson	Eva von Bahr, Love Larson	nm0901913,nm1037627
 89	2016	Production	MAKEUP AND HAIRSTYLING	MAKEUP AND HAIRSTYLING	an0808590	Star Trek Beyond	tt2660888	Joel Harlow and Richard Alonzo	Joel Harlow, Richard Alonzo	nm0363355,nm0022314
 89	2016	Production	MAKEUP AND HAIRSTYLING	MAKEUP AND HAIRSTYLING	an0808591	Suicide Squad	tt1386697	Alessandro Bertolazzi, Giorgio Gregorini and Christopher Nelson	Alessandro Bertolazzi, Giorgio Gregorini, Christopher Nelson	nm0078183,nm0339709,nm0625247	True
@@ -10995,11 +10995,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 90	2017	Production	FILM EDITING	FILM EDITING	an0951725	I, Tonya	tt5580036	Tatiana S. Riegel	Tatiana S. Riegel	nm0726186
 90	2017	Production	FILM EDITING	FILM EDITING	an0951720	The Shape of Water	tt5580390	Sidney Wolinsky	Sidney Wolinsky	nm0938485
 90	2017	Production	FILM EDITING	FILM EDITING	an0951721	Three Billboards outside Ebbing, Missouri	tt5027774	Jon Gregory	Jon Gregory	nm0339856
-90	2017	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0908198	A Fantastic Woman	tt5639354	Chile	Chile	?	True
-90	2017	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0934608	The Insult	tt7048622	Lebanon	Lebanon	?
-90	2017	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0934609	Loveless	tt6304162	Russia	Russia	?
-90	2017	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0934606	On Body and Soul	tt5607714	Hungary	Hungary	?
-90	2017	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0934612	The Square	tt4995790	Sweden	Sweden	?
+90	2017	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0908198	A Fantastic Woman	tt5639354	Chile			True
+90	2017	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0934608	The Insult	tt7048622	Lebanon
+90	2017	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0934609	Loveless	tt6304162	Russia
+90	2017	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0934606	On Body and Soul	tt5607714	Hungary
+90	2017	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0934612	The Square	tt4995790	Sweden
 90	2017	Production	MAKEUP AND HAIRSTYLING	MAKEUP AND HAIRSTYLING	an0937428	Darkest Hour	tt4555426	Kazuhiro Tsuji, David Malinowski and Lucy Sibbick	Kazuhiro Tsuji, David Malinowski, Lucy Sibbick	?,nm1339434,nm2378951	True
 90	2017	Production	MAKEUP AND HAIRSTYLING	MAKEUP AND HAIRSTYLING	an0937432	Victoria & Abdul	tt5816682	Daniel Phillips and Lou Sheppard	Daniel Phillips, Lou Sheppard	nm0680066,nm0791965
 90	2017	Production	MAKEUP AND HAIRSTYLING	MAKEUP AND HAIRSTYLING	an0937433	Wonder	tt2543472	Arjen Tuiten	Arjen Tuiten	nm1115465
@@ -11133,11 +11133,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 91	2018	Production	FILM EDITING	FILM EDITING	an1141406	The Favourite	tt5083738	Yorgos Mavropsaridis	Yorgos Mavropsaridis	nm0561430
 91	2018	Production	FILM EDITING	FILM EDITING	an1141410	Green Book	tt6966692	Patrick J. Don Vito	Patrick J. Don Vito	nm0004011
 91	2018	Production	FILM EDITING	FILM EDITING	an1141405	Vice	tt6266538	Hank Corwin	Hank Corwin	nm0181650
-91	2018	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an1124532	Capernaum	tt8267604	Lebanon	Lebanon	?
-91	2018	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an1124534	Cold War	tt6543652	Poland	Poland	?
-91	2018	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an1124529	Never Look Away	tt5311542	Germany	Germany	?
-91	2018	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an1124533	Roma	tt6155172	Mexico	Mexico	?	True
-91	2018	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an1124530	Shoplifters	tt8075192	Japan	Japan	?
+91	2018	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an1124532	Capernaum	tt8267604	Lebanon
+91	2018	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an1124534	Cold War	tt6543652	Poland
+91	2018	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an1124529	Never Look Away	tt5311542	Germany
+91	2018	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an1124533	Roma	tt6155172	Mexico			True
+91	2018	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an1124530	Shoplifters	tt8075192	Japan
 91	2018	Production	MAKEUP AND HAIRSTYLING	MAKEUP AND HAIRSTYLING	an1124512	Border	tt5501104	Göran Lundström and Pamela Goldammer	Göran Lundström, Pamela Goldammer	nm0526615,nm1744062
 91	2018	Production	MAKEUP AND HAIRSTYLING	MAKEUP AND HAIRSTYLING	an1124513	Mary Queen of Scots	tt2328900	Jenny Shircore, Marc Pilcher and Jessica Brooks	Jenny Shircore, Marc Pilcher, Jessica Brooks	nm0794246,nm1706094,nm1928126
 91	2018	Production	MAKEUP AND HAIRSTYLING	MAKEUP AND HAIRSTYLING	an1124516	Vice	tt6266538	Greg Cannom, Kate Biscoe and Patricia Dehaney	Greg Cannom, Kate Biscoe, Patricia Dehaney	nm0134148,nm0083917,nm0214912	True
@@ -11268,11 +11268,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 92	2019	Production	FILM EDITING	FILM EDITING	an1295984	Jojo Rabbit	tt2584384	Tom Eagles	Tom Eagles	nm2305414
 92	2019	Production	FILM EDITING	FILM EDITING	an1295982	Joker	tt7286456	Jeff Groth	Jeff Groth	nm0343846
 92	2019	Production	FILM EDITING	FILM EDITING	an1295979	Parasite	tt6751668	Yang Jinmo	Yang Jinmo	nm2185967
-92	2019	Title	INTERNATIONAL FEATURE FILM	INTERNATIONAL FEATURE FILM	an1295867	Corpus Christi	tt8649186	Poland	Poland	?
-92	2019	Title	INTERNATIONAL FEATURE FILM	INTERNATIONAL FEATURE FILM	an1295862	Honeyland	tt8991268	North Macedonia	North Macedonia	?
-92	2019	Title	INTERNATIONAL FEATURE FILM	INTERNATIONAL FEATURE FILM	an1295864	Les Misérables	tt10199590	France	France	?
-92	2019	Title	INTERNATIONAL FEATURE FILM	INTERNATIONAL FEATURE FILM	an1295861	Pain and Glory	tt8291806	Spain	Spain	?
-92	2019	Title	INTERNATIONAL FEATURE FILM	INTERNATIONAL FEATURE FILM	an1295860	Parasite	tt6751668	South Korea	South Korea	?	True
+92	2019	Title	INTERNATIONAL FEATURE FILM	INTERNATIONAL FEATURE FILM	an1295867	Corpus Christi	tt8649186	Poland
+92	2019	Title	INTERNATIONAL FEATURE FILM	INTERNATIONAL FEATURE FILM	an1295862	Honeyland	tt8991268	North Macedonia
+92	2019	Title	INTERNATIONAL FEATURE FILM	INTERNATIONAL FEATURE FILM	an1295864	Les Misérables	tt10199590	France
+92	2019	Title	INTERNATIONAL FEATURE FILM	INTERNATIONAL FEATURE FILM	an1295861	Pain and Glory	tt8291806	Spain
+92	2019	Title	INTERNATIONAL FEATURE FILM	INTERNATIONAL FEATURE FILM	an1295860	Parasite	tt6751668	South Korea			True
 92	2019	Production	MAKEUP AND HAIRSTYLING	MAKEUP AND HAIRSTYLING	an1295917	Bombshell	tt6394270	Kazu Hiro, Anne Morgan and Vivian Baker	Kazu Hiro, Anne Morgan, Vivian Baker	nm0875308,nm0604479,nm0049004	True
 92	2019	Production	MAKEUP AND HAIRSTYLING	MAKEUP AND HAIRSTYLING	an1295918	Joker	tt7286456	Nicki Ledermann and Kay Georgiou	Nicki Ledermann, Kay Georgiou	nm0496525,nm0313789
 92	2019	Production	MAKEUP AND HAIRSTYLING	MAKEUP AND HAIRSTYLING	an1295919	Judy	tt7549996	Jeremy Woodhead	Jeremy Woodhead	nm0940291
@@ -11413,11 +11413,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 93	2020	Production	FILM EDITING	FILM EDITING	an1482207	Promising Young Woman	tt9620292	Frédéric Thoraval	Frédéric Thoraval	nm1754850
 93	2020	Production	FILM EDITING	FILM EDITING	an1482209	Sound of Metal	tt5363618	Mikkel E. G. Nielsen	Mikkel E. G. Nielsen	nm1182055	True
 93	2020	Production	FILM EDITING	FILM EDITING	an1480762	The Trial of the Chicago 7	tt1070874	Alan Baumgarten	Alan Baumgarten	nm0062328
-93	2020	Title	INTERNATIONAL FEATURE FILM	INTERNATIONAL FEATURE FILM	an1480688	Another Round	tt10288566	Denmark	Denmark	?	True
-93	2020	Title	INTERNATIONAL FEATURE FILM	INTERNATIONAL FEATURE FILM	an1482206	Better Days	tt9586294	Hong Kong	Hong Kong	?
-93	2020	Title	INTERNATIONAL FEATURE FILM	INTERNATIONAL FEATURE FILM	an1480690	Collective	tt10706602	Romania	Romania	?
-93	2020	Title	INTERNATIONAL FEATURE FILM	INTERNATIONAL FEATURE FILM	an1482218	The Man Who Sold His Skin	tt10360862	Tunisia	Tunisia	?
-93	2020	Title	INTERNATIONAL FEATURE FILM	INTERNATIONAL FEATURE FILM	an1480689	Quo Vadis, Aida?	tt8633462	Bosnia and Herzegovina	Bosnia, Herzegovina	?,?
+93	2020	Title	INTERNATIONAL FEATURE FILM	INTERNATIONAL FEATURE FILM	an1480688	Another Round	tt10288566	Denmark			True
+93	2020	Title	INTERNATIONAL FEATURE FILM	INTERNATIONAL FEATURE FILM	an1482206	Better Days	tt9586294	Hong Kong
+93	2020	Title	INTERNATIONAL FEATURE FILM	INTERNATIONAL FEATURE FILM	an1480690	Collective	tt10706602	Romania
+93	2020	Title	INTERNATIONAL FEATURE FILM	INTERNATIONAL FEATURE FILM	an1482218	The Man Who Sold His Skin	tt10360862	Tunisia
+93	2020	Title	INTERNATIONAL FEATURE FILM	INTERNATIONAL FEATURE FILM	an1480689	Quo Vadis, Aida?	tt8633462	Bosnia and Herzegovina
 93	2020	Production	MAKEUP AND HAIRSTYLING	MAKEUP AND HAIRSTYLING	an1480761	Emma	tt9214832	Marese Langan, Laura Allen and Claudia Stolze	Marese Langan, Laura Allen, Claudia Stolze	nm0485984,nm8526114,nm0831656
 93	2020	Production	MAKEUP AND HAIRSTYLING	MAKEUP AND HAIRSTYLING	an1480759	Hillbilly Elegy	tt6772802	Eryn Krueger Mekash, Matthew Mungle and Patricia Dehaney	Eryn Krueger Mekash, Matthew Mungle, Patricia Dehaney	nm0472477,nm0612817,nm0214912
 93	2020	Production	MAKEUP AND HAIRSTYLING	MAKEUP AND HAIRSTYLING	an1480757	Ma Rainey's Black Bottom	tt10514222	Sergio Lopez-Rivera, Mia Neal and Jamika Wilson	Sergio Lopez-Rivera, Mia Neal, Jamika Wilson	nm0520236,nm4135648,nm5003080	True
@@ -11533,11 +11533,11 @@ Ceremony	Year	Class	Canonical Category	Category	NomId	Film	FilmId	Name	Nominee(s
 94	2021	Production	Film Editing	Film Editing	an1638526	King Richard	tt9620288	Pamela Martin	Pamela Martin	nm0552862
 94	2021	Production	Film Editing	Film Editing	an1638523	The Power of the Dog	tt10293406	Peter Sciberras	Peter Sciberras	nm3038680
 94	2021	Production	Film Editing	Film Editing	an1638532	tick, tick...BOOM!	tt8721424	Myron Kerstein and Andrew Weisblum	Myron Kerstein, Andrew Weisblum	nm0450005,nm0918733
-94	2021	Title	International Feature Film	International Feature Film	an1640981	Drive My Car	tt14039582	Japan	Japan	?
-94	2021	Title	International Feature Film	International Feature Film	an1640980	Flee	tt8430054	Denmark	Denmark	?
-94	2021	Title	International Feature Film	International Feature Film	an1640979	The Hand of God	tt12680684	Italy	Italy	?
-94	2021	Title	International Feature Film	International Feature Film	an1638475	Lunana: A Yak in the Classroom	tt10189300	Bhutan	Bhutan	?
-94	2021	Title	International Feature Film	International Feature Film	an1640978	The Worst Person in the World	tt10370710	Norway	Norway	?
+94	2021	Title	International Feature Film	International Feature Film	an1640981	Drive My Car	tt14039582	Japan	Japan
+94	2021	Title	International Feature Film	International Feature Film	an1640980	Flee	tt8430054	Denmark	Denmark
+94	2021	Title	International Feature Film	International Feature Film	an1640979	The Hand of God	tt12680684	Italy	Italy
+94	2021	Title	International Feature Film	International Feature Film	an1638475	Lunana: A Yak in the Classroom	tt10189300	Bhutan	Bhutan
+94	2021	Title	International Feature Film	International Feature Film	an1640978	The Worst Person in the World	tt10370710	Norway	Norway
 94	2021	Production	Makeup and Hairstyling	Makeup and Hairstyling	an1638498	Coming 2 America	tt6802400	Mike Marino, Stacey Morris and Carla Farmer	Mike Marino, Stacey Morris, Carla Farmer	?,nm0606943,nm0267732
 94	2021	Production	Makeup and Hairstyling	Makeup and Hairstyling	an1638494	Cruella	tt3228774	Nadia Stacey, Naomi Donne and Julia Vernon	Nadia Stacey, Naomi Donne, Julia Vernon	nm2854751,nm0232644,nm1861004
 94	2021	Production	Makeup and Hairstyling	Makeup and Hairstyling	an1638492	Dune	tt1160419	Donald Mowat, Love Larson and Eva von Bahr	Donald Mowat, Love Larson, Eva von Bahr	nm0610244,nm1037627,nm0901913
