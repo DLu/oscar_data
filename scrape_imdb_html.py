@@ -21,8 +21,6 @@ def parse_imdb_html(s):
                 if category['categoryName'] == 'None':
                     category['categoryName'] = None
                 cname = category['categoryName'] or award['awardName']
-                if cname == 'Juvenile Award':
-                    cname = 'Special Award'
                 nominations = {}
                 for nomination in category['nominations']:
                     nom_id = nomination['awardNominationId']
@@ -46,6 +44,8 @@ def parse_imdb_html(s):
                                 else:
                                     click.secho(f'Unable to parse song name for {nom_id}: {note}', fg='yellow')
                     if nom_d:
+                        if nom_id == 'an0475546':
+                            del nom_d['tt0037059']
                         multiple_titles = [k for k in nom_d if 'tt' in k]
                         if len(multiple_titles) > 1:
                             other_fields = {k: v for (k, v) in nom_d.items() if 'tt' not in k}
@@ -73,6 +73,9 @@ if __name__ == '__main__':
     years = range(1927, 2022)
     pbar = tqdm(years)
 
+    extra_imdb_data = yaml.safe_load(open('aux_data/extra_imdb_data.yaml'))
+    new_nomination_counter = 0
+
     EDGE_CASE_URLS = {
         # Oscars year : Imdb URL
         1927: '1929/1',  # Ceremony 1
@@ -99,38 +102,43 @@ if __name__ == '__main__':
                 f.write(req.content)
         s = open(fn).read()
         D = parse_imdb_html(s)
-        if year == 1941:
-            D['Best Effects, Special Effects']['an0056889a'] = {
-                'nm0005738': 'Byron Haskin',
-                'nm0506080': 'Nathan Levinson',
-                'tt0033537': 'Dive Bomber'
-            }
+
+        for category, entries in extra_imdb_data['missing'].get(year, {}).items():
+            if category not in D:
+                D[category] = {}
+            for film_id, title in entries.items():
+                nom_id = f'anxxx{new_nomination_counter:03d}'
+                new_nomination_counter += 1
+                D[category][nom_id] = {film_id: title}
 
         if D:
             imdb_data[year] = D
 
-    for nom_id, start_year, end_year in [('an1618957', 2020, 2019),
-                                         ('an1618959', 2020, 2019),
-                                         ('an0600656', 1956, 1957),
-                                         ('an0368019', 1985, 1986),
-                                         ]:
-        if start_year not in imdb_data or end_year not in imdb_data:
-            continue
-        cat = [cat for (cat, data) in imdb_data[start_year].items() if nom_id in data][0]
-        if cat not in imdb_data[end_year]:
-            imdb_data[end_year][cat] = {}
-        imdb_data[end_year][cat][nom_id] = imdb_data[start_year][cat][nom_id]
-        del imdb_data[start_year][cat][nom_id]
+    def find_category(nom_id, year):
+        for cat, data in imdb_data[year].items():
+            if nom_id in data:
+                return cat
 
-    for nom_id0, nom_id1, year0, year1 in [('an0049414', 'an0811120', 1978, 1977),
-                                           ('an0050768', 'an0050769', 1990, 1990),
-                                           ]:
-        if year0 not in imdb_data or year1 not in imdb_data:
+    for year_map in extra_imdb_data['year_maps']:
+        from_year = year_map['from_year']
+        to_year = year_map['to_year']
+        if from_year not in imdb_data or to_year not in imdb_data:
             continue
-        cat0 = [cat for (cat, data) in imdb_data[year0].items() if nom_id0 in data][0]
-        cat1 = [cat for (cat, data) in imdb_data[year1].items() if nom_id1 in data][0]
-        imdb_data[year0][cat0][nom_id0].update(imdb_data[year1][cat1][nom_id1])
-        del imdb_data[year1][cat1][nom_id1]
+        nom_id = year_map['nom_id']
+        cat = find_category(nom_id, from_year)
+        entry = imdb_data[from_year][cat][nom_id]
+        del imdb_data[from_year][cat][nom_id]
+
+        if 'target_id' in year_map:
+            # Merge with existing entry
+            target_id = year_map['target_id']
+            new_cat = find_category(target_id, to_year)
+            imdb_data[to_year][new_cat][target_id].update(entry)
+        else:
+            # Just move to new year
+            if cat not in imdb_data[to_year]:
+                imdb_data[to_year][cat] = {}
+            imdb_data[to_year][cat][nom_id] = entry
 
     imdb_data_path = pathlib.Path('imdb_data')
     imdb_data_path.mkdir(exist_ok=True)

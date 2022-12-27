@@ -1,21 +1,31 @@
 #!/usr/bin/python3
 import argparse
 import collections
-import pathlib
 import click
+import pathlib
 import unidecode
 import re
 import yaml
 
-from utilities import read_csv, write_csv
+from utilities import read_csv, write_csv, read_lookup_dict
 
 PAREN_PATTERN = re.compile(r'^(.*) \((.*)\)$')
 COLON_PATTERN = re.compile(r'^(.*): (.*)$')
 
-SUFFIXES = yaml.safe_load(open('aux_data/suffixes.yaml'))
-FIRST_NAMES = yaml.safe_load(open('aux_data/first_names.yaml'))
 REMAP = yaml.safe_load(open('aux_data/hardcode.yaml'))
+FIRST_NAMES = yaml.safe_load(open('aux_data/first_names.yaml'))
+SUFFIXES = yaml.safe_load(open('aux_data/suffixes.yaml'))
+COMPANY_LOOKUP = read_lookup_dict('companies.yaml')
+COMPANY_CATEGORIES = {
+    'BEST PICTURE', 'UNIQUE AND ARTISTIC PICTURE', 'SPECIAL AWARD', 'OUTSTANDING PRODUCTION',
+    'SHORT SUBJECT (Comedy)', 'SHORT SUBJECT (Novelty)', 'SHORT SUBJECT (Color)', 'SHORT SUBJECT (One-reel)',
+    'SHORT SUBJECT (Two-reel)', 'SHORT FILM (Animated)', 'SOUND RECORDING', 'SOUND', 'MUSIC (Scoring)',
+    'SCIENTIFIC OR TECHNICAL AWARD (Class III)', 'SCIENTIFIC OR TECHNICAL AWARD (Class II)',
+    'SCIENTIFIC OR TECHNICAL AWARD (Class I)', 'SPECIAL EFFECTS', 'DOCUMENTARY (Short Subject)',
+    'DOCUMENTARY (Feature)',
+}
 
+CATEGORY_STATS = collections.Counter()
 NOM_STATS = collections.Counter()
 FILM_STATS = collections.Counter()
 NOMINEE_STATS = collections.Counter()
@@ -34,9 +44,9 @@ def get_nabble(s):
 
 
 def get_nominees(entry, clean=True):
-    if entry.get('Nominee(s)', '') == '':
+    if entry.get('Nominees', '') == '':
         return
-    names = entry['Nominee(s)'].split(', ')
+    names = entry['Nominees'].split(', ')
     for name in names:
         for prefix in ['sir', 'dame']:
             if name.startswith(prefix):
@@ -45,16 +55,6 @@ def get_nominees(entry, clean=True):
             yield get_nabble(name)
         else:
             yield name
-
-
-def get_matching_category(category, options):
-    lower_lookup = {get_nabble(a).replace('oftheyear', ''): a for a in options}
-    category = get_nabble(category)
-
-    for prefix in ['', 'best', 'bestachievementin', 'bestperformancebyan']:
-        alt = prefix + category
-        if alt in lower_lookup:
-            return lower_lookup[alt]
 
 
 def titles_match(a, b):
@@ -154,18 +154,15 @@ def get_name_match(nom_name, people):
         return matches[0]
 
 
-def update_entry(o_nom, nom_id, i_nom, speculative=False):
+def match_nomination(o_nom, nom_id, i_nom, speculative=False):
     updates = {'NomId': nom_id}
     titles = [a for a in i_nom if 'tt' in a]
     if o_nom.get('Film'):
         if len(titles) == 1:
             updates['FilmId'] = titles[0]
-            if not speculative:
-                FILM_STATS['matched'] += 1
             titles = []
         elif not speculative:
             click.secho(f'Unable to match film for {o_nom["Category"]}', fg='yellow')
-            FILM_STATS['unmatched'] += len(titles)
             if args.mode is None or args.mode == 'missing_film_names':
                 click.secho(f'Missing Film Name: {o_nom}', fg='red')
 
@@ -180,21 +177,45 @@ def update_entry(o_nom, nom_id, i_nom, speculative=False):
 
     nom_ids = {}
     unmatched_names = []
-    for nom_name in get_nominees(o_nom, clean=False):
+    canon_category = o_nom.get('CanonicalCategory', '')
+    nom_names = list(get_nominees(o_nom, clean=False))
+
+    # Special case for "Roderick Jaynes"
+    if nom_names == ['Roderick Jaynes'] and people == {'Ethan Coen': 'nm0001053', 'Joel Coen': 'nm0001054'}:
+        if not speculative:
+            updates['NomineeIds'] = ','.join(people.values())
+            o_nom.update(updates)
+            NOMINEE_STATS['matched'] += 1
+            if o_nom['Film']:
+                if 'FilmId' in updates:
+                    FILM_STATS['matched'] += 1
+                else:
+                    FILM_STATS['unmatched'] += 1
+        return True
+
+    if o_nom.get('NomineeIds', '') and not speculative:
+        for n_id, nom_name in zip(o_nom['NomineeIds'].split(','), nom_names):
+            if n_id == '?':
+                continue
+            nom_ids[nom_name] = n_id
+            if nom_name in people:
+                del people[nom_name]
+            else:
+                matching_names = [k for k, v in people.items() if v == n_id]
+                if len(matching_names) == 1:
+                    del people[matching_names[0]]
+    for nom_name in nom_names:
+        if nom_name in nom_ids:
+            continue
+        if canon_category in COMPANY_CATEGORIES and nom_name in COMPANY_LOOKUP:
+            nom_ids[nom_name] = COMPANY_LOOKUP[nom_name]
+            continue
         matching_name = get_name_match(nom_name, people)
         if matching_name:
             nom_ids[nom_name] = people[matching_name]
             del people[matching_name]
             continue
         unmatched_names.append(nom_name)
-
-    # Special case for "Roderick Jaynes"
-    if unmatched_names == ['Roderick Jaynes'] and people == {'Ethan Coen': 'nm0001053', 'Joel Coen': 'nm0001054'}:
-        if not speculative:
-            updates['NomineeIds'] = ','.join(people.values())
-            o_nom.update(updates)
-            NOMINEE_STATS['matched'] += 1
-        return True
 
     # Special case for multifilm noms
     if o_nom.get('MultifilmNomination'):
@@ -205,7 +226,16 @@ def update_entry(o_nom, nom_id, i_nom, speculative=False):
     if speculative:
         return valid
 
-    updates['NomineeIds'] = ','.join(nom_ids.get(nom_name, '?') for nom_name in get_nominees(o_nom, clean=False))
+    if not valid:
+        return valid
+
+    if o_nom['Film']:
+        if 'FilmId' in updates:
+            FILM_STATS['matched'] += 1
+        else:
+            FILM_STATS['unmatched'] += 1
+
+    updates['NomineeIds'] = ','.join(nom_ids.get(nom_name, '?') for nom_name in nom_names)
     o_nom.update(updates)
 
     NOMINEE_STATS['matched'] += len(nom_ids)
@@ -224,9 +254,14 @@ def update_entry(o_nom, nom_id, i_nom, speculative=False):
     else:
         should_print = False
 
+    if not args.scitech and o_nom['Class'] == 'SciTech':
+        should_print = False
+    if args.core and o_nom['Class'] in ['SciTech', 'Special']:
+        should_print = False
+
     if should_print:
         film = o_nom.get('Film', '[NO FILM]')
-        category = o_nom['Canonical Category']
+        category = o_nom['CanonicalCategory']
         click.secho(f'{film} {category}', fg='red')
         if len(people) == 1 and len(unmatched_names) == 1:
             p_name, p_id = list(people.items())[0]
@@ -237,7 +272,7 @@ def update_entry(o_nom, nom_id, i_nom, speculative=False):
     return valid
 
 
-def match_categories(o_noms, i_noms, speculative=False):
+def match_category(o_noms, i_noms, speculative=False):
     o_unmatched = []
     i_unmatched = set(i_noms.keys())
     song_lookup = {}
@@ -261,14 +296,15 @@ def match_categories(o_noms, i_noms, speculative=False):
                 names_to_noms[v].append(nom_id)
 
     for o_nom in o_noms:
-        if o_nom.get('Canonical Category') == 'MUSIC (Original Song)':
+        if o_nom.get('CanonicalCategory') == 'MUSIC (Original Song)':
             song_name = get_nabble(o_nom['Detail'])
             if song_name in song_lookup:
                 nom_id = song_lookup[song_name]
                 del song_lookup[song_name]
                 i_unmatched.remove(nom_id)
-                SONG_STATS['matched'] += 1
-                update_entry(o_nom, nom_id, i_noms[nom_id], speculative=speculative)
+                if not speculative:
+                    SONG_STATS['matched'] += 1
+                match_nomination(o_nom, nom_id, i_noms[nom_id], speculative=speculative)
             elif not speculative:
                 if args.mode is None or args.mode == 'songs':
                     click.secho(f"Song doesn't match: {o_nom['Detail']} {song_name}", fg='red')
@@ -290,7 +326,7 @@ def match_categories(o_noms, i_noms, speculative=False):
                 if k in i_unmatched and v in o_nom['Citation']:
                     nom_id = k
         if nom_id:
-            if update_entry(o_nom, nom_id, i_noms[nom_id], speculative=speculative):
+            if match_nomination(o_nom, nom_id, i_noms[nom_id], speculative=speculative):
                 i_unmatched.remove(nom_id)
             continue
 
@@ -304,12 +340,13 @@ def match_categories(o_noms, i_noms, speculative=False):
 
         if matching_name:
             nom_id = names_to_noms[matching_name][0]
-            if nom_id in i_unmatched and update_entry(o_nom, nom_id, i_noms[nom_id], speculative=speculative):
-                i_unmatched.remove(nom_id)
-                del names_to_noms[matching_name]
-            continue
+            if nom_id in i_unmatched:
+                if match_nomination(o_nom, nom_id, i_noms[nom_id], speculative=speculative):
+                    i_unmatched.remove(nom_id)
+                    del names_to_noms[matching_name]
+                    continue
 
-        if o_nom.get('Film') or o_nom.get('Nominee(s)'):
+        if o_nom.get('Film') or o_nom.get('Nominees'):
             o_unmatched.append(o_nom)
 
     o_matched_count = len(o_noms) - len(o_unmatched)
@@ -321,11 +358,20 @@ def match_categories(o_noms, i_noms, speculative=False):
         return o_unmatched, {nom_id: i_noms[nom_id] for nom_id in i_unmatched}
 
 
-def match_years(oscars, imdb):
+def match_year(oscars, imdb):
     unmatched_o_cats = set()
     unmatched_i_cats = set(imdb.keys())
     unmatched_o_noms = []
     unmatched_i_noms = {}
+
+    def get_matching_category(category, options):
+        lower_lookup = {get_nabble(a).replace('oftheyear', ''): a for a in options}
+        category = get_nabble(category)
+
+        for prefix in ['', 'best', 'bestachievementin', 'bestperformancebyan']:
+            alt = prefix + category
+            if alt in lower_lookup:
+                return lower_lookup[alt]
 
     for o_cat in oscars:
         i_cat = get_matching_category(o_cat, imdb)
@@ -334,46 +380,64 @@ def match_years(oscars, imdb):
             continue
 
         unmatched_i_cats.remove(i_cat)
-        ou, iu, = match_categories(list(oscars[o_cat]), dict(imdb[i_cat]))
+        if args.category_matching:
+            click.secho(f'Exact category match:     {o_cat:40s} {i_cat:40s}', bg='green')
+        CATEGORY_STATS['exact'] += 1
+        ou, iu, = match_category(list(oscars[o_cat]), dict(imdb[i_cat]))
         unmatched_o_noms += ou
         unmatched_i_noms.update(iu)
 
     full_scores = []
     for o_cat in list(unmatched_o_cats):
         for i_cat in unmatched_i_cats:
-            score = match_categories(list(oscars[o_cat]), dict(imdb[i_cat]), speculative=True)
+            score = match_category(list(oscars[o_cat]), dict(imdb[i_cat]), speculative=True)
             if score > 0.0:
                 full_scores.append((score, o_cat, i_cat))
 
     for score, o_cat, i_cat in sorted(full_scores, reverse=True):
         if o_cat not in unmatched_o_cats or i_cat not in unmatched_i_cats:
             continue
-        ou, iu, = match_categories(list(oscars[o_cat]), dict(imdb[i_cat]))
+        if args.category_matching:
+            click.secho(f'Fuzzy Category Match: {score:.1f} {o_cat:40s} {i_cat:40s}', bg='blue')
+        CATEGORY_STATS['fuzzy'] += 1
+        ou, iu, = match_category(list(oscars[o_cat]), dict(imdb[i_cat]))
         unmatched_o_noms += ou
         unmatched_i_noms.update(iu)
         unmatched_o_cats.remove(o_cat)
         unmatched_i_cats.remove(i_cat)
 
     for o_cat in unmatched_o_cats:
+        CATEGORY_STATS['extra_o'] += 1
         unmatched_o_noms += oscars[o_cat]
 
     for i_cat in unmatched_i_cats:
+        CATEGORY_STATS['extra_i'] += 1
         unmatched_i_noms.update(imdb[i_cat])
 
-    new_o, new_i = match_categories(unmatched_o_noms, unmatched_i_noms, speculative=False)
+    if args.category_matching:
+        click.secho('Leftovers!', bg='blue')
+    new_o, new_i = match_category(unmatched_o_noms, unmatched_i_noms, speculative=False)
     NOM_STATS['extra_o'] += len(new_o)
     NOM_STATS['extra_i'] += len(new_i)
 
     for o_nom in new_o:
+        if o_nom['Film']:
+            FILM_STATS['misses'] += 1
+            if args.mode is None or args.mode == 'film_misses':
+                click.secho(f"Unknown film: {o_nom['Film']}", bg='red')
         NOMINEE_STATS['misses'] += len(list(get_nominees(o_nom)))
 
-    if args.mode is None:
+    if args.mode is None or args.mode == 'category':
+        if not args.scitech:
+            new_o = [o_nom for o_nom in new_o if o_nom['Class'] != 'SciTech']
+        if args.core:
+            new_o = [o_nom for o_nom in new_o if o_nom['Class'] not in ['Special', 'SciTech']]
         if new_o:
             click.secho('Oscars Noms (unmatched):', fg='yellow')
             for o_nom in new_o:
-                o_cat = o_nom['Canonical Category']
+                o_cat = o_nom['CanonicalCategory']
                 film = o_nom.get('Film', '[x]')
-                nominees = o_nom.get('Nominee(s)', '<>')
+                nominees = o_nom.get('Nominees', '<>')
                 click.secho(f'\t{o_cat:15s} | {film:15s} | {nominees}', fg='yellow')
         if new_i:
             click.secho('IMDB Noms not matched:', fg='yellow')
@@ -387,10 +451,14 @@ def match_years(oscars, imdb):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('years', nargs='*')
+    parser.add_argument('-c', '--category-matching', action='store_true')
     parser.add_argument('-m', '--mode')
+    parser.add_argument('-s', '--scitech', action='store_true')
+    parser.add_argument('-k', '--core', action='store_true')
     parser.add_argument('-w', '--write', action='store_true')
     args = parser.parse_args()
 
+    # Parse the list of years (if any)
     years = []
     for s in args.years:
         if '-' in s:
@@ -398,41 +466,66 @@ if __name__ == '__main__':
             years += list(range(int(a), int(b) + 1))
         else:
             years.append(int(s))
+    if args.years and 1933 in years:
+        years.remove(1933)
 
+    # Sort Oscar Nominations by Year
     oscars = read_csv()
     OSCARS = {}
     for nom in oscars:
         year = int(nom['Year'].split('/')[0])
-        if not args.years:
-            years.append(year)
-        elif year not in years:
-            continue
+        if year not in years:
+            if not args.years:
+                years.append(year)
+            else:
+                continue
 
         if year not in OSCARS:
             OSCARS[year] = {}
-        cat = nom.get('Canonical Category', '')
+        cat = nom.get('CanonicalCategory', '')
         if cat not in OSCARS[year]:
             OSCARS[year][cat] = []
         OSCARS[year][cat].append(nom)
 
-    # Remove years that don't actually have noms
-    years = sorted(set(years).intersection(set(OSCARS.keys())))
-
+    # Read IMDb Data
+    imdb_data = {}
     imdb_data_path = pathlib.Path('imdb_data')
-
     for year in years:
-        if year not in OSCARS:
-            continue
-
         imdb_year_path = imdb_data_path / f'{year}.yaml'
         if not imdb_year_path.exists():
             click.secho(f'Cannot find imdb yaml for {year}', fg='red')
             continue
 
-        imdb_data = yaml.safe_load(open(imdb_year_path))
+        imdb_data[year] = yaml.safe_load(open(imdb_year_path))
 
+    # Correct IMDB Data
+    def recursive_update(d, u):
+        for k, v in u.items():
+            if isinstance(v, collections.abc.Mapping):
+                d[k] = recursive_update(d.get(k, {}), v)
+            else:
+                d[k] = v
+        return d
+    recursive_update(imdb_data, yaml.safe_load(open('aux_data/imdb_corrections.yaml')))
+
+    # Match IMDb data with oscars data
+    for year in years:
         click.secho(f'{year}=====', fg='blue', bg='white')
-        match_years(OSCARS[year], imdb_data)
+        match_year(OSCARS[year], imdb_data[year])
+
+    # Gather Statistics about the total counts
+    denominators = collections.Counter()
+
+    for year in years:
+        for cat, noms in OSCARS[year].items():
+            denominators['Categories'] += 1
+            for nom in noms:
+                denominators['Nominations'] += 1
+                if nom['Film']:
+                    denominators['Films'] += 1
+                denominators['Nominees'] += len(list(get_nominees(nom)))
+                if nom['CanonicalCategory'] == 'MUSIC (Original Song)':
+                    denominators['Songs'] += 1
 
     if args.write:
         write_csv(oscars)
@@ -446,8 +539,13 @@ if __name__ == '__main__':
     for name, stat_dict, cats in [('Nominations', NOM_STATS, [('matched', 'green'),
                                                               ('extra_o', 'yellow'),
                                                               ('extra_i', 'yellow')]),
+                                  ('Categories', CATEGORY_STATS, [('exact', 'green'),
+                                                                  ('fuzzy', 'blue'),
+                                                                  ('extra_o', 'yellow'),
+                                                                  ('extra_i', 'yellow')]),
                                   ('Films', FILM_STATS, [('matched', 'green'),
-                                                         ('unmatched', 'yellow')]),
+                                                         ('unmatched', 'yellow'),
+                                                         ('misses', 'red')]),
                                   ('Nominees', NOMINEE_STATS, [('matched', 'green'),
                                                                ('mismatched', 'red'),
                                                                ('extra_o', 'yellow'),
@@ -460,7 +558,7 @@ if __name__ == '__main__':
         click.secho(t_line, bold=True)
         if f:
             f.write(t_line + '\n')
-        total = sum(stat_dict.values())
+        total = denominators[name]
         if total == 0:
             total = 1
         for key, color in cats:
@@ -469,6 +567,10 @@ if __name__ == '__main__':
             click.secho(s, fg=color)
             if f:
                 f.write(s + '\n')
+        s = f'{total:05d} total'
+        click.secho(s)
+        if f:
+            f.write(s + '\n')
     if f:
         f.close()
 

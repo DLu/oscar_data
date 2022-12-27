@@ -1,3 +1,4 @@
+import bs4
 import click
 import csv
 import yaml
@@ -8,17 +9,16 @@ FIELDNAMES = [
     'Ceremony',
     'Year',
     'Class',
-    'Canonical Category',
+    'CanonicalCategory',
     'Category',
     'NomId',
     'Film',
     'FilmId',
     'Name',
-    'Nominee(s)',
+    'Nominees',
     'NomineeIds',
     'Winner',
     'Detail',
-    'Placement',
     'Note',
     'Citation',
     'MultifilmNomination'
@@ -39,9 +39,9 @@ def format_for_csv(entry):
     new_entry = {}
     for k, v in entry.items():
         if isinstance(v, list):
-            if k == 'Detail':
+            if k == 'Detail' or k == 'Note':
                 new_entry[k] = ' / '.join(v)
-            elif k == 'Nominee(s)':
+            elif k == 'Nominees':
                 new_entry[k] = ', '.join(v)
             else:
                 click.secho(f'Unknown list value: {k}: {v}', fg='red')
@@ -71,20 +71,35 @@ def write_csv(awards, filepath=DATA_PATH):
         f.write(s)
 
 
-def read_lookup_dict(filepath, lower=False):
+def remove_enclosing(text, chars=['{}', '[]', '""']):
+    match_dict = {s[0]: s[1] for s in chars}
+    while text and text[0] in match_dict and match_dict[text[0]] == text[-1] and text[0] not in text[1:-1]:
+        text = text[1:-1]
+    return text
+
+
+def read_lookup_dict(filepath):
     d = {}
     for k, values in yaml.safe_load(open(filepath)).items():
         for v in values:
-            if lower:
-                d[v.lower()] = k
-            else:
-                d[v] = k
+            d[v] = k
     return d
 
 
-def get_letters(s, lower=False):
-    letters = ''.join(c for c in s if c.isalpha())
-    if lower:
-        return letters.lower()
-    else:
-        return letters
+def find_by_class(soup, name, class_name):
+    return soup.find(name, {'class': class_name})
+
+
+def find_all_by_class(soup, name, class_name):
+    return soup.find_all(name, {'class': class_name})
+
+
+class BeautifulParser(bs4.BeautifulSoup):
+    def __init__(self, obj):
+        bs4.BeautifulSoup.__init__(self, obj, 'lxml')
+
+    def find_by_class(self, name, class_name):
+        return find_by_class(self, name, class_name)
+
+    def find_all_by_class(self, name, class_name):
+        return find_all_by_class(self, name, class_name)

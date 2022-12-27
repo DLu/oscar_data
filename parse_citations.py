@@ -1,9 +1,10 @@
 #!/usr/bin/python3
 import re
 import click
+import pathlib
 import yaml
 
-from utilities import get_letters, read_csv, write_csv
+from utilities import read_csv, write_csv
 
 TRANSITION_WORDS = r'(in recognition|whose|for|in appreciation)'
 MOSTLY_CAPS = re.compile('^[2A-Z].*[A-Z.]$')
@@ -12,25 +13,7 @@ DEDICATION = re.compile(r'To (.*[A-Z]{3,}) ' + TRANSITION_WORDS + r' (.*)')
 DEDICATION2 = re.compile(r'To ([^,:\-]+)[,:\-] (.*)')
 DEDICATION3 = re.compile(r'To (.*),? ' + TRANSITION_WORDS + r' (.*)')
 
-SUFFIXES = yaml.safe_load(open('aux_data/suffixes.yaml'))
 DEPARTMENTS = yaml.safe_load(open('aux_data/departments.yaml'))
-
-FILM_NAMES = [
-    'A Star Is Born',
-    'In Which We Serve',
-    'Joan of Arc',
-    'The Circus',
-    'The Jazz Singer',
-    'The Little Kidnappers',
-    'Who Framed Roger Rabbit',
-    'Star Wars',
-    'Toy Story',
-    'A Force in Readiness',
-    '7 Faces of Dr. Lao.',
-    'Planet of the Apes',
-    'Oliver!',
-    'Song of the South',
-]
 
 
 def get_nominees(cite):
@@ -54,16 +37,10 @@ def get_nominees(cite):
             elif word == 'and':
                 append = True
             if append and current:
-                if len(current) == 1 and current[0].title() in SUFFIXES:
-                    names[-1] += ' ' + current[0]
-                else:
-                    names.append(' '.join(current))
+                names.append(' '.join(current))
                 current = []
         if current:
-            if len(current) == 1 and current[0].title() in SUFFIXES:
-                names[-1] += ' ' + current[0]
-            else:
-                names.append(' '.join(current))
+            names.append(' '.join(current))
         return names
     m = DEDICATION2.match(cite)
     if m:
@@ -74,14 +51,14 @@ def get_nominees(cite):
 
 
 def get_cite_hash(cite):
-    s = get_letters(cite)
+    s = ''.join(c for c in cite if c.isalpha())
     a = s[2:5].upper()
     b = f'{len(cite):03d}'
     c = s[-3:].lower()
     return a + b + c
 
 
-def parse_citations(entry, nom_key='Nominee(s)', debug=False):
+def parse_citations(entry, nom_key='Nominees', debug=False):
     cite = entry.get('Citation', '')
 
     nominees = get_nominees(cite)
@@ -103,13 +80,13 @@ def parse_citations(entry, nom_key='Nominee(s)', debug=False):
             if debug:
                 click.secho(entry[nom_key], fg='blue')
 
-    for film_name in FILM_NAMES:
-        if film_name in cite:
-            entry['Film'] = film_name
-
 
 if __name__ == '__main__':
-    citations = yaml.safe_load(open('aux_data/citations.yaml'))
+    citations_path = pathlib.Path('aux_data/citations.yaml')
+    if citations_path.exists():
+        citations = yaml.safe_load(open(citations_path))
+    else:
+        citations = {}
 
     o_noms = read_csv()
 
@@ -134,8 +111,8 @@ if __name__ == '__main__':
         else:
             click.secho(f'New citation: {year}/{key}', fg='blue')
             parse_citations(nom)
-            citations[year][key] = {k: v for (k, v) in nom.items() if k in ['Citation', 'Film', 'Nominee(s)'] and v}
+            citations[year][key] = {k: v for (k, v) in nom.items() if k in ['Citation', 'Film', 'Nominees'] and v}
 
-    yaml.safe_dump(citations, open('aux_data/citations.yaml', 'w'))
+    yaml.safe_dump(citations, open(citations_path, 'w'))
 
     write_csv(o_noms)

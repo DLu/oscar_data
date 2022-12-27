@@ -2,9 +2,9 @@
 import argparse
 import re
 import click
+from tqdm import tqdm
 
-from beautiful_parser import is_comment, find_all_by_class, find_by_class, BeautifulParser
-from utilities import write_csv
+from utilities import find_all_by_class, find_by_class, remove_enclosing, write_csv, BeautifulParser
 
 ORDINAL = r'(\d+)(th|st|nd|rd)'
 ORD_TAIL = r'\s+\(' + ORDINAL + r'\)'
@@ -19,20 +19,13 @@ NOTABLE_FIELDS = {
     'character': 'Detail',
     'songtitle': 'Detail',
     'publicnote': 'Note',
-    'placement': 'Placement',
+    'placement': 'Note',
     'citation': 'Citation',
     'dancenumber': 'Detail',
     'film-title': 'Film',
     'description': 'Note',
     'technical': 'Detail'
 }
-
-
-def remove_enclosing(text, chars=['{}', '[]', '""']):
-    match_dict = {s[0]: s[1] for s in chars}
-    while text and text[0] in match_dict and match_dict[text[0]] == text[-1]:
-        text = text[1:-1]
-    return text
 
 
 def clean_string(text):
@@ -53,7 +46,6 @@ def add_value(d, key, value):
 
 def parse_award(award_html):
     award_info = {}
-    award_info['Class'] = award_html.find(string=is_comment)
     if find_by_class(award_html, 'span', 'glyphicon-star'):
         award_info['Winner'] = True
 
@@ -79,7 +71,8 @@ def parse_award(award_html):
 
 def parse_awards(filepath):
     html = BeautifulParser(open(filepath))
-    for row in html.find_all_by_class('div', 'awards-result-chron'):
+    bar = tqdm(html.find_all_by_class('div', 'awards-result-chron'))
+    for row in bar:
         header = find_by_class(row, 'div', 'result-group-header')
         year_text = header.text.strip()
         m = YEAR_PATT.match(year_text) or YEAR_PATT2.match(year_text)
@@ -87,6 +80,7 @@ def parse_awards(filepath):
             click.secho(f'Cannot parse year text: "{year_text}"', fg='red')
             exit(-1)
         year = m.group(1)
+        bar.set_description(year)
         ceremony = int(m.group(2))
 
         for category_div in find_all_by_class(row, 'div', 'result-subgroup'):
@@ -103,9 +97,9 @@ def parse_awards(filepath):
                     for i, film in enumerate(award_info['Film']):
                         new_row = {}
                         for k, v in award_info.items():
-                            if isinstance(v, list) and k != 'Nominee(s)':
+                            if isinstance(v, list):
                                 if i >= len(v):
-                                    print(award_info)
+                                    click.secho(f'Too many fields for award: {award_info}', fg='yellow')
                                     continue
                                 new_row[k] = v[i]
                             else:
@@ -163,26 +157,6 @@ def parse_nominations(filepath):
                     add_value(nomination, cat, div_text)
 
             yield nomination
-
-
-def format_for_csv(entry):
-    new_entry = {}
-    for k, v in entry.items():
-        if isinstance(v, list):
-            if k == 'Detail':
-                new_entry[k] = ' / '.join(v)
-            elif k == 'Nominee(s)':
-                new_entry[k] = ', '.join(v)
-            else:
-                click.secho(f'Unknown list value: {k}: {v}', fg='red')
-        elif isinstance(v, str):
-            if '  ' in v:
-                print(k)
-            new_entry[k] = v
-        else:
-            new_entry[k] = str(v)
-
-    return new_entry
 
 
 if __name__ == '__main__':
