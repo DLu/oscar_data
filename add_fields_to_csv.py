@@ -118,7 +118,7 @@ def split_nominees(s, nom):
 
 
 if __name__ == '__main__':
-    canonical_award_names = read_lookup_dict('aux_data/canonical.yaml')
+    canonical_award_names = read_lookup_dict('aux_data/canonical.yaml', lower_lookup=True)
     class_lookup = read_lookup_dict('aux_data/classes.yaml')
     missing_canonical = set()
 
@@ -140,8 +140,8 @@ if __name__ == '__main__':
         # Add Canonical Category
         ceremony = int(nom['Ceremony'])
         category = nom['Category']
-        if category in canonical_award_names:
-            canon = canonical_award_names[category]
+        if category.lower() in canonical_award_names:
+            canon = canonical_award_names[category.lower()]
         elif category in class_lookup:
             canon = category
         else:

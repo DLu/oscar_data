@@ -78,10 +78,12 @@ def remove_enclosing(text, chars=['{}', '[]', '""']):
     return text
 
 
-def read_lookup_dict(filepath):
+def read_lookup_dict(filepath, lower_lookup=False):
     d = {}
     for k, values in yaml.safe_load(open(filepath)).items():
         for v in values:
+            if lower_lookup:
+                d[v.lower()] = k
             d[v] = k
     return d
 

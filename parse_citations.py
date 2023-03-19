@@ -113,6 +113,6 @@ if __name__ == '__main__':
             parse_citations(nom)
             citations[year][key] = {k: v for (k, v) in nom.items() if k in ['Citation', 'Film', 'Nominees'] and v}
 
-    yaml.safe_dump(citations, open(citations_path, 'w'))
+    yaml.safe_dump(citations, open(citations_path, 'w'), allow_unicode=True)
 
     write_csv(o_noms)

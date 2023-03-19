@@ -1143,9 +1143,9 @@
     Nominees: Harlan L. Baumbach, LORAND WARGO, HOWARD M. LITTLE, the UNICORN ENGINEERING
       CORP.
   THE125ens:
-    Citation: "To the SOCI\xC9T\xC9 D'OPTIQUE ET DE MECANIQUE DE HAUTE PRECISION for\
-      \ the development of a high speed vari-focal photographic lens."
-    Nominees: "SOCI\xC9T\xC9 D'OPTIQUE ET DE MECANIQUE DE HAUTE PRECISION"
+    Citation: To the SOCIÉTÉ D'OPTIQUE ET DE MECANIQUE DE HAUTE PRECISION for the
+      development of a high speed vari-focal photographic lens.
+    Nominees: SOCIÉTÉ D'OPTIQUE ET DE MECANIQUE DE HAUTE PRECISION
   THE131res:
     Citation: To THE MOTION PICTURE RESEARCH COUNCIL for the design and development
       of a high efficiency projection screen for drive-in theatres.
@@ -1809,9 +1809,9 @@
     Film: Star Wars
     Nominees: Benjamin Burtt Jr.
   DRB144ing:
-    Citation: "To DR. BERNHARD K\xDCHL and WERNER BLOCK of OSRAM, GmbH, for the development\
-      \ of the HMI high-efficiency discharge lamp for motion picture lighting."
-    Nominees: "DR. BERNHARD K\xDCHL, WERNER BLOCK"
+    Citation: To DR. BERNHARD KÜHL and WERNER BLOCK of OSRAM, GmbH, for the development
+      of the HMI high-efficiency discharge lamp for motion picture lighting.
+    Nominees: DR. BERNHARD KÜHL, WERNER BLOCK
   EAS108res:
     Citation: To EASTMAN KODAK COMPANY for the development and introduction of a new
       duplicating film for motion pictures.
@@ -2026,9 +2026,9 @@
     Nominees: ZORAN PERISIC
 '1980':
   AND121ter:
-    Citation: "To ANDR\xC9 DeBRIE S.A. for the development of a continuous contact,\
-      \ total immersion, additive color motion picture printer."
-    Nominees: "ANDR\xC9 DeBRIE"
+    Citation: To ANDRÉ DeBRIE S.A. for the development of a continuous contact, total
+      immersion, additive color motion picture printer.
+    Nominees: ANDRÉ DeBRIE
   CAR128ter:
     Citation: To CARTER EQUIPMENT COMPANY for the development of a continuous contact,
       total immersion, additive color motion picture printer.
@@ -2043,10 +2043,10 @@
       anamorphic lens for motion picture optical effects printers.
     Nominees: David A. Grafton
   DRB172phy:
-    Citation: "To DR. BERNHARD K\xDCHL and DR. WERNER BLOCK of OSRAM GmbH, for the\
-      \ progressive engineering and manufacture of the OSRAM HMI light source for\
-      \ motion picture color photography."
-    Nominees: "DR. BERNHARD K\xDCHL, WERNER BLOCK"
+    Citation: To DR. BERNHARD KÜHL and DR. WERNER BLOCK of OSRAM GmbH, for the progressive
+      engineering and manufacture of the OSRAM HMI light source for motion picture
+      color photography.
+    Nominees: DR. BERNHARD KÜHL, WERNER BLOCK
   EDW152ors:
     Citation: To EDWARD B. KRAUSE of Filmline Corporation for the engineering and
       manufacture of the micro-demand drive for continuous motion picture film processors.
@@ -2295,11 +2295,11 @@
       Incorporated, for the design and development of the "Blue Max" high-power, blue-flux
       projector for traveling matte composite photography.
     Nominees: Donald Trumbull, JONATHAN ERLAND, STEPHEN FOG, PAUL BURK
-  "G\xDCN166ion":
-    Citation: "To G\xDCNTHER SCHAIDT and ROSCO LABORATORIES, INCORPORATED, for the\
-      \ development of an improved, non-toxic fluid for creating fog and smoke for\
-      \ motion picture production."
-    Nominees: "G\xDCNTHER SCHAIDT, ROSCO LABORATORIES INCORPORATED"
+  GÜN166ion:
+    Citation: To GÜNTHER SCHAIDT and ROSCO LABORATORIES, INCORPORATED, for the development
+      of an improved, non-toxic fluid for creating fog and smoke for motion picture
+      production.
+    Nominees: GÜNTHER SCHAIDT, ROSCO LABORATORIES INCORPORATED
   HOW177ras:
     Citation: To HOWARD J. PRESTON of Preston Cinema Systems for the design and development
       of a variable speed control device with automatic exposure compensation for
@@ -2459,10 +2459,10 @@
     Nominees: William L. Fredrick, Hal Needham
 '1987':
   BER202phy:
-    Citation: "To BERNHARD K\xDCHL and WERNER BLOCK and to the OSRAM GmbH RESEARCH\
-      \ AND DEVELOPMENT DEPARTMENT for the invention and the continuing improvement\
-      \ of the OSRAM HMI light source for motion picture photography."
-    Nominees: "Bernhard K\xFChl, Werner Block, the OSRAM GmbH"
+    Citation: To BERNHARD KÜHL and WERNER BLOCK and to the OSRAM GmbH RESEARCH AND
+      DEVELOPMENT DEPARTMENT for the invention and the continuing improvement of the
+      OSRAM HMI light source for motion picture photography.
+    Nominees: Bernhard Kühl, Werner Block, the OSRAM GmbH
   COL176ing:
     Citation: To COLIN F. MOSSMAN and RANK FILM LABORATORIES' DEVELOPMENT GROUP for
       creating a fully-automated, film handling system for improving productivity
@@ -3216,8 +3216,8 @@
       System for motion picture exhibition.
     Nominees: Pascal Chedeville
   PET101era:
-    Citation: "To PETER DENZ of Pr\xE4zisions-Entwicklung Denz for developing a flicker-free\
-      \ Color Video-Assist Camera."
+    Citation: To PETER DENZ of Präzisions-Entwicklung Denz for developing a flicker-free
+      Color Video-Assist Camera.
     Nominees: PETER DENZ
   RON147tem:
     Citation: To RONALD C. GOODMAN, ATTILA SZALAY, STEVEN SASS and SPACECAM SYSTEMS,
@@ -3326,10 +3326,10 @@
       of a Portable Adjustment Tool for T-Style Slit Lens Assemblies.
     Nominees: Dan Leimeter, Robert Weitz
   DOM174tem:
-    Citation: "To DOMINIQUE BOISVERT, R\xC9JEAN GAGN\xC9, DANIEL LANGLOIS and RICHARD\
-      \ LAPERRIERE for the development of the \"Actor\" animation component of the\
-      \ Softimage computer animation system."
-    Nominees: "Dominique Boisvert, R\xE9jean, Daniel Langlois, Richard Laperriere"
+    Citation: To DOMINIQUE BOISVERT, RÉJEAN GAGNÉ, DANIEL LANGLOIS and RICHARD LAPERRIERE
+      for the development of the "Actor" animation component of the Softimage computer
+      animation system.
+    Nominees: Dominique Boisvert, Réjean, Daniel Langlois, Richard Laperriere
   EBE144tem:
     Citation: To EBEN OSTBY, WILLIAM REEVES, SAMUEL J. LEFFLER and TOM DUFF for the
       development of the Marionette Three-Dimensional Computer Animation System.
@@ -3494,10 +3494,10 @@
       platform for Steadicam operators.
     Nominees: Garrett Brown, Jerry Holway
   GAR177are:
-    Citation: "To GARY TREGASKIS for the primary design; and to DOMINIQUE BOISVERT,\
-      \ PHILIPPE PANZINI and ANDR\xC9 LeBLANC for the development and implementation\
-      \ of the Flame and Inferno software."
-    Nominees: "Gary Tregaskis, Dominique Boisvert, Philippe Panzini, ANDR\xC9 LeBLANC"
+    Citation: To GARY TREGASKIS for the primary design; and to DOMINIQUE BOISVERT,
+      PHILIPPE PANZINI and ANDRÉ LeBLANC for the development and implementation of
+      the Flame and Inferno software.
+    Nominees: Gary Tregaskis, Dominique Boisvert, Philippe Panzini, ANDRÉ LeBLANC
   IAI214phy:
     Citation: To IAIN NEIL for the optical design; TAKUO MIYAGISHIMA for the mechanical
       design; and PANAVISION, INCORPORATED, for the concept and development of the
@@ -3951,8 +3951,8 @@
     Nominees: Christopher Alfred, Andrew J. Cannon, Michael C. Carlos, Mark Crabtree,
       Chuck Grindstaff, John Melanson
   DIG105ion:
-    Citation: "To DIGIDESIGN for the design, development and implementation of the\
-      \ Pro Tools\xAE digital audio workstation."
+    Citation: To DIGIDESIGN for the design, development and implementation of the
+      Pro Tools® digital audio workstation.
     Nominees: Digidesign
   DOU160ces:
     Citation: To Douglas Greenfield in appreciation for outstanding service and dedication
@@ -4249,11 +4249,11 @@
       identifying and solving the problem of High-Speed Emulsion Stress Syndrome in
       motion picture film stock.
     Nominees: Jonathan Erland
-  "J\xD6R162ers":
-    Citation: "To J\xD6RG P\xD6HLER and R\xDCDIGER KLEINKE of OTTEC Technology GmbH\
-      \ for the design and development of the battery-operated series of fog machines\
-      \ known as \"Tiny Foggers.\""
-    Nominees: "J\xD6RG P\xD6HLER, R\xDCDIGER KLEINKE"
+  JÖR162ers:
+    Citation: To JÖRG PÖHLER and RÜDIGER KLEINKE of OTTEC Technology GmbH for the
+      design and development of the battery-operated series of fog machines known
+      as "Tiny Foggers."
+    Nominees: JÖRG PÖHLER, RÜDIGER KLEINKE
   NIC134tem:
     Citation: To NICK RASMUSSEN, RON FEDKIW and FRANK LOSASSO PETTERSON for the development
       of the Industrial Light & Magic fluid simulation system.
@@ -4293,11 +4293,10 @@
     Citation: Ed Catmull
     Nominees: Ed Catmull
   ERW244ion:
-    Citation: "To ERWIN MELZNER for the overall concept including the optical and\
-      \ cooling systems, VOLKER SCHUMACHER for the optical design, and TIMO M\xDC\
-      LLER for the mechanical design, of the Arrimax 18/12 lighting fixture for use\
-      \ in motion picture production."
-    Nominees: "Erwin Melzner, Volker Schumacher, Timo M\xFCller"
+    Citation: To ERWIN MELZNER for the overall concept including the optical and cooling
+      systems, VOLKER SCHUMACHER for the optical design, and TIMO MÜLLER for the mechanical
+      design, of the Arrimax 18/12 lighting fixture for use in motion picture production.
+    Nominees: Erwin Melzner, Volker Schumacher, Timo Müller
   JAC194try:
     Citation: To JACQUES DELACOUX for the concept and electronic design, and ALEXANDRE
       LEUCHTER for the software and electronic design, of the Transvideo video-assist
@@ -4308,15 +4307,14 @@
       in upholding the high standards of the Academy of Motion Picture Arts and Sciences.
     Nominees: Mark Kimball
   STE151phy:
-    Citation: "To STEVE HYL\xC9N for the concept and his continued leadership in the\
-      \ further development of the Hyl\xE9n Lens System for motion picture effects\
-      \ photography."
-    Nominees: "STEVE HYL\xC9N"
+    Citation: To STEVE HYLÉN for the concept and his continued leadership in the further
+      development of the Hylén Lens System for motion picture effects photography.
+    Nominees: STEVE HYLÉN
 '2009':
-  "BJ\xD6125ors":
-    Citation: "To BJ\xD6RN HED\xC9N for the design and mechanical engineering of the\
-      \ silent, two-stage planetary friction drive Hed\xE9n Lens Motors."
-    Nominees: "BJ\xD6RN HED\xC9N"
+  BJÖ125ors:
+    Citation: To BJÖRN HEDÉN for the design and mechanical engineering of the silent,
+      two-stage planetary friction drive Hedén Lens Motors.
+    Nominees: BJÖRN HEDÉN
   BRA284res:
     Citation: To BRAD WALKER, D. SCOTT DEWALD, BILL WERNER and GREG PETTITT for their
       contributions furthering the design and refinement of the Texas Instruments
@@ -4464,10 +4462,9 @@
       illusion.
     Nominees: Dick Smith
   DRJ153phy:
-    Citation: "To DR. J\xDCRGEN NOFFKE for the optical design and UWE WEBER for the\
-      \ mechanical design of the ARRI Zeiss Master Prime Lenses for motion picture\
-      \ photography."
-    Nominees: "Dr. J\xFCrgen Noffke, Uwe Weber"
+    Citation: To DR. JÜRGEN NOFFKE for the optical design and UWE WEBER for the mechanical
+      design of the ARRI Zeiss Master Prime Lenses for motion picture photography.
+    Nominees: Dr. Jürgen Noffke, Uwe Weber
   EFB287ads:
     Citation: To E.F. "BOB" NETTMANN for the concept and system architecture, MICHAEL
       SAYOVITZ for the electronic packaging and integration, BRAD FRITZEL for the
@@ -4490,11 +4487,11 @@
       versatility.
     Nominees: James Earl Jones
   JOH248ess:
-    Citation: "To JOHN D. LOWRY, IAN CAV\xC9N, IAN GODIN, KIMBALL THURSTON and TIM\
-      \ CONNOLLY for the development of a unique and efficient system for the reduction\
-      \ of noise and other artifacts, thereby providing high-quality images required\
-      \ by the filmmaking process."
-    Nominees: "John D. Lowry, Ian Cav\xE9n, Ian Godin, Kimball Thurston, Tim Connolly"
+    Citation: To JOHN D. LOWRY, IAN CAVÉN, IAN GODIN, KIMBALL THURSTON and TIM CONNOLLY
+      for the development of a unique and efficient system for the reduction of noise
+      and other artifacts, thereby providing high-quality images required by the filmmaking
+      process.
+    Nominees: John D. Lowry, Ian Cavén, Ian Godin, Kimball Thurston, Tim Connolly
   JON157ces:
     Citation: To Jonathan Erland in appreciation for outstanding service and dedication
       in upholding the high standards of the Academy of Motion Picture Arts and Sciences.
@@ -4602,9 +4599,9 @@
       of innovative, robust and complete toolsets for deep compositing.
     Nominees: Dr. Peter Hillman
   EMM127tem:
-    Citation: "To EMMANUEL PR\xC9VINAIRE, JAN SPERLING, ETIENNE BRANDT and TONY POSTIAU\
-      \ for their development of the Flying-Cam SARAH 3.0 system."
-    Nominees: "Emmanuel Pr\xE9vinaire, Jan Sperling, Etienne Brandt, Tony Postiau"
+    Citation: To EMMANUEL PRÉVINAIRE, JAN SPERLING, ETIENNE BRANDT and TONY POSTIAU
+      for their development of the Flying-Cam SARAH 3.0 system.
+    Nominees: Emmanuel Prévinaire, Jan Sperling, Etienne Brandt, Tony Postiau
   ERI102sis:
     Citation: To ERIC VEACH for his foundational research on efficient Monte Carlo
       path tracing for image synthesis.
@@ -4718,24 +4715,24 @@
       inspired filmmakers and audiences around the world.
     Nominees: Hayao Miyazaki
   IAI128ses:
-    Citation: "To IAIN NEIL for the optical design, and to ANDR\xC9 DE WINTER for\
-      \ the mechanical design, of the Leica Summilux-C series of lenses."
-    Nominees: "Iain Neil, ANDR\xC9 De Winter"
+    Citation: To IAIN NEIL for the optical design, and to ANDRÉ DE WINTER for the
+      mechanical design, of the Leica Summilux-C series of lenses.
+    Nominees: Iain Neil, ANDRÉ De Winter
   ICH147tor:
     Citation: To ICHIRO TSUTSUI, MASAHIRO TAKE, MITSUYASU TAMURA and MITSURU ASANO
       for the development of the Sony BVM-E Series Professional OLED Master Monitor.
     Nominees: Ichiro Tsutsui, Masahiro Take, Mitsuyasu Tamura, Mitsuru Asano
   JEA121ure:
-    Citation: "To Jean-Claude Carri\xE8re, whose elegantly crafted screenplays elevate\
-      \ the art of screenwriting to the level of literature."
-    Nominees: "Jean-Claude Carri\xE8re"
+    Citation: To Jean-Claude Carrière, whose elegantly crafted screenplays elevate
+      the art of screenwriting to the level of literature.
+    Nominees: Jean-Claude Carrière
   JOH128lay:
     Citation: To JOHN FREDERICK, BOB MYERS, KARL RASCHE and TOM LIANZA for the development
       of the HP DreamColor LP2480zx Professional Display.
     Nominees: John Frederick, Bob Myers, Karl Rasche, Tom Lianza
   KEN071vdb:
-    Citation: "To KEN MUSETH, PETER CUCKA and MIHAI ALD\xC9N for the creation of OpenVDB."
-    Nominees: "KEN MUSETH, PETER CUCKA, MIHAI ALD\xC9N"
+    Citation: To KEN MUSETH, PETER CUCKA and MIHAI ALDÉN for the creation of OpenVDB.
+    Nominees: KEN MUSETH, PETER CUCKA, MIHAI ALDÉN
   MAG070ldd:
     Citation: To MAGNUS WRENNINGE for leading the design and development of Field3D.
     Nominees: Magnus Wrenninge
@@ -4946,14 +4943,14 @@
       system.
     Nominees: Abigail Brady, Jon Wadelton, Jerry Huxtable
   AGN081ema:
-    Citation: "To Agn\xE8s Varda, whose compassion and curiosity inform a uniquely\
-      \ personal cinema."
-    Nominees: "Agn\xE8s Varda"
+    Citation: To Agnès Varda, whose compassion and curiosity inform a uniquely personal
+      cinema.
+    Nominees: Agnès Varda
   ALE141ing:
-    Citation: "To Alejandro G. I\xF1\xE1rritu's CARNE y ARENA virtual reality installation,\
-      \ in recognition of a visionary and powerful experience in storytelling."
+    Citation: To Alejandro G. Iñárritu's CARNE y ARENA virtual reality installation,
+      in recognition of a visionary and powerful experience in storytelling.
     Film: CARNE y ARENA
-    Nominees: "Alejandro G. I\xF1\xE1rritu"
+    Nominees: Alejandro G. Iñárritu
   ALE294ion:
     Citation: To ALEX POWELL for his contribution to the design and engineering, to
       JASON REISIG for his contribution to the interaction design, and to MARTIN WATT
@@ -5110,9 +5107,9 @@
       on-set, encrypted digital video monitoring with sub-frame latency.
     Nominees: Dr. Zvi Reznic, Professor Meir Feder, Guy Dorman, Ron Yogev
   FRE118dio:
-    Citation: "To FREDRIK LIMS\xC4TER, BJ\xD6RN RYDAHL and MATTIAS LAGERGREN for the\
-      \ design, architecture and engineering of ftrack Studio."
-    Nominees: "Fredrik Lims\xE4ter, Bj\xF6rn Rydahl, Mattias Lagergren"
+    Citation: To FREDRIK LIMSÄTER, BJÖRN RYDAHL and MATTIAS LAGERGREN for the design,
+      architecture and engineering of ftrack Studio.
+    Nominees: Fredrik Limsäter, Björn Rydahl, Mattias Lagergren
   HAY095tem:
     Citation: To HAYLEY IBEN, MARK MEYER, JOHN ANDERSON and ANDREW WITKIN for the
       Taz Hair Simulation System.
@@ -5124,19 +5121,19 @@
       and Revoice Pro.
     Nominees: Jeff Bloom, GUY McNALLY, Nick Rose, John Ellwood, Jonathan Newland
   JEN127nes:
-    Citation: "To JENS-J\xD8RN STOKHOLM and OLE MOESMANN for their innovative development\
-      \ of miniature high-performance DPA lavalier microphones."
-    Nominees: "Jens-J\xF8rn Stokholm, Ole Moesmann"
+    Citation: To JENS-JØRN STOKHOLM and OLE MOESMANN for their innovative development
+      of miniature high-performance DPA lavalier microphones.
+    Nominees: Jens-Jørn Stokholm, Ole Moesmann
   KEL141tem:
     Citation: To KELLY WARD HAMMEL, ALEKA McADAMS, TOBY JONES, MARYANN SIMMONS and
       ANDY MILNE for the Walt Disney Animation Studios Hair Simulation System.
     Nominees: Kelly Ward Hammel, ALEKA McADAMS, Toby Jones, Maryann Simmons, Andy
       Milne
   LIN150ens:
-    Citation: "To Lina Wertm\xFCller, for her provocative disruption of political\
-      \ and social norms delivered with bravery through her weapon of choice: the\
-      \ camera lens."
-    Nominees: "Lina Wertm\xFCller"
+    Citation: 'To Lina Wertmüller, for her provocative disruption of political and
+      social norms delivered with bravery through her weapon of choice: the camera
+      lens.'
+    Nominees: Lina Wertmüller
   MAS215sdk:
     Citation: To MASATO NAKASHIMA, KOICHI UENO, JUNJI SAKUDA and JUNRO YONEMITSU for
       the development of the EIZO auto-calibrating SDR monitors that incorporate a
@@ -5159,12 +5156,10 @@
     Citation: To STEPHEN BOWLINE for the ILM HairCraft Dynamics System.
     Nominees: Stephen Bowline
   SVE227ary:
-    Citation: "To SVEN WOOP and CARSTEN BENTHIN for core development, ATTILA T. \xC1\
-      FRA for motion picture feature development, and MANFRED ERNST and INGO WALD\
-      \ for early research and technical direction, of the Intel\xAE Embree Ray Tracing\
-      \ Library."
-    Nominees: "SVEN WOOP, CARSTEN BENTHIN, ATTILA T. \xC1 FRA, MANFRED ERNST, INGO\
-      \ WALD"
+    Citation: To SVEN WOOP and CARSTEN BENTHIN for core development, ATTILA T. ÁFRA
+      for motion picture feature development, and MANFRED ERNST and INGO WALD for
+      early research and technical direction, of the Intel® Embree Ray Tracing Library.
+    Nominees: SVEN WOOP, CARSTEN BENTHIN, ATTILA T. Á FRA, MANFRED ERNST, INGO WALD
   WES158ity:
     Citation: To Wes Studi, in recognition of the power and craft he brings to his
       indelible film portrayals and for his steadfast support of the Native American
@@ -5183,3 +5178,57 @@
     Citation: To Samuel L. Jackson, whose dynamic performances resonate across genres
       and generations of audiences worldwide.
     Nominees: Samuel L. Jackson
+'2022':
+  DAV134tem:
+    Citation: To DAVID EBERLE, THEODORE KIM, FERNANDO DE GOES and AUDREY WONG for
+      the design and development of the Fizt2 elastic simulation system.
+    Nominees: David Eberle, Theodore Kim, Fernando De Goes, Audrey Wong
+  DIA099ilm:
+    Citation: To Diane Warren, for her genius, generosity and passionate commitment
+      to the power of song in film.
+    Nominees: Diane Warren
+  EUZ138obe:
+    Citation: To Euzhan Palcy, a masterful filmmaker who broke ground for Black women
+      directors and inspired storytellers of all kinds across the globe.
+    Nominees: Euzhan Palcy
+  HOW139ars:
+    Citation: To HOWARD JENSEN and DANNY CANGEMI for the concept and creation, and
+      to JOHN FRAZIER for the development of the 60- and 100-foot Rain Bars.
+    Nominees: Howard Jensen, Danny Cangemi, John Frazier
+  HOW203ger:
+    Citation: To HOWARD PRESTON for the concept, design and engineering, and to BERNIE
+      BUTLER-SMITH for the design and implementation of electronic circuitry and software,
+      of the Preston Cinema Systems Light Ranger 2.
+    Nominees: Howard Preston, Bernie Butler-Smith
+  INN009eil:
+    Citation: Iain Neil
+    Nominees: Iain Neil
+  LAR190ape:
+    Citation: To LARRY BARTON for the pioneering design, development and engineering,
+      and to BEN WILCOX for the electronic engineering and software development, of
+      the Cinematography Electronics CineTape.
+    Nominees: Larry Barton, Ben Wilcox
+  MAR099tem:
+    Citation: To MARK HILLS and JIM VANNS for the design and engineering of the FQ
+      render farm management system.
+    Nominees: Mark Hills, Jim Vanns
+  MAT150low:
+    Citation: To MATT CHAMBERS for his contributions to modern render farm management
+      system design as exemplified in the scheduling architectures of Cue3 and Plow.
+    Nominees: Matt Chambers
+  PET135ork:
+    Citation: To Peter Weir, a fearless and consummate filmmaker who has illuminated
+      the human experience with his unique and expansive body of work.
+    Nominees: Peter Weir
+  RYA253nya:
+    Citation: To Ryan Laney for his innovative adaptation and deployment of AI-driven
+      facial veiling technology used to protect the identities while preserving the
+      visual relatability of subjects in documentary filmmaking as exemplified in
+      Welcome to Chechnya (2020).
+    Film: Welcome to Chechnya
+    Nominees: Ryan Laney
+  SÉB199ner:
+    Citation: To SÉBASTIEN DEGUY and CHRISTOPHE SOUM for the concept and original
+      implementation of Substance Engine, and to SYLVAIN PARIS and NICOLAS WIRRMANN
+      for the design and engineering of Substance Designer.
+    Nominees: Sébastien Deguy, Christophe Soum, Sylvain Paris, Nicolas Wirrmann
