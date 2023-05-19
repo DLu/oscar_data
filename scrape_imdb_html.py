@@ -14,7 +14,7 @@ SONG_PATTERN = re.compile(r'[Ss]ong:? "([^"]*)"')
 def parse_imdb_html(s):
     D = {}
     for x in WIDGET_PATTERN.findall(s):
-        x = x.replace('\x92', '')
+        x = x.replace('\x92', '').replace('\x97', '')
         d = yaml.safe_load(x)[1]['nomineesWidgetModel']['eventEditionSummary']
         for award in d['awards']:
             for category in award['categories']:
