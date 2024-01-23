@@ -8,7 +8,10 @@ import click
 from tqdm import tqdm
 
 WIDGET_PATTERN = re.compile(r'IMDbReactWidgets\.NomineesWidget\.push\((.*)\);\n')
-SONG_PATTERN = re.compile(r'[Ss]ong:? "([^"]*)"')
+SONG_PATTERNS = [
+    re.compile(r'[Ss]ong:? "([^"]*)"'),
+    re.compile(r'For "([^"]*)"'),
+]
 
 
 def parse_imdb_html(s):
@@ -38,9 +41,11 @@ def parse_imdb_html(s):
                         else:
                             note = (nomination.get('notes') or '').strip()
                             if note:
-                                m = SONG_PATTERN.search(note)
-                                if m:
-                                    nom_d['song'] = m.group(1)
+                                for pattern in SONG_PATTERNS:
+                                    m = pattern.search(note)
+                                    if m:
+                                        nom_d['song'] = m.group(1)
+                                        break
                                 else:
                                     click.secho(f'Unable to parse song name for {nom_id}: {note}', fg='yellow')
                     if nom_d:
@@ -70,7 +75,7 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     imdb_data = {}
-    years = range(1927, 2023)
+    years = range(2019, 2024)
     pbar = tqdm(years)
 
     extra_imdb_data = yaml.safe_load(open('aux_data/extra_imdb_data.yaml'))
@@ -126,6 +131,9 @@ if __name__ == '__main__':
             continue
         nom_id = year_map['nom_id']
         cat = find_category(nom_id, from_year)
+        if cat is None:
+            click.secho(f'Cannot find category for Nom {nom_id} ({from_year})', fg='yellow')
+            continue
         entry = imdb_data[from_year][cat][nom_id]
         del imdb_data[from_year][cat][nom_id]
 

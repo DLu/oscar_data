@@ -131,7 +131,10 @@ def parse_nominations(filepath):
     year = int(m.group(3)) - 1
 
     for row in html.find_all_by_class('div', 'view-grouping'):
-        category = row.find('h2').text
+        cat_head = row.find('h2')
+        if not cat_head:
+            continue
+        category = cat_head.text
         FIELDS = ACTOR_FIELDS if ' in a ' in category else OTHER_FIELDS
         for nom_el in find_all_by_class(row, 'div', 'views-row'):
             nomination = {'Category': category, 'Ceremony': ceremony, 'Year': year}
