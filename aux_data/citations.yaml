@@ -430,7 +430,7 @@
       Company for their outstanding contribution to the advancement of the use of
       sound in motion pictures through the production of Fantasia.
     Film: Fantasia
-    Nominees: Walt Disneyy, William Garity, John N. A. Hawkins, the RCA Manufacturing
+    Nominees: Walt Disney, William Garity, John N. A. Hawkins, the RCA Manufacturing
       Company
   WIL218ght:
     Citation: To WILBUR SILVERTOOTH and the PARAMOUNT STUDIO ENGINEERING DEPARTMENT
@@ -5232,3 +5232,91 @@
       implementation of Substance Engine, and to SYLVAIN PARIS and NICOLAS WIRRMANN
       for the design and engineering of Substance Designer.
     Nominees: Sébastien Deguy, Christophe Soum, Sylvain Paris, Nicolas Wirrmann
+'2023':
+  ANG107ces:
+    Citation: To Angela Bassett, who has inspired audiences around the world with
+      her powerful and fearless performances.
+    Nominees: Angela Bassett
+  ARN152pod:
+    Citation: To ARNOLD PETERSON and ELIA P. POPOV for their ongoing design and engineering,
+      and to JOHN FRAZIER for the initial concept of the Blind Driver Roof Pod.
+    Nominees: Arnold Peterson, Elia P. Popov, John Frazier
+  BIL108ems:
+    Citation: To BILL BECK for his pioneering utilization of semiconductor lasers
+      for theatrical laser projection systems.
+    Nominees: Bill Beck
+  CAR101ing:
+    Citation: To Carol Littleton, whose commitment to her craft has significantly
+      elevated the art of film editing.
+    Nominees: Carol Littleton
+  CHA242tem:
+    Citation: To CHARLES Q. ROBINSON, NICOLAS TSINGOS, CHRISTOPHE CHABANNE, MARK VINTON
+      and the TEAM OF SOFTWARE, HARDWARE AND IMPLEMENTATION ENGINEERS OF THE CINEMA
+      AUDIO GROUP AT DOLBY LABORATORIES for the creation of the Dolby Atmos Cinema
+      Sound System.
+    Nominees: Charles Q. Robinson, Nicolas Tsingos, Christophe Chabanne, Mark Vinton,
+      Dolby Laboratories
+  FSE160usd:
+    Citation: To F. SEBASTIAN GRASSIA, ALEX MOHR, SUNYA BOONYATERA, BRETT LEVIN and
+      JEREMY COWLES for the design and engineering of Pixar's Universal Scene Description
+      (USD).
+    Nominees: F. Sebastian Grassia, Alex Mohr, Sunya Boonyatera, Brett Levin, Jeremy
+      Cowles
+  GRE106ems:
+    Citation: To GREGORY T. NIVEN for his pioneering work in using laser diodes for
+      theatrical laser projection systems.
+    Nominees: Gregory T. Niven
+  JAD095tem:
+    Citation: To JADEN OH for the concept and development of the Marvelous Designer
+      clothing creation system.
+    Nominees: Jaden Oh
+  JAM185set:
+    Citation: To JAMES EGGLETON and DELWYN HOLROYD for the design, implementation
+      and integration of the High-Density Encoding (HDE) lossless compression algorithm
+      within the Codex recording toolset.
+    Nominees: James Eggleton, Delwyn Holroyd
+  JEF122vdb:
+    Citation: To JEFF LAIT, DAN BAILEY and NICHOLAS AVRAMOUSSIS for the continued
+      evolution and expansion of the feature set of OpenVDB.
+    Nominees: Jeff Lait, Dan Bailey, Nicholas Avramoussis
+  JON084ces:
+    Citation: To JON G. BELYEU for the design and engineering of Movie Works Cable
+      Cutter devices.
+    Nominees: Jon G. Belyeu
+  KEN129try:
+    Citation: To KEN MUSETH, PETER CUCKA and MIHAI ALDÉN for the creation of OpenVDB
+      and its ongoing impact within the motion picture industry.
+    Nominees: Ken Museth, Peter Cucka, Mihai Aldén
+  LUC135tem:
+    Citation: To LUCAS MILLER, CHRISTOPHER JON HORVATH, STEVE LaVIETES and JOE ARDENT
+      for the creation of the Alembic Caching and Interchange system.
+    Nominees: Lucas Miller, Christopher Jon Horvath, Steve LaVietes, Joe Ardent
+  MEL087ork:
+    Citation: To Mel Brooks, for his comedic brilliance, producing acumen and expansive
+      body of work.
+    Nominees: Mel Brooks
+  MIC253ams:
+    Citation: To MICHAEL PERKINS, GERWIN DAMBERG, TREVOR DAVIES and MARTIN J. RICHARDS
+      for the design and development of the Christie E3LH Dolby Vision Cinema Projection
+      System, implemented in collaboration between Dolby Cinema and Christie Digital
+      engineering teams.
+    Nominees: Michael Perkins, Gerwin Damberg, Trevor Davies, Martin J. Richards
+  OLI153las:
+    Citation: To OLIVER CASTLE and MARCUS SCHOO for the design and engineering of
+      Atlas, and to KEITH LACKEY for the prototype creation and early development
+      of Atlas.
+    Nominees: Oliver Castle, Marcus Schoo, Keith Lackey
+  PET126tor:
+    Citation: To PETER JANSSENS, GORAN STOJMENOVIK and WOUTER D’OOSTERLINCK for the
+      design and development of the Barco RGB Laser Projector.
+    Nominees: Peter Janssens, Goran Stojmenovik, Wouter D’Oosterlinck
+  STE128tor:
+    Citation: To STEVE READ and BARRY SILVERSTEIN for their contributions to the design
+      and development of the IMAX Prismless Laser Projector.
+    Nominees: Steve Read, Barry Silverstein
+  YOS164ems:
+    Citation: To YOSHITAKA NAKATSU, YOJI NAGAO, TSUYOSHI HIRAO, TOMONORI MORIZUMI
+      and KAZUMA KOZURU for their development of laser diodes for theatrical laser
+      projection systems.
+    Nominees: Yoshitaka Nakatsu, Yoji Nagao, Tsuyoshi Hirao, Tomonori Morizumi, Kazuma
+      Kozuru
