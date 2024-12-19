@@ -1,8 +1,6 @@
 Acting:
- - ACTOR
  - ACTOR IN A LEADING ROLE
  - ACTOR IN A SUPPORTING ROLE
- - ACTRESS
  - ACTRESS IN A LEADING ROLE
  - ACTRESS IN A SUPPORTING ROLE
 
@@ -14,7 +12,6 @@ Directing:
 
 Writing:
  - WRITING (Original Screenplay)
- - WRITING (Screenplay)
  - WRITING (Adapted Screenplay)
  - WRITING (Original Story)
  - WRITING (Title Writing)
@@ -28,7 +25,6 @@ Title:
  - DOCUMENTARY (Feature)
  - SHORT FILM (Live Action)
  - SHORT FILM (Animated)
- - SHORT FILM (Dramatic Live Action)
  - SHORT SUBJECT (One-reel)
  - SHORT SUBJECT (Two-reel)
  - SHORT SUBJECT (Comedy)
@@ -54,8 +50,6 @@ Production:
  - CINEMATOGRAPHY
  - CINEMATOGRAPHY (Black-and-White)
  - CINEMATOGRAPHY (Color)
- - PRODUCTION DESIGN
- - SOUND
  - SOUND RECORDING
  - SOUND EDITING
  - SOUND MIXING
