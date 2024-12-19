@@ -1,3 +1,8 @@
+ACTOR IN A LEADING ROLE:
+- ACTOR
+ACTRESS IN A LEADING ROLE:
+- ACTRESS
+
 BEST PICTURE:
 - BEST MOTION PICTURE
 - OUTSTANDING MOTION PICTURE
@@ -15,6 +20,7 @@ SHORT FILM (Animated):
 
 SHORT FILM (Live Action):
 - SHORT SUBJECT (Live Action)
+- SHORT FILM (Dramatic Live Action)
 - Live Action Short Film
 
 MUSIC (Original Score):
@@ -36,6 +42,7 @@ MUSIC (Original Song Score or Adaptation Score):
 - MUSIC (Adaptation Score)
 - MUSIC (Original Musical or Comedy Score)
 - MUSIC (Scoring of Music--adaptation or treatment)
+- MUSIC (Scoring)
 
 MUSIC (Original Song):
  - MUSIC (Song)
@@ -57,13 +64,12 @@ WRITING (Adapted Screenplay):
  - WRITING (Screenplay Based on Material from Another Medium)
  - WRITING (Screenplay Based on Material Previously Produced or Published)
  - WRITING (Adaptation)
+ - WRITING (Screenplay)
+ - WRITING
 
 WRITING (Original Story):
  - WRITING (Motion Picture Story)
  - WRITING (Original Motion Picture Story)
-
-WRITING (Screenplay):
- - WRITING
 
 DOCUMENTARY (Feature):
  - DOCUMENTARY
@@ -78,6 +84,12 @@ MAKEUP AND HAIRSTYLING:
 SOUND EDITING:
  - SOUND EFFECTS EDITING
  - SOUND EFFECTS
+
+SOUND MIXING:
+- SOUND
+
+ART DIRECTION:
+- PRODUCTION DESIGN
 
 VISUAL EFFECTS:
  - SPECIAL VISUAL EFFECTS
