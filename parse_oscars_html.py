@@ -10,7 +10,7 @@ ORDINAL = r'(\d+)(th|st|nd|rd)'
 ORD_TAIL = r'\s+\(' + ORDINAL + r'\)'
 YEAR_PATT = re.compile(r'(\d{4})' + ORD_TAIL)
 YEAR_PATT2 = re.compile(r'(\d{4}/\d{2})' + ORD_TAIL)
-TITLE_PATT = re.compile(r'The ' + ORDINAL + r' Academy Awards \| (\d{4})')
+TITLE_PATT = re.compile(r'The ' + ORDINAL + r' Academy Awards\s+\| (\d{4})')
 
 
 NOTABLE_FIELDS = {
