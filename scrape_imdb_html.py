@@ -75,7 +75,7 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     imdb_data = {}
-    years = range(2019, 2024)
+    years = range(1927, 2025)
     pbar = tqdm(years)
 
     extra_imdb_data = yaml.safe_load(open('aux_data/extra_imdb_data.yaml'))
