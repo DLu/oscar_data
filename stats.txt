@@ -15,9 +15,9 @@ Films=================================
 00001 misses                  |   0.01
 10754 total
 Nominees==============================
-17053 matched                 |  91.94
+17195 matched                 |  92.71
 00012 mismatched              |   0.06
-00493 extra_o                 |   2.66
+00351 extra_o                 |   1.89
 00001 extra_i                 |   0.01
 00989 misses                  |   5.33
 18547 total

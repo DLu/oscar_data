@@ -21,7 +21,8 @@ COMPANY_CATEGORIES = {
     'SHORT SUBJECT (Two-reel)', 'SHORT FILM (Animated)', 'SOUND RECORDING', 'SOUND', 'MUSIC (Scoring)',
     'SCIENTIFIC OR TECHNICAL AWARD (Class III)', 'SCIENTIFIC OR TECHNICAL AWARD (Class II)',
     'SCIENTIFIC OR TECHNICAL AWARD (Class I)', 'SPECIAL EFFECTS', 'DOCUMENTARY (Short Subject)',
-    'DOCUMENTARY (Feature)',
+    'DOCUMENTARY (Feature)', 'MUSIC (Original Song Score or Adaptation Score)', 'SOUND MIXING',
+    'VISUAL EFFECTS', 'SHORT FILM (Live Action)',
 }
 NAME_ALIASES = read_lookup_dict('aux_data/name_aliases.yaml')
 FILM_ALIASES = yaml.safe_load(open('aux_data/film_aliases.yaml'))

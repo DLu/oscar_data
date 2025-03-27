@@ -249,7 +249,7 @@ Ceremony	Year	Class	CanonicalCategory	Category	Film	FilmId	Name	Nominees	Nominee
 6	1932/33	Title	BEST PICTURE	OUTSTANDING PRODUCTION	I Am a Fugitive from a Chain Gang	tt0023042	Warner Bros.	Warner Bros.	co0080422
 6	1932/33	Title	BEST PICTURE	OUTSTANDING PRODUCTION	Lady for a Day	tt0024240	Columbia	Columbia	co0050868
 6	1932/33	Title	BEST PICTURE	OUTSTANDING PRODUCTION	Little Women	tt0024264	RKO Radio	RKO Radio	co0041421			came in 3rd
-6	1932/33	Title	BEST PICTURE	OUTSTANDING PRODUCTION	The Private Life of Henry VIII	tt0024473	London Films	London Films	?
+6	1932/33	Title	BEST PICTURE	OUTSTANDING PRODUCTION	The Private Life of Henry VIII	tt0024473	London Films	London Films	co0103018
 6	1932/33	Title	BEST PICTURE	OUTSTANDING PRODUCTION	She Done Him Wrong	tt0024548	Paramount	Paramount	co0023400
 6	1932/33	Title	BEST PICTURE	OUTSTANDING PRODUCTION	Smilin' Through	tt0023488	Metro-Goldwyn-Mayer	Metro-Goldwyn-Mayer	co0007143
 6	1932/33	Title	BEST PICTURE	OUTSTANDING PRODUCTION	State Fair	tt0024610	Fox	Fox	co0028775
@@ -297,9 +297,9 @@ Ceremony	Year	Class	CanonicalCategory	Category	Film	FilmId	Name	Nominees	Nominee
 7	1934	Production	FILM EDITING	FILM EDITING	Cleopatra	tt0024991	Anne Bauchens	Anne Bauchens	nm0061640			came in 3rd
 7	1934	Production	FILM EDITING	FILM EDITING	Eskimo	tt0023990	Conrad Nervig	Conrad Nervig	nm0626308	True
 7	1934	Production	FILM EDITING	FILM EDITING	One Night of Love	tt0025601	Gene Milford	Gene Milford	nm0587332			came in 2nd
-7	1934	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Scoring)	The Gay Divorcee	tt0025164	RKO Radio Studio Music Department, Max Steiner, head of department (Score by Kenneth Webb and Samuel Hoffenstein)	RKO Radio|Max Steiner|Kenneth Webb|Samuel Hoffenstein	?|nm0000070|nm0916177|nm0388755			came in 2nd
-7	1934	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Scoring)	The Lost Patrol	tt0025423	RKO Radio Studio Music Department, Max Steiner, head of department (Score by Max Steiner)	RKO Radio|Max Steiner	?|nm0000070			came in 3rd
-7	1934	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Scoring)	One Night of Love	tt0025601	Columbia Studio Music Department, Louis Silvers, head of department (Thematic Music by Victor Schertzinger and Gus Kahn)	Columbia|Louis Silvers|Victor Schertzinger|Gus Kahn	?|nm0799007|nm0006276|nm0006146	True
+7	1934	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Scoring)	The Gay Divorcee	tt0025164	RKO Radio Studio Music Department, Max Steiner, head of department (Score by Kenneth Webb and Samuel Hoffenstein)	RKO Radio|Max Steiner|Kenneth Webb|Samuel Hoffenstein	co0041421|nm0000070|nm0916177|nm0388755			came in 2nd
+7	1934	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Scoring)	The Lost Patrol	tt0025423	RKO Radio Studio Music Department, Max Steiner, head of department (Score by Max Steiner)	RKO Radio|Max Steiner	co0041421|nm0000070			came in 3rd
+7	1934	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Scoring)	One Night of Love	tt0025601	Columbia Studio Music Department, Louis Silvers, head of department (Thematic Music by Victor Schertzinger and Gus Kahn)	Columbia|Louis Silvers|Victor Schertzinger|Gus Kahn	co0050868|nm0799007|nm0006276|nm0006146	True
 7	1934	Music	MUSIC (Original Song)	MUSIC (Song)	Flying Down to Rio	tt0024025	Music by Vincent Youmans; Lyrics by Edward Eliscu and Gus Kahn	Vincent Youmans|Edward Eliscu|Gus Kahn	nm0949207|nm0253697|nm0006146		Carioca	came in 3rd
 7	1934	Music	MUSIC (Original Song)	MUSIC (Song)	The Gay Divorcee	tt0025164	Music by Con Conrad; Lyrics by Herb Magidson	Con Conrad|Herb Magidson	nm0175628|nm0536054	True	The Continental
 7	1934	Music	MUSIC (Original Song)	MUSIC (Song)	She Loves Me Not	tt0025774	Music by Ralph Rainger; Lyrics by Leo Robin	Ralph Rainger|Leo Robin	nm0006247|nm0732209		Love In Bloom	came in 2nd
@@ -308,20 +308,20 @@ Ceremony	Year	Class	CanonicalCategory	Category	Film	FilmId	Name	Nominees	Nominee
 7	1934	Title	BEST PICTURE	OUTSTANDING PRODUCTION	Flirtation Walk	tt0025124	First National	First National	co0041460
 7	1934	Title	BEST PICTURE	OUTSTANDING PRODUCTION	The Gay Divorcee	tt0025164	RKO Radio	RKO Radio	co0041421
 7	1934	Title	BEST PICTURE	OUTSTANDING PRODUCTION	Here Comes the Navy	tt0025238	Warner Bros.	Warner Bros.	co0080422
-7	1934	Title	BEST PICTURE	OUTSTANDING PRODUCTION	The House of Rothschild	tt0025272	20th Century	20th Century	?			came in 3rd
+7	1934	Title	BEST PICTURE	OUTSTANDING PRODUCTION	The House of Rothschild	tt0025272	20th Century	20th Century	co0067247			came in 3rd
 7	1934	Title	BEST PICTURE	OUTSTANDING PRODUCTION	Imitation of Life	tt0025301	Universal	Universal	co0005073
 7	1934	Title	BEST PICTURE	OUTSTANDING PRODUCTION	It Happened One Night	tt0025316	Columbia	Columbia	co0050868	True
 7	1934	Title	BEST PICTURE	OUTSTANDING PRODUCTION	One Night of Love	tt0025601	Columbia	Columbia	co0050868
 7	1934	Title	BEST PICTURE	OUTSTANDING PRODUCTION	The Thin Man	tt0025878	Metro-Goldwyn-Mayer	Metro-Goldwyn-Mayer	co0007143
 7	1934	Title	BEST PICTURE	OUTSTANDING PRODUCTION	Viva Villa!	tt0025948	Metro-Goldwyn-Mayer	Metro-Goldwyn-Mayer	co0007143
-7	1934	Title	BEST PICTURE	OUTSTANDING PRODUCTION	The White Parade	tt0025986	Jesse L. Lasky (production company)	Jesse L. Lasky (production company)	?
+7	1934	Title	BEST PICTURE	OUTSTANDING PRODUCTION	The White Parade	tt0025986	Jesse L. Lasky (production company)	Jesse L. Lasky (production company)	co0057677
 7	1934	Title	SHORT FILM (Animated)	SHORT SUBJECT (Cartoon)	Holiday Land	tt0025260	Charles Mintz, Producer	Charles Mintz	nm0591762			came in 3rd
 7	1934	Title	SHORT FILM (Animated)	SHORT SUBJECT (Cartoon)	Jolly Little Elves	tt0025332	Walter Lantz, Producer	Walter Lantz	nm0487237			came in 2nd
 7	1934	Title	SHORT FILM (Animated)	SHORT SUBJECT (Cartoon)	The Tortoise and the Hare	tt0027126	Walt Disney, Producer	Walt Disney	nm0000370	True
 7	1934	Title	SHORT SUBJECT (Comedy)	SHORT SUBJECT (Comedy)	La Cucaracha	tt0025019	Kenneth Macgowan, Producer	Kenneth Macgowan	nm0532284	True
 7	1934	Title	SHORT SUBJECT (Comedy)	SHORT SUBJECT (Comedy)	Men in Black	tt0025488	Jules White, Producer	Jules White	nm0925028			came in 3rd
 7	1934	Title	SHORT SUBJECT (Comedy)	SHORT SUBJECT (Comedy)	What, No Men!	tt0025977	Warner Bros.	Warner Bros.	co0080422			came in 2nd
-7	1934	Title	SHORT SUBJECT (Novelty)	SHORT SUBJECT (Novelty)	Bosom Friends	tt0024909	Skibo Productions	Skibo Productions	?			came in 3rd
+7	1934	Title	SHORT SUBJECT (Novelty)	SHORT SUBJECT (Novelty)	Bosom Friends	tt0024909	Skibo Productions	Skibo Productions	co0019661			came in 3rd
 7	1934	Title	SHORT SUBJECT (Novelty)	SHORT SUBJECT (Novelty)	City of Wax	tt0024986	Stacy Woodard and Horace Woodard, Producers	Stacy Woodard|Horace Woodard	nm0940152|nm0940139	True
 7	1934	Title	SHORT SUBJECT (Novelty)	SHORT SUBJECT (Novelty)	Strikes and Spares	tt0025840	Pete Smith, Producer	Pete Smith	nm0809570			came in 2nd
 7	1934	Production	SOUND RECORDING	SOUND RECORDING	The Affairs of Cellini	tt0024816	United Artists Studio Sound Department, Thomas T. Moulton, Sound Director	United Artists|Thomas T. Moulton	co0026841|nm0609771
@@ -381,10 +381,10 @@ Ceremony	Year	Class	CanonicalCategory	Category	Film	FilmId	Name	Nominees	Nominee
 8	1935	Production	FILM EDITING	FILM EDITING	The Lives of a Bengal Lancer	tt0026643	Ellsworth Hoagland	Ellsworth Hoagland	nm0387449
 8	1935	Production	FILM EDITING	FILM EDITING	A Midsummer Night's Dream	tt0026714	Ralph Dawson	Ralph Dawson	nm0206238	True
 8	1935	Production	FILM EDITING	FILM EDITING	Mutiny on the Bounty	tt0026752	Margaret Booth	Margaret Booth	nm0004290			came in 2nd
-8	1935	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Scoring)	Captain Blood	tt0026174	Warner Bros.-First National Studio Music Department, Leo Forbstein, head of department (Score by Erich Wolfgang Korngold)	Warner Bros.|First National|Leo Forbstein|Erich Wolfgang Korngold	?|?|nm0006079|nm0006157			came in 3rd|NOTE: THIS IS NOT AN OFFICIAL NOMINATION. Write-in candidate.
-8	1935	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Scoring)	The Informer	tt0026529	RKO Radio Studio Music Department, Max Steiner, head of department (Score by Max Steiner)	RKO Radio|Max Steiner	?|nm0000070	True
-8	1935	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Scoring)	Mutiny on the Bounty	tt0026752	Metro-Goldwyn-Mayer Studio Music Department, Nat W. Finston, head of department (Score by Herbert Stothart)	Metro-Goldwyn-Mayer|Nat W. Finston|Herbert Stothart	?|nm0278358|nm0006307			came in 2nd
-8	1935	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Scoring)	Peter Ibbetson	tt0026866	Paramount Studio Music Department, Irvin Talbot, head of department (Score by Ernst Toch)	Paramount|Irvin Talbot|Ernst Toch	?|nm0847913|nm0006324
+8	1935	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Scoring)	Captain Blood	tt0026174	Warner Bros.-First National Studio Music Department, Leo Forbstein, head of department (Score by Erich Wolfgang Korngold)	Warner Bros.|First National|Leo Forbstein|Erich Wolfgang Korngold	co0080422|co0041460|nm0006079|nm0006157			came in 3rd|NOTE: THIS IS NOT AN OFFICIAL NOMINATION. Write-in candidate.
+8	1935	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Scoring)	The Informer	tt0026529	RKO Radio Studio Music Department, Max Steiner, head of department (Score by Max Steiner)	RKO Radio|Max Steiner	co0041421|nm0000070	True
+8	1935	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Scoring)	Mutiny on the Bounty	tt0026752	Metro-Goldwyn-Mayer Studio Music Department, Nat W. Finston, head of department (Score by Herbert Stothart)	Metro-Goldwyn-Mayer|Nat W. Finston|Herbert Stothart	co0007143|nm0278358|nm0006307			came in 2nd
+8	1935	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Scoring)	Peter Ibbetson	tt0026866	Paramount Studio Music Department, Irvin Talbot, head of department (Score by Ernst Toch)	Paramount|Irvin Talbot|Ernst Toch	co0023400|nm0847913|nm0006324
 8	1935	Music	MUSIC (Original Song)	MUSIC (Song)	Top Hat	tt0027125	Music and Lyrics by Irving Berlin	Irving Berlin	nm0000927		Cheek To Cheek	came in 2nd
 8	1935	Music	MUSIC (Original Song)	MUSIC (Song)	Roberta	tt0026942	Music by Jerome Kern; Lyrics by Dorothy Fields and Jimmy McHugh	Jerome Kern|Dorothy Fields|Jimmy McHugh	nm0006153|nm0276227|nm0006192		Lovely To Look At	came in 3rd
 8	1935	Music	MUSIC (Original Song)	MUSIC (Song)	Gold Diggers of 1935	tt0026421	Music by Harry Warren; Lyrics by Al Dubin	Harry Warren|Al Dubin	nm0912851|nm0006048	True	Lullaby Of Broadway
@@ -393,7 +393,7 @@ Ceremony	Year	Class	CanonicalCategory	Category	Film	FilmId	Name	Nominees	Nominee
 8	1935	Title	BEST PICTURE	OUTSTANDING PRODUCTION	Captain Blood	tt0026174	Cosmopolitan	Cosmopolitan	co0073404			came in 3rd
 8	1935	Title	BEST PICTURE	OUTSTANDING PRODUCTION	David Copperfield	tt0026266	Metro-Goldwyn-Mayer	Metro-Goldwyn-Mayer	co0007143
 8	1935	Title	BEST PICTURE	OUTSTANDING PRODUCTION	The Informer	tt0026529	RKO Radio	RKO Radio	co0041421			came in 2nd
-8	1935	Title	BEST PICTURE	OUTSTANDING PRODUCTION	Les Miserables	tt0026725	20th Century	20th Century	?
+8	1935	Title	BEST PICTURE	OUTSTANDING PRODUCTION	Les Miserables	tt0026725	20th Century	20th Century	co0067247
 8	1935	Title	BEST PICTURE	OUTSTANDING PRODUCTION	The Lives of a Bengal Lancer	tt0026643	Paramount	Paramount	co0023400
 8	1935	Title	BEST PICTURE	OUTSTANDING PRODUCTION	A Midsummer Night's Dream	tt0026714	Warner Bros.	Warner Bros.	co0080422
 8	1935	Title	BEST PICTURE	OUTSTANDING PRODUCTION	Mutiny on the Bounty	tt0026752	Metro-Goldwyn-Mayer	Metro-Goldwyn-Mayer	co0007143	True
@@ -408,7 +408,7 @@ Ceremony	Year	Class	CanonicalCategory	Category	Film	FilmId	Name	Nominees	Nominee
 8	1935	Title	SHORT SUBJECT (Comedy)	SHORT SUBJECT (Comedy)	Tit for Tat	tt0027113	Hal Roach, Producer	Hal Roach	co0075561			came in 3rd
 8	1935	Title	SHORT SUBJECT (Novelty)	SHORT SUBJECT (Novelty)	Audioscopiks	tt0026086	Pete Smith, Producer	Pete Smith	nm0809570			tied for 2nd
 8	1935	Title	SHORT SUBJECT (Novelty)	SHORT SUBJECT (Novelty)	Camera Thrills	tt0026167	Universal	Universal	co0005073			tied for 2nd
-8	1935	Title	SHORT SUBJECT (Novelty)	SHORT SUBJECT (Novelty)	Wings over Mt. Everest	tt0024777	Gaumont British and Skibo Productions	Gaumont British|Skibo Productions	?|?	True
+8	1935	Title	SHORT SUBJECT (Novelty)	SHORT SUBJECT (Novelty)	Wings over Mt. Everest	tt0024777	Gaumont British and Skibo Productions	Gaumont British|Skibo Productions	co0053065|co0019661	True
 8	1935	Production	SOUND RECORDING	SOUND RECORDING	Bride of Frankenstein	tt0026138	Universal Studio Sound Department, Gilbert Kurland, Sound Director	Universal|Gilbert Kurland	co0005073|nm0475792
 8	1935	Production	SOUND RECORDING	SOUND RECORDING	Captain Blood	tt0026174	Warner Bros.-First National Studio Sound Department, Nathan Levinson, Sound Director	Warner Bros.|First National|Nathan Levinson	co0080422|co0041460|nm0506080			came in 2nd
 8	1935	Production	SOUND RECORDING	SOUND RECORDING	The Dark Angel	tt0026264	United Artists Studio Sound Department, Thomas T. Moulton, Sound Director	United Artists|Thomas T. Moulton	co0026841|nm0609771
@@ -489,11 +489,11 @@ Ceremony	Year	Class	CanonicalCategory	Category	Film	FilmId	Name	Nominees	Nominee
 9	1936	Production	FILM EDITING	FILM EDITING	Lloyds of London	tt0027902	Barbara McLean	Barbara McLean	nm0572492
 9	1936	Production	FILM EDITING	FILM EDITING	A Tale of Two Cities	tt0027075	Conrad A. Nervig	Conrad A. Nervig	nm0626308
 9	1936	Production	FILM EDITING	FILM EDITING	Theodora Goes Wild	tt0028355	Otto Meyer	Otto Meyer	nm0583301
-9	1936	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Scoring)	Anthony Adverse	tt0027300	Warner Bros. Studio Music Department, Leo Forbstein, head of department (Score by Erich Wolfgang Korngold)	Warner Bros.|Leo Forbstein|Erich Wolfgang Korngold	?|nm0006079|nm0006157	True
-9	1936	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Scoring)	The Charge of the Light Brigade	tt0027438	Warner Bros. Studio Music Department, Leo Forbstein, head of department (Score by Max Steiner)	Warner Bros.|Leo Forbstein|Max Steiner	?|nm0006079|nm0000070
-9	1936	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Scoring)	The Garden of Allah	tt0027657	Selznick International Pictures Music Department, Max Steiner, head of department (Score by Max Steiner)	Selznick International Pictures|Max Steiner	?|nm0000070
-9	1936	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Scoring)	The General Died at Dawn	tt0027664	Paramount Studio Music Department, Boris Morros, head of department (Score by Werner Janssen)	Paramount|Boris Morros|Werner Janssen	?|nm0607448|nm0418205
-9	1936	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Scoring)	Winterset	tt0028511	RKO Radio Studio Music Department, Nathaniel Shilkret, head of department (Score by Nathaniel Shilkret)	RKO Radio|Nathaniel Shilkret	?|nm0006287
+9	1936	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Scoring)	Anthony Adverse	tt0027300	Warner Bros. Studio Music Department, Leo Forbstein, head of department (Score by Erich Wolfgang Korngold)	Warner Bros.|Leo Forbstein|Erich Wolfgang Korngold	co0080422|nm0006079|nm0006157	True
+9	1936	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Scoring)	The Charge of the Light Brigade	tt0027438	Warner Bros. Studio Music Department, Leo Forbstein, head of department (Score by Max Steiner)	Warner Bros.|Leo Forbstein|Max Steiner	co0080422|nm0006079|nm0000070
+9	1936	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Scoring)	The Garden of Allah	tt0027657	Selznick International Pictures Music Department, Max Steiner, head of department (Score by Max Steiner)	Selznick International Pictures|Max Steiner	co0130901|nm0000070
+9	1936	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Scoring)	The General Died at Dawn	tt0027664	Paramount Studio Music Department, Boris Morros, head of department (Score by Werner Janssen)	Paramount|Boris Morros|Werner Janssen	co0023400|nm0607448|nm0418205
+9	1936	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Scoring)	Winterset	tt0028511	RKO Radio Studio Music Department, Nathaniel Shilkret, head of department (Score by Nathaniel Shilkret)	RKO Radio|Nathaniel Shilkret	co0041421|nm0006287
 9	1936	Music	MUSIC (Original Song)	MUSIC (Song)	Suzy	tt0028330	Music by Walter Donaldson; Lyrics by Harold Adamson	Walter Donaldson|Harold Adamson	nm0232164|nm0011488		Did I Remember
 9	1936	Music	MUSIC (Original Song)	MUSIC (Song)	Born to Dance	tt0027387	Music and Lyrics by Cole Porter	Cole Porter	nm0006234		I've Got You Under My Skin
 9	1936	Music	MUSIC (Original Song)	MUSIC (Song)	Trail of the Lonesome Pine	tt0028401	Music by Louis Alter; Lyrics by Sidney Mitchell	Louis Alter|Sidney Mitchell	nm0022746|nm0593733		A Melody From The Sky
@@ -607,20 +607,20 @@ Ceremony	Year	Class	CanonicalCategory	Category	Film	FilmId	Name	Nominees	Nominee
 10	1937	Production	FILM EDITING	FILM EDITING	The Good Earth	tt0028944	Basil Wrangell	Basil Wrangell	nm0942007
 10	1937	Production	FILM EDITING	FILM EDITING	Lost Horizon	tt0029162	Gene Havlick, Gene Milford	Gene Havlick|Gene Milford	nm0369879|nm0587332	True
 10	1937	Production	FILM EDITING	FILM EDITING	One Hundred Men and a Girl	tt0029347	Bernard W. Burton	Bernard W. Burton	nm0123521
-10	1937	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Scoring)	The Hurricane	tt0029030	Samuel Goldwyn Studio Music Department, Alfred Newman, head of department (Score by Alfred Newman)	Samuel Goldwyn|Alfred Newman	?|nm0000055
-10	1937	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Scoring)	In Old Chicago	tt0029047	20th Century-Fox Studio Music Department, Louis Silvers, head of department (no composer credit)	20th Century-Fox|Louis Silvers	?|nm0799007
-10	1937	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Scoring)	The Life of Emile Zola	tt0029146	Warner Bros. Studio Music Department, Leo Forbstein, head of department (Score by Max Steiner)	Warner Bros.|Leo Forbstein|Max Steiner	?|nm0006079|nm0000070
-10	1937	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Scoring)	Lost Horizon	tt0029162	Columbia Studio Music Department, Morris Stoloff, head of department (Score by Dimitri Tiomkin)	Columbia|Morris Stoloff|Dimitri Tiomkin	?|nm0006304|nm0006323
+10	1937	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Scoring)	The Hurricane	tt0029030	Samuel Goldwyn Studio Music Department, Alfred Newman, head of department (Score by Alfred Newman)	Samuel Goldwyn|Alfred Newman	co0058013|nm0000055
+10	1937	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Scoring)	In Old Chicago	tt0029047	20th Century-Fox Studio Music Department, Louis Silvers, head of department (no composer credit)	20th Century-Fox|Louis Silvers	co0028775|nm0799007
+10	1937	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Scoring)	The Life of Emile Zola	tt0029146	Warner Bros. Studio Music Department, Leo Forbstein, head of department (Score by Max Steiner)	Warner Bros.|Leo Forbstein|Max Steiner	co0080422|nm0006079|nm0000070
+10	1937	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Scoring)	Lost Horizon	tt0029162	Columbia Studio Music Department, Morris Stoloff, head of department (Score by Dimitri Tiomkin)	Columbia|Morris Stoloff|Dimitri Tiomkin	co0050868|nm0006304|nm0006323
 10	1937	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Scoring)	Make a Wish	tt0029193	Principal Productions, Dr. Hugo Riesenfeld, musical director (Score by Dr. Hugo Riesenfeld)	Principal Productions|Dr. Hugo Riesenfeld	co0030758|nm0006252
-10	1937	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Scoring)	Maytime	tt0029222	Metro-Goldwyn-Mayer Studio Music Department, Nat W. Finston, head of department (Score by Herbert Stothart)	Metro-Goldwyn-Mayer|Nat W. Finston|Herbert Stothart	?|nm0278358|nm0006307
-10	1937	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Scoring)	One Hundred Men and a Girl	tt0029347	Universal Studio Music Department, Charles Previn, head of department (no composer credit)	Universal|Charles Previn	?|nm0006239	True
-10	1937	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Scoring)	Portia on Trial	tt0029433	Republic Studio Music Department, Alberto Colombo, head of department (Score by Alberto Colombo)	Republic|Alberto Colombo	?|nm0173027
-10	1937	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Scoring)	The Prisoner of Zenda	tt0029442	Selznick International Pictures Music Department, Alfred Newman, musical director (Score by Alfred Newman)	Selznick International Pictures|Alfred Newman	?|nm0000055
-10	1937	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Scoring)	Quality Street	tt0029454	RKO Radio Studio Music Department, Roy Webb, musical director (Score by Roy Webb)	RKO Radio|Roy Webb	?|nm0002202
-10	1937	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Scoring)	Snow White and the Seven Dwarfs	tt0029583	Walt Disney Studio Music Department, Leigh Harline, head of department (Score by Frank Churchill, Leigh Harline and Paul J. Smith)	Walt Disney Studios|Leigh Harline|Frank Churchill|Paul J. Smith	?|nm0363316|nm0161430|nm1345229
-10	1937	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Scoring)	Something to Sing About	tt0029588	Grand National Studio Music Department, C. Bakaleinikoff, musical director (Score by Victor Schertzinger)	Grand National|C. Bakaleinikoff|Victor Schertzinger	?|nm0005954|nm0006276
-10	1937	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Scoring)	Souls at Sea	tt0029593	Paramount Studio Music Department, Boris Morros, head of department (Score by W. Franke Harling and Milan Roder)	Paramount|Boris Morros|W. Franke Harling|Milan Roder	?|nm0607448|nm0006123|nm0006255
-10	1937	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Scoring)	Way Out West	tt0029747	Hal Roach Studio Music Department, Marvin Hatley, head of department (Score by Marvin Hatley)	Hal Roach|Marvin Hatley	?|nm0368943
+10	1937	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Scoring)	Maytime	tt0029222	Metro-Goldwyn-Mayer Studio Music Department, Nat W. Finston, head of department (Score by Herbert Stothart)	Metro-Goldwyn-Mayer|Nat W. Finston|Herbert Stothart	co0007143|nm0278358|nm0006307
+10	1937	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Scoring)	One Hundred Men and a Girl	tt0029347	Universal Studio Music Department, Charles Previn, head of department (no composer credit)	Universal|Charles Previn	co0005073|nm0006239	True
+10	1937	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Scoring)	Portia on Trial	tt0029433	Republic Studio Music Department, Alberto Colombo, head of department (Score by Alberto Colombo)	Republic|Alberto Colombo	co0020540|nm0173027
+10	1937	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Scoring)	The Prisoner of Zenda	tt0029442	Selznick International Pictures Music Department, Alfred Newman, musical director (Score by Alfred Newman)	Selznick International Pictures|Alfred Newman	co0130901|nm0000055
+10	1937	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Scoring)	Quality Street	tt0029454	RKO Radio Studio Music Department, Roy Webb, musical director (Score by Roy Webb)	RKO Radio|Roy Webb	co0041421|nm0002202
+10	1937	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Scoring)	Snow White and the Seven Dwarfs	tt0029583	Walt Disney Studio Music Department, Leigh Harline, head of department (Score by Frank Churchill, Leigh Harline and Paul J. Smith)	Walt Disney Studios|Leigh Harline|Frank Churchill|Paul J. Smith	co0008970|nm0363316|nm0161430|nm1345229
+10	1937	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Scoring)	Something to Sing About	tt0029588	Grand National Studio Music Department, C. Bakaleinikoff, musical director (Score by Victor Schertzinger)	Grand National|C. Bakaleinikoff|Victor Schertzinger	co0035646|nm0005954|nm0006276
+10	1937	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Scoring)	Souls at Sea	tt0029593	Paramount Studio Music Department, Boris Morros, head of department (Score by W. Franke Harling and Milan Roder)	Paramount|Boris Morros|W. Franke Harling|Milan Roder	co0023400|nm0607448|nm0006123|nm0006255
+10	1937	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Scoring)	Way Out West	tt0029747	Hal Roach Studio Music Department, Marvin Hatley, head of department (Score by Marvin Hatley)	Hal Roach|Marvin Hatley	co0075561|nm0368943
 10	1937	Music	MUSIC (Original Song)	MUSIC (Song)	Mr. Dodd Takes the Air	tt0029267	Music by Harry Warren; Lyrics by Al Dubin	Harry Warren|Al Dubin	nm0912851|nm0006048		Remember Me
 10	1937	Music	MUSIC (Original Song)	MUSIC (Song)	Waikiki Wedding	tt0029742	Music and Lyrics by Harry Owens	Harry Owens	nm0654374	True	Sweet Leilani
 10	1937	Music	MUSIC (Original Song)	MUSIC (Song)	Walter Wanger's Vogues of 1938	tt0029737	Music by Sammy Fain; Lyrics by Lew Brown	Sammy Fain|Lew Brown	nm0006066|nm0114095		That Old Feeling
@@ -643,12 +643,12 @@ Ceremony	Year	Class	CanonicalCategory	Category	Film	FilmId	Name	Nominees	Nominee
 10	1937	Title	SHORT SUBJECT (Color)	SHORT SUBJECT (Color)	Penny Wisdom	tt0029385	Pete Smith, Producer	Pete Smith	nm0809570	True
 10	1937	Title	SHORT SUBJECT (Color)	SHORT SUBJECT (Color)	Popular Science J-7-1	tt0029416	Paramount	Paramount	co0023400
 10	1937	Title	SHORT SUBJECT (One-reel)	SHORT SUBJECT (One-reel)	A Night at the Movies	tt0029311	Metro-Goldwyn-Mayer	Metro-Goldwyn-Mayer	co0007143
-10	1937	Title	SHORT SUBJECT (One-reel)	SHORT SUBJECT (One-reel)	The Private Life of the Gannets	tt0029443	Skibo Productions	Skibo Productions	?	True
+10	1937	Title	SHORT SUBJECT (One-reel)	SHORT SUBJECT (One-reel)	The Private Life of the Gannets	tt0029443	Skibo Productions	Skibo Productions	co0019661	True
 10	1937	Title	SHORT SUBJECT (One-reel)	SHORT SUBJECT (One-reel)	Romance of Radium	tt0029497	Pete Smith, Producer	Pete Smith	nm0809570
 10	1937	Title	SHORT SUBJECT (Two-reel)	SHORT SUBJECT (Two-reel)	Deep South	tt0028777	RKO Radio	RKO Radio	co0041421
 10	1937	Title	SHORT SUBJECT (Two-reel)	SHORT SUBJECT (Two-reel)	Should Wives Work?	tt0029555	RKO Radio	RKO Radio	co0041421
 10	1937	Title	SHORT SUBJECT (Two-reel)	SHORT SUBJECT (Two-reel)	Torture Money	tt0029684	Metro-Goldwyn-Mayer	Metro-Goldwyn-Mayer	co0007143	True
-10	1937	Production	SOUND RECORDING	SOUND RECORDING	The Girl Said No	tt0028931	Grand National Studio Sound Department, A. E. Kaye, Sound Director	Grand National|A. E. Kaye	?|nm0443253
+10	1937	Production	SOUND RECORDING	SOUND RECORDING	The Girl Said No	tt0028931	Grand National Studio Sound Department, A. E. Kaye, Sound Director	Grand National|A. E. Kaye	co0035646|nm0443253
 10	1937	Production	SOUND RECORDING	SOUND RECORDING	Hitting a New High	tt0029006	RKO Radio Studio Sound Department, John Aalberg, Sound Director	RKO Radio|John Aalberg	co0041421|nm0007356
 10	1937	Production	SOUND RECORDING	SOUND RECORDING	The Hurricane	tt0029030	United Artists Studio Sound Department, Thomas T. Moulton, Sound Director	United Artists|Thomas T. Moulton	co0026841|nm0609771	True
 10	1937	Production	SOUND RECORDING	SOUND RECORDING	In Old Chicago	tt0029047	20th Century-Fox Studio Sound Department, E. H. Hansen, Sound Director	20th Century-Fox|E. H. Hansen	co0028775|nm0360770
@@ -919,8 +919,8 @@ Ceremony	Year	Class	CanonicalCategory	Category	Film	FilmId	Name	Nominees	Nominee
 12	1939	Title	BEST PICTURE	OUTSTANDING PRODUCTION	Love Affair	tt0031593	RKO Radio	RKO Radio	co0041421
 12	1939	Title	BEST PICTURE	OUTSTANDING PRODUCTION	Mr. Smith Goes to Washington	tt0031679	Columbia	Columbia	co0050868
 12	1939	Title	BEST PICTURE	OUTSTANDING PRODUCTION	Ninotchka	tt0031725	Metro-Goldwyn-Mayer	Metro-Goldwyn-Mayer	co0007143
-12	1939	Title	BEST PICTURE	OUTSTANDING PRODUCTION	Of Mice and Men	tt0031742	Hal Roach (production company)	Hal Roach (production company)	?
-12	1939	Title	BEST PICTURE	OUTSTANDING PRODUCTION	Stagecoach	tt0031971	Walter Wanger (production company)	Walter Wanger (production company)	?
+12	1939	Title	BEST PICTURE	OUTSTANDING PRODUCTION	Of Mice and Men	tt0031742	Hal Roach (production company)	Hal Roach (production company)	co0075561
+12	1939	Title	BEST PICTURE	OUTSTANDING PRODUCTION	Stagecoach	tt0031971	Walter Wanger (production company)	Walter Wanger (production company)	co0035064
 12	1939	Title	BEST PICTURE	OUTSTANDING PRODUCTION	The Wizard of Oz	tt0032138	Metro-Goldwyn-Mayer	Metro-Goldwyn-Mayer	co0007143
 12	1939	Title	BEST PICTURE	OUTSTANDING PRODUCTION	Wuthering Heights	tt0032145	Samuel Goldwyn Productions	Samuel Goldwyn Productions	co0058013
 12	1939	Title	SHORT FILM (Animated)	SHORT SUBJECT (Cartoon)	Detouring America	tt0031227	Warner Bros.	Warner Bros.	co0080422
@@ -1075,13 +1075,13 @@ Ceremony	Year	Class	CanonicalCategory	Category	Film	FilmId	Name	Nominees	Nominee
 13	1940	Music	MUSIC (Original Song)	MUSIC (Song)	Pinocchio	tt0032910	Music by Leigh Harline; Lyrics by Ned Washington	Leigh Harline|Ned Washington	nm0363316|nm0913513	True	When You Wish Upon A Star
 13	1940	Music	MUSIC (Original Song)	MUSIC (Song)	Hit Parade of 1941	tt0032600	Music by Jule Styne; Lyrics by Walter Bullock	Jule Styne|Walter Bullock	nm0006312|nm0120190		Who Am I?
 13	1940	Title	BEST PICTURE	OUTSTANDING PRODUCTION	All This, and Heaven Too	tt0032194	Warner Bros.	Warner Bros.	co0080422
-13	1940	Title	BEST PICTURE	OUTSTANDING PRODUCTION	Foreign Correspondent	tt0032484	Walter Wanger (production company)	Walter Wanger (production company)	?
+13	1940	Title	BEST PICTURE	OUTSTANDING PRODUCTION	Foreign Correspondent	tt0032484	Walter Wanger (production company)	Walter Wanger (production company)	co0035064
 13	1940	Title	BEST PICTURE	OUTSTANDING PRODUCTION	The Grapes of Wrath	tt0032551	20th Century-Fox	20th Century-Fox	co0028775
-13	1940	Title	BEST PICTURE	OUTSTANDING PRODUCTION	The Great Dictator	tt0032553	Charles Chaplin Productions	Charles Chaplin Productions	?
+13	1940	Title	BEST PICTURE	OUTSTANDING PRODUCTION	The Great Dictator	tt0032553	Charles Chaplin Productions	Charles Chaplin Productions	co0028083
 13	1940	Title	BEST PICTURE	OUTSTANDING PRODUCTION	Kitty Foyle	tt0032671	RKO Radio	RKO Radio	co0041421
 13	1940	Title	BEST PICTURE	OUTSTANDING PRODUCTION	The Letter	tt0032701	Warner Bros.	Warner Bros.	co0080422
-13	1940	Title	BEST PICTURE	OUTSTANDING PRODUCTION	The Long Voyage Home	tt0032728	Argosy-Wanger	Argosy-Wanger	?
-13	1940	Title	BEST PICTURE	OUTSTANDING PRODUCTION	Our Town	tt0032881	Sol Lesser (production company)	Sol Lesser (production company)	?
+13	1940	Title	BEST PICTURE	OUTSTANDING PRODUCTION	The Long Voyage Home	tt0032728	Argosy-Wanger	Argosy-Wanger	co0147189
+13	1940	Title	BEST PICTURE	OUTSTANDING PRODUCTION	Our Town	tt0032881	Sol Lesser (production company)	Sol Lesser (production company)	co0027170
 13	1940	Title	BEST PICTURE	OUTSTANDING PRODUCTION	The Philadelphia Story	tt0032904	Metro-Goldwyn-Mayer	Metro-Goldwyn-Mayer	co0007143
 13	1940	Title	BEST PICTURE	OUTSTANDING PRODUCTION	Rebecca	tt0032976	Selznick International Pictures	Selznick International Pictures	co0130901	True
 13	1940	Title	SHORT FILM (Animated)	SHORT SUBJECT (Cartoon)	The Milky Way	tt0032794	Metro-Goldwyn-Mayer	Metro-Goldwyn-Mayer	co0007143	True
@@ -1195,7 +1195,7 @@ Ceremony	Year	Class	CanonicalCategory	Category	Film	FilmId	Name	Nominees	Nominee
 14	1941	Directing	DIRECTING	DIRECTING	The Little Foxes	tt0033836	William Wyler	William Wyler	nm0943758
 14	1941	Directing	DIRECTING	DIRECTING	Sergeant York	tt0034167	Howard Hawks	Howard Hawks	nm0001328
 14	1941	Title	DOCUMENTARY (Short Subject)	DOCUMENTARY (Short Subject)	Adventure in the Bronx	tt0033316	Film Associates	Film Associates	?
-14	1941	Title	DOCUMENTARY (Short Subject)	DOCUMENTARY (Short Subject)	Bomber	tt0033423	United States Office for Emergency Management Film Unit	United States Office for Emergency Management Film Unit	?
+14	1941	Title	DOCUMENTARY (Short Subject)	DOCUMENTARY (Short Subject)	Bomber	tt0033423	United States Office for Emergency Management Film Unit	United States Office for Emergency Management Film Unit	co0063999
 14	1941	Title	DOCUMENTARY (Short Subject)	DOCUMENTARY (Short Subject)	Christmas under Fire	tt0033465	British Ministry of Information	British Ministry of Information	co0103143
 14	1941	Title	DOCUMENTARY (Short Subject)	DOCUMENTARY (Short Subject)	Churchill's Island	tt0033466	National Film Board of Canada	National Film Board of Canada	co0006414	True
 14	1941	Title	DOCUMENTARY (Short Subject)	DOCUMENTARY (Short Subject)	Letter from Home	tt0033828	British Ministry of Information	British Ministry of Information	co0103143
@@ -1290,7 +1290,7 @@ Ceremony	Year	Class	CanonicalCategory	Category	Film	FilmId	Name	Nominees	Nominee
 14	1941	Production	SOUND RECORDING	SOUND RECORDING	The Men in Her Life	tt0033900	Columbia Studio Sound Department, John Livadary, Sound Director	Columbia|John Livadary	co0050868|nm0515093
 14	1941	Production	SOUND RECORDING	SOUND RECORDING	Sergeant York	tt0034167	Warner Bros. Studio Sound Department, Nathan Levinson, Sound Director	Warner Bros.|Nathan Levinson	co0080422|nm0506080
 14	1941	Production	SOUND RECORDING	SOUND RECORDING	Skylark	tt0034198	Paramount Studio Sound Department, Loren Ryder, Sound Director	Paramount|Loren Ryder	co0023400|nm0753122
-14	1941	Production	SOUND RECORDING	SOUND RECORDING	That Hamilton Woman	tt0034272	General Service Sound Department, Jack Whitney, Sound Director	General Service|Jack Whitney	?|nm0926303	True
+14	1941	Production	SOUND RECORDING	SOUND RECORDING	That Hamilton Woman	tt0034272	General Service Sound Department, Jack Whitney, Sound Director	General Service|Jack Whitney	co0062187|nm0926303	True
 14	1941	Production	SOUND RECORDING	SOUND RECORDING	Topper Returns	tt0034303	Hal Roach Studio Sound Department, Elmer Raguse, Sound Director	Hal Roach|Elmer Raguse	co0075561|nm0706649
 14	1941	Production	VISUAL EFFECTS	SPECIAL EFFECTS	Aloma of the South Seas	tt0033331	Photographic Effects by Farciot Edouart, Gordon Jennings; Sound Effects by Louis Mesenkop	Farciot Edouart|Gordon Jennings|Louis Mesenkop	nm0249643|nm0421157|nm0581820
 14	1941	Production	VISUAL EFFECTS	SPECIAL EFFECTS	Dive Bomber	tt0033537	Photographic Effects by Byron Haskin; Sound Effects by Nathan Levinson	Byron Haskin|Nathan Levinson	nm0005738|nm0506080			NOTE: THIS IS NOT AN OFFICIAL NOMINATION. Originally announced as a nominee on February 9, 1942, but sometime between the 10th and the 19th of February, this title was dropped and replaced by another Warner Bros. production, The Sea Wolf, with the same people credited for the nomination. There is no explanation in the files as to why this replacement was made.
@@ -1319,7 +1319,7 @@ Ceremony	Year	Class	CanonicalCategory	Category	Film	FilmId	Name	Nominees	Nominee
 14	1941	Special	SPECIAL AWARD	SPECIAL AWARD	Kukan	tt0121453		Rey Scott	nm0721164	True			To Rey Scott for his extraordinary achievement in producing Kukan, the film record of China's struggle, including its photography with a 16mm camera under the most difficult and dangerous conditions.
 14	1941	Special	SPECIAL AWARD	SPECIAL AWARD	Target for Tonight	tt0121791		The British Ministry of Information	co0103143	True			To The British Ministry of Information for its vivid and dramatic presentation of the heroism of the RAF in the documentary film, Target for Tonight.
 14	1941	Special	SPECIAL AWARD	SPECIAL AWARD	Fantasia	tt0032455		Leopold Stokowski	nm0831439	True			To Leopold Stokowski and his associates for their unique achievement in the creation of a new form of visualized music in Walt Disney's production, Fantasia, thereby widening the scope of the motion picture as entertainment and as an art form.
-14	1941	Special	SPECIAL AWARD	SPECIAL AWARD	Fantasia	tt0032455		Walt Disney|William Garity|John N. A. Hawkins|the RCA Manufacturing Company	nm0000370|nm0307477|nm0370143|?	True			To Walt Disney, William Garity, John N. A. Hawkins and the RCA Manufacturing Company for their outstanding contribution to the advancement of the use of sound in motion pictures through the production of Fantasia.
+14	1941	Special	SPECIAL AWARD	SPECIAL AWARD	Fantasia	tt0032455		Walt Disney|William Garity|John N. A. Hawkins|the RCA Manufacturing Company	nm0000370|nm0307477|nm0370143|co0097233	True			To Walt Disney, William Garity, John N. A. Hawkins and the RCA Manufacturing Company for their outstanding contribution to the advancement of the use of sound in motion pictures through the production of Fantasia.
 14	1941	Special	IRVING G. THALBERG MEMORIAL AWARD	IRVING G. THALBERG MEMORIAL AWARD			Walt Disney	Walt Disney	nm0000370	True
 14	1941	SciTech	SCIENTIFIC OR TECHNICAL AWARD (Class II)	SCIENTIFIC OR TECHNICAL AWARD (Class II)				Western Electric Co. Inc.		True	Laboratory		To ELECTRICAL RESEARCH PRODUCTS DIVISION OF WESTERN ELECTRIC CO., INC., for the development of the precision integrating sphere densitometer.
 14	1941	SciTech	SCIENTIFIC OR TECHNICAL AWARD (Class II)	SCIENTIFIC OR TECHNICAL AWARD (Class II)				Rca Manufacturing Company		True	Sound		To RCA MANUFACTURING COMPANY for the design and development of the MI-3043 Uni-directional microphone.
@@ -1385,7 +1385,7 @@ Ceremony	Year	Class	CanonicalCategory	Category	Film	FilmId	Name	Nominees	Nominee
 15	1942	Directing	DIRECTING	DIRECTING	Wake Island	tt0035530	John Farrow	John Farrow	nm0268513
 15	1942	Directing	DIRECTING	DIRECTING	Yankee Doodle Dandy	tt0035575	Michael Curtiz	Michael Curtiz	nm0002031
 15	1942	Title	DOCUMENTARY (Feature)	DOCUMENTARY	Africa, Prelude to Victory	tt0034434	The March of Time	The March of Time	co0047855
-15	1942	Title	DOCUMENTARY (Feature)	DOCUMENTARY	The Battle of Midway	tt0034498	United States Navy	United States Navy	?	True		NOTE: \"A special award to Battle of Midway for the historical value of its achievement in offering a camera record of one of the decisive battles of the world - a record unique both for the courage of those who made it under fire, and for its magnificent portrayal of the gallantry of our armed forces in battle.\"
+15	1942	Title	DOCUMENTARY (Feature)	DOCUMENTARY	The Battle of Midway	tt0034498	United States Navy	United States Navy	co0077018	True		NOTE: \"A special award to Battle of Midway for the historical value of its achievement in offering a camera record of one of the decisive battles of the world - a record unique both for the courage of those who made it under fire, and for its magnificent portrayal of the gallantry of our armed forces in battle.\"
 15	1942	Title	DOCUMENTARY (Feature)	DOCUMENTARY	Combat Report	tt0034608	United States Army Signal Corps	United States Army Signal Corps	co0141760
 15	1942	Title	DOCUMENTARY (Feature)	DOCUMENTARY	Conquer by the Clock	tt0034610	Frederic Ullman, Jr., Producer	Frederic Ullman Jr.	nm0880485
 15	1942	Title	DOCUMENTARY (Feature)	DOCUMENTARY	The Grain That Built a Hemisphere	tt0034806	Walt Disney, Producer	Walt Disney	nm0000370
@@ -1400,9 +1400,9 @@ Ceremony	Year	Class	CanonicalCategory	Category	Film	FilmId	Name	Nominees	Nominee
 15	1942	Title	DOCUMENTARY (Feature)	DOCUMENTARY	Little Isles of Freedom	tt0034981	Victor Stoloff and Edgar Loew, Producers	Victor Stoloff|Edgar Loew	nm0831580|nm0517335
 15	1942	Title	DOCUMENTARY (Feature)	DOCUMENTARY	Mr. Blabbermouth!	tt0035088	United States Office of War Information	United States Office of War Information	co0020185
 15	1942	Title	DOCUMENTARY (Feature)	DOCUMENTARY	Mr. Gardenia Jones	tt0035091	United States Office of War Information	United States Office of War Information	co0020185
-15	1942	Title	DOCUMENTARY (Feature)	DOCUMENTARY	Moscow Strikes Back	tt0035085	Artkino	Artkino	?	True		NOTE: \"A special award to Moscow Strikes Back for its vivid presentation of the heroism of the Russian Army and of the Russian people in the defense of Moscow, and for its achievement in so doing under conditions of extreme difficulty and danger.\"
+15	1942	Title	DOCUMENTARY (Feature)	DOCUMENTARY	Moscow Strikes Back	tt0035085	Artkino	Artkino	co0154885	True		NOTE: \"A special award to Moscow Strikes Back for its vivid presentation of the heroism of the Russian Army and of the Russian people in the defense of Moscow, and for its achievement in so doing under conditions of extreme difficulty and danger.\"
 15	1942	Title	DOCUMENTARY (Feature)	DOCUMENTARY	The New Spirit	tt0035120	Walt Disney, Producer	Walt Disney	nm0000370
-15	1942	Title	DOCUMENTARY (Feature)	DOCUMENTARY	Prelude to War	tt0035209	United States Army Special Services	United States Army Special Services	?	True		NOTE: \"A special award to Prelude to War for its trenchant conception and authentic and stirring dramatization of the events which forced our nation into the war and of the ideals for which we fight.\"
+15	1942	Title	DOCUMENTARY (Feature)	DOCUMENTARY	Prelude to War	tt0035209	United States Army Special Services	United States Army Special Services	co0038466	True		NOTE: \"A special award to Prelude to War for its trenchant conception and authentic and stirring dramatization of the events which forced our nation into the war and of the ideals for which we fight.\"
 15	1942	Title	DOCUMENTARY (Feature)	DOCUMENTARY	The Price of Victory	tt0035210	William H. Pine, Producer	William H. Pine	nm0683993
 15	1942	Title	DOCUMENTARY (Feature)	DOCUMENTARY	A Ship Is Born	tt0035321	United States Merchant Marine	United States Merchant Marine	?
 15	1942	Title	DOCUMENTARY (Feature)	DOCUMENTARY	Twenty-One Miles	tt0035478	British Ministry of Information	British Ministry of Information	co0103143
@@ -1571,25 +1571,25 @@ Ceremony	Year	Class	CanonicalCategory	Category	Film	FilmId	Name	Nominees	Nominee
 16	1943	Directing	DIRECTING	DIRECTING	The More the Merrier	tt0036172	George Stevens	George Stevens	nm0828419
 16	1943	Directing	DIRECTING	DIRECTING	The Song of Bernadette	tt0036377	Henry King	Henry King	nm0454771
 16	1943	Title	DOCUMENTARY (Feature)	DOCUMENTARY (Feature)	Baptism of Fire	tt0035662	United States Army	United States Army	co0141760
-16	1943	Title	DOCUMENTARY (Feature)	DOCUMENTARY (Feature)	The Battle of Russia	tt0036629	United States Department of War Special Service Division	United States Department of War Special Service Division	?
+16	1943	Title	DOCUMENTARY (Feature)	DOCUMENTARY (Feature)	The Battle of Russia	tt0036629	United States Department of War Special Service Division	United States Department of War Special Service Division	co0023398
 16	1943	Title	DOCUMENTARY (Feature)	DOCUMENTARY (Feature)	Desert Victory	tt0035796	British Ministry of Information	British Ministry of Information	co0103143	True
-16	1943	Title	DOCUMENTARY (Feature)	DOCUMENTARY (Feature)	For God and Country	tt0145781	United States Army Pictorial Service	United States Army Pictorial Service	?			NOTE: THIS IS NOT AN OFFICIAL NOMINATION. Title was on a preliminary list of 8 films announced as nominations from which the Documentary Award Committee subsequently selected 5 titles for inclusion on the final ballot.
-16	1943	Title	DOCUMENTARY (Feature)	DOCUMENTARY (Feature)	Report from the Aleutians	tt0036301	United States Army Pictorial Service	United States Army Pictorial Service	?
+16	1943	Title	DOCUMENTARY (Feature)	DOCUMENTARY (Feature)	For God and Country	tt0145781	United States Army Pictorial Service	United States Army Pictorial Service	co0141760			NOTE: THIS IS NOT AN OFFICIAL NOMINATION. Title was on a preliminary list of 8 films announced as nominations from which the Documentary Award Committee subsequently selected 5 titles for inclusion on the final ballot.
+16	1943	Title	DOCUMENTARY (Feature)	DOCUMENTARY (Feature)	Report from the Aleutians	tt0036301	United States Army Pictorial Service	United States Army Pictorial Service	co0141760
 16	1943	Title	DOCUMENTARY (Feature)	DOCUMENTARY (Feature)	Silent Village	tt0139612	British Ministry of Information	British Ministry of Information	co0103143			NOTE: THIS IS NOT AN OFFICIAL NOMINATION. Title was on a preliminary list of 8 films announced as nominations from which the Documentary Award Committee subsequently selected 5 titles for inclusion on the final ballot.
-16	1943	Title	DOCUMENTARY (Feature)	DOCUMENTARY (Feature)	War Department Report	tt0036512	United States Office of Strategic Services Field Photographic Bureau	United States Office of Strategic Services Field Photographic Bureau	?
+16	1943	Title	DOCUMENTARY (Feature)	DOCUMENTARY (Feature)	War Department Report	tt0036512	United States Office of Strategic Services Field Photographic Bureau	United States Office of Strategic Services Field Photographic Bureau	co0019944
 16	1943	Title	DOCUMENTARY (Feature)	DOCUMENTARY (Feature)	We've Come a Long, Long Way	tt10126676	Negro Marches On, Inc.	Negro Marches On Inc.	?			NOTE: THIS IS NOT AN OFFICIAL NOMINATION. Title was on a preliminary list of 8 films announced as nominations from which the Documentary Award Committee subsequently selected 5 titles for inclusion on the final ballot.
 16	1943	Title	DOCUMENTARY (Short Subject)	DOCUMENTARY (Short Subject)	Bismarck Convoy Smashed	tt0436120	Australian Department of Information Film Unit	Australian Department of Information Film Unit	?			NOTE: THIS IS NOT AN OFFICIAL NOMINATION. Title was on a preliminary list of 21 films announced as nominations from which the Documentary Award Committee subsequently selected 7 titles for inclusion on the final ballot. This film did not appear on the final ballot.
 16	1943	Title	DOCUMENTARY (Short Subject)	DOCUMENTARY (Short Subject)	Children of Mars	tt0035734	RKO Radio	RKO Radio	co0041421
 16	1943	Title	DOCUMENTARY (Short Subject)	DOCUMENTARY (Short Subject)	Day of Battle	tt0185261	United States Office of War Information Domestic Motion Picture Bureau	United States Office of War Information Domestic Motion Picture Bureau	?			NOTE: THIS IS NOT AN OFFICIAL NOMINATION. Title was on a preliminary list of 21 films announced as nominations from which the Documentary Award Committee subsequently selected 7 titles for inclusion on the final ballot. This film did not appear on the final ballot.
-16	1943	Title	DOCUMENTARY (Short Subject)	DOCUMENTARY (Short Subject)	December 7th	tt0035790	United States Navy	United States Navy	?	True
+16	1943	Title	DOCUMENTARY (Short Subject)	DOCUMENTARY (Short Subject)	December 7th	tt0035790	United States Navy	United States Navy	co0077018	True
 16	1943	Title	DOCUMENTARY (Short Subject)	DOCUMENTARY (Short Subject)	The Dutch Tradition	tt4457610	National Film Board of Canada	National Film Board of Canada	co0006414			NOTE: THIS IS NOT AN OFFICIAL NOMINATION. Title was on a preliminary list of 21 films announced as nominations from which the Documentary Award Committee subsequently selected 7 titles for inclusion on the final ballot. This film did not appear on the final ballot.
 16	1943	Title	DOCUMENTARY (Short Subject)	DOCUMENTARY (Short Subject)	Kill or Be Killed	tt0034942	British Ministry of Information	British Ministry of Information	co0103143			NOTE: THIS IS NOT AN OFFICIAL NOMINATION. Title was on a preliminary list of 21 films announced as nominations from which the Documentary Award Committee subsequently selected 7 titles for inclusion on the final ballot. This film did not appear on the final ballot.
 16	1943	Title	DOCUMENTARY (Short Subject)	DOCUMENTARY (Short Subject)	The Labor Front	tt2614378	National Film Board of Canada	National Film Board of Canada	co0006414			NOTE: THIS IS NOT AN OFFICIAL NOMINATION. Title was on a preliminary list of 21 films announced as nominations from which the Documentary Award Committee subsequently selected 7 titles for inclusion on the final ballot. This film did not appear on the final ballot.
 16	1943	Title	DOCUMENTARY (Short Subject)	DOCUMENTARY (Short Subject)	Land of My Mother	tt2614420	Polish Information Centre	Polish Information Centre	?			NOTE: THIS IS NOT AN OFFICIAL NOMINATION. Title was on a preliminary list of 21 films announced as nominations from which the Documentary Award Committee subsequently selected 7 titles for inclusion on the final ballot. This film did not appear on the final ballot.
 16	1943	Title	DOCUMENTARY (Short Subject)	DOCUMENTARY (Short Subject)	Letter from Livingston		United States Army 4th Signal Photographic Unit	United States Army 4th Signal Photographic Unit				NOTE: THIS IS NOT AN OFFICIAL NOMINATION. Title was on a preliminary list of 21 films announced as nominations from which the Documentary Award Committee subsequently selected 7 titles for inclusion on the final ballot. This film did not appear on the final ballot.
-16	1943	Title	DOCUMENTARY (Short Subject)	DOCUMENTARY (Short Subject)	Life Line	tt6699132	United States Army Pictorial Service	United States Army Pictorial Service	?			NOTE: THIS IS NOT AN OFFICIAL NOMINATION. Title was on a preliminary list of 21 films announced as nominations from which the Documentary Award Committee subsequently selected 7 titles for inclusion on the final ballot. This film did not appear on the final ballot.
+16	1943	Title	DOCUMENTARY (Short Subject)	DOCUMENTARY (Short Subject)	Life Line	tt6699132	United States Army Pictorial Service	United States Army Pictorial Service	co0141760			NOTE: THIS IS NOT AN OFFICIAL NOMINATION. Title was on a preliminary list of 21 films announced as nominations from which the Documentary Award Committee subsequently selected 7 titles for inclusion on the final ballot. This film did not appear on the final ballot.
 16	1943	Title	DOCUMENTARY (Short Subject)	DOCUMENTARY (Short Subject)	Plan for Destruction	tt0036268	Metro-Goldwyn-Mayer	Metro-Goldwyn-Mayer	co0007143
-16	1943	Title	DOCUMENTARY (Short Subject)	DOCUMENTARY (Short Subject)	The Rear Gunner	tt0036293	United States Department of War	United States Department of War	?			NOTE: THIS IS NOT AN OFFICIAL NOMINATION. Title was on a preliminary list of 21 films announced as nominations from which the Documentary Award Committee subsequently selected 7 titles for inclusion on the final ballot. This film did not appear on the final ballot.
+16	1943	Title	DOCUMENTARY (Short Subject)	DOCUMENTARY (Short Subject)	The Rear Gunner	tt0036293	United States Department of War	United States Department of War	co0023398			NOTE: THIS IS NOT AN OFFICIAL NOMINATION. Title was on a preliminary list of 21 films announced as nominations from which the Documentary Award Committee subsequently selected 7 titles for inclusion on the final ballot. This film did not appear on the final ballot.
 16	1943	Title	DOCUMENTARY (Short Subject)	DOCUMENTARY (Short Subject)	Servant of a Nation	tt10126634	Union of South Africa	Union of South Africa	?			NOTE: THIS IS NOT AN OFFICIAL NOMINATION. Title was on a preliminary list of 21 films announced as nominations from which the Documentary Award Committee subsequently selected 7 titles for inclusion on the final ballot. This film did not appear on the final ballot.
 16	1943	Title	DOCUMENTARY (Short Subject)	DOCUMENTARY (Short Subject)	Swedes in America	tt0036405	United States Office of War Information Overseas Motion Picture Bureau	United States Office of War Information Overseas Motion Picture Bureau	co0020185
 16	1943	Title	DOCUMENTARY (Short Subject)	DOCUMENTARY (Short Subject)	Task Force	tt1537906	United States Coast Guard	United States Coast Guard	?			NOTE: THIS IS NOT AN OFFICIAL NOMINATION. Title was on a preliminary list of 21 films announced as nominations from which the Documentary Award Committee subsequently selected 7 titles for inclusion on the final ballot. This film did not appear on the final ballot.
@@ -1763,7 +1763,7 @@ Ceremony	Year	Class	CanonicalCategory	Category	Film	FilmId	Name	Nominees	Nominee
 17	1944	Directing	DIRECTING	DIRECTING	Laura	tt0037008	Otto Preminger	Otto Preminger	nm0695937
 17	1944	Directing	DIRECTING	DIRECTING	Lifeboat	tt0037017	Alfred Hitchcock	Alfred Hitchcock	nm0000033
 17	1944	Directing	DIRECTING	DIRECTING	Wilson	tt0037465	Henry King	Henry King	nm0454771
-17	1944	Title	DOCUMENTARY (Feature)	DOCUMENTARY (Feature)	The Fighting Lady	tt0036823	United States Navy	United States Navy	?	True
+17	1944	Title	DOCUMENTARY (Feature)	DOCUMENTARY (Feature)	The Fighting Lady	tt0036823	United States Navy	United States Navy	co0077018	True
 17	1944	Title	DOCUMENTARY (Feature)	DOCUMENTARY (Feature)	Resisting Enemy Interrogation	tt0037215	United States Army Air Force	United States Army Air Force	co0141760
 17	1944	Title	DOCUMENTARY (Short Subject)	DOCUMENTARY (Short Subject)	Arturo Toscanini	tt0036023	United States Office of War Information Overseas Motion Picture Bureau	United States Office of War Information Overseas Motion Picture Bureau	co0020185
 17	1944	Title	DOCUMENTARY (Short Subject)	DOCUMENTARY (Short Subject)	New Americans	tt0037125	RKO Radio	RKO Radio	co0041421
@@ -2016,7 +2016,7 @@ Ceremony	Year	Class	CanonicalCategory	Category	Film	FilmId	Name	Nominees	Nominee
 18	1945	Production	SOUND RECORDING	SOUND RECORDING	Leave Her to Heaven	tt0037865	20th Century-Fox Studio Sound Department, Thomas T. Moulton, Sound Director	20th Century-Fox|Thomas T. Moulton	co0028775|nm0609771
 18	1945	Production	SOUND RECORDING	SOUND RECORDING	Rhapsody in Blue	tt0038026	Warner Bros. Studio Sound Department, Nathan Levinson, Sound Director	Warner Bros.|Nathan Levinson	co0080422|nm0506080
 18	1945	Production	SOUND RECORDING	SOUND RECORDING	A Song to Remember	tt0038104	Columbia Studio Sound Department, John P. Livadary, Sound Director	Columbia|John P. Livadary	co0050868|nm0515093
-18	1945	Production	SOUND RECORDING	SOUND RECORDING	The Southerner	tt0038107	General Service, Jack Whitney, Sound Director	General Service|Jack Whitney	?|nm0926303
+18	1945	Production	SOUND RECORDING	SOUND RECORDING	The Southerner	tt0038107	General Service, Jack Whitney, Sound Director	General Service|Jack Whitney	co0062187|nm0926303
 18	1945	Production	SOUND RECORDING	SOUND RECORDING	They Were Expendable	tt0038160	Metro-Goldwyn-Mayer Studio Sound Department, Douglas Shearer, Sound Director	Metro-Goldwyn-Mayer|Douglas Shearer	co0007143|nm0790428
 18	1945	Production	SOUND RECORDING	SOUND RECORDING	The Three Caballeros	tt0038166	Walt Disney Studio Sound Department, C. O. Slyfield, Sound Director	Walt Disney Studios|C. O. Slyfield	co0008970|nm0806351
 18	1945	Production	SOUND RECORDING	SOUND RECORDING	Three Is a Family	tt0037371	RCA Sound, W. V. Wolfe, Sound Director	RCA Sound|W. V. Wolfe	co0097233|nm0938165
@@ -2084,9 +2084,9 @@ Ceremony	Year	Class	CanonicalCategory	Category	Film	FilmId	Name	Nominees	Nominee
 19	1946	Directing	DIRECTING	DIRECTING	The Killers	tt0038669	Robert Siodmak	Robert Siodmak	nm0802563
 19	1946	Directing	DIRECTING	DIRECTING	The Yearling	tt0039111	Clarence Brown	Clarence Brown	nm0113284
 19	1946	Title	DOCUMENTARY (Short Subject)	DOCUMENTARY (Short Subject)	Atomic Power	tt0038312	The March of Time	The March of Time	co0047855
-19	1946	Title	DOCUMENTARY (Short Subject)	DOCUMENTARY (Short Subject)	Life at the Zoo	tt0038690	Artkino	Artkino	?
+19	1946	Title	DOCUMENTARY (Short Subject)	DOCUMENTARY (Short Subject)	Life at the Zoo	tt0038690	Artkino	Artkino	co0154885
 19	1946	Title	DOCUMENTARY (Short Subject)	DOCUMENTARY (Short Subject)	Paramount News Issue #37 (Twentieth Anniversary Issue! 1927.....1947)	tt0038825	Paramount	Paramount	co0023400
-19	1946	Title	DOCUMENTARY (Short Subject)	DOCUMENTARY (Short Subject)	Seeds of Destiny	tt0038919	United States Department of War	United States Department of War	?	True
+19	1946	Title	DOCUMENTARY (Short Subject)	DOCUMENTARY (Short Subject)	Seeds of Destiny	tt0038919	United States Department of War	United States Department of War	co0023398	True
 19	1946	Title	DOCUMENTARY (Short Subject)	DOCUMENTARY (Short Subject)	Traffic with the Devil	tt0039043	Herbert Morgan, Producer	Herbert Morgan	nm0604712
 19	1946	Production	FILM EDITING	FILM EDITING	The Best Years of Our Lives	tt0036868	Daniel Mandell	Daniel Mandell	nm0541721	True
 19	1946	Production	FILM EDITING	FILM EDITING	It's a Wonderful Life	tt0038650	William Hornbeck	William Hornbeck	nm0394962
@@ -2110,7 +2110,7 @@ Ceremony	Year	Class	CanonicalCategory	Category	Film	FilmId	Name	Nominees	Nominee
 19	1946	Music	MUSIC (Original Song)	MUSIC (Song)	Three Little Girls in Blue	tt0039026	Music by Harry Warren; Lyrics by Mack Gordon	Harry Warren|Mack Gordon	nm0912851|nm0330418		This Is Always	NOTE: THIS IS NOT AN OFFICIAL NOMINATION. After nominations were announced on February 10, 1947, it was discovered that the song had been cut from the release print of the film, making it ineligible. The nomination was rescinded on February 13, and the music branch reballoted to determine the five nominations in the category.
 19	1946	Music	MUSIC (Original Song)	MUSIC (Song)	Blue Skies	tt0038370	Music and Lyrics by Irving Berlin	Irving Berlin	nm0000927		You Keep Coming Back Like A Song
 19	1946	Title	BEST PICTURE	BEST MOTION PICTURE	The Best Years of Our Lives	tt0036868	Samuel Goldwyn Productions	Samuel Goldwyn Productions	co0058013	True
-19	1946	Title	BEST PICTURE	BEST MOTION PICTURE	Henry V	tt0036910	J. Arthur Rank-Two Cities Films	J. Arthur Rank|Two Cities Films	?|?
+19	1946	Title	BEST PICTURE	BEST MOTION PICTURE	Henry V	tt0036910	J. Arthur Rank-Two Cities Films	J. Arthur Rank|Two Cities Films	co0040435|?
 19	1946	Title	BEST PICTURE	BEST MOTION PICTURE	It's a Wonderful Life	tt0038650	Liberty Films	Liberty Films	?
 19	1946	Title	BEST PICTURE	BEST MOTION PICTURE	The Razor's Edge	tt0038873	20th Century-Fox	20th Century-Fox	co0028775
 19	1946	Title	BEST PICTURE	BEST MOTION PICTURE	The Yearling	tt0039111	Metro-Goldwyn-Mayer	Metro-Goldwyn-Mayer	co0007143
@@ -2198,7 +2198,7 @@ Ceremony	Year	Class	CanonicalCategory	Category	Film	FilmId	Name	Nominees	Nominee
 20	1947	Directing	DIRECTING	DIRECTING	Gentleman's Agreement	tt0039416	Elia Kazan	Elia Kazan	nm0001415	True
 20	1947	Directing	DIRECTING	DIRECTING	Great Expectations	tt0038574	David Lean	David Lean	nm0000180
 20	1947	Title	DOCUMENTARY (Feature)	DOCUMENTARY (Feature)	Design for Death	tt0040285	Sid Rogell, Executive Producer; Theron Warth and Richard O. Fleischer, Producers	Sid Rogell|Theron Warth|Richard O. Fleischer	nm0736614|nm0913200|nm0281507	True
-20	1947	Title	DOCUMENTARY (Feature)	DOCUMENTARY (Feature)	Journey into Medicine	tt0039517	United States Department of State Office of Information and Educational Exchange	United States Department of State Office of Information|Educational Exchange	?|?
+20	1947	Title	DOCUMENTARY (Feature)	DOCUMENTARY (Feature)	Journey into Medicine	tt0039517	United States Department of State Office of Information and Educational Exchange	United States Department of State Office of Information|Educational Exchange	co0002868|?
 20	1947	Title	DOCUMENTARY (Feature)	DOCUMENTARY (Feature)	The World Is Rich	tt0040004	Paul Rotha, Producer	Paul Rotha	nm0745055
 20	1947	Title	DOCUMENTARY (Short Subject)	DOCUMENTARY (Short Subject)	First Steps	tt0039384	United Nations Division of Films and Visual Information	United Nations Division of Films|Visual Information	?|?	True
 20	1947	Title	DOCUMENTARY (Short Subject)	DOCUMENTARY (Short Subject)	Passport to Nowhere	tt0039697	Frederic Ullman, Jr., Producer	Frederic Ullman Jr.	nm0880485
@@ -2226,7 +2226,7 @@ Ceremony	Year	Class	CanonicalCategory	Category	Film	FilmId	Name	Nominees	Nominee
 20	1947	Title	BEST PICTURE	BEST MOTION PICTURE	The Bishop's Wife	tt0039190	Samuel Goldwyn Productions	Samuel Goldwyn Productions	co0058013
 20	1947	Title	BEST PICTURE	BEST MOTION PICTURE	Crossfire	tt0039286	RKO Radio	RKO Radio	co0041421
 20	1947	Title	BEST PICTURE	BEST MOTION PICTURE	Gentleman's Agreement	tt0039416	20th Century-Fox	20th Century-Fox	co0028775	True
-20	1947	Title	BEST PICTURE	BEST MOTION PICTURE	Great Expectations	tt0038574	J. Arthur Rank-Cineguild	J. Arthur Rank|Cineguild	?|?
+20	1947	Title	BEST PICTURE	BEST MOTION PICTURE	Great Expectations	tt0038574	J. Arthur Rank-Cineguild	J. Arthur Rank|Cineguild	co0040435|?
 20	1947	Title	BEST PICTURE	BEST MOTION PICTURE	Miracle on 34th Street	tt0039628	20th Century-Fox	20th Century-Fox	co0028775
 20	1947	Title	SHORT FILM (Animated)	SHORT SUBJECT (Cartoon)	Chip An' Dale	tt0039263	Walt Disney, Producer	Walt Disney	nm0000370
 20	1947	Title	SHORT FILM (Animated)	SHORT SUBJECT (Cartoon)	Dr. Jekyll and Mr. Mouse	tt0039338	Frederick Quimby, Producer	Frederick Quimby	nm0703642
@@ -2341,9 +2341,9 @@ Ceremony	Year	Class	CanonicalCategory	Category	Film	FilmId	Name	Nominees	Nominee
 21	1948	Music	MUSIC (Original Song)	MUSIC (Song)	Romance on the High Seas	tt0040745	Music by Jule Styne; Lyrics by Sammy Cahn	Jule Styne|Sammy Cahn	nm0006312|nm0005991		It's Magic
 21	1948	Music	MUSIC (Original Song)	MUSIC (Song)	That Lady in Ermine	tt0040869	Music by Frederick Hollander; Lyrics by Leo Robin	Frederick Hollander|Leo Robin	nm0006130|nm0732209		This Is The Moment
 21	1948	Music	MUSIC (Original Song)	MUSIC (Song)	Wet Blanket Policy	tt0040958	Music and Lyrics by Ramey Idriss and George Tibbles	Ramey Idriss|George Tibbles	nm0406925|nm0862565		The Woody Woodpecker Song
-21	1948	Title	BEST PICTURE	BEST MOTION PICTURE	Hamlet	tt0040416	J. Arthur Rank-Two Cities Films	J. Arthur Rank|Two Cities Films	?|?	True
+21	1948	Title	BEST PICTURE	BEST MOTION PICTURE	Hamlet	tt0040416	J. Arthur Rank-Two Cities Films	J. Arthur Rank|Two Cities Films	co0040435|?	True
 21	1948	Title	BEST PICTURE	BEST MOTION PICTURE	Johnny Belinda	tt0040495	Warner Bros.	Warner Bros.	co0080422
-21	1948	Title	BEST PICTURE	BEST MOTION PICTURE	The Red Shoes	tt0040725	J. Arthur Rank-Archers	J. Arthur Rank|Archers	?|?
+21	1948	Title	BEST PICTURE	BEST MOTION PICTURE	The Red Shoes	tt0040725	J. Arthur Rank-Archers	J. Arthur Rank|Archers	co0040435|co0103153
 21	1948	Title	BEST PICTURE	BEST MOTION PICTURE	The Snake Pit	tt0040806	20th Century-Fox	20th Century-Fox	co0028775
 21	1948	Title	BEST PICTURE	BEST MOTION PICTURE	The Treasure of the Sierra Madre	tt0040897	Warner Bros.	Warner Bros.	co0080422
 21	1948	Title	SHORT FILM (Animated)	SHORT SUBJECT (Cartoon)	The Little Orphan	tt0041592	Fred Quimby, Producer	Fred Quimby	nm0703642	True
@@ -2436,7 +2436,7 @@ Ceremony	Year	Class	CanonicalCategory	Category	Film	FilmId	Name	Nominees	Nominee
 22	1949	Title	DOCUMENTARY (Feature)	DOCUMENTARY (Feature)	Kenji Comes Home	tt0041542	Paul F. Heard, Producer	Paul F. Heard	nm0372465
 22	1949	Title	DOCUMENTARY (Short Subject)	DOCUMENTARY (Short Subject)	A Chance to Live	tt0041240	Richard de Rochemont, Producer	Richard de Rochemont	nm0211197	True		NOTE: A tie. The other winning film in this category was So Much for So Little.
 22	1949	Title	DOCUMENTARY (Short Subject)	DOCUMENTARY (Short Subject)	1848	tt0041079	French Cinema General Cooperative	French Cinema General Cooperative	?
-22	1949	Title	DOCUMENTARY (Short Subject)	DOCUMENTARY (Short Subject)	The Rising Tide	tt0041813	St. Francis-Xavier University, Antigonish, Nova Scotia	St. Francis-Xavier University|Antigonish|Nova Scotia	?|?|?
+22	1949	Title	DOCUMENTARY (Short Subject)	DOCUMENTARY (Short Subject)	The Rising Tide	tt0041813	St. Francis-Xavier University, Antigonish, Nova Scotia	St. Francis-Xavier University|Antigonish|Nova Scotia	co0076128|?|?
 22	1949	Title	DOCUMENTARY (Short Subject)	DOCUMENTARY (Short Subject)	So Much for So Little	tt0041891	Edward Selzer, Producer	Edward Selzer	nm0783666	True		NOTE: A tie. The other winning film in this category was A Chance to Live.
 22	1949	Production	FILM EDITING	FILM EDITING	All the King's Men	tt0041113	Robert Parrish, Al Clark	Robert Parrish|Al Clark	nm0663577|nm0163617
 22	1949	Production	FILM EDITING	FILM EDITING	Battleground	tt0041163	John Dunning	John Dunning	nm0242950
@@ -2597,7 +2597,7 @@ Ceremony	Year	Class	CanonicalCategory	Category	Film	FilmId	Name	Nominees	Nominee
 23	1950	Production	SOUND RECORDING	SOUND RECORDING	Cinderella	tt0042332	Walt Disney Studio Sound Department, C. O. Slyfield, Sound Director	Walt Disney Studios|C. O. Slyfield	co0008970|nm0806351
 23	1950	Production	SOUND RECORDING	SOUND RECORDING	Louisa	tt0042687	Universal-International Studio Sound Department, Leslie I. Carey, Sound Director	Universal-International|Leslie I. Carey	co0005073|nm0136989
 23	1950	Production	SOUND RECORDING	SOUND RECORDING	Our Very Own	tt0042819	Samuel Goldwyn Studio Sound Department, Gordon Sawyer, Sound Director	Samuel Goldwyn|Gordon Sawyer	co0058013|nm0768167
-23	1950	Production	SOUND RECORDING	SOUND RECORDING	Trio	tt0042752	Pinewood Studio Sound Department, Cyril Crowhurst, Sound Director	Pinewood|Cyril Crowhurst	?|nm2935868
+23	1950	Production	SOUND RECORDING	SOUND RECORDING	Trio	tt0042752	Pinewood Studio Sound Department, Cyril Crowhurst, Sound Director	Pinewood|Cyril Crowhurst	co0041067|nm2935868
 23	1950	Production	VISUAL EFFECTS	SPECIAL EFFECTS	Destination Moon	tt0042393	George Pal Productions	George Pal Productions	?	True
 23	1950	Production	VISUAL EFFECTS	SPECIAL EFFECTS	Samson and Delilah	tt0041838	Cecil B. DeMille Productions	Cecil B. DeMille Productions	?
 23	1950	Writing	WRITING (Original Story)	WRITING (Motion Picture Story)	Bitter Rice	tt0040737	Giuseppe De Santis, Carlo Lizzani	Giuseppe De Santis|Carlo Lizzani	nm0211459|nm0515491
@@ -2721,7 +2721,7 @@ Ceremony	Year	Class	CanonicalCategory	Category	Film	FilmId	Name	Nominees	Nominee
 24	1951	Production	SOUND RECORDING	SOUND RECORDING	I Want You	tt0043664	Samuel Goldwyn Studio Sound Department, Gordon Sawyer, Sound Director	Samuel Goldwyn|Gordon Sawyer	co0058013|nm0768167
 24	1951	Production	SOUND RECORDING	SOUND RECORDING	A Streetcar Named Desire	tt0044081	Warner Bros. Studio Sound Department, Col. Nathan Levinson, Sound Director	Warner Bros.|Col. Nathan Levinson	co0080422|nm0506080
 24	1951	Production	SOUND RECORDING	SOUND RECORDING	Two Tickets to Broadway	tt0044158	RKO Radio Studio Sound Department, John O. Aalberg, Sound Director	RKO Radio|John O. Aalberg	co0041421|nm0007356
-24	1951	Production	VISUAL EFFECTS	SPECIAL EFFECTS	When Worlds Collide	tt0044207	Paramount	Paramount	?	True
+24	1951	Production	VISUAL EFFECTS	SPECIAL EFFECTS	When Worlds Collide	tt0044207	Paramount	Paramount	co0023400	True
 24	1951	Writing	WRITING (Original Story)	WRITING (Motion Picture Story)	Bullfighter and the Lady	tt0043363	Budd Boetticher, Ray Nazarro	Budd Boetticher|Ray Nazarro	nm0091430|nm0623401
 24	1951	Writing	WRITING (Original Story)	WRITING (Motion Picture Story)	The Frogmen	tt0043565	Oscar Millard	Oscar Millard	nm0587743
 24	1951	Writing	WRITING (Original Story)	WRITING (Motion Picture Story)	Here Comes the Groom	tt0043633	Robert Riskin, Liam O'Brien	Robert Riskin|Liam O'Brien	nm0728307|nm0639676
@@ -2845,16 +2845,16 @@ Ceremony	Year	Class	CanonicalCategory	Category	Film	FilmId	Name	Nominees	Nominee
 25	1952	Title	SHORT SUBJECT (One-reel)	SHORT SUBJECT (One-reel)	Light in the Window: The Art of Vermeer	tt0044836	Boris Vermont, Producer	Boris Vermont	nm0894453	True
 25	1952	Title	SHORT SUBJECT (One-reel)	SHORT SUBJECT (One-reel)	Neighbours	tt0044958	Norman McLaren, Producer	Norman McLaren	nm0572235
 25	1952	Title	SHORT SUBJECT (One-reel)	SHORT SUBJECT (One-reel)	Royal Scotland	tt0045108	Crown Film Unit	Crown Film Unit	?
-25	1952	Title	SHORT SUBJECT (Two-reel)	SHORT SUBJECT (Two-reel)	Bridge of Time	tt0044447	London Film Production	London Film Production	?
+25	1952	Title	SHORT SUBJECT (Two-reel)	SHORT SUBJECT (Two-reel)	Bridge of Time	tt0044447	London Film Production	London Film Production	co0053636
 25	1952	Title	SHORT SUBJECT (Two-reel)	SHORT SUBJECT (Two-reel)	Devil Take Us	tt0044548	Herbert Morgan, Producer	Herbert Morgan	nm0604712
 25	1952	Title	SHORT SUBJECT (Two-reel)	SHORT SUBJECT (Two-reel)	Thar She Blows!	tt0045228	Gordon Hollingshead, Producer	Gordon Hollingshead	nm0391121
 25	1952	Title	SHORT SUBJECT (Two-reel)	SHORT SUBJECT (Two-reel)	Water Birds	tt0045314	Walt Disney, Producer	Walt Disney	nm0000370	True
-25	1952	Production	SOUND RECORDING	SOUND RECORDING	Breaking the Sound Barrier	tt0044446	London Film Sound Department	London Film	?	True
+25	1952	Production	SOUND RECORDING	SOUND RECORDING	Breaking the Sound Barrier	tt0044446	London Film Sound Department	London Film	co0053636	True
 25	1952	Production	SOUND RECORDING	SOUND RECORDING	Hans Christian Andersen	tt0044685	Samuel Goldwyn Studio Sound Department, Gordon Sawyer, Sound Director	Samuel Goldwyn|Gordon Sawyer	co0058013|nm0768167
-25	1952	Production	SOUND RECORDING	SOUND RECORDING	The Promoter	tt0045056	Pinewood Studios Sound Department	Pinewood Studios	?
+25	1952	Production	SOUND RECORDING	SOUND RECORDING	The Promoter	tt0045056	Pinewood Studios Sound Department	Pinewood Studios	co0041067
 25	1952	Production	SOUND RECORDING	SOUND RECORDING	The Quiet Man	tt0045061	Republic Studio Sound Department, Daniel J. Bloomberg, Sound Director	Republic|Daniel J. Bloomberg	co0020540|nm0089253
 25	1952	Production	SOUND RECORDING	SOUND RECORDING	With a Song in My Heart	tt0045333	20th Century-Fox Studio Sound Department, Thomas T. Moulton, Sound Director	20th Century-Fox|Thomas T. Moulton	co0028775|nm0609771
-25	1952	Production	VISUAL EFFECTS	SPECIAL EFFECTS	Plymouth Adventure	tt0045039	Metro-Goldwyn-Mayer	Metro-Goldwyn-Mayer	?	True
+25	1952	Production	VISUAL EFFECTS	SPECIAL EFFECTS	Plymouth Adventure	tt0045039	Metro-Goldwyn-Mayer	Metro-Goldwyn-Mayer	co0007143	True
 25	1952	Writing	WRITING (Original Story)	WRITING (Motion Picture Story)	The Greatest Show on Earth	tt0044672	Fredric M. Frank, Theodore St. John, Frank Cavett	Fredric M. Frank|Theodore St. John|Frank Cavett	nm0290931|nm0820693|nm0147119	True
 25	1952	Writing	WRITING (Original Story)	WRITING (Motion Picture Story)	My Son John	tt0044941	Leo McCarey	Leo McCarey	nm0564970
 25	1952	Writing	WRITING (Original Story)	WRITING (Motion Picture Story)	The Narrow Margin	tt0044954	Martin Goldsmith, Jack Leonard	Martin Goldsmith|Jack Leonard	nm0326107|nm0502649
@@ -2993,7 +2993,7 @@ Ceremony	Year	Class	CanonicalCategory	Category	Film	FilmId	Name	Nominees	Nominee
 26	1953	Production	SOUND RECORDING	SOUND RECORDING	Knights of the Round Table	tt0045966	Metro-Goldwyn-Mayer Studio Sound Department, A. W. Watkins, Sound Director	Metro-Goldwyn-Mayer|A. W. Watkins	co0007143|nm0914249
 26	1953	Production	SOUND RECORDING	SOUND RECORDING	The Mississippi Gambler	tt0046080	Universal-International Studio Sound Department, Leslie I. Carey, Sound Director	Universal-International|Leslie I. Carey	co0005073|nm0136989
 26	1953	Production	SOUND RECORDING	SOUND RECORDING	The War of the Worlds	tt0046534	Paramount Studio Sound Department, Loren L. Ryder, Sound Director	Paramount|Loren L. Ryder	co0023400|nm0753122
-26	1953	Production	VISUAL EFFECTS	SPECIAL EFFECTS	The War of the Worlds	tt0046534	Paramount Studio	Paramount Studio	?	True
+26	1953	Production	VISUAL EFFECTS	SPECIAL EFFECTS	The War of the Worlds	tt0046534	Paramount Studio	Paramount Studio	co0023400	True
 26	1953	Writing	WRITING (Original Story)	WRITING (Motion Picture Story)	Above and Beyond	tt0044324	Beirne Lay, Jr.	Beirne Lay Jr.	nm0493446
 26	1953	Writing	WRITING (Original Story)	WRITING (Motion Picture Story)	The Captain's Paradise	tt0045607	Alec Coppel	Alec Coppel	nm0178785
 26	1953	Writing	WRITING (Original Story)	WRITING (Motion Picture Story)	Hondo	tt0045883	Louis L'Amour	Louis L'Amour	nm0478263			NOTE: THIS IS NOT AN OFFICIAL NOMINATION. Originally announced on February 15, 1954 as a nominee in this category. On February 17, 1954, letters from the producer and the nominee questioned its inclusion in the (original) motion picture story category, as it was based on the short story, \"The Gift of Cochise,\" by the nominee, published in Collier's magazine on July 5, 1952. By waiver, the title of the short story was not included in the film's credits. The nomination was withdrawn, and only four titles were included on the final ballot.
@@ -3121,8 +3121,8 @@ Ceremony	Year	Class	CanonicalCategory	Category	Film	FilmId	Name	Nominees	Nominee
 27	1954	Production	SOUND RECORDING	SOUND RECORDING	Rear Window	tt0047396	Paramount Studio Sound Department, Loren L. Ryder, Sound Director	Paramount|Loren L. Ryder	co0023400|nm0753122
 27	1954	Production	SOUND RECORDING	SOUND RECORDING	Susan Slept Here	tt0047550	RKO Radio Studio Sound Department, John O. Aalberg, Sound Director	RKO Radio|John O. Aalberg	co0041421|nm0007356
 27	1954	Production	VISUAL EFFECTS	SPECIAL EFFECTS	Hell and High Water	tt0047073	20th Century-Fox Studio	20th Century-Fox Studio	?
-27	1954	Production	VISUAL EFFECTS	SPECIAL EFFECTS	Them!	tt0047573	Warner Bros. Studio	Warner Bros. Studio	?
-27	1954	Production	VISUAL EFFECTS	SPECIAL EFFECTS	20,000 Leagues under the Sea	tt0046672	Walt Disney Studios	Walt Disney Studios	?	True
+27	1954	Production	VISUAL EFFECTS	SPECIAL EFFECTS	Them!	tt0047573	Warner Bros. Studio	Warner Bros. Studio	co0080422
+27	1954	Production	VISUAL EFFECTS	SPECIAL EFFECTS	20,000 Leagues under the Sea	tt0046672	Walt Disney Studios	Walt Disney Studios	co0008970	True
 27	1954	Writing	WRITING (Original Story)	WRITING (Motion Picture Story)	Bread, Love and Dreams	tt0046159	Ettore Margadonna	Ettore Margadonna	nm0546572
 27	1954	Writing	WRITING (Original Story)	WRITING (Motion Picture Story)	Broken Lance	tt0046808	Philip Yordan	Philip Yordan	nm0948634	True
 27	1954	Writing	WRITING (Original Story)	WRITING (Motion Picture Story)	Forbidden Games	tt0043686	François Boyer	François Boyer	nm0102030
@@ -3258,7 +3258,7 @@ Ceremony	Year	Class	CanonicalCategory	Category	Film	FilmId	Name	Nominees	Nominee
 28	1955	Production	SOUND RECORDING	SOUND RECORDING	Mister Roberts	tt0048380	Warner Bros. Studio Sound Department, William A. Mueller, Sound Director	Warner Bros.|William A. Mueller	co0080422|nm0611121
 28	1955	Production	SOUND RECORDING	SOUND RECORDING	Not as a Stranger	tt0048432	Radio Corporation of America Sound Department, Watson Jones, Sound Director	Radio Corporation of America|Watson Jones	?|nm0429444
 28	1955	Production	SOUND RECORDING	SOUND RECORDING	Oklahoma!	tt0048445	Todd-AO Sound Department, Fred Hynes, Sound Director	Todd-AO|Fred Hynes	co0016792|nm0405261	True
-28	1955	Production	VISUAL EFFECTS	SPECIAL EFFECTS	The Bridges at Toko-Ri	tt0046806	Paramount Studio	Paramount Studio	?	True
+28	1955	Production	VISUAL EFFECTS	SPECIAL EFFECTS	The Bridges at Toko-Ri	tt0046806	Paramount Studio	Paramount Studio	co0023400	True
 28	1955	Production	VISUAL EFFECTS	SPECIAL EFFECTS	The Dam Busters	tt0046889	Associated British Picture Corporation, Ltd.	Associated British Picture Corporation|Ltd.	?|?
 28	1955	Production	VISUAL EFFECTS	SPECIAL EFFECTS	The Rains of Ranchipur	tt0048538	20th Century-Fox Studio	20th Century-Fox Studio	?
 28	1955	Writing	WRITING (Original Story)	WRITING (Motion Picture Story)	Love Me or Leave Me	tt0048317	Daniel Fuchs	Daniel Fuchs	nm0297190	True
@@ -3391,7 +3391,7 @@ Ceremony	Year	Class	CanonicalCategory	Category	Film	FilmId	Name	Nominees	Nominee
 29	1956	Title	SHORT SUBJECT (Two-reel)	SHORT SUBJECT (Two-reel)	Samoa	tt0049709	Walt Disney, Producer	Walt Disney	nm0000370
 29	1956	Production	SOUND RECORDING	SOUND RECORDING	The Brave One	tt0049030	King Bros. Productions, Inc., Sound Department, John Myers, Sound Director	King Bros. Productions Inc.|John Myers	?|nm0583044
 29	1956	Production	SOUND RECORDING	SOUND RECORDING	The Eddy Duchin Story	tt0049170	Columbia Studio Sound Department, John Livadary, Sound Director	Columbia|John Livadary	co0050868|nm0515093
-29	1956	Production	SOUND RECORDING	SOUND RECORDING	Friendly Persuasion	tt0049233	Westrex Sound Services, Inc., Gordon R. Glennan, Sound Director; and Samuel Goldwyn Studio Sound Department, Gordon Sawyer, Sound Director	Westrex Sound Services Inc.|Gordon R. Glennan|Samuel Goldwyn|Gordon Sawyer	?|nm0322678|co0058013|nm0768167
+29	1956	Production	SOUND RECORDING	SOUND RECORDING	Friendly Persuasion	tt0049233	Westrex Sound Services, Inc., Gordon R. Glennan, Sound Director; and Samuel Goldwyn Studio Sound Department, Gordon Sawyer, Sound Director	Westrex Sound Services Inc.|Gordon R. Glennan|Samuel Goldwyn|Gordon Sawyer	co0001880|nm0322678|co0058013|nm0768167
 29	1956	Production	SOUND RECORDING	SOUND RECORDING	The King and I	tt0049408	20th Century-Fox Studio Sound Department, Carl Faulkner, Sound Director	20th Century-Fox|Carl Faulkner	co0028775|nm0269055	True
 29	1956	Production	SOUND RECORDING	SOUND RECORDING	The Ten Commandments	tt0049833	Paramount Studio Sound Department, Loren L. Ryder, Sound Director	Paramount|Loren L. Ryder	co0023400|nm0753122
 29	1956	Production	VISUAL EFFECTS	SPECIAL EFFECTS	Forbidden Planet	tt0049223	A. Arnold Gillespie, Irving Ries, Wesley C. Miller	A. Arnold Gillespie|Irving Ries|Wesley C. Miller	nm0318901|nm0726330|nm0589506
@@ -3617,11 +3617,11 @@ Ceremony	Year	Class	CanonicalCategory	Category	Film	FilmId	Name	Nominees	Nominee
 31	1958	Title	SHORT FILM (Live Action)	SHORT SUBJECT (Live Action)	The Kiss	tt0051821	John Patrick Hayes, Producer	John Patrick Hayes	nm0371080
 31	1958	Title	SHORT FILM (Live Action)	SHORT SUBJECT (Live Action)	Snows of Aorangi	tt0052208	New Zealand Screen Board	New Zealand Screen Board	co0032927
 31	1958	Title	SHORT FILM (Live Action)	SHORT SUBJECT (Live Action)	T Is for Tumbleweed	tt0052267	James A. Lebenthal, Producer	James A. Lebenthal	nm0495604
-31	1958	Production	SOUND MIXING	SOUND	I Want to Live!	tt0051758	Samuel Goldwyn Studio Sound Department, Gordon E. Sawyer, Sound Director	Samuel Goldwyn|Gordon E. Sawyer	?|nm0768167
-31	1958	Production	SOUND MIXING	SOUND	South Pacific	tt0052225	Todd-AO Sound Department, Fred Hynes, Sound Director	Todd-AO|Fred Hynes	?|nm0405261	True
-31	1958	Production	SOUND MIXING	SOUND	A Time to Love and a Time to Die	tt0052296	Universal-International Studio Sound Department, Leslie I. Carey, Sound Director	Universal-International|Leslie I. Carey	?|nm0136989
-31	1958	Production	SOUND MIXING	SOUND	Vertigo	tt0052357	Paramount Studio Sound Department, George Dutton, Sound Director	Paramount|George Dutton	?|nm0244931
-31	1958	Production	SOUND MIXING	SOUND	The Young Lions	tt0052415	20th Century-Fox Studio Sound Department, Carl Faulkner, Sound Director	20th Century-Fox|Carl Faulkner	?|nm0269055
+31	1958	Production	SOUND MIXING	SOUND	I Want to Live!	tt0051758	Samuel Goldwyn Studio Sound Department, Gordon E. Sawyer, Sound Director	Samuel Goldwyn|Gordon E. Sawyer	co0058013|nm0768167
+31	1958	Production	SOUND MIXING	SOUND	South Pacific	tt0052225	Todd-AO Sound Department, Fred Hynes, Sound Director	Todd-AO|Fred Hynes	co0016792|nm0405261	True
+31	1958	Production	SOUND MIXING	SOUND	A Time to Love and a Time to Die	tt0052296	Universal-International Studio Sound Department, Leslie I. Carey, Sound Director	Universal-International|Leslie I. Carey	co0005073|nm0136989
+31	1958	Production	SOUND MIXING	SOUND	Vertigo	tt0052357	Paramount Studio Sound Department, George Dutton, Sound Director	Paramount|George Dutton	co0023400|nm0244931
+31	1958	Production	SOUND MIXING	SOUND	The Young Lions	tt0052415	20th Century-Fox Studio Sound Department, Carl Faulkner, Sound Director	20th Century-Fox|Carl Faulkner	co0028775|nm0269055
 31	1958	Production	VISUAL EFFECTS	SPECIAL EFFECTS	tom thumb	tt0052427	Visual Effects by Tom Howard	Tom Howard	nm0397644	True
 31	1958	Production	VISUAL EFFECTS	SPECIAL EFFECTS	Torpedo Run	tt0052303	Visual Effects by A. Arnold Gillespie; Audible Effects by Harold Humbrock	A. Arnold Gillespie|Harold Humbrock	nm0318901|nm0401724
 31	1958	Writing	WRITING (Adapted Screenplay)	WRITING (Screenplay--based on material from another medium)	Cat on a Hot Tin Roof	tt0051459	Richard Brooks, James Poe	Richard Brooks|James Poe	nm0112218|nm0688117
@@ -3739,11 +3739,11 @@ Ceremony	Year	Class	CanonicalCategory	Category	Film	FilmId	Name	Nominees	Nominee
 32	1959	Title	SHORT FILM (Live Action)	SHORT SUBJECT (Live Action)	Mysteries of the Deep	tt0053090	Walt Disney, Producer	Walt Disney	nm0000370
 32	1959	Title	SHORT FILM (Live Action)	SHORT SUBJECT (Live Action)	The Running, Jumping and Standing-Still Film	tt0053231	Peter Sellers, Producer	Peter Sellers	nm0000634
 32	1959	Title	SHORT FILM (Live Action)	SHORT SUBJECT (Live Action)	Skyscraper	tt0053282	Shirley Clarke, Willard Van Dyke and Irving Jacoby, Producers	Shirley Clarke|Willard Van Dyke|Irving Jacoby	nm0164999|nm0886757|nm0414991
-32	1959	Production	SOUND MIXING	SOUND	Ben-Hur	tt0052618	Metro-Goldwyn-Mayer Studio Sound Department, Franklin E. Milton, Sound Director	Metro-Goldwyn-Mayer|Franklin E. Milton	?|nm0590665	True
-32	1959	Production	SOUND MIXING	SOUND	Journey to the Center of the Earth	tt0052948	20th Century-Fox Studio Sound Department, Carl Faulkner, Sound Director	20th Century-Fox|Carl Faulkner	?|nm0269055
-32	1959	Production	SOUND MIXING	SOUND	Libel!	tt0053003	Metro-Goldwyn-Mayer London Studio Sound Department, A. W. Watkins, Sound Director	Metro-Goldwyn-Mayer London|A. W. Watkins	?|nm0914249
-32	1959	Production	SOUND MIXING	SOUND	The Nun's Story	tt0053131	Warner Bros. Studio Sound Department, George R. Groves, Sound Director	Warner Bros.|George R. Groves	?|nm0344060
-32	1959	Production	SOUND MIXING	SOUND	Porgy and Bess	tt0053182	Samuel Goldwyn Studio Sound Department, Gordon E. Sawyer, Sound Director; and Todd-AO Sound Department, Fred Hynes, Sound Director	Samuel Goldwyn|Gordon E. Sawyer|Todd-AO|Fred Hynes	?|nm0768167|?|nm0405261
+32	1959	Production	SOUND MIXING	SOUND	Ben-Hur	tt0052618	Metro-Goldwyn-Mayer Studio Sound Department, Franklin E. Milton, Sound Director	Metro-Goldwyn-Mayer|Franklin E. Milton	co0007143|nm0590665	True
+32	1959	Production	SOUND MIXING	SOUND	Journey to the Center of the Earth	tt0052948	20th Century-Fox Studio Sound Department, Carl Faulkner, Sound Director	20th Century-Fox|Carl Faulkner	co0028775|nm0269055
+32	1959	Production	SOUND MIXING	SOUND	Libel!	tt0053003	Metro-Goldwyn-Mayer London Studio Sound Department, A. W. Watkins, Sound Director	Metro-Goldwyn-Mayer London|A. W. Watkins	co0007143|nm0914249
+32	1959	Production	SOUND MIXING	SOUND	The Nun's Story	tt0053131	Warner Bros. Studio Sound Department, George R. Groves, Sound Director	Warner Bros.|George R. Groves	co0080422|nm0344060
+32	1959	Production	SOUND MIXING	SOUND	Porgy and Bess	tt0053182	Samuel Goldwyn Studio Sound Department, Gordon E. Sawyer, Sound Director; and Todd-AO Sound Department, Fred Hynes, Sound Director	Samuel Goldwyn|Gordon E. Sawyer|Todd-AO|Fred Hynes	co0058013|nm0768167|co0016792|nm0405261
 32	1959	Production	VISUAL EFFECTS	SPECIAL EFFECTS	Ben-Hur	tt0052618	Visual Effects by A. Arnold Gillespie, Robert MacDonald; Audible Effects by Milo Lory	A. Arnold Gillespie|Robert MacDonald|Milo Lory	nm0318901|nm0531881|nm0521215	True
 32	1959	Production	VISUAL EFFECTS	SPECIAL EFFECTS	Journey to the Center of the Earth	tt0052948	Visual Effects by L. B. Abbott, James B. Gordon; Audible Effects by Carl Faulkner	L. B. Abbott|James B. Gordon|Carl Faulkner	nm0008004|nm0330286|nm0269055
 32	1959	Writing	WRITING (Adapted Screenplay)	WRITING (Screenplay--based on material from another medium)	Anatomy of a Murder	tt0052561	Wendell Mayes	Wendell Mayes	nm0562606
@@ -3824,7 +3824,7 @@ Ceremony	Year	Class	CanonicalCategory	Category	Film	FilmId	Name	Nominees	Nominee
 33	1960	Title	DOCUMENTARY (Feature)	DOCUMENTARY (Feature)	The Horse with the Flying Tail	tt0054993	Larry Lansburgh, Producer	Larry Lansburgh	nm0487047	True
 33	1960	Title	DOCUMENTARY (Feature)	DOCUMENTARY (Feature)	Rebel in Paradise	tt0054235	Robert D. Fraser, Producer	Robert D. Fraser	nm0292224
 33	1960	Title	DOCUMENTARY (Short Subject)	DOCUMENTARY (Short Subject)	Beyond Silence	tt0053649	United States Information Agency	United States Information Agency	?
-33	1960	Title	DOCUMENTARY (Short Subject)	DOCUMENTARY (Short Subject)	A City Called Copenhagen	tt0053685	Statens Filmcentral, The Danish Government Film Office	Statens Filmcentral|The Danish Government Film Office	?|?
+33	1960	Title	DOCUMENTARY (Short Subject)	DOCUMENTARY (Short Subject)	A City Called Copenhagen	tt0053685	Statens Filmcentral, The Danish Government Film Office	Statens Filmcentral|The Danish Government Film Office	?|co0025237
 33	1960	Title	DOCUMENTARY (Short Subject)	DOCUMENTARY (Short Subject)	George Grosz' Interregnum	tt0053858	Charles Carey and Altina Carey, Producers	Charles Carey|Altina Carey	nm0136919|nm0136896
 33	1960	Title	DOCUMENTARY (Short Subject)	DOCUMENTARY (Short Subject)	Giuseppina	tt0053866	James Hill, Producer	James Hill	nm0384342	True
 33	1960	Title	DOCUMENTARY (Short Subject)	DOCUMENTARY (Short Subject)	Universe	tt0054429	Colin Low, Producer	Colin Low	nm0522800
@@ -3867,11 +3867,11 @@ Ceremony	Year	Class	CanonicalCategory	Category	Film	FilmId	Name	Nominees	Nominee
 33	1960	Title	SHORT FILM (Live Action)	SHORT SUBJECT (Live Action)	Day of the Painter	tt0053753	Ezra R. Baker, Producer	Ezra R. Baker	nm0048441	True
 33	1960	Title	SHORT FILM (Live Action)	SHORT SUBJECT (Live Action)	Islands of the Sea	tt0053956	Walt Disney, Producer	Walt Disney	nm0000370
 33	1960	Title	SHORT FILM (Live Action)	SHORT SUBJECT (Live Action)	A Sport Is Born	tt0054335	Leslie Winik, Producer	Leslie Winik	nm0935119
-33	1960	Production	SOUND MIXING	SOUND	The Alamo	tt0053580	Samuel Goldwyn Studio Sound Department, Gordon E. Sawyer, Sound Director; and Todd-AO Sound Department, Fred Hynes, Sound Director	Samuel Goldwyn|Gordon E. Sawyer|Todd-AO|Fred Hynes	?|nm0768167|?|nm0405261	True
-33	1960	Production	SOUND MIXING	SOUND	The Apartment	tt0053604	Samuel Goldwyn Studio Sound Department, Gordon E. Sawyer, Sound Director	Samuel Goldwyn|Gordon E. Sawyer	?|nm0768167
-33	1960	Production	SOUND MIXING	SOUND	Cimarron	tt0053715	Metro-Goldwyn-Mayer Studio Sound Department, Franklin E. Milton, Sound Director	Metro-Goldwyn-Mayer|Franklin E. Milton	?|nm0590665
-33	1960	Production	SOUND MIXING	SOUND	Pepe	tt0054172	Columbia Studio Sound Department, Charles Rice, Sound Director	Columbia|Charles Rice	?|nm0723376
-33	1960	Production	SOUND MIXING	SOUND	Sunrise at Campobello	tt0054354	Warner Bros. Studio Sound Department, George R. Groves, Sound Director	Warner Bros.|George R. Groves	?|nm0344060
+33	1960	Production	SOUND MIXING	SOUND	The Alamo	tt0053580	Samuel Goldwyn Studio Sound Department, Gordon E. Sawyer, Sound Director; and Todd-AO Sound Department, Fred Hynes, Sound Director	Samuel Goldwyn|Gordon E. Sawyer|Todd-AO|Fred Hynes	co0058013|nm0768167|co0016792|nm0405261	True
+33	1960	Production	SOUND MIXING	SOUND	The Apartment	tt0053604	Samuel Goldwyn Studio Sound Department, Gordon E. Sawyer, Sound Director	Samuel Goldwyn|Gordon E. Sawyer	co0058013|nm0768167
+33	1960	Production	SOUND MIXING	SOUND	Cimarron	tt0053715	Metro-Goldwyn-Mayer Studio Sound Department, Franklin E. Milton, Sound Director	Metro-Goldwyn-Mayer|Franklin E. Milton	co0007143|nm0590665
+33	1960	Production	SOUND MIXING	SOUND	Pepe	tt0054172	Columbia Studio Sound Department, Charles Rice, Sound Director	Columbia|Charles Rice	co0050868|nm0723376
+33	1960	Production	SOUND MIXING	SOUND	Sunrise at Campobello	tt0054354	Warner Bros. Studio Sound Department, George R. Groves, Sound Director	Warner Bros.|George R. Groves	co0080422|nm0344060
 33	1960	Production	VISUAL EFFECTS	SPECIAL EFFECTS	The Last Voyage	tt0054016	Visual Effects by A.J. Lohman	A.J. Lohman	nm0517846
 33	1960	Production	VISUAL EFFECTS	SPECIAL EFFECTS	The Time Machine	tt0054387	Visual Effects by Gene Warren, Tim Baar	Gene Warren|Tim Baar	nm0912840|nm0056579	True
 33	1960	Writing	WRITING (Adapted Screenplay)	WRITING (Screenplay--based on material from another medium)	Elmer Gantry	tt0053793	Richard Brooks	Richard Brooks	nm0112218	True
@@ -3989,16 +3989,16 @@ Ceremony	Year	Class	CanonicalCategory	Category	Film	FilmId	Name	Nominees	Nominee
 34	1961	Title	SHORT FILM (Animated)	SHORT SUBJECT (Cartoon)	Ersatz (The Substitute)	tt0054854	Zagreb Film	Zagreb Film	?	True
 34	1961	Title	SHORT FILM (Animated)	SHORT SUBJECT (Cartoon)	Nelly's Folly	tt0055223	Chuck Jones, Producer	Chuck Jones	nm0005062
 34	1961	Title	SHORT FILM (Animated)	SHORT SUBJECT (Cartoon)	The Pied Piper of Guadalupe	tt0055298	Friz Freleng, Producer	Friz Freleng	nm0293989
-34	1961	Title	SHORT FILM (Live Action)	SHORT SUBJECT (Live Action)	Ballon Vole (Play Ball!)	tt0054658	Ciné-Documents	Ciné-Documents	?
+34	1961	Title	SHORT FILM (Live Action)	SHORT SUBJECT (Live Action)	Ballon Vole (Play Ball!)	tt0054658	Ciné-Documents	Ciné-Documents	co0027834
 34	1961	Title	SHORT FILM (Live Action)	SHORT SUBJECT (Live Action)	The Face of Jesus	tt0054863	Dr. John D. Jennings, Producer	Dr. John D. Jennings	nm0421183
 34	1961	Title	SHORT FILM (Live Action)	SHORT SUBJECT (Live Action)	Rooftops of New York	tt0055384	Robert Gaffney, Producer	Robert Gaffney	nm0300759
 34	1961	Title	SHORT FILM (Live Action)	SHORT SUBJECT (Live Action)	Seawards the Great Ships	tt0055420	Templar Film Studios	Templar Film Studios	?	True
-34	1961	Title	SHORT FILM (Live Action)	SHORT SUBJECT (Live Action)	Very Nice, Very Nice	tt0055594	National Film Board of Canada	National Film Board of Canada	?
-34	1961	Production	SOUND MIXING	SOUND	The Children's Hour	tt0054743	Samuel Goldwyn Studio Sound Department, Gordon E. Sawyer, Sound Director	Samuel Goldwyn|Gordon E. Sawyer	?|nm0768167
+34	1961	Title	SHORT FILM (Live Action)	SHORT SUBJECT (Live Action)	Very Nice, Very Nice	tt0055594	National Film Board of Canada	National Film Board of Canada	co0006414
+34	1961	Production	SOUND MIXING	SOUND	The Children's Hour	tt0054743	Samuel Goldwyn Studio Sound Department, Gordon E. Sawyer, Sound Director	Samuel Goldwyn|Gordon E. Sawyer	co0058013|nm0768167
 34	1961	Production	SOUND MIXING	SOUND	Flower Drum Song	tt0054885	Revue Studio Sound Department, Waldon O. Watson, Sound Director	Revue|Waldon O. Watson	?|nm0910592
-34	1961	Production	SOUND MIXING	SOUND	The Guns of Navarone	tt0054953	Shepperton Studio Sound Department, John Cox, Sound Director	Shepperton|John Cox	?|nm0185090
-34	1961	Production	SOUND MIXING	SOUND	The Parent Trap	tt0055277	Walt Disney Studio Sound Department, Robert O. Cook, Sound Director	Walt Disney Studios|Robert O. Cook	?|nm0177256
-34	1961	Production	SOUND MIXING	SOUND	West Side Story	tt0055614	Todd- AO Sound Department, Fred Hynes, Sound Director; and Samuel Goldwyn Studio Sound Department, Gordon E. Sawyer, Sound Director	Todd- AO|Fred Hynes|Samuel Goldwyn|Gordon E. Sawyer	?|nm0405261|?|nm0768167	True
+34	1961	Production	SOUND MIXING	SOUND	The Guns of Navarone	tt0054953	Shepperton Studio Sound Department, John Cox, Sound Director	Shepperton|John Cox	co0103344|nm0185090
+34	1961	Production	SOUND MIXING	SOUND	The Parent Trap	tt0055277	Walt Disney Studio Sound Department, Robert O. Cook, Sound Director	Walt Disney Studios|Robert O. Cook	co0008970|nm0177256
+34	1961	Production	SOUND MIXING	SOUND	West Side Story	tt0055614	Todd- AO Sound Department, Fred Hynes, Sound Director; and Samuel Goldwyn Studio Sound Department, Gordon E. Sawyer, Sound Director	Todd- AO|Fred Hynes|Samuel Goldwyn|Gordon E. Sawyer	?|nm0405261|co0058013|nm0768167	True
 34	1961	Production	VISUAL EFFECTS	SPECIAL EFFECTS	The Absent Minded Professor	tt0054594	Visual Effects by Robert A. Mattey, Eustace Lycett	Robert A. Mattey|Eustace Lycett	nm0559871|nm0527941
 34	1961	Production	VISUAL EFFECTS	SPECIAL EFFECTS	The Guns of Navarone	tt0054953	Visual Effects by Bill Warrington; Audible Effects by Vivian C. Greenham	Bill Warrington|Vivian C. Greenham	nm0913113|nm0339051	True
 34	1961	Writing	WRITING (Adapted Screenplay)	WRITING (Screenplay--based on material from another medium)	Breakfast at Tiffany's	tt0054698	George Axelrod	George Axelrod	nm0043480
@@ -4121,11 +4121,11 @@ Ceremony	Year	Class	CanonicalCategory	Category	Film	FilmId	Name	Nominees	Nominee
 35	1962	Title	SHORT FILM (Live Action)	SHORT SUBJECT (Live Action)	The Cliff Dwellers (formerly titled 'One Plus One')	tt0055853	Hayward Anderson, Producer	Hayward Anderson	nm0026794
 35	1962	Title	SHORT FILM (Live Action)	SHORT SUBJECT (Live Action)	Heureux Anniversaire (Happy Anniversary)	tt0056066	Pierre Etaix and J.C. Carrière, Producers	Pierre Etaix|J.C. Carrière	nm0959916|nm0140643	True
 35	1962	Title	SHORT FILM (Live Action)	SHORT SUBJECT (Live Action)	Pan	tt1534484	Herman van der Horst, Producer	Herman van der Horst	nm0395474
-35	1962	Production	SOUND MIXING	SOUND	Bon Voyage!	tt0055807	Walt Disney Studio Sound Department, Robert O. Cook, Sound Director	Walt Disney Studios|Robert O. Cook	?|nm0177256
-35	1962	Production	SOUND MIXING	SOUND	Lawrence of Arabia	tt0056172	Shepperton Studio Sound Department, John Cox, Sound Director	Shepperton|John Cox	?|nm0185090	True
-35	1962	Production	SOUND MIXING	SOUND	Meredith Willson's The Music Man	tt0056262	Warner Bros. Studio Sound Department, George R. Groves, Sound Director	Warner Bros.|George R. Groves	?|nm0344060
-35	1962	Production	SOUND MIXING	SOUND	That Touch of Mink	tt0056575	Universal City Studio Sound Department, Waldon O. Watson, Sound Director	Universal City|Waldon O. Watson	?|nm0910592
-35	1962	Production	SOUND MIXING	SOUND	What Ever Happened to Baby Jane?	tt0056687	Glen Glenn Sound Department, Joseph Kelly, Sound Director	Glen Glenn|Joseph Kelly	?|nm1369113
+35	1962	Production	SOUND MIXING	SOUND	Bon Voyage!	tt0055807	Walt Disney Studio Sound Department, Robert O. Cook, Sound Director	Walt Disney Studios|Robert O. Cook	co0008970|nm0177256
+35	1962	Production	SOUND MIXING	SOUND	Lawrence of Arabia	tt0056172	Shepperton Studio Sound Department, John Cox, Sound Director	Shepperton|John Cox	co0103344|nm0185090	True
+35	1962	Production	SOUND MIXING	SOUND	Meredith Willson's The Music Man	tt0056262	Warner Bros. Studio Sound Department, George R. Groves, Sound Director	Warner Bros.|George R. Groves	co0080422|nm0344060
+35	1962	Production	SOUND MIXING	SOUND	That Touch of Mink	tt0056575	Universal City Studio Sound Department, Waldon O. Watson, Sound Director	Universal City|Waldon O. Watson	co0005073|nm0910592
+35	1962	Production	SOUND MIXING	SOUND	What Ever Happened to Baby Jane?	tt0056687	Glen Glenn Sound Department, Joseph Kelly, Sound Director	Glen Glenn|Joseph Kelly	co0000175|nm1369113
 35	1962	Production	VISUAL EFFECTS	SPECIAL EFFECTS	The Longest Day	tt0056197	Visual Effects by Robert MacDonald; Audible Effects by Jacques Maumont	Robert MacDonald|Jacques Maumont	nm0531881|nm0560918	True
 35	1962	Production	VISUAL EFFECTS	SPECIAL EFFECTS	Mutiny on the Bounty	tt0056264	Visual Effects by A. Arnold Gillespie; Audible Effects by Milo Lory	A. Arnold Gillespie|Milo Lory	nm0318901|nm0521215
 35	1962	Writing	WRITING (Adapted Screenplay)	WRITING (Screenplay--based on material from another medium)	David and Lisa	tt0055892	Eleanor Perry	Eleanor Perry	nm0675052
@@ -4249,11 +4249,11 @@ Ceremony	Year	Class	CanonicalCategory	Category	Film	FilmId	Name	Nominees	Nominee
 36	1963	Title	SHORT FILM (Live Action)	SHORT SUBJECT (Live Action)	An Occurrence at Owl Creek Bridge	tt0056300	Paul de Roubaix and Marcel Ichac, Producers	Paul de Roubaix|Marcel Ichac	nm0745515|nm0406685	True
 36	1963	Title	SHORT FILM (Live Action)	SHORT SUBJECT (Live Action)	Six-Sided Triangle	tt0057506	Christopher Miles, Producer	Christopher Miles	nm0587085
 36	1963	Title	SHORT FILM (Live Action)	SHORT SUBJECT (Live Action)	That's Me	tt0057575	Walker Stuart, Producer	Walker Stuart	nm0835872
-36	1963	Production	SOUND MIXING	SOUND	Bye Bye Birdie	tt0056891	Columbia Studio Sound Department, Charles Rice, Sound Director	Columbia|Charles Rice	?|nm0723376
-36	1963	Production	SOUND MIXING	SOUND	Captain Newman, M.D.	tt0056903	Universal City Studio Sound Department, Waldon O. Watson, Sound Director	Universal City|Waldon O. Watson	?|nm0910592
-36	1963	Production	SOUND MIXING	SOUND	Cleopatra	tt0056937	20th Century-Fox Studio Sound Department, James P. Corcoran, Sound Director; and Todd-AO Sound Department, Fred Hynes, Sound Director	20th Century-Fox|James P. Corcoran|Todd-AO|Fred Hynes	?|nm0179331|?|nm0405261
-36	1963	Production	SOUND MIXING	SOUND	How the West Was Won	tt0056085	Metro-Goldwyn-Mayer Studio Sound Department, Franklin E. Milton, Sound Director	Metro-Goldwyn-Mayer|Franklin E. Milton	?|nm0590665	True
-36	1963	Production	SOUND MIXING	SOUND	It's a Mad, Mad, Mad, Mad World	tt0057193	Samuel Goldwyn Studio Sound Department, Gordon E. Sawyer, Sound Director	Samuel Goldwyn|Gordon E. Sawyer	?|nm0768167
+36	1963	Production	SOUND MIXING	SOUND	Bye Bye Birdie	tt0056891	Columbia Studio Sound Department, Charles Rice, Sound Director	Columbia|Charles Rice	co0050868|nm0723376
+36	1963	Production	SOUND MIXING	SOUND	Captain Newman, M.D.	tt0056903	Universal City Studio Sound Department, Waldon O. Watson, Sound Director	Universal City|Waldon O. Watson	co0005073|nm0910592
+36	1963	Production	SOUND MIXING	SOUND	Cleopatra	tt0056937	20th Century-Fox Studio Sound Department, James P. Corcoran, Sound Director; and Todd-AO Sound Department, Fred Hynes, Sound Director	20th Century-Fox|James P. Corcoran|Todd-AO|Fred Hynes	co0028775|nm0179331|co0016792|nm0405261
+36	1963	Production	SOUND MIXING	SOUND	How the West Was Won	tt0056085	Metro-Goldwyn-Mayer Studio Sound Department, Franklin E. Milton, Sound Director	Metro-Goldwyn-Mayer|Franklin E. Milton	co0007143|nm0590665	True
+36	1963	Production	SOUND MIXING	SOUND	It's a Mad, Mad, Mad, Mad World	tt0057193	Samuel Goldwyn Studio Sound Department, Gordon E. Sawyer, Sound Director	Samuel Goldwyn|Gordon E. Sawyer	co0058013|nm0768167
 36	1963	Production	SOUND EDITING	SOUND EFFECTS	A Gathering of Eagles	tt0057090	Robert L. Bratton	Robert L. Bratton	nm0105600
 36	1963	Production	SOUND EDITING	SOUND EFFECTS	It's a Mad, Mad, Mad, Mad World	tt0057193	Walter G. Elliott	Walter G. Elliott	nm0254666	True
 36	1963	Production	VISUAL EFFECTS	SPECIAL EFFECTS	The Birds	tt0056869	Ub Iwerks	Ub Iwerks	nm0412650
@@ -4372,11 +4372,11 @@ Ceremony	Year	Class	CanonicalCategory	Category	Film	FilmId	Name	Nominees	Nominee
 37	1964	Title	SHORT FILM (Live Action)	SHORT SUBJECT (Live Action)	Casals Conducts: 1964	tt0057922	Edward Schreiber, Producer	Edward Schreiber	nm0775233	True
 37	1964	Title	SHORT FILM (Live Action)	SHORT SUBJECT (Live Action)	Help! My Snowman's Burning Down	tt0058189	Carson Davidson, Producer	Carson Davidson	nm0203262
 37	1964	Title	SHORT FILM (Live Action)	SHORT SUBJECT (Live Action)	The Legend of Jimmy Blue Eyes	tt0058288	Robert Clouse, Producer	Robert Clouse	nm0167195
-37	1964	Production	SOUND MIXING	SOUND	Becket	tt0057877	Shepperton Studio Sound Department, John Cox, Sound Director	Shepperton|John Cox	?|nm0185090
-37	1964	Production	SOUND MIXING	SOUND	Father Goose	tt0058092	Universal City Studio Sound Department, Waldon O. Watson, Sound Director	Universal City|Waldon O. Watson	?|nm0910592
-37	1964	Production	SOUND MIXING	SOUND	Mary Poppins	tt0058331	Walt Disney Studio Sound Department, Robert O. Cook, Sound Director	Walt Disney Studios|Robert O. Cook	?|nm0177256
-37	1964	Production	SOUND MIXING	SOUND	My Fair Lady	tt0058385	Warner Bros. Studio Sound Department, George R. Groves, Sound Director	Warner Bros.|George R. Groves	?|nm0344060	True
-37	1964	Production	SOUND MIXING	SOUND	The Unsinkable Molly Brown	tt0058708	Metro-Goldwyn-Mayer Studio Sound Department, Franklin E. Milton, Sound Director	Metro-Goldwyn-Mayer|Franklin E. Milton	?|nm0590665
+37	1964	Production	SOUND MIXING	SOUND	Becket	tt0057877	Shepperton Studio Sound Department, John Cox, Sound Director	Shepperton|John Cox	co0103344|nm0185090
+37	1964	Production	SOUND MIXING	SOUND	Father Goose	tt0058092	Universal City Studio Sound Department, Waldon O. Watson, Sound Director	Universal City|Waldon O. Watson	co0005073|nm0910592
+37	1964	Production	SOUND MIXING	SOUND	Mary Poppins	tt0058331	Walt Disney Studio Sound Department, Robert O. Cook, Sound Director	Walt Disney Studios|Robert O. Cook	co0008970|nm0177256
+37	1964	Production	SOUND MIXING	SOUND	My Fair Lady	tt0058385	Warner Bros. Studio Sound Department, George R. Groves, Sound Director	Warner Bros.|George R. Groves	co0080422|nm0344060	True
+37	1964	Production	SOUND MIXING	SOUND	The Unsinkable Molly Brown	tt0058708	Metro-Goldwyn-Mayer Studio Sound Department, Franklin E. Milton, Sound Director	Metro-Goldwyn-Mayer|Franklin E. Milton	co0007143|nm0590665
 37	1964	Production	SOUND EDITING	SOUND EFFECTS	Goldfinger	tt0058150	Norman Wanstall	Norman Wanstall	nm0911232	True
 37	1964	Production	SOUND EDITING	SOUND EFFECTS	The Lively Set	tt0058296	Robert L. Bratton	Robert L. Bratton	nm0105600
 37	1964	Production	VISUAL EFFECTS	SPECIAL VISUAL EFFECTS	Mary Poppins	tt0058331	Peter Ellenshaw, Eustace Lycett, Hamilton Luske	Peter Ellenshaw|Eustace Lycett|Hamilton Luske	nm0254002|nm0527941|nm0527217	True
@@ -4504,11 +4504,11 @@ Ceremony	Year	Class	CanonicalCategory	Category	Film	FilmId	Name	Nominees	Nominee
 38	1965	Title	SHORT FILM (Live Action)	SHORT SUBJECT (Live Action)	Skaterdater	tt0059725	Marshal Backlar and Noel Black, Producers	Marshal Backlar|Noel Black	nm0045677|nm0085457
 38	1965	Title	SHORT FILM (Live Action)	SHORT SUBJECT (Live Action)	Snow	tt0059731	Edgar Anstey, Producer	Edgar Anstey	nm0030693
 38	1965	Title	SHORT FILM (Live Action)	SHORT SUBJECT (Live Action)	Time Piece	tt0059807	Jim Henson, Producer	Jim Henson	nm0001345
-38	1965	Production	SOUND MIXING	SOUND	The Agony and the Ecstasy	tt0058886	20th Century-Fox Studio Sound Department, James P. Corcoran, Sound Director	20th Century-Fox|James P. Corcoran	?|nm0179331
-38	1965	Production	SOUND MIXING	SOUND	Doctor Zhivago	tt0059113	Metro- Goldwyn-Mayer British Studio Sound Department, A. W. Watkins, Sound Director; and Metro-Goldwyn-Mayer Studio Sound Department, Franklin E. Milton, Sound Director	Metro- Goldwyn-Mayer British|A. W. Watkins|Metro-Goldwyn-Mayer|Franklin E. Milton	?|nm0914249|?|nm0590665
-38	1965	Production	SOUND MIXING	SOUND	The Great Race	tt0059243	Warner Bros. Studio Sound Department, George R. Groves, Sound Director	Warner Bros.|George R. Groves	?|nm0344060
-38	1965	Production	SOUND MIXING	SOUND	Shenandoah	tt0059711	Universal City Studio Sound Department, Waldon O. Watson, Sound Director	Universal City|Waldon O. Watson	?|nm0910592
-38	1965	Production	SOUND MIXING	SOUND	The Sound of Music	tt0059742	20th Century-Fox Studio Sound Department, James P. Corcoran, Sound Director; and Todd-AO Sound Department, Fred Hynes, Sound Director	20th Century-Fox|James P. Corcoran|Todd-AO|Fred Hynes	?|nm0179331|?|nm0405261	True
+38	1965	Production	SOUND MIXING	SOUND	The Agony and the Ecstasy	tt0058886	20th Century-Fox Studio Sound Department, James P. Corcoran, Sound Director	20th Century-Fox|James P. Corcoran	co0028775|nm0179331
+38	1965	Production	SOUND MIXING	SOUND	Doctor Zhivago	tt0059113	Metro- Goldwyn-Mayer British Studio Sound Department, A. W. Watkins, Sound Director; and Metro-Goldwyn-Mayer Studio Sound Department, Franklin E. Milton, Sound Director	Metro- Goldwyn-Mayer British|A. W. Watkins|Metro-Goldwyn-Mayer|Franklin E. Milton	co0007143|nm0914249|co0007143|nm0590665
+38	1965	Production	SOUND MIXING	SOUND	The Great Race	tt0059243	Warner Bros. Studio Sound Department, George R. Groves, Sound Director	Warner Bros.|George R. Groves	co0080422|nm0344060
+38	1965	Production	SOUND MIXING	SOUND	Shenandoah	tt0059711	Universal City Studio Sound Department, Waldon O. Watson, Sound Director	Universal City|Waldon O. Watson	co0005073|nm0910592
+38	1965	Production	SOUND MIXING	SOUND	The Sound of Music	tt0059742	20th Century-Fox Studio Sound Department, James P. Corcoran, Sound Director; and Todd-AO Sound Department, Fred Hynes, Sound Director	20th Century-Fox|James P. Corcoran|Todd-AO|Fred Hynes	co0028775|nm0179331|co0016792|nm0405261	True
 38	1965	Production	SOUND EDITING	SOUND EFFECTS	The Great Race	tt0059243	Tregoweth Brown	Tregoweth Brown	nm0114830	True
 38	1965	Production	SOUND EDITING	SOUND EFFECTS	Von Ryan's Express	tt0059885	Walter A. Rossi	Walter A. Rossi	nm0744346
 38	1965	Production	VISUAL EFFECTS	SPECIAL VISUAL EFFECTS	The Greatest Story Ever Told	tt0059245	J. McMillan Johnson	J. McMillan Johnson	nm0425262
@@ -4629,11 +4629,11 @@ Ceremony	Year	Class	CanonicalCategory	Category	Film	FilmId	Name	Nominees	Nominee
 39	1966	Title	SHORT FILM (Live Action)	SHORT SUBJECT (Live Action)	Turkey the Bridge	tt0061128	Derek Williams, Producer	Derek Williams	nm0930426
 39	1966	Title	SHORT FILM (Live Action)	SHORT SUBJECT (Live Action)	Wild Wings	tt0061192	Edgar Anstey, Producer	Edgar Anstey	nm0030693	True
 39	1966	Title	SHORT FILM (Live Action)	SHORT SUBJECT (Live Action)	The Winning Strain	tt0061200	Leslie Winik, Producer	Leslie Winik	nm0935119
-39	1966	Production	SOUND MIXING	SOUND	Gambit	tt0060445	Universal City Studio Sound Department, Waldon O. Watson, Sound Director	Universal City|Waldon O. Watson	?|nm0910592
-39	1966	Production	SOUND MIXING	SOUND	Grand Prix	tt0060472	Metro-Goldwyn-Mayer Studio Sound Department, Franklin E. Milton, Sound Director	Metro-Goldwyn-Mayer|Franklin E. Milton	?|nm0590665	True
-39	1966	Production	SOUND MIXING	SOUND	Hawaii	tt0060491	Samuel Goldwyn Studio Sound Department, Gordon E. Sawyer, Sound Director	Samuel Goldwyn|Gordon E. Sawyer	?|nm0768167
-39	1966	Production	SOUND MIXING	SOUND	The Sand Pebbles	tt0060934	20th Century-Fox Studio Sound Department, James P. Corcoran, Sound Director	20th Century-Fox|James P. Corcoran	?|nm0179331
-39	1966	Production	SOUND MIXING	SOUND	Who's Afraid of Virginia Woolf?	tt0061184	Warner Bros. Studio Sound Department, George R. Groves, Sound Director	Warner Bros.|George R. Groves	?|nm0344060
+39	1966	Production	SOUND MIXING	SOUND	Gambit	tt0060445	Universal City Studio Sound Department, Waldon O. Watson, Sound Director	Universal City|Waldon O. Watson	co0005073|nm0910592
+39	1966	Production	SOUND MIXING	SOUND	Grand Prix	tt0060472	Metro-Goldwyn-Mayer Studio Sound Department, Franklin E. Milton, Sound Director	Metro-Goldwyn-Mayer|Franklin E. Milton	co0007143|nm0590665	True
+39	1966	Production	SOUND MIXING	SOUND	Hawaii	tt0060491	Samuel Goldwyn Studio Sound Department, Gordon E. Sawyer, Sound Director	Samuel Goldwyn|Gordon E. Sawyer	co0058013|nm0768167
+39	1966	Production	SOUND MIXING	SOUND	The Sand Pebbles	tt0060934	20th Century-Fox Studio Sound Department, James P. Corcoran, Sound Director	20th Century-Fox|James P. Corcoran	co0028775|nm0179331
+39	1966	Production	SOUND MIXING	SOUND	Who's Afraid of Virginia Woolf?	tt0061184	Warner Bros. Studio Sound Department, George R. Groves, Sound Director	Warner Bros.|George R. Groves	co0080422|nm0344060
 39	1966	Production	SOUND EDITING	SOUND EFFECTS	Fantastic Voyage	tt0060397	Walter Rossi	Walter Rossi	nm0744346
 39	1966	Production	SOUND EDITING	SOUND EFFECTS	Grand Prix	tt0060472	Gordon Daniel	Gordon Daniel	nm0199635	True
 39	1966	Production	VISUAL EFFECTS	SPECIAL VISUAL EFFECTS	Fantastic Voyage	tt0060397	Art Cruickshank	Art Cruickshank	nm0189973	True
@@ -4744,11 +4744,11 @@ Ceremony	Year	Class	CanonicalCategory	Category	Film	FilmId	Name	Nominees	Nominee
 40	1967	Title	SHORT FILM (Live Action)	SHORT SUBJECT (Live Action)	A Place to Stand	tt0062131	Christopher Chapman, Producer	Christopher Chapman	nm0152326	True
 40	1967	Title	SHORT FILM (Live Action)	SHORT SUBJECT (Live Action)	Sky over Holland	tt0062278	John Ferno, Producer	John Ferno	nm0273142
 40	1967	Title	SHORT FILM (Live Action)	SHORT SUBJECT (Live Action)	Stop, Look and Listen	tt0062307	Len Janson and Chuck Menville, Producers	Len Janson|Chuck Menville	nm0418116|nm0579912
-40	1967	Production	SOUND MIXING	SOUND	Camelot	tt0061439	Warner Bros.-Seven Arts Studio Sound Department	Warner Bros.|Seven Arts	?|?
-40	1967	Production	SOUND MIXING	SOUND	The Dirty Dozen	tt0061578	Metro-Goldwyn-Mayer Studio Sound Department	Metro-Goldwyn-Mayer	?
-40	1967	Production	SOUND MIXING	SOUND	Doctor Dolittle	tt0061584	20th Century-Fox Studio Sound Department	20th Century-Fox	?
-40	1967	Production	SOUND MIXING	SOUND	In the Heat of the Night	tt0061811	Samuel Goldwyn Studio Sound Department	Samuel Goldwyn	?	True
-40	1967	Production	SOUND MIXING	SOUND	Thoroughly Modern Millie	tt0062362	Universal City Studio Sound Department	Universal City	?
+40	1967	Production	SOUND MIXING	SOUND	Camelot	tt0061439	Warner Bros.-Seven Arts Studio Sound Department	Warner Bros.|Seven Arts	co0080422|co0638213
+40	1967	Production	SOUND MIXING	SOUND	The Dirty Dozen	tt0061578	Metro-Goldwyn-Mayer Studio Sound Department	Metro-Goldwyn-Mayer	co0007143
+40	1967	Production	SOUND MIXING	SOUND	Doctor Dolittle	tt0061584	20th Century-Fox Studio Sound Department	20th Century-Fox	co0028775
+40	1967	Production	SOUND MIXING	SOUND	In the Heat of the Night	tt0061811	Samuel Goldwyn Studio Sound Department	Samuel Goldwyn	co0058013	True
+40	1967	Production	SOUND MIXING	SOUND	Thoroughly Modern Millie	tt0062362	Universal City Studio Sound Department	Universal City	co0005073
 40	1967	Production	SOUND EDITING	SOUND EFFECTS	The Dirty Dozen	tt0061578	John Poyner	John Poyner	nm0694713	True
 40	1967	Production	SOUND EDITING	SOUND EFFECTS	In the Heat of the Night	tt0061811	James A. Richard	James A. Richard	nm0723821
 40	1967	Production	VISUAL EFFECTS	SPECIAL VISUAL EFFECTS	Doctor Dolittle	tt0061584	L. B. Abbott	L. B. Abbott	nm0008004	True
@@ -4855,14 +4855,14 @@ Ceremony	Year	Class	CanonicalCategory	Category	Film	FilmId	Name	Nominees	Nominee
 41	1968	Title	SHORT FILM (Animated)	SHORT SUBJECT (Cartoon)	Windy Day	tt0063816	John Hubley and Faith Hubley, Producers	John Hubley|Faith Hubley	nm0399524|nm0254454
 41	1968	Title	SHORT FILM (Animated)	SHORT SUBJECT (Cartoon)	Winnie the Pooh and the Blustery Day	tt0063819	Walt Disney, Producer	Walt Disney	nm0000370	True
 41	1968	Title	SHORT FILM (Live Action)	SHORT SUBJECT (Live Action)	The Dove	tt0062906	George Coe, Sidney Davis and Anthony Lover, Producers	George Coe|Sidney Davis|Anthony Lover	nm0168642|nm0205468|nm0522612
-41	1968	Title	SHORT FILM (Live Action)	SHORT SUBJECT (Live Action)	Duo	tt0063417	National Film Board of Canada	National Film Board of Canada	?
+41	1968	Title	SHORT FILM (Live Action)	SHORT SUBJECT (Live Action)	Duo	tt0063417	National Film Board of Canada	National Film Board of Canada	co0006414
 41	1968	Title	SHORT FILM (Live Action)	SHORT SUBJECT (Live Action)	Prelude	tt0063454	John Astin, Producer	John Astin	nm0040014
 41	1968	Title	SHORT FILM (Live Action)	SHORT SUBJECT (Live Action)	Robert Kennedy Remembered	tt0063514	Charles Guggenheim, Producer	Charles Guggenheim	nm0346549	True
-41	1968	Production	SOUND MIXING	SOUND	Bullitt	tt0062765	Warner Bros.-Seven Arts Studio Sound Department	Warner Bros.|Seven Arts	?|?
-41	1968	Production	SOUND MIXING	SOUND	Finian's Rainbow	tt0062974	Warner Bros.-Seven Arts Studio Sound Department	Warner Bros.|Seven Arts	?|?
-41	1968	Production	SOUND MIXING	SOUND	Funny Girl	tt0062994	Columbia Studio Sound Department	Columbia	?
-41	1968	Production	SOUND MIXING	SOUND	Oliver!	tt0063385	Shepperton Studio Sound Department	Shepperton	?	True
-41	1968	Production	SOUND MIXING	SOUND	Star!	tt0063642	20th Century-Fox Studio Sound Department	20th Century-Fox	?
+41	1968	Production	SOUND MIXING	SOUND	Bullitt	tt0062765	Warner Bros.-Seven Arts Studio Sound Department	Warner Bros.|Seven Arts	co0080422|co0638213
+41	1968	Production	SOUND MIXING	SOUND	Finian's Rainbow	tt0062974	Warner Bros.-Seven Arts Studio Sound Department	Warner Bros.|Seven Arts	co0080422|co0638213
+41	1968	Production	SOUND MIXING	SOUND	Funny Girl	tt0062994	Columbia Studio Sound Department	Columbia	co0050868
+41	1968	Production	SOUND MIXING	SOUND	Oliver!	tt0063385	Shepperton Studio Sound Department	Shepperton	co0103344	True
+41	1968	Production	SOUND MIXING	SOUND	Star!	tt0063642	20th Century-Fox Studio Sound Department	20th Century-Fox	co0028775
 41	1968	Production	VISUAL EFFECTS	SPECIAL VISUAL EFFECTS	Ice Station Zebra	tt0063121	Hal Millar, J. McMillan Johnson	Hal Millar|J. McMillan Johnson	nm0587671|nm0425262
 41	1968	Production	VISUAL EFFECTS	SPECIAL VISUAL EFFECTS	2001: A Space Odyssey	tt0062622	Stanley Kubrick	Stanley Kubrick	nm0000040	True
 41	1968	Writing	WRITING (Adapted Screenplay)	WRITING (Screenplay--based on material from another medium)	The Lion in Winter	tt0063227	James Goldman	James Goldman	nm0063953	True
