@@ -29,6 +29,7 @@ FILM_ALIASES = yaml.safe_load(open('aux_data/film_aliases.yaml'))
 SONG_ALIASES = yaml.safe_load(open('aux_data/song_aliases.yaml'))
 IMDB_CAT = yaml.safe_load(open('aux_data/imdb_cat_to_canon.yaml'))
 MATCH_MODES = yaml.safe_load(open('aux_data/match_modes.yaml'))
+UNKNOWN_COMPANIES = []
 
 CATEGORY_STATS = collections.Counter()
 NOM_STATS = collections.Counter()
@@ -36,6 +37,8 @@ FILM_STATS = collections.Counter()
 NOMINEE_STATS = collections.Counter()
 SONG_STATS = collections.Counter()
 NAME_MISSES = collections.Counter()
+
+ignore_cats = set()
 
 
 def get_nabble(s):
@@ -241,6 +244,18 @@ def match_nomination(o_nom, i_nom, match_mode, speculative=False):
                         del i_titles[matching_key]
                         changed = True
 
+                unknown_count = film_ids.count('?')
+                if args.interactive and i_titles and unknown_count:
+                    if len(i_titles) == 1 and unknown_count == 1:
+                        o_title = o_titles[film_ids.index('?')]
+                        i_title, film_id = list(i_titles.items())[0]
+                        click.secho(o_title, fg='cyan')
+                        click.secho(i_title, fg='bright_cyan')
+
+                        if click.confirm(f'Add alias for {o_title}?'):
+                            FILM_ALIASES[film_id] = o_title
+                            changed = True
+
             if match_mode != 'multi' and (i_titles or '?' in film_ids):
                 if not speculative:
                     click.secho(f'Unable to match film for {o_nom['CanonicalCategory']}', fg='yellow')
@@ -284,7 +299,7 @@ def match_nomination(o_nom, i_nom, match_mode, speculative=False):
     nom_id_list = get_nominee_ids(o_nom)
     if nom_id_list and not speculative:
         for n_id, nom_name in zip(nom_id_list, nom_names):
-            if n_id == '?':
+            if n_id[-1] == '?':
                 continue
             nom_ids[nom_name] = n_id
             if nom_name in people:
@@ -305,6 +320,11 @@ def match_nomination(o_nom, i_nom, match_mode, speculative=False):
         if nom_name in nom_ids:
             remove_match(nom_ids[nom_name])
             continue
+
+        if nom_name == 'Nominees to be determined':
+            if not speculative:
+                click.secho(f'Nominees for {o_nom['Film']} in {o_nom['Category']} yet to be determined', fg='red')
+            continue
         if canon_category in COMPANY_CATEGORIES and nom_name in COMPANY_LOOKUP:
             nom_ids[nom_name] = COMPANY_LOOKUP[nom_name]
             people.pop(nom_name, None)
@@ -320,9 +340,18 @@ def match_nomination(o_nom, i_nom, match_mode, speculative=False):
             nom_ids[nom_name] = people[matching_name]
             del people[matching_name]
             continue
+
+        if args.interactive and not speculative:
+            if click.confirm(f'Is {repr(nom_name)} a company?'):
+                UNKNOWN_COMPANIES.append(nom_name)
+                COMPANY_LOOKUP[nom_name] = 'co?'
+                continue
+
         unmatched_names.append(nom_name)
 
     valid = nom_ids or original_people_count == 0
+    # if match_mode != 'multi':
+    #    valid = not i_titles and valid
 
     if speculative:
         return valid
@@ -338,6 +367,7 @@ def match_nomination(o_nom, i_nom, match_mode, speculative=False):
         for film, film_id in zip(films, get_film_ids(o_nom)):
             if film_id == '?':
                 FILM_STATS['unmatched'] += 1
+                click.secho(f"Unknown film: {film}", bg='red')
             else:
                 FILM_STATS['matched'] += 1
 
@@ -502,6 +532,29 @@ def match_year(oscars, imdb):
         unmatched_o_noms += ou
         unmatched_i_noms += iu
 
+    if unmatched_i_cats and unmatched_o_cats and args.interactive:
+        for o_cat in unmatched_o_cats:
+            if o_cat.startswith('SCIENTIFIC') or o_cat.startswith('SPECIAL') or o_cat in ignore_cats:
+                continue
+            click.secho(f'Select match for {o_cat}:', bg='cyan', fg='black')
+            options = sorted(unmatched_i_cats)
+            for i, option in enumerate(options):
+                click.secho(f'{i:2d}) {option}')
+            print()
+            ret = click.prompt('?')
+            if ret == 'x':
+                args.interactive = False
+                break
+            elif ret == 's':
+                ignore_cats.add(o_cat)
+            try:
+                index = int(ret)
+                if o_cat not in IMDB_CAT:
+                    IMDB_CAT[o_cat] = []
+                IMDB_CAT[o_cat].append(options[index])
+                unmatched_i_cats.remove(options[index])
+            except ValueError:
+                pass
     full_scores = []
     for o_cat in list(unmatched_o_cats):
         for i_cat in unmatched_i_cats:
@@ -575,6 +628,35 @@ def match_year(oscars, imdb):
                 s = yaml.dump(i_nom, default_flow_style=True, allow_unicode=True).strip()
                 click.secho(f'\t{s}', fg='yellow')
 
+    if args.interactive:
+        o_films = []
+        i_films = {}
+        for o_nom in new_o:
+            if o_nom.get('Film'):
+                o_films.append(o_nom['Film'])
+        for i_nom in new_i:
+            for k, v in i_nom.items():
+                if k.startswith('tt'):
+                    i_films[k] = v
+        if o_films and i_films:
+            for k, v in i_films.items():
+                if len(o_films) == 1:
+                    if click.confirm(f'Match {v} (http://imdb.com/title/{k}) with {o_films[0]}'):
+                        FILM_ALIASES[k] = o_films[0]
+                else:
+                    click.secho(f'Select Match for {v} (http://imdb.com/title/{k}): ', fg='cyan')
+                    for i, film in enumerate(o_films):
+                        click.secho(f'\t{i}) {film}', fg='cyan')
+                    try:
+                        index = click.prompt('?', type=int)
+                        if index == -1:
+                            args.interactive = False
+                            break
+                        FILM_ALIASES[k] = o_films[index]
+                        o_films = o_films[:index] + o_films[index + 1:]
+                    except click.Abort:
+                        pass
+
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
@@ -584,6 +666,7 @@ if __name__ == '__main__':
     parser.add_argument('-s', '--scitech', action='store_true')
     parser.add_argument('-k', '--core', action='store_true')
     parser.add_argument('-w', '--write', action='store_true')
+    parser.add_argument('-i', '--interactive', action='store_true')
     args = parser.parse_args()
 
     # Parse the list of years (if any)
@@ -748,6 +831,15 @@ if __name__ == '__main__':
             f.write(s + '\n')
     if f:
         f.close()
+
+    yaml.safe_dump(FILM_ALIASES, open('aux_data/film_aliases.yaml', 'w'), allow_unicode=True)
+    yaml.safe_dump(IMDB_CAT, open('aux_data/imdb_cat_to_canon.yaml', 'w'), allow_unicode=True)
+
+    if UNKNOWN_COMPANIES:
+        companies = yaml.safe_load(open('aux_data/companies.yaml'))
+        companies['co?'] += UNKNOWN_COMPANIES
+        companies['co?'].sort()
+        yaml.safe_dump(companies, open('aux_data/companies.yaml', 'w'), allow_unicode=True)
 
     if args.mode and 'names' in args.mode:
         for k, v in NAME_MISSES.most_common():

@@ -36,7 +36,7 @@ The unique identifiers are key to disambiguate people/films with similar names.
 
 `*` - The fields `Film`, `FilmId`, `Nominees`, `NomineeeIds`, `Detail`, and `Note` may have multiple values if multiple entities are nominated. In these cases, the values are separated by the pipe (`|`) character.
 
-If an IMDB identifier is unknown, it will be replaced with a question mark (`?`).
+If an IMDB identifier is unknown, it will be replaced with a question mark (`?`), or sometimes for companies, `co?`.
 
 ## Generating the Data
 
