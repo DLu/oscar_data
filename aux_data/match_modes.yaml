@@ -1,0 +1,12 @@
+- criteria:
+    CanonicalCategory:
+    - MUSIC (Original Song)
+  mode: song
+- criteria:
+    Class:
+    - Acting
+    - Special
+    - SciTech
+  mode: nominee
+- criteria: {}
+  mode: film
