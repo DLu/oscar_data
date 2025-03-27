@@ -1,0 +1,89 @@
+# Match by song name, since you can have multiple songs
+# from the same film with the same people nominated
+- criteria:
+    CanonicalCategory:
+    - MUSIC (Original Song)
+  mode: song
+
+# The 3rd Oscars were unique in that:
+# * One actor and one actress were nominated multiple times for different roles
+# * A director had one nomination for multiple films
+- criteria:
+    CanonicalCategory:
+    - ACTOR IN A LEADING ROLE
+    - ACTRESS IN A LEADING ROLE
+    - DIRECTING
+    Ceremony:
+    - '3'
+  mode: multi
+
+# For the two cases where one person won multiple awards
+# in the same technical category in the same year
+- criteria:
+    CanonicalCategory:
+    - SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)
+    Ceremony:
+    - '54'
+  mode: nominee+
+- criteria:
+    CanonicalCategory:
+    - SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)
+    Ceremony:
+    - '71'
+  mode: nominee+
+
+# In general, these classes should be matched on the nominee (not the film)
+- criteria:
+    Class:
+    - Acting
+    - Special
+    - SciTech
+  mode: nominee
+
+# Title Writing (1st Oscars) and Assistant Director (6th-8th Oscars) areo not associated with a film
+- criteria:
+    CanonicalCategory:
+    - ASSISTANT DIRECTOR
+    - WRITING (Title Writing)
+  mode: nominee
+
+# In the 1st and 2nd Oscars, these awards could be associated with multiple films
+- criteria:
+    CanonicalCategory:
+    - CINEMATOGRAPHY
+    - ART DIRECTION
+    - VISUAL EFFECTS
+    Ceremony:
+    - '1'
+    - '2'
+  mode: nominee
+
+# At the 2nd Oscars, these awards could be (but aren't necessarily) associated with multiple films
+- criteria:
+    CanonicalCategory:
+    - DIRECTING
+    - WRITING (Adapted Screenplay)
+    Ceremony:
+    - '2'
+  mode: multi
+
+# In the 4th/5th Oscars, Sound Recording was awarded not associated with any particular film
+- criteria:
+    CanonicalCategory:
+    - SOUND RECORDING
+    Ceremony:
+    - '4'
+    - '5'
+  mode: nominee
+
+# In the 8th Oscars, Dance Direction could be awarded to one nominee for multiple films
+- criteria:
+    CanonicalCategory:
+    - DANCE DIRECTION
+    Ceremony:
+    - '8'
+  mode: nominee
+
+# Default Case
+- criteria: {}
+  mode: film

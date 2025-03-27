@@ -29,7 +29,7 @@ repos:
   hooks:
   - id: codespell
     args: [--write-changes, --ignore-words=.codespell_words]
-    exclude: oscars.csv|aux_data/citations.yaml|aux_data/hardcode.yaml|aux_data/aliases.yaml
+    exclude: oscars.csv|aux_data/citations.yaml|aux_data/hardcode.yaml|aux_data/name_aliases.yaml
 - repo: https://github.com/jumanjihouse/pre-commit-hook-yamlfmt
   hooks:
   - id: yamlfmt

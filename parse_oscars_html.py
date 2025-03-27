@@ -110,22 +110,7 @@ def parse_awards(filepath):
                 award_info = parse_award(award_html)
                 award_info.update(category_dict)
 
-                # Split multifilm nominations
-                if isinstance(award_info.get('Film'), list):
-                    for i, film in enumerate(award_info['Film']):
-                        new_row = {}
-                        for k, v in award_info.items():
-                            if isinstance(v, list):
-                                if i >= len(v):
-                                    click.secho(f'Too many fields for award: {award_info}', fg='yellow')
-                                    continue
-                                new_row[k] = v[i]
-                            else:
-                                new_row[k] = v
-                        new_row['MultifilmNomination'] = True
-                        yield new_row
-                else:
-                    yield award_info
+                yield award_info
 
 
 SONG_PATTERN = re.compile(r'from ([^;]+); (.*)')

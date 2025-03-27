@@ -11,7 +11,6 @@ FIELDNAMES = [
     'Class',
     'CanonicalCategory',
     'Category',
-    'NomId',
     'Film',
     'FilmId',
     'Name',
@@ -21,7 +20,6 @@ FIELDNAMES = [
     'Detail',
     'Note',
     'Citation',
-    'MultifilmNomination'
 ]
 
 
@@ -39,7 +37,7 @@ def format_for_csv(entry):
     new_entry = {}
     for k, v in entry.items():
         if isinstance(v, list):
-            if k in ['Nominees', 'NomineeIds', 'Detail', 'Note']:
+            if k in ['Film', 'FilmId', 'Nominees', 'NomineeIds', 'Detail', 'Note']:
                 new_entry[k] = '|'.join(v)
             else:
                 click.secho(f'Unknown list value: {k}: {v}', fg='red')
@@ -79,6 +77,8 @@ def remove_enclosing(text, chars=['{}', '[]', '""']):
 def read_lookup_dict(filepath, lower_lookup=False):
     d = {}
     for k, values in yaml.safe_load(open(filepath)).items():
+        if isinstance(values, str):
+            values = [values]
         for v in values:
             if lower_lookup:
                 d[v.lower()] = k
