@@ -1,6 +1,6 @@
 repos:
 - repo: https://github.com/pre-commit/pre-commit-hooks
-  rev: v2.3.0
+  rev: v5.0.0
   hooks:
   - id: check-yaml
   - id: end-of-file-fixer
@@ -11,17 +11,39 @@ repos:
   - id: check-merge-conflict
   - id: mixed-line-ending
   - id: requirements-txt-fixer
-- repo: https://github.com/pre-commit/mirrors-autopep8
-  rev: v1.5.7
+  - id: check-shebang-scripts-are-executable
+  - id: detect-private-key
+  - id: destroyed-symlinks
+  - id: check-symlinks
+  - id: check-case-conflict
+- repo: https://github.com/hhatto/autopep8
+  rev: v2.3.1
   hooks:
   - id: autopep8
 - repo: https://github.com/PyCQA/flake8
-  rev: 3.9.2
+  rev: 7.1.1
   hooks:
   - id: flake8
 - repo: https://github.com/codespell-project/codespell
-  rev: v2.0.0
+  rev: v2.3.0
   hooks:
   - id: codespell
-    args: ['--write-changes', '--ignore-words=.codespell_words']
-    exclude: oscars.csv|aux_data/citations.yaml|aux_data/hardcode.yaml
+    args: [--write-changes, --ignore-words=.codespell_words]
+    exclude: oscars.csv|aux_data/citations.yaml|aux_data/hardcode.yaml|aux_data/aliases.yaml
+- repo: https://github.com/jumanjihouse/pre-commit-hook-yamlfmt
+  hooks:
+  - id: yamlfmt
+    args:
+    - --width
+    - '120'
+    - --implicit_start
+    - --implicit_end
+    - --mapping
+    - '2'
+    - --sequence
+    - '2'
+    - --offset
+    - '0'
+  rev: 0.2.3
+ci:
+  autoupdate_schedule: quarterly

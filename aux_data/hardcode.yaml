@@ -83,9 +83,9 @@ an0049089:
 an0049110:
   nm0005047: James Harris III
 an0049227:
-  nm0531754: null
+  nm0531754:
   nm0826598: Bob Stenhouse
-  nm0870158: null
+  nm0870158:
 an0049319:
   nm0439362: Madame Karinska
 an0049322:
@@ -113,7 +113,7 @@ an0049842:
   co0053790: Realization D'Art Cinematographique
 an0049912:
   nm0007356: John Aalberg
-  nm0929408: null
+  nm0929408:
 an0049921:
   song: Change Partners
 an0049966:
@@ -185,7 +185,7 @@ an0051581:
   nm0098322: Stephen Bosustow
   tt0049510: Mister Magoo's Puddle Jumper
 an0051587:
-  nm0037761: null
+  nm0037761:
 an0051601:
   nm0216142: Annie Dorfmann
 an0051605:
@@ -287,7 +287,7 @@ an0053379:
   nm0299054: John Furness
 an0053383:
   nm0340311: Bud Grenzbach
-an0053478: null
+an0053478:
 an0053553:
   nm0005712: Ellsworth Fredricks
 an0053600:
@@ -315,7 +315,7 @@ an0053979:
 an0053992:
   nm0340311: Bud Grenzbach
 an0054032:
-  tt0067425: "My Dearest Se\xF1orita"
+  tt0067425: My Dearest Señorita
 an0054106:
   co0006604: Metro-Goldwyn-Mayer British
 an0054120:
@@ -347,7 +347,7 @@ an0055156:
 an0055328:
   nm0377667: Edouard Henriques III
 an0055373:
-  nm1313590: "Stefan Arsenijevi\xBF"
+  nm1313590: Stefan Arsenijevi¿
   tt0350476: (A) Torzija [(A) Torsion]
 an0055590:
   tt0050706: My Uncle
@@ -367,9 +367,9 @@ an0055839:
   tt0053158: Paw
 an0055840:
   tt0051552: The Village on the River
-an0055856: null
-an0055859: null
-an0055860: null
+an0055856:
+an0055859:
+an0055860:
 an0055861:
   co0051159: the NATIONAL CARBON COMPANY
 an0055864:
@@ -406,7 +406,7 @@ an0056239:
 an0056300:
   nm0309974: Gaetano Gaudio
 an0056313:
-  nm0481264: null
+  nm0481264:
   nm0609771: Thomas T. Moulton
 an0056341:
   song: Pennies From Heaven
@@ -457,12 +457,12 @@ an0057374:
   nm1434516: Paul Beauregard
   nm1435812: Jordan Houston
 an0057417:
-  nm0797609: "Thor S. Sigurj\xF3nsson"
+  nm0797609: Thor S. Sigurjónsson
 an0310754:
   nm0506664: Jeffrey Levy-Hinte
-an0335627: null
+an0335627:
 an0347017:
-  nm0081540: null
+  nm0081540:
 an0347086:
   tt0209037: Everybody Famous!
 an0347104:
@@ -475,17 +475,17 @@ an0347168:
   tt0106966: Strawberry and Chocolate
 an0350997:
   nm0341235: James Griffin (aka Arthur James)
-an0352610: null
+an0352610:
 an0367909:
   tt1821593: Bullhead
 an0389429:
   nm0048441: Ezra R. Baker
-  nm0205366: null
+  nm0205366:
 an0411974:
   nm0439506: Marsha Karlin
 an0441376:
   tt0028119: Sinbad the Sailor
-an0454211: null
+an0454211:
 an0469123:
   nm6240625: E.F. 'Bob' Nettmann
 an0481797:
@@ -509,7 +509,7 @@ an0808594:
 an0808598:
   nm4733013: Karl Johan Schuster
 an0821233:
-  nm0751169: null
+  nm0751169:
 an0861213:
   nm0506080: Col. Nathan O. Levinson
 an0924768:
@@ -520,10 +520,10 @@ an0948118:
   nm0996669: Lonnie R. Lynn
 an1182885:
   nm1297363: Marvin Levy
-an1182888: null
+an1182888:
 an1182889:
   nm0550881: Frank Marshall
-an1311450: null
+an1311450:
 an1478549:
   nm0950926: Yuh-Jung Youn
 an1480748:
@@ -536,6 +536,6 @@ nm0473134: Hans Kraly
 nm0486172: Robert 'Mutt' Lange
 nm1775466: John Stephens
 an0954563:
-    nm1000858: Lori Forte
+  nm1000858: Lori Forte
 an1820146: {nm1141645: Kamil Jafar}
 an1820084: {nm0444807: M.M. Keeravaani}
