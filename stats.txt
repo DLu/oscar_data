@@ -1,7 +1,7 @@
 Nominations===========================
-11281 matched                 |  94.06
-00712 extra_o                 |   5.94
-00149 extra_i                 |   1.24
+11284 matched                 |  94.09
+00709 extra_o                 |   5.91
+00137 extra_i                 |   1.14
 11993 total
 Categories============================
 02361 exact                   |  89.30
@@ -10,16 +10,16 @@ Categories============================
 00011 extra_i                 |   0.42
 02644 total
 Films=================================
-10549 matched                 |  98.09
-00016 unmatched               |   0.15
-00153 misses                  |   1.42
+10564 matched                 |  98.23
+00003 unmatched               |   0.03
+00152 misses                  |   1.41
 10754 total
 Nominees==============================
-16762 matched                 |  90.38
+16766 matched                 |  90.40
 00112 mismatched              |   0.60
-00510 extra_o                 |   2.75
+00511 extra_o                 |   2.76
 00021 extra_i                 |   0.11
-01124 misses                  |   6.06
+01120 misses                  |   6.04
 18547 total
 Songs=================================
 00464 matched                 |  96.47
