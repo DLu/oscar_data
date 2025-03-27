@@ -15,7 +15,7 @@ COLON_PATTERN = re.compile(r'^(.*): (.*)$')
 REMAP = yaml.safe_load(open('aux_data/hardcode.yaml'))
 FIRST_NAMES = yaml.safe_load(open('aux_data/first_names.yaml'))
 SUFFIXES = yaml.safe_load(open('aux_data/suffixes.yaml'))
-COMPANY_LOOKUP = read_lookup_dict('companies.yaml')
+COMPANY_LOOKUP = read_lookup_dict('aux_data/companies.yaml')
 COMPANY_CATEGORIES = {
     'BEST PICTURE', 'UNIQUE AND ARTISTIC PICTURE', 'SPECIAL AWARD', 'OUTSTANDING PRODUCTION',
     'SHORT SUBJECT (Comedy)', 'SHORT SUBJECT (Novelty)', 'SHORT SUBJECT (Color)', 'SHORT SUBJECT (One-reel)',
