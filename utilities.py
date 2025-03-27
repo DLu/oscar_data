@@ -11,7 +11,6 @@ FIELDNAMES = [
     'Class',
     'CanonicalCategory',
     'Category',
-    'NomId',
     'Film',
     'FilmId',
     'Name',

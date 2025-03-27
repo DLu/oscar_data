@@ -24,7 +24,6 @@ The unique identifiers are key to disambiguate people/films with similar names.
    * Special
  * `CanonicalCategory` (string) - Removes the variations on the exact wording of the category name over the years
  * `Category` (string) - The precise category name according to Oscars.org
- * `NomId` (uuid) - Unique string representing the IMDb Nomination ID
  * `Film` (string*) - The title of the film (optional)
  * `FilmId` (string*) - The IMDb Title ID (starting with `tt`)
  * `Name` (string) - The precise text used for who is being nominated.

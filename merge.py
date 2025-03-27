@@ -167,7 +167,7 @@ def get_name_match(nom_name, people):
 
 
 def match_nomination(o_nom, nom_id, i_nom, speculative=False):
-    updates = {'NomId': nom_id}
+    updates = {}
     titles = [a for a in i_nom if 'tt' in a]
     if o_nom.get('Film'):
         if len(titles) == 1:
