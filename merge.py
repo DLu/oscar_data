@@ -23,6 +23,9 @@ COMPANY_CATEGORIES = {
     'SCIENTIFIC OR TECHNICAL AWARD (Class I)', 'SPECIAL EFFECTS', 'DOCUMENTARY (Short Subject)',
     'DOCUMENTARY (Feature)',
 }
+NAME_ALIASES = read_lookup_dict('aux_data/name_aliases.yaml')
+FILM_ALIASES = yaml.safe_load(open('aux_data/film_aliases.yaml'))
+SONG_ALIASES = yaml.safe_load(open('aux_data/song_aliases.yaml'))
 IMDB_CAT = yaml.safe_load(open('aux_data/imdb_cat_to_canon.yaml'))
 MATCH_MODES = yaml.safe_load(open('aux_data/match_modes.yaml'))
 
@@ -230,7 +233,7 @@ def match_nomination(o_nom, i_nom, match_mode, speculative=False):
                     if film_ids[oi] != '?':
                         continue
 
-                    matching_key = get_matching_key(o_title, i_titles, titles_match, {})
+                    matching_key = get_matching_key(o_title, i_titles, titles_match, FILM_ALIASES)
 
                     if matching_key:
                         film_ids[oi] = i_titles[matching_key]
@@ -305,6 +308,12 @@ def match_nomination(o_nom, i_nom, match_mode, speculative=False):
             nom_ids[nom_name] = COMPANY_LOOKUP[nom_name]
             people.pop(nom_name, None)
             continue
+        if nom_name in NAME_ALIASES:
+            n_id = NAME_ALIASES[nom_name]
+            if remove_match(n_id):
+                nom_ids[nom_name] = n_id
+                continue
+
         matching_name = get_name_match(nom_name, people)
         if matching_name:
             nom_ids[nom_name] = people[matching_name]
@@ -384,7 +393,7 @@ def match_category(o_noms, i_noms, match_mode, speculative=False):
 
     for nom in i_noms:
         if match_mode == 'film':
-            values = [v for (k, v) in nom.items() if k.startswith('tt')]
+            values = [FILM_ALIASES.get(k, v) for (k, v) in nom.items() if k.startswith('tt')]
             nom_key = tuple(values)
         elif match_mode == 'song':
             nom_key = nom['song']
@@ -408,13 +417,13 @@ def match_category(o_noms, i_noms, match_mode, speculative=False):
     for o_nom in o_noms:
         if match_mode in ['nominee', 'multi', 'nominee+']:
             nom_vals = tuple(get_nominees(o_nom, clean=False))
-            matching_key = get_best_matching_key(nom_vals, i_noms_d, names_match, {})
+            matching_key = get_best_matching_key(nom_vals, i_noms_d, names_match, NAME_ALIASES)
         elif match_mode == 'film':
             nom_vals = tuple(o_nom['Film'].split('|'))
-            matching_key = get_best_matching_key(nom_vals, i_noms_d, titles_match, {})
+            matching_key = get_best_matching_key(nom_vals, i_noms_d, titles_match, FILM_ALIASES)
         elif match_mode == 'song':
             nom_val = o_nom['Detail']
-            matching_key = get_matching_key(nom_val, i_noms_d, None, {})
+            matching_key = get_matching_key(nom_val, i_noms_d, None, SONG_ALIASES)
 
         if matching_key:
             match_nomination(o_nom, i_noms_d[matching_key], match_mode, speculative=speculative)
