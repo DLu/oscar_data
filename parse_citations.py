@@ -72,11 +72,11 @@ def parse_citations(entry, nom_key='Nominees', debug=False):
                 nom = nom.replace(suffix, '').strip()
             new_noms.append(nom)
         nominees = new_noms
-        nom_s = ', '.join(nominees)
+        nom_s = '|'.join(nominees)
         if entry.get(nom_key) and entry[nom_key] != nom_s:
             click.secho(f'Duplicate {nominees} {entry[nom_key]}', fg='red')
         else:
-            entry[nom_key] = nom_s
+            entry[nom_key] = nominees
             if debug:
                 click.secho(entry[nom_key], fg='blue')
 

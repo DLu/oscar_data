@@ -46,7 +46,7 @@ def get_nabble(s):
 def get_nominees(entry, clean=True):
     if entry.get('Nominees', '') == '':
         return
-    names = entry['Nominees'].split(', ')
+    names = entry['Nominees'].split('|')
     for name in names:
         for prefix in ['sir', 'dame']:
             if name.startswith(prefix):
@@ -55,6 +55,18 @@ def get_nominees(entry, clean=True):
             yield get_nabble(name)
         else:
             yield name
+
+
+def get_nominee_ids(entry):
+    value = entry.get('NomineeIds')
+    count = entry.get('Nominees', '').count('|')
+    if not value:
+        return ['?'] * count
+
+    if isinstance(value, list):
+        return value
+    else:
+        return value.split('|')
 
 
 def titles_match(a, b):
@@ -193,8 +205,9 @@ def match_nomination(o_nom, nom_id, i_nom, speculative=False):
                     FILM_STATS['unmatched'] += 1
         return True
 
-    if o_nom.get('NomineeIds', '') and not speculative:
-        for n_id, nom_name in zip(o_nom['NomineeIds'].split(','), nom_names):
+    nom_id_list = get_nominee_ids(o_nom)
+    if nom_id_list and not speculative:
+        for n_id, nom_name in zip(nom_id_list, nom_names):
             if n_id == '?':
                 continue
             nom_ids[nom_name] = n_id
