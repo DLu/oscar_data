@@ -628,6 +628,57 @@ if __name__ == '__main__':
 
         imdb_data[year] = yaml.safe_load(open(imdb_year_path))
 
+    # Correct IMDB Data
+    for year, cats in yaml.safe_load(open('aux_data/supplemental_imdb_data.yaml')).items():
+        if year not in imdb_data:
+            continue
+        awards = imdb_data[year]['awards']
+        for cat, updates in cats.items():
+            if updates is None:
+                # Remove category entirely
+                awards.pop(cat)
+                continue
+
+            elif isinstance(updates, str):
+                if updates == 'split':
+                    # Split imdb nomination into individuals
+                    entities = awards[cat]
+                    awards[cat] = []
+                    for entity in entities:
+                        for k, v in entity.items():
+                            awards[cat].append({k: v})
+                else:
+                    assert updates == 'merge'
+                    # Merge all imdb nominations for this cat into one
+                    main = {}
+                    entities = awards[cat]
+                    awards[cat] = [main]
+                    for entity in entities:
+                        main.update(entity)
+
+                continue
+            if cat not in awards:
+                awards[cat] = []
+            for i_nom in list(awards[cat]):
+                overlap = set(updates.keys()).intersection(i_nom.keys())
+                if overlap:
+                    assert len(overlap) == 1
+                    key = list(overlap)[0]
+                    if updates[key] is None:
+                        # Remove nomination entirely
+                        awards[cat].remove(i_nom)
+                    else:
+                        # Update/remove values from nom
+                        for k, v in updates[key].items():
+                            if not v:
+                                del i_nom[k]
+                            else:
+                                i_nom[k] = v
+                    del updates[key]
+
+            for update in updates.values():
+                awards[cat].append(update)
+
     # Match IMDb data with oscars data
     try:
         for year in years:
