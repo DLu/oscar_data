@@ -25,8 +25,8 @@ The unique identifiers are key to disambiguate people/films with similar names.
  * `CanonicalCategory` (string) - Removes the variations on the exact wording of the category name over the years
  * `Category` (string) - The precise category name according to Oscars.org
  * `NomId` (uuid) - Unique string representing the IMDb Nomination ID
- * `Film` (string) - The title of the film (optional)
- * `FilmId` (uuid) - Unique string representing the IMDb Title ID.
+ * `Film` (string*) - The title of the film (optional)
+ * `FilmId` (string*) - The IMDb Title ID (starting with `tt`)
  * `Name` (string) - The precise text used for who is being nominated.
  * `Nominees` (string*) - The names of who is nominated without any extra text like "Written by"
  * `NomineeIds` (string*) - IMDb Name IDs or Company IDs for nominated entities.
@@ -34,9 +34,8 @@ The unique identifiers are key to disambiguate people/films with similar names.
  * `Detail` (string*) - Detail about the nomination, which could be the character name(s), song title, etc.
  * `Note` (string*) - Additional information provided about the award/nomination.
  * `Citation` (string) - Official text of the award statement, for Scientific/Technical/Honorary awards.
- * `MultifilmNomination` (bool) - Generally the data is one nomination per row, but for certain early nominations (Ceremonies 1, 2, 3 & 8), people were nominated for multiple films, and so one nomination could be spread over multiple rows.
 
-`*` - The fields `Nominees`, `NomineeeIds`, `Detail`, and `Note` may have multiple values if multiple entities are nominated. In these cases, the values are separated by the pipe (`|`) character.
+`*` - The fields `Film`, `FilmId`, `Nominees`, `NomineeeIds`, `Detail`, and `Note` may have multiple values if multiple entities are nominated. In these cases, the values are separated by the pipe (`|`) character.
 
 If an IMDB identifier is unknown, it will be replaced with a question mark (`?`).
 

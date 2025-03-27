@@ -21,7 +21,6 @@ FIELDNAMES = [
     'Detail',
     'Note',
     'Citation',
-    'MultifilmNomination'
 ]
 
 
@@ -39,7 +38,7 @@ def format_for_csv(entry):
     new_entry = {}
     for k, v in entry.items():
         if isinstance(v, list):
-            if k in ['Nominees', 'NomineeIds', 'Detail', 'Note']:
+            if k in ['Film', 'FilmId', 'Nominees', 'NomineeIds', 'Detail', 'Note']:
                 new_entry[k] = '|'.join(v)
             else:
                 click.secho(f'Unknown list value: {k}: {v}', fg='red')

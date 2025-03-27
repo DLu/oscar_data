@@ -230,11 +230,7 @@ def match_nomination(o_nom, nom_id, i_nom, speculative=False):
             continue
         unmatched_names.append(nom_name)
 
-    # Special case for multifilm noms
-    if o_nom.get('MultifilmNomination'):
-        valid = len(nom_ids) > 0
-    else:
-        valid = not titles and (nom_ids or original_people_count == 0)
+    valid = nom_ids or original_people_count == 0
 
     if speculative:
         return valid
