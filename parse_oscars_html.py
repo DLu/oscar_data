@@ -12,6 +12,11 @@ YEAR_PATT = re.compile(r'(\d{4})' + ORD_TAIL)
 YEAR_PATT2 = re.compile(r'(\d{4}/\d{2})' + ORD_TAIL)
 TITLE_PATT = re.compile(r'The ' + ORDINAL + r' Academy Awards\s+\| (\d{4})')
 
+SPECIAL_PARSE = [
+    re.compile(r'^(?P<Name>[^-]+) -- (?P<Film>.*) \{"(?P<Detail>.*)"\}'),
+    re.compile(r'^(?P<Film>[^-]+) -- (?P<Name>.*)')
+]
+
 
 NOTABLE_FIELDS = {
     'awardcategory-exact': 'Category',
@@ -66,6 +71,19 @@ def parse_award(award_html):
 
             add_value(award_info, cat, div_text)
 
+    if not award_info:
+        for special_pattern in SPECIAL_PARSE:
+            m = special_pattern.match(div_text)
+            if m:
+                award_info = m.groupdict()
+                click.secho('Special Parse!', bg='cyan')
+                for k, v in award_info.items():
+                    click.secho(f'\t{k:10s}: ', fg='cyan', nl=False)
+                    click.secho(v, fg='bright_cyan')
+                break
+        else:
+            click.secho(f'Canont parse: {div_text}', fg='red')
+
     return award_info
 
 
@@ -112,31 +130,31 @@ def parse_awards(filepath):
 
 SONG_PATTERN = re.compile(r'from ([^;]+); (.*)')
 
-ACTOR_FIELDS = {
-    'title': 'Film',
-    'field-actor-name': 'Name'
+INTERNATIONAL_FIELDS = {
+    'field--name-field-award-film': 'Name',
+    'field--name-field-award-entities': 'Film'
 }
 OTHER_FIELDS = {
-    'title': 'Name',
-    'field-actor-name': 'Film'
+    'field--name-field-award-film': 'Film',
+    'field--name-field-award-entities': 'Name',
 }
 
 
 def parse_nominations(filepath):
     html = BeautifulParser(open(filepath))
 
-    title = html.find_by_class('div', 'views-field-title').text.strip()
+    title = html.find_by_class('div', 'field--name-title').text.strip()
     m = TITLE_PATT.search(title)
     ceremony = int(m.group(1))
     year = int(m.group(3)) - 1
 
-    for row in html.find_all_by_class('div', 'view-grouping'):
-        cat_head = row.find('h2')
+    for row in html.find_all_by_class('div', 'paragraph--type--award-category'):
+        cat_head = find_by_class(row, 'div', 'field--name-field-award-category-oscars')
         if not cat_head:
             continue
         category = cat_head.text
-        FIELDS = ACTOR_FIELDS if ' in a ' in category else OTHER_FIELDS
-        for nom_el in find_all_by_class(row, 'div', 'views-row'):
+        FIELDS = INTERNATIONAL_FIELDS if category == 'International Feature Film' else OTHER_FIELDS
+        for nom_el in find_all_by_class(row, 'div', 'paragraph--type--award-honoree'):
             nomination = {'Category': category, 'Ceremony': ceremony, 'Year': year}
             for div in nom_el.find_all('div'):
                 if isinstance(div, str):
@@ -150,7 +168,7 @@ def parse_nominations(filepath):
                         continue
                     cat = FIELDS[cls]
                     if category == 'Music (Original Song)':
-                        if cls == 'field-actor-name':
+                        if cls == 'field--name-field-award-film':
                             cat = 'Detail'
                         else:
                             m = SONG_PATTERN.match(div_text)
