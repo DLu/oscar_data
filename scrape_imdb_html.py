@@ -89,7 +89,7 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     imdb_data = {}
-    years = range(1927, 2025)
+    years = range(1927, 2026)
     pbar = tqdm(years)
 
     EDGE_CASE_URLS = {
