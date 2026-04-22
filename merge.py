@@ -7,7 +7,7 @@ import unidecode
 import re
 import yaml
 
-from utilities import read_csv, write_csv, read_lookup_dict
+from utilities import read_csv, write_csv, read_lookup_dict, parse_years, parse_year
 
 PAREN_PATTERN = re.compile(r'^(.*) \((.*)\)$')
 COLON_PATTERN = re.compile(r'^(.*): (.*)$')
@@ -587,22 +587,14 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     # Parse the list of years (if any)
-    years = []
-    for s in args.years:
-        if '-' in s:
-            a, _, b = s.partition('-')
-            years += list(range(int(a), int(b) + 1))
-        else:
-            years.append(int(s))
-    if args.years and 1933 in years:
-        years.remove(1933)
+    years = parse_years(args.years)
 
     # Sort Oscar Nominations by Year
     oscars = read_csv()
     cnums = {}
     OSCARS = {}
     for nom in oscars:
-        year = int(nom['Year'].split('/')[0])
+        year = parse_year(nom['Year'])
         if year not in years:
             if not args.years:
                 years.append(year)

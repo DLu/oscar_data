@@ -34,7 +34,7 @@ The unique identifiers are key to disambiguate people/films with similar names.
  * `Note` (string*) - Additional information provided about the award/nomination.
  * `Citation` (string) - Official text of the award statement, for Scientific/Technical/Honorary awards.
 
-`*` - The fields `Film`, `FilmId`, `Nominees`, `NomineeeIds`, `Detail`, and `Note` may have multiple values if multiple entities are nominated. In these cases, the values are separated by the pipe (`|`) character.
+`*` - The fields `Film`, `FilmId`, `Nominees`, `NomineeIds`, `Detail`, and `Note` may have multiple values if multiple entities are nominated. In these cases, the values are separated by the pipe (`|`) character.
 
 If an IMDB identifier is unknown, it will be replaced with a question mark (`?`).
 

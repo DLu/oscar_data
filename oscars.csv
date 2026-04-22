@@ -11992,128 +11992,147 @@ Ceremony	Year	Class	CanonicalCategory	Category	Film	FilmId	Name	Nominees	Nominee
 97	2024	SciTech	SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)	SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)				Mark Noel		True		The NACMO series of modular motion bases enables filmmakers to dynamically control simulated actions, providing precise movements, enhancing special effects, and enriching the visual experience for audiences worldwide.	To MARK NOEL for adapting and enhancing the safety and reliability of transportable six-degrees-of-freedom motion base technology for motion picture use.
 97	2024	SciTech	SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)	SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)				Su Tie|Bei Shimen|Zhao Yanchong		True		Utilizing three-axis stabilization through multiple sensors, the DJI Ronin 2 has achieved broad adoption. It is controllable from a diverse set of input devices, enabling filmmakers to create complex, dynamic camera moves.	To SU TIE for the development of the sensor analysis and stabilization software, to BEI SHIMEN for the electrical engineering, and to ZHAO YANCHONG for the mechanical design and engineering of the Ronin 2 gimbal system.
 97	2024	SciTech	SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)	SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)				Tabb Firchau|John Ellison|Steve Webb|David Bloomfield|Shane Colton		True		Freefly Systems' introduction of handheld stabilized gimbals provides single-person or collaborative remote camera operation with various controllers, enabling previously difficult shots without dolly or crane-supported stabilized heads.	To TABB FIRCHAU for the conception and development, to JOHN ELLISON and STEVE WEBB for the attitude control system, to DAVID BLOOMFIELD for the motor design, and to SHANE COLTON for the motor driver system design of the Movi gimbals.
-98	2025	Acting	ACTOR IN A LEADING ROLE	Actor in a Leading Role	Marty Supreme	tt32916440	Timothée Chalamet	Timothée Chalamet	nm3154303
-98	2025	Acting	ACTOR IN A LEADING ROLE	Actor in a Leading Role	One Battle after Another	tt30144839	Leonardo DiCaprio	Leonardo DiCaprio	nm0000138
-98	2025	Acting	ACTOR IN A LEADING ROLE	Actor in a Leading Role	Blue Moon	tt32536315	Ethan Hawke	Ethan Hawke	nm0000160
-98	2025	Acting	ACTOR IN A LEADING ROLE	Actor in a Leading Role	Sinners	tt31193180	Michael B. Jordan	Michael B. Jordan	nm0430107
-98	2025	Acting	ACTOR IN A LEADING ROLE	Actor in a Leading Role	The Secret Agent	tt27847051	Wagner Moura	Wagner Moura	nm0609944
-98	2025	Acting	ACTOR IN A SUPPORTING ROLE	Actor in a Supporting Role	One Battle after Another	tt30144839	Benicio Del Toro	Benicio Del Toro	nm0001125
-98	2025	Acting	ACTOR IN A SUPPORTING ROLE	Actor in a Supporting Role	Frankenstein	tt1312221	Jacob Elordi	Jacob Elordi	nm8624059
-98	2025	Acting	ACTOR IN A SUPPORTING ROLE	Actor in a Supporting Role	Sinners	tt31193180	Delroy Lindo	Delroy Lindo	nm0005148
-98	2025	Acting	ACTOR IN A SUPPORTING ROLE	Actor in a Supporting Role	One Battle after Another	tt30144839	Sean Penn	Sean Penn	nm0000576
-98	2025	Acting	ACTOR IN A SUPPORTING ROLE	Actor in a Supporting Role	Sentimental Value	tt27714581	Stellan Skarsgård	Stellan Skarsgård	nm0001745
-98	2025	Acting	ACTRESS IN A LEADING ROLE	Actress in a Leading Role	Hamnet	tt14905854	Jessie Buckley	Jessie Buckley	nm2976580
-98	2025	Acting	ACTRESS IN A LEADING ROLE	Actress in a Leading Role	If I Had Legs I'd Kick You	tt18382850	Rose Byrne	Rose Byrne	nm0126284
-98	2025	Acting	ACTRESS IN A LEADING ROLE	Actress in a Leading Role	Song Sung Blue	tt30343021	Kate Hudson	Kate Hudson	nm0005028
-98	2025	Acting	ACTRESS IN A LEADING ROLE	Actress in a Leading Role	Sentimental Value	tt27714581	Renate Reinsve	Renate Reinsve	nm4561559
-98	2025	Acting	ACTRESS IN A LEADING ROLE	Actress in a Leading Role	Bugonia	tt12300742	Emma Stone	Emma Stone	nm1297015
-98	2025	Acting	ACTRESS IN A SUPPORTING ROLE	Actress in a Supporting Role	Sentimental Value	tt27714581	Elle Fanning	Elle Fanning	nm1102577
-98	2025	Acting	ACTRESS IN A SUPPORTING ROLE	Actress in a Supporting Role	Sentimental Value	tt27714581	Inga Ibsdotter Lilleaas	Inga Ibsdotter Lilleaas	nm6635521
-98	2025	Acting	ACTRESS IN A SUPPORTING ROLE	Actress in a Supporting Role	Weapons	tt26581740	Amy Madigan	Amy Madigan	nm0001496
-98	2025	Acting	ACTRESS IN A SUPPORTING ROLE	Actress in a Supporting Role	Sinners	tt31193180	Wunmi Mosaku	Wunmi Mosaku	nm2148911
-98	2025	Acting	ACTRESS IN A SUPPORTING ROLE	Actress in a Supporting Role	One Battle after Another	tt30144839	Teyana Taylor	Teyana Taylor	nm3692520
-98	2025	Title	ANIMATED FEATURE FILM	Animated Feature Film	Arco	tt14883538	Ugo Bienvenu, Félix de Givry, Sophie Mas and Natalie Portman	Ugo Bienvenu|Félix de Givry|Sophie Mas|Natalie Portman	nm4589136|nm5064713|nm0556021|nm0000204
-98	2025	Title	ANIMATED FEATURE FILM	Animated Feature Film	Elio	tt4900148	Madeline Sharafian, Domee Shi, Adrian Molina and Mary Alice Drumm	Madeline Sharafian|Domee Shi|Adrian Molina|Mary Alice Drumm	nm6461347|nm7626019|nm2937122|nm1216321
-98	2025	Title	ANIMATED FEATURE FILM	Animated Feature Film	KPop Demon Hunters	tt14205554	Maggie Kang, Chris Appelhans and Michelle L.M. Wong	Maggie Kang|Chris Appelhans|Michelle L.M. Wong	nm3133422|nm2282774|nm7970662
-98	2025	Title	ANIMATED FEATURE FILM	Animated Feature Film	Little Amélie or the Character of Rain	tt29313285	Maïlys Vallade, Liane-Cho Han, Nidia Santiago and Henri Magalon	Maïlys Vallade|Liane-Cho Han|Nidia Santiago|Henri Magalon	nm4922823|nm3442046|nm4751170|nm1436417
-98	2025	Title	ANIMATED FEATURE FILM	Animated Feature Film	Zootopia 2	tt26443597	Jared Bush, Byron Howard and Yvett Merino	Jared Bush|Byron Howard|Yvett Merino	nm1158544|nm0397174|nm2486917
-98	2025	Title	SHORT FILM (Animated)	Animated Short Film	Butterfly	tt30970587	Florence Miailhe and Ron Dyens	Florence Miailhe|Ron Dyens	nm0583939|nm1054433
-98	2025	Title	SHORT FILM (Animated)	Animated Short Film	Forevergreen	tt36454323	Nathan Engelhardt and Jeremy Spears	Nathan Engelhardt|Jeremy Spears	nm2920776|nm3728874
-98	2025	Title	SHORT FILM (Animated)	Animated Short Film	The Girl Who Cried Pearls	tt36956820	Chris Lavis and Maciek Szczerbowski	Chris Lavis|Maciek Szczerbowski	nm2650321|nm2649299
-98	2025	Title	SHORT FILM (Animated)	Animated Short Film	Retirement Plan	tt33019507	John Kelly and Andrew Freedman	John Kelly|Andrew Freedman	nm16359334|nm1737306
-98	2025	Title	SHORT FILM (Animated)	Animated Short Film	The Three Sisters	tt35676079	Konstantin Bronzit	Konstantin Bronzit	nm0111588
-98	2025	Production	CASTING	Casting	Hamnet	tt14905854	Nina Gold	Nina Gold	nm0002274
-98	2025	Production	CASTING	Casting	Marty Supreme	tt32916440	Jennifer Venditti	Jennifer Venditti	nm1204539
-98	2025	Production	CASTING	Casting	One Battle after Another	tt30144839	Cassandra Kulukundis	Cassandra Kulukundis	nm0474697
-98	2025	Production	CASTING	Casting	The Secret Agent	tt27847051	Gabriel Domingues	Gabriel Domingues	nm15368674
-98	2025	Production	CASTING	Casting	Sinners	tt31193180	Francine Maisler	Francine Maisler	nm0537892
-98	2025	Production	CINEMATOGRAPHY	Cinematography	Frankenstein	tt1312221	Dan Laustsen	Dan Laustsen	nm0491565
-98	2025	Production	CINEMATOGRAPHY	Cinematography	Marty Supreme	tt32916440	Darius Khondji	Darius Khondji	nm0451787
-98	2025	Production	CINEMATOGRAPHY	Cinematography	One Battle after Another	tt30144839	Michael Bauman	Michael Bauman	nm0062177
-98	2025	Production	CINEMATOGRAPHY	Cinematography	Sinners	tt31193180	Autumn Durald Arkapaw	Autumn Durald Arkapaw	nm2557161
-98	2025	Production	CINEMATOGRAPHY	Cinematography	Train Dreams	tt29768334	Adolpho Veloso	Adolpho Veloso	nm4110224
-98	2025	Production	COSTUME DESIGN	Costume Design	Avatar: Fire and Ash	tt1757678	Deborah L. Scott	Deborah L. Scott	nm0779045
-98	2025	Production	COSTUME DESIGN	Costume Design	Frankenstein	tt1312221	Kate Hawley	Kate Hawley	nm1661457
-98	2025	Production	COSTUME DESIGN	Costume Design	Hamnet	tt14905854	Malgosia Turzanska	Malgosia Turzanska	nm3018027
-98	2025	Production	COSTUME DESIGN	Costume Design	Marty Supreme	tt32916440	Miyako Bellizzi	Miyako Bellizzi	nm7279887
-98	2025	Production	COSTUME DESIGN	Costume Design	Sinners	tt31193180	Ruth E. Carter	Ruth E. Carter	nm0141921
-98	2025	Directing	DIRECTING	Directing	Hamnet	tt14905854	Chloé Zhao	Chloé Zhao	nm2125482
-98	2025	Directing	DIRECTING	Directing	Marty Supreme	tt32916440	Josh Safdie	Josh Safdie	nm1343394
-98	2025	Directing	DIRECTING	Directing	One Battle after Another	tt30144839	Paul Thomas Anderson	Paul Thomas Anderson	nm0000759
-98	2025	Directing	DIRECTING	Directing	Sentimental Value	tt27714581	Joachim Trier	Joachim Trier	nm1258686
-98	2025	Directing	DIRECTING	Directing	Sinners	tt31193180	Ryan Coogler	Ryan Coogler	nm3363032
-98	2025	Title	DOCUMENTARY (Feature)	Documentary Feature Film	The Alabama Solution	tt35307139	Andrew Jarecki and Charlotte Kaufman	Andrew Jarecki|Charlotte Kaufman	nm1285613|nm0442110
-98	2025	Title	DOCUMENTARY (Feature)	Documentary Feature Film	Come See Me in the Good Light	tt34966013	Ryan White, Jessica Hargrave, Tig Notaro and Stef Willen	Ryan White|Jessica Hargrave|Tig Notaro|Stef Willen	nm1713913|nm5357937|nm0449299|nm1936366
-98	2025	Title	DOCUMENTARY (Feature)	Documentary Feature Film	Cutting through Rocks	tt10196414	Sara Khaki and Mohammadreza Eyni	Sara Khaki|Mohammadreza Eyni	nm5328353|nm6746115
-98	2025	Title	DOCUMENTARY (Feature)	Documentary Feature Film	Mr. Nobody against Putin	tt34965515	Nominees to be determined	Nominees to be determined	?
-98	2025	Title	DOCUMENTARY (Feature)	Documentary Feature Film	The Perfect Neighbor	tt34962891	Geeta Gandbhir, Alisa Payne, Nikon Kwantu and Sam Bisbee	Geeta Gandbhir|Alisa Payne|Nikon Kwantu|Sam Bisbee	nm0304135|nm10749368|nm6098670|nm0083851
-98	2025	Title	DOCUMENTARY (Short Subject)	Documentary Short Film	All the Empty Rooms	tt37798645	Joshua Seftel and Conall Jones	Joshua Seftel|Conall Jones	nm0781733|nm2261114
-98	2025	Title	DOCUMENTARY (Short Subject)	Documentary Short Film	Armed Only with a Camera: The Life and Death of Brent Renaud	tt35515733	Craig Renaud and Juan Arredondo	Craig Renaud|Juan Arredondo	nm1867345|nm3743017
-98	2025	Title	DOCUMENTARY (Short Subject)	Documentary Short Film	Children No More: \"Were and Are Gone\"	tt38691874	Hilla Medalia and Sheila Nevins	Hilla Medalia|Sheila Nevins	nm1857245|nm0627521
-98	2025	Title	DOCUMENTARY (Short Subject)	Documentary Short Film	The Devil Is Busy	tt34205548	Christalyn Hampton and Geeta Gandbhir	Christalyn Hampton|Geeta Gandbhir	nm3654746|nm0304135
-98	2025	Title	DOCUMENTARY (Short Subject)	Documentary Short Film	Perfectly a Strangeness	tt32205767	Alison McAlpine	Alison McAlpine	nm3226817
-98	2025	Production	FILM EDITING	Film Editing	F1	tt16311594	Stephen Mirrione	Stephen Mirrione	nm0592537
-98	2025	Production	FILM EDITING	Film Editing	Marty Supreme	tt32916440	Ronald Bronstein and Josh Safdie	Ronald Bronstein|Josh Safdie	nm2563482|nm1343394
-98	2025	Production	FILM EDITING	Film Editing	One Battle after Another	tt30144839	Andy Jurgensen	Andy Jurgensen	nm1425140
-98	2025	Production	FILM EDITING	Film Editing	Sentimental Value	tt27714581	Olivier Bugge Coutté	Olivier Bugge Coutté	nm1256846
-98	2025	Production	FILM EDITING	Film Editing	Sinners	tt31193180	Michael P. Shawver	Michael P. Shawver	nm4019350
-98	2025	Title	INTERNATIONAL FEATURE FILM	International Feature Film	The Secret Agent	tt27847051	Brazil
-98	2025	Title	INTERNATIONAL FEATURE FILM	International Feature Film	It Was Just an Accident	tt36491653	France
-98	2025	Title	INTERNATIONAL FEATURE FILM	International Feature Film	Sentimental Value	tt27714581	Norway
-98	2025	Title	INTERNATIONAL FEATURE FILM	International Feature Film	Sirāt	tt32298285	Spain
-98	2025	Title	INTERNATIONAL FEATURE FILM	International Feature Film	The Voice of Hind Rajab	tt36943034	Tunisia
-98	2025	Title	SHORT FILM (Live Action)	Live Action Short Film	Butcher's Stain	tt39232815	Meyer Levinson-Blount and Oron Caspi	Meyer Levinson-Blount|Oron Caspi	nm18040407|nm5328550
-98	2025	Title	SHORT FILM (Live Action)	Live Action Short Film	A Friend of Dorothy	tt35489516	Lee Knight and James Dean	Lee Knight|James Dean	nm5241260|nm1444721
-98	2025	Title	SHORT FILM (Live Action)	Live Action Short Film	Jane Austen's Period Drama	tt31171760	Julia Aks and Steve Pinder	Julia Aks|Steve Pinder	nm2539508|nm7448751
-98	2025	Title	SHORT FILM (Live Action)	Live Action Short Film	The Singers	tt33508491	Sam A. Davis and Jack Piatt	Sam A. Davis|Jack Piatt	nm4085454|nm2990059
-98	2025	Title	SHORT FILM (Live Action)	Live Action Short Film	Two People Exchanging Saliva	tt33365259	Alexandre Singh and Natalie Musteata	Alexandre Singh|Natalie Musteata	nm10306972|nm10306973
-98	2025	Production	MAKEUP AND HAIRSTYLING	Makeup and Hairstyling	Frankenstein	tt1312221	Mike Hill, Jordan Samuel and Cliona Furey	Mike Hill|Jordan Samuel|Cliona Furey	nm2432825|nm0760397|nm1691633
-98	2025	Production	MAKEUP AND HAIRSTYLING	Makeup and Hairstyling	Kokuho	tt35231039	Kyoko Toyokawa, Naomi Hibino and Tadashi Nishimatsu	Kyoko Toyokawa|Naomi Hibino|Tadashi Nishimatsu	nm0870318|nm18145741|nm18145742
-98	2025	Production	MAKEUP AND HAIRSTYLING	Makeup and Hairstyling	Sinners	tt31193180	Ken Diaz, Mike Fontaine and Shunika Terry	Ken Diaz|Mike Fontaine|Shunika Terry	nm0225004|nm2885534|nm2675680
-98	2025	Production	MAKEUP AND HAIRSTYLING	Makeup and Hairstyling	The Smashing Machine	tt11214558	Kazu Hiro, Glen Griffin and Bjoern Rehbein	Kazu Hiro|Glen Griffin|Bjoern Rehbein	nm0875308|nm0341205|nm0716790
-98	2025	Production	MAKEUP AND HAIRSTYLING	Makeup and Hairstyling	The Ugly Stepsister	tt29344903	Thomas Foldberg and Anne Cathrine Sauerberg	Thomas Foldberg|Anne Cathrine Sauerberg	nm1237707|nm0766611
-98	2025	Music	MUSIC (Original Score)	Music (Original Score)	Bugonia	tt12300742	Jerskin Fendrix	Jerskin Fendrix	nm14930772
-98	2025	Music	MUSIC (Original Score)	Music (Original Score)	Frankenstein	tt1312221	Alexandre Desplat	Alexandre Desplat	nm0006035
-98	2025	Music	MUSIC (Original Score)	Music (Original Score)	Hamnet	tt14905854	Max Richter	Max Richter	nm2068037
-98	2025	Music	MUSIC (Original Score)	Music (Original Score)	One Battle after Another	tt30144839	Jonny Greenwood	Jonny Greenwood	nm0339351
-98	2025	Music	MUSIC (Original Score)	Music (Original Score)	Sinners	tt31193180	Ludwig Goransson	Ludwig Goransson	nm3234869
-98	2025	Music	MUSIC (Original Song)	Music (Original Song)	Diane Warren: Relentless	tt14588692	Music and Lyric by Diane Warren	Diane Warren	nm0005534		Dear Me
-98	2025	Music	MUSIC (Original Song)	Music (Original Song)	KPop Demon Hunters		Music 	Music			Golden
-98	2025	Music	MUSIC (Original Song)	Music (Original Song)	Sinners	tt31193180	Music and Lyric by Raphael Saadiq and Ludwig Goransson	Raphael Saadiq|Ludwig Goransson	nm1277289|nm3234869		I Lied To You
-98	2025	Music	MUSIC (Original Song)	Music (Original Song)	Viva Verdi!	tt3595454	Music and Lyric by Nicholas Pike	Nicholas Pike	nm0006229		Sweet Dreams Of Joy
-98	2025	Music	MUSIC (Original Song)	Music (Original Song)	Train Dreams	tt29768334	Music by Nick Cave and Bryce Dessner; Lyric by Nick Cave	Nick Cave|Bryce Dessner	nm0147022|nm2425842		Train Dreams
-98	2025	Title	BEST PICTURE	Best Picture	Bugonia	tt12300742	Ed Guiney & Andrew Lowe, Yorgos Lanthimos, Emma Stone and Lars Knudsen, Producers	Ed Guiney|Andrew Lowe|Yorgos Lanthimos|Emma Stone|Lars Knudsen	nm0347384|nm1103466|nm0487166|nm1297015|nm1185381
-98	2025	Title	BEST PICTURE	Best Picture	F1	tt16311594	Chad Oman, Brad Pitt, Dede Gardner, Jeremy Kleiner, Joseph Kosinski and Jerry Bruckheimer, Producers	Chad Oman|Brad Pitt|Dede Gardner|Jeremy Kleiner|Joseph Kosinski|Jerry Bruckheimer	nm0648288|nm0000093|nm0306890|nm1250070|nm2676052|nm0000988
-98	2025	Title	BEST PICTURE	Best Picture	Frankenstein	tt1312221	Guillermo del Toro, J. Miles Dale and Scott Stuber, Producers	Guillermo del Toro|J. Miles Dale|Scott Stuber	nm0868219|nm0197703|nm0835959
-98	2025	Title	BEST PICTURE	Best Picture	Hamnet	tt14905854	Liza Marshall, Pippa Harris, Nicolas Gonda, Steven Spielberg and Sam Mendes, Producers	Liza Marshall|Pippa Harris|Nicolas Gonda|Steven Spielberg|Sam Mendes	nm0551017|nm0365208|nm1868038|nm0000229|nm0005222
-98	2025	Title	BEST PICTURE	Best Picture	Marty Supreme	tt32916440	Eli Bush, Ronald Bronstein, Josh Safdie, Anthony Katagas and Timothée Chalamet, Producers	Eli Bush|Ronald Bronstein|Josh Safdie|Anthony Katagas|Timothée Chalamet	nm4791912|nm2563482|nm1343394|nm0441097|nm3154303
-98	2025	Title	BEST PICTURE	Best Picture	One Battle after Another	tt30144839	Adam Somner, Sara Murphy and Paul Thomas Anderson, Producers	Adam Somner|Sara Murphy|Paul Thomas Anderson	nm0814114|nm2072976|nm0000759
-98	2025	Title	BEST PICTURE	Best Picture	The Secret Agent	tt27847051	Emilie Lesclaux, Producer	Emilie Lesclaux	nm2201794
-98	2025	Title	BEST PICTURE	Best Picture	Sentimental Value	tt27714581	Maria Ekerhovd and Andrea Berentsen Ottmar, Producers	Maria Ekerhovd|Andrea Berentsen Ottmar	nm2250929|nm5269292
-98	2025	Title	BEST PICTURE	Best Picture	Sinners	tt31193180	Zinzi Coogler, Sev Ohanian and Ryan Coogler, Producers	Zinzi Coogler|Sev Ohanian|Ryan Coogler	nm3362858|nm3539578|nm3363032
-98	2025	Title	BEST PICTURE	Best Picture	Train Dreams	tt29768334	Marissa McMahon, Teddy Schwarzman, Will Janowitz, Ashley Schlaifer and Michael Heimler, Producers	Marissa McMahon|Teddy Schwarzman|Will Janowitz|Ashley Schlaifer|Michael Heimler	nm0997470|nm3267061|nm1052666|nm4328012|nm5715332
-98	2025	Production	ART DIRECTION	Production Design	Frankenstein	tt1312221	Production Design: Tamara Deverell; Set Decoration: Shane Vieau	Tamara Deverell|Shane Vieau	nm0222383|nm0896580
-98	2025	Production	ART DIRECTION	Production Design	Hamnet	tt14905854	Production Design: Fiona Crombie; Set Decoration: Alice Felton	Fiona Crombie|Alice Felton	nm2356249|nm1818912
-98	2025	Production	ART DIRECTION	Production Design	Marty Supreme	tt32916440	Production Design: Jack Fisk; Set Decoration: Adam Willis	Jack Fisk|Adam Willis	nm0279926|nm1853964
-98	2025	Production	ART DIRECTION	Production Design	One Battle after Another	tt30144839	Production Design: Florencia Martin; Set Decoration: Anthony Carlino	Florencia Martin|Anthony Carlino	nm3151515|nm2518113
-98	2025	Production	ART DIRECTION	Production Design	Sinners	tt31193180	Production Design: Hannah Beachler; Set Decoration: Monique Champagne	Hannah Beachler|Monique Champagne	nm1667545|nm3053001
-98	2025	Production	SOUND MIXING	Sound	F1	tt16311594	Gareth John, Al Nelson, Gwendolyn Yates Whittle, Gary A. Rizzo and Juan Peralta	Gareth John|Al Nelson|Gwendolyn Yates Whittle|Gary A. Rizzo|Juan Peralta	nm0424163|nm0625131|nm0946705|nm0729886|nm0672752
-98	2025	Production	SOUND MIXING	Sound	Frankenstein	tt1312221	Greg Chapman, Nathan Robitaille, Nelson Ferreira, Christian Cooke and Brad Zoern	Greg Chapman|Nathan Robitaille|Nelson Ferreira|Christian Cooke|Brad Zoern	nm0152382|nm0733255|nm0274399|nm0177397|nm0957576
-98	2025	Production	SOUND MIXING	Sound	One Battle after Another	tt30144839	José Antonio García, Christopher Scarabosio and Tony Villaflor	José Antonio García|Christopher Scarabosio|Tony Villaflor	nm0306223|nm0769042|nm4878340
-98	2025	Production	SOUND MIXING	Sound	Sinners	tt31193180	Chris Welcker, Benjamin A. Burtt, Felipe Pacheco, Brandon Proctor and Steve Boeddeker	Chris Welcker|Benjamin A. Burtt|Felipe Pacheco|Brandon Proctor|Steve Boeddeker	nm2597982|nm8991894|nm8395675|nm0698367|nm0006655
-98	2025	Production	SOUND MIXING	Sound	Sirāt	tt32298285	Amanda Villavieja, Laia Casanovas and Yasmina Praderas	Amanda Villavieja|Laia Casanovas|Yasmina Praderas	nm1072367|nm4349901|nm2015411
-98	2025	Production	VISUAL EFFECTS	Visual Effects	Avatar: Fire and Ash	tt1757678	Joe Letteri, Richard Baneham, Eric Saindon and Daniel Barrett	Joe Letteri|Richard Baneham|Eric Saindon|Daniel Barrett	nm0504784|nm0051824|nm0756590|nm2280778
-98	2025	Production	VISUAL EFFECTS	Visual Effects	F1	tt16311594	Ryan Tudhope, Nicolas Chevallier, Robert Harrington and Keith Dawson	Ryan Tudhope|Nicolas Chevallier|Robert Harrington|Keith Dawson	nm0876095|nm1349988|nm7301327|nm1337882
-98	2025	Production	VISUAL EFFECTS	Visual Effects	Jurassic World Rebirth	tt31036941	David Vickery, Stephen Aplin, Charmaine Chan and Neil Corbould	David Vickery|Stephen Aplin|Charmaine Chan|Neil Corbould	nm1316134|nm0032064|nm2683373|nm0179273
-98	2025	Production	VISUAL EFFECTS	Visual Effects	The Lost Bus	tt21103218	Charlie Noble, David Zaretti, Russell Bowen and Brandon K. McLaughlin	Charlie Noble|David Zaretti|Russell Bowen|Brandon K. McLaughlin	nm0633563|nm3973854|nm3923070|nm0572287
-98	2025	Production	VISUAL EFFECTS	Visual Effects	Sinners	tt31193180	Michael Ralla, Espen Nordahl, Guido Wolter and Donnie Dean	Michael Ralla|Espen Nordahl|Guido Wolter|Donnie Dean	nm1677432|nm2256596|nm3083445|nm3185336
-98	2025	Writing	WRITING (Adapted Screenplay)	Writing (Adapted Screenplay)	Bugonia	tt12300742	Screenplay by Will Tracy	Will Tracy	nm4301557
-98	2025	Writing	WRITING (Adapted Screenplay)	Writing (Adapted Screenplay)	Frankenstein	tt1312221	Written for the Screen by Guillermo del Toro	Guillermo del Toro	nm0868219
-98	2025	Writing	WRITING (Adapted Screenplay)	Writing (Adapted Screenplay)	Hamnet	tt14905854	Screenplay by Chloé Zhao & Maggie O'Farrell	Chloé Zhao|Maggie O'Farrell	nm2125482|nm9133641
-98	2025	Writing	WRITING (Adapted Screenplay)	Writing (Adapted Screenplay)	One Battle after Another	tt30144839	Written by Paul Thomas Anderson	Paul Thomas Anderson	nm0000759
-98	2025	Writing	WRITING (Adapted Screenplay)	Writing (Adapted Screenplay)	Train Dreams	tt29768334	Screenplay by Clint Bentley & Greg Kwedar	Clint Bentley|Greg Kwedar	nm3286079|nm3613117
-98	2025	Writing	WRITING (Original Screenplay)	Writing (Original Screenplay)	Blue Moon	tt32536315	Written by Robert Kaplow	Robert Kaplow	nm2904878
-98	2025	Writing	WRITING (Original Screenplay)	Writing (Original Screenplay)	It Was Just an Accident	tt36491653	Written by Jafar Panahi; Script collaborators - Nader Saïvar, Shadmehr Rastin, Mehdi Mahmoudian	Jafar Panahi|Script collaborators - Nader Saïvar|Shadmehr Rastin|Mehdi Mahmoudian	nm0070159|nm18145787|nm2158640|nm18145788
-98	2025	Writing	WRITING (Original Screenplay)	Writing (Original Screenplay)	Marty Supreme	tt32916440	Written by Ronald Bronstein & Josh Safdie	Ronald Bronstein|Josh Safdie	?|nm1343394
-98	2025	Writing	WRITING (Original Screenplay)	Writing (Original Screenplay)	Sentimental Value	tt27714581	Written by Eskil Vogt, Joachim Trier	Eskil Vogt|Joachim Trier	nm1258777|nm1258686
-98	2025	Writing	WRITING (Original Screenplay)	Writing (Original Screenplay)	Sinners	tt31193180	Written by Ryan Coogler	Ryan Coogler	nm3363032
+98	2025	Acting	ACTOR IN A LEADING ROLE	ACTOR IN A LEADING ROLE	Marty Supreme	tt32916440	Timothée Chalamet	Timothée Chalamet	nm3154303		Marty Mauser
+98	2025	Acting	ACTOR IN A LEADING ROLE	ACTOR IN A LEADING ROLE	One Battle after Another	tt30144839	Leonardo DiCaprio	Leonardo DiCaprio	nm0000138		Bob
+98	2025	Acting	ACTOR IN A LEADING ROLE	ACTOR IN A LEADING ROLE	Blue Moon	tt32536315	Ethan Hawke	Ethan Hawke	nm0000160		Lorenz Hart
+98	2025	Acting	ACTOR IN A LEADING ROLE	ACTOR IN A LEADING ROLE	Sinners	tt31193180	Michael B. Jordan	Michael B. Jordan	nm0430107	True	Smoke/Stack
+98	2025	Acting	ACTOR IN A LEADING ROLE	ACTOR IN A LEADING ROLE	The Secret Agent	tt27847051	Wagner Moura	Wagner Moura	nm0609944		Armando/Marcelo Alves/Adult Fernando
+98	2025	Acting	ACTOR IN A SUPPORTING ROLE	ACTOR IN A SUPPORTING ROLE	One Battle after Another	tt30144839	Benicio Del Toro	Benicio Del Toro	nm0001125		Sensei Sergio St. Carlos
+98	2025	Acting	ACTOR IN A SUPPORTING ROLE	ACTOR IN A SUPPORTING ROLE	Frankenstein	tt1312221	Jacob Elordi	Jacob Elordi	nm8624059		The Creature
+98	2025	Acting	ACTOR IN A SUPPORTING ROLE	ACTOR IN A SUPPORTING ROLE	Sinners	tt31193180	Delroy Lindo	Delroy Lindo	nm0005148		Delta Slim
+98	2025	Acting	ACTOR IN A SUPPORTING ROLE	ACTOR IN A SUPPORTING ROLE	One Battle after Another	tt30144839	Sean Penn	Sean Penn	nm0000576	True	Col. Steven J. Lockjaw
+98	2025	Acting	ACTOR IN A SUPPORTING ROLE	ACTOR IN A SUPPORTING ROLE	Sentimental Value	tt27714581	Stellan Skarsgård	Stellan Skarsgård	nm0001745		Gustav Borg
+98	2025	Acting	ACTRESS IN A LEADING ROLE	ACTRESS IN A LEADING ROLE	Hamnet	tt14905854	Jessie Buckley	Jessie Buckley	nm2976580	True	Agnes
+98	2025	Acting	ACTRESS IN A LEADING ROLE	ACTRESS IN A LEADING ROLE	If I Had Legs I'd Kick You	tt18382850	Rose Byrne	Rose Byrne	nm0126284		Linda
+98	2025	Acting	ACTRESS IN A LEADING ROLE	ACTRESS IN A LEADING ROLE	Song Sung Blue	tt30343021	Kate Hudson	Kate Hudson	nm0005028		Claire
+98	2025	Acting	ACTRESS IN A LEADING ROLE	ACTRESS IN A LEADING ROLE	Sentimental Value	tt27714581	Renate Reinsve	Renate Reinsve	nm4561559		Nora Borg
+98	2025	Acting	ACTRESS IN A LEADING ROLE	ACTRESS IN A LEADING ROLE	Bugonia	tt12300742	Emma Stone	Emma Stone	nm1297015		Michelle
+98	2025	Acting	ACTRESS IN A SUPPORTING ROLE	ACTRESS IN A SUPPORTING ROLE	Sentimental Value	tt27714581	Elle Fanning	Elle Fanning	nm1102577		Rachel Kemp
+98	2025	Acting	ACTRESS IN A SUPPORTING ROLE	ACTRESS IN A SUPPORTING ROLE	Sentimental Value	tt27714581	Inga Ibsdotter Lilleaas	Inga Ibsdotter Lilleaas	nm6635521		Agnes Borg Pettersen
+98	2025	Acting	ACTRESS IN A SUPPORTING ROLE	ACTRESS IN A SUPPORTING ROLE	Weapons	tt26581740	Amy Madigan	Amy Madigan	nm0001496	True	Gladys
+98	2025	Acting	ACTRESS IN A SUPPORTING ROLE	ACTRESS IN A SUPPORTING ROLE	Sinners	tt31193180	Wunmi Mosaku	Wunmi Mosaku	nm2148911		Annie
+98	2025	Acting	ACTRESS IN A SUPPORTING ROLE	ACTRESS IN A SUPPORTING ROLE	One Battle after Another	tt30144839	Teyana Taylor	Teyana Taylor	nm3692520		Perfidia
+98	2025	Title	ANIMATED FEATURE FILM	ANIMATED FEATURE FILM	Arco	tt14883538	Ugo Bienvenu, Félix de Givry, Sophie Mas and Natalie Portman	Ugo Bienvenu|Félix de Givry|Sophie Mas|Natalie Portman	nm4589136|nm5064713|nm0556021|nm0000204
+98	2025	Title	ANIMATED FEATURE FILM	ANIMATED FEATURE FILM	Elio	tt4900148	Madeline Sharafian, Domee Shi, Adrian Molina and Mary Alice Drumm	Madeline Sharafian|Domee Shi|Adrian Molina|Mary Alice Drumm	nm6461347|nm7626019|nm2937122|nm1216321
+98	2025	Title	ANIMATED FEATURE FILM	ANIMATED FEATURE FILM	KPop Demon Hunters	tt14205554	Maggie Kang, Chris Appelhans and Michelle L.M. Wong	Maggie Kang|Chris Appelhans|Michelle L.M. Wong	nm3133422|nm2282774|nm7970662	True
+98	2025	Title	ANIMATED FEATURE FILM	ANIMATED FEATURE FILM	Little Amélie or the Character of Rain	tt29313285	Maïlys Vallade, Liane-Cho Han, Nidia Santiago and Henri Magalon	Maïlys Vallade|Liane-Cho Han|Nidia Santiago|Henri Magalon	nm4922823|nm3442046|nm4751170|nm1436417
+98	2025	Title	ANIMATED FEATURE FILM	ANIMATED FEATURE FILM	Zootopia 2	tt26443597	Jared Bush, Byron Howard and Yvett Merino	Jared Bush|Byron Howard|Yvett Merino	nm1158544|nm0397174|nm2486917
+98	2025	Title	SHORT FILM (Animated)	ANIMATED SHORT FILM	Butterfly	tt30970587	Florence Miailhe and Ron Dyens	Florence Miailhe|Ron Dyens	nm0583939|nm1054433
+98	2025	Title	SHORT FILM (Animated)	ANIMATED SHORT FILM	Forevergreen	tt36454323	Nathan Engelhardt and Jeremy Spears	Nathan Engelhardt|Jeremy Spears	nm2920776|nm3728874
+98	2025	Title	SHORT FILM (Animated)	ANIMATED SHORT FILM	The Girl Who Cried Pearls	tt36956820	Chris Lavis and Maciek Szczerbowski	Chris Lavis|Maciek Szczerbowski	nm2650321|nm2649299	True
+98	2025	Title	SHORT FILM (Animated)	ANIMATED SHORT FILM	Retirement Plan	tt33019507	John Kelly and Andrew Freedman	John Kelly|Andrew Freedman	nm16359334|nm1737306
+98	2025	Title	SHORT FILM (Animated)	ANIMATED SHORT FILM	The Three Sisters	tt35676079	Konstantin Bronzit	Konstantin Bronzit	nm0111588
+98	2025	Production	CASTING	CASTING	Hamnet	tt14905854	Nina Gold	Nina Gold	nm0002274
+98	2025	Production	CASTING	CASTING	Marty Supreme	tt32916440	Jennifer Venditti	Jennifer Venditti	nm1204539
+98	2025	Production	CASTING	CASTING	One Battle after Another	tt30144839	Cassandra Kulukundis	Cassandra Kulukundis	nm0474697	True
+98	2025	Production	CASTING	CASTING	The Secret Agent	tt27847051	Gabriel Domingues	Gabriel Domingues	nm15368674
+98	2025	Production	CASTING	CASTING	Sinners	tt31193180	Francine Maisler	Francine Maisler	nm0537892
+98	2025	Production	CINEMATOGRAPHY	CINEMATOGRAPHY	Frankenstein	tt1312221	Dan Laustsen	Dan Laustsen	nm0491565
+98	2025	Production	CINEMATOGRAPHY	CINEMATOGRAPHY	Marty Supreme	tt32916440	Darius Khondji	Darius Khondji	nm0451787
+98	2025	Production	CINEMATOGRAPHY	CINEMATOGRAPHY	One Battle after Another	tt30144839	Michael Bauman	Michael Bauman	nm0062177
+98	2025	Production	CINEMATOGRAPHY	CINEMATOGRAPHY	Sinners	tt31193180	Autumn Durald Arkapaw	Autumn Durald Arkapaw	nm2557161	True
+98	2025	Production	CINEMATOGRAPHY	CINEMATOGRAPHY	Train Dreams	tt29768334	Adolpho Veloso	Adolpho Veloso	nm4110224
+98	2025	Production	COSTUME DESIGN	COSTUME DESIGN	Avatar: Fire and Ash	tt1757678	Deborah L. Scott	Deborah L. Scott	nm0779045
+98	2025	Production	COSTUME DESIGN	COSTUME DESIGN	Frankenstein	tt1312221	Kate Hawley	Kate Hawley	nm1661457	True
+98	2025	Production	COSTUME DESIGN	COSTUME DESIGN	Hamnet	tt14905854	Malgosia Turzanska	Malgosia Turzanska	nm3018027
+98	2025	Production	COSTUME DESIGN	COSTUME DESIGN	Marty Supreme	tt32916440	Miyako Bellizzi	Miyako Bellizzi	nm7279887
+98	2025	Production	COSTUME DESIGN	COSTUME DESIGN	Sinners	tt31193180	Ruth E. Carter	Ruth E. Carter	nm0141921
+98	2025	Directing	DIRECTING	DIRECTING	Hamnet	tt14905854	Chloé Zhao	Chloé Zhao	nm2125482
+98	2025	Directing	DIRECTING	DIRECTING	Marty Supreme	tt32916440	Josh Safdie	Josh Safdie	nm1343394
+98	2025	Directing	DIRECTING	DIRECTING	One Battle after Another	tt30144839	Paul Thomas Anderson	Paul Thomas Anderson	nm0000759	True
+98	2025	Directing	DIRECTING	DIRECTING	Sentimental Value	tt27714581	Joachim Trier	Joachim Trier	nm1258686
+98	2025	Directing	DIRECTING	DIRECTING	Sinners	tt31193180	Ryan Coogler	Ryan Coogler	nm3363032
+98	2025	Title	DOCUMENTARY (Feature)	DOCUMENTARY FEATURE FILM	The Alabama Solution	tt35307139	Andrew Jarecki and Charlotte Kaufman	Andrew Jarecki|Charlotte Kaufman	nm1285613|nm0442110
+98	2025	Title	DOCUMENTARY (Feature)	DOCUMENTARY FEATURE FILM	Come See Me in the Good Light	tt34966013	Ryan White, Jessica Hargrave, Tig Notaro and Stef Willen	Ryan White|Jessica Hargrave|Tig Notaro|Stef Willen	nm1713913|nm5357937|nm0449299|nm1936366
+98	2025	Title	DOCUMENTARY (Feature)	DOCUMENTARY FEATURE FILM	Cutting through Rocks	tt10196414	Sara Khaki and Mohammadreza Eyni	Sara Khaki|Mohammadreza Eyni	nm5328353|nm6746115
+98	2025	Title	DOCUMENTARY (Feature)	DOCUMENTARY FEATURE FILM	Mr. Nobody against Putin	tt34965515	David Borenstein, Pavel Talankin, Helle Faber and Alžběta Karásková	David Borenstein|Pavel Talankin|Helle Faber|Alžběta Karásková	nm6018607|nm16820317|nm1318821|nm8853469	True
+98	2025	Title	DOCUMENTARY (Feature)	DOCUMENTARY FEATURE FILM	The Perfect Neighbor	tt34962891	Geeta Gandbhir, Alisa Payne, Nikon Kwantu and Sam Bisbee	Geeta Gandbhir|Alisa Payne|Nikon Kwantu|Sam Bisbee	nm0304135|nm10749368|nm6098670|nm0083851
+98	2025	Title	DOCUMENTARY (Short Subject)	DOCUMENTARY SHORT FILM	All the Empty Rooms	tt37798645	Joshua Seftel and Conall Jones	Joshua Seftel|Conall Jones	nm0781733|nm2261114	True
+98	2025	Title	DOCUMENTARY (Short Subject)	DOCUMENTARY SHORT FILM	Armed Only with a Camera: The Life and Death of Brent Renaud	tt35515733	Craig Renaud and Juan Arredondo	Craig Renaud|Juan Arredondo	nm1867345|nm3743017
+98	2025	Title	DOCUMENTARY (Short Subject)	DOCUMENTARY SHORT FILM	Children No More: \"Were and Are Gone\"	tt38691874	Hilla Medalia and Sheila Nevins	Hilla Medalia|Sheila Nevins	nm1857245|nm0627521
+98	2025	Title	DOCUMENTARY (Short Subject)	DOCUMENTARY SHORT FILM	The Devil Is Busy	tt34205548	Christalyn Hampton and Geeta Gandbhir	Christalyn Hampton|Geeta Gandbhir	nm3654746|nm0304135
+98	2025	Title	DOCUMENTARY (Short Subject)	DOCUMENTARY SHORT FILM	Perfectly a Strangeness	tt32205767	Alison McAlpine	Alison McAlpine	nm3226817
+98	2025	Production	FILM EDITING	FILM EDITING	F1	tt16311594	Stephen Mirrione	Stephen Mirrione	nm0592537
+98	2025	Production	FILM EDITING	FILM EDITING	Marty Supreme	tt32916440	Ronald Bronstein and Josh Safdie	Ronald Bronstein|Josh Safdie	nm2563482|nm1343394
+98	2025	Production	FILM EDITING	FILM EDITING	One Battle after Another	tt30144839	Andy Jurgensen	Andy Jurgensen	nm1425140	True
+98	2025	Production	FILM EDITING	FILM EDITING	Sentimental Value	tt27714581	Olivier Bugge Coutté	Olivier Bugge Coutté	nm1256846
+98	2025	Production	FILM EDITING	FILM EDITING	Sinners	tt31193180	Michael P. Shawver	Michael P. Shawver	nm4019350
+98	2025	Title	INTERNATIONAL FEATURE FILM	INTERNATIONAL FEATURE FILM	The Secret Agent	tt27847051	Brazil
+98	2025	Title	INTERNATIONAL FEATURE FILM	INTERNATIONAL FEATURE FILM	It Was Just an Accident	tt36491653	France
+98	2025	Title	INTERNATIONAL FEATURE FILM	INTERNATIONAL FEATURE FILM	Sentimental Value	tt27714581	Norway			True
+98	2025	Title	INTERNATIONAL FEATURE FILM	INTERNATIONAL FEATURE FILM	Sirāt	tt32298285	Spain
+98	2025	Title	INTERNATIONAL FEATURE FILM	INTERNATIONAL FEATURE FILM	The Voice of Hind Rajab	tt36943034	Tunisia
+98	2025	Title	SHORT FILM (Live Action)	LIVE ACTION SHORT FILM	Butcher's Stain	tt39232815	Meyer Levinson-Blount and Oron Caspi	Meyer Levinson-Blount|Oron Caspi	nm18040407|nm5328550
+98	2025	Title	SHORT FILM (Live Action)	LIVE ACTION SHORT FILM	A Friend of Dorothy	tt35489516	Lee Knight and James Dean	Lee Knight|James Dean	nm5241260|nm1444721
+98	2025	Title	SHORT FILM (Live Action)	LIVE ACTION SHORT FILM	Jane Austen's Period Drama	tt31171760	Julia Aks and Steve Pinder	Julia Aks|Steve Pinder	nm2539508|nm7448751
+98	2025	Title	SHORT FILM (Live Action)	LIVE ACTION SHORT FILM	The Singers	tt33508491	Sam A. Davis and Jack Piatt	Sam A. Davis|Jack Piatt	nm4085454|nm2990059	True		NOTE: NOTE: A tie. The other winning film in this category was Two People Exchanging Saliva.
+98	2025	Title	SHORT FILM (Live Action)	LIVE ACTION SHORT FILM	Two People Exchanging Saliva	tt33365259	Alexandre Singh and Natalie Musteata	Alexandre Singh|Natalie Musteata	nm10306972|nm10306973	True		NOTE: NOTE: A tie. The other winning film in this category was The Singers.
+98	2025	Production	MAKEUP AND HAIRSTYLING	MAKEUP AND HAIRSTYLING	Frankenstein	tt1312221	Mike Hill, Jordan Samuel and Cliona Furey	Mike Hill|Jordan Samuel|Cliona Furey	nm2432825|nm0760397|nm1691633	True
+98	2025	Production	MAKEUP AND HAIRSTYLING	MAKEUP AND HAIRSTYLING	Kokuho	tt35231039	Kyoko Toyokawa, Naomi Hibino and Tadashi Nishimatsu	Kyoko Toyokawa|Naomi Hibino|Tadashi Nishimatsu	nm0870318|nm18145741|nm18145742
+98	2025	Production	MAKEUP AND HAIRSTYLING	MAKEUP AND HAIRSTYLING	Sinners	tt31193180	Ken Diaz, Mike Fontaine and Shunika Terry	Ken Diaz|Mike Fontaine|Shunika Terry	nm0225004|nm2885534|nm2675680
+98	2025	Production	MAKEUP AND HAIRSTYLING	MAKEUP AND HAIRSTYLING	The Smashing Machine	tt11214558	Kazu Hiro, Glen Griffin and Bjoern Rehbein	Kazu Hiro|Glen Griffin|Bjoern Rehbein	nm0875308|nm0341205|nm0716790
+98	2025	Production	MAKEUP AND HAIRSTYLING	MAKEUP AND HAIRSTYLING	The Ugly Stepsister	tt29344903	Thomas Foldberg and Anne Cathrine Sauerberg	Thomas Foldberg|Anne Cathrine Sauerberg	nm1237707|nm0766611
+98	2025	Music	MUSIC (Original Score)	MUSIC (Original Score)	Bugonia	tt12300742	Jerskin Fendrix	Jerskin Fendrix	nm14930772
+98	2025	Music	MUSIC (Original Score)	MUSIC (Original Score)	Frankenstein	tt1312221	Alexandre Desplat	Alexandre Desplat	nm0006035
+98	2025	Music	MUSIC (Original Score)	MUSIC (Original Score)	Hamnet	tt14905854	Max Richter	Max Richter	nm2068037
+98	2025	Music	MUSIC (Original Score)	MUSIC (Original Score)	One Battle after Another	tt30144839	Jonny Greenwood	Jonny Greenwood	nm0339351
+98	2025	Music	MUSIC (Original Score)	MUSIC (Original Score)	Sinners	tt31193180	Ludwig Goransson	Ludwig Goransson	nm3234869	True
+98	2025	Music	MUSIC (Original Song)	MUSIC (Original Song)	Diane Warren: Relentless	tt14588692	Music and Lyric by Diane Warren	Diane Warren	nm0005534		Dear Me
+98	2025	Music	MUSIC (Original Song)	MUSIC (Original Song)	KPop Demon Hunters	tt14205554	Music and Lyric by EJAE, Mark Sonnenblick, Joong Gyu Kwak, Yu Han Lee, Hee Dong Nam, Jeong Hoon Seo and Teddy Park	EJAE|Mark Sonnenblick|Joong Gyu Kwak|Yu Han Lee|Hee Dong Nam|Jeong Hoon Seo|Teddy Park	nm12363614|nm5196834|nm17958850|nm17958851|nm17958853|nm13927769|nm10259072	True	Golden
+98	2025	Music	MUSIC (Original Song)	MUSIC (Original Song)	Sinners	tt31193180	Music and Lyric by Raphael Saadiq and Ludwig Goransson	Raphael Saadiq|Ludwig Goransson	nm1277289|nm3234869		I Lied To You
+98	2025	Music	MUSIC (Original Song)	MUSIC (Original Song)	Viva Verdi!	tt3595454	Music and Lyric by Nicholas Pike	Nicholas Pike	nm0006229		Sweet Dreams Of Joy
+98	2025	Music	MUSIC (Original Song)	MUSIC (Original Song)	Train Dreams	tt29768334	Music by Nick Cave and Bryce Dessner; Lyric by Nick Cave	Nick Cave|Bryce Dessner	nm0147022|nm2425842		Train Dreams
+98	2025	Title	BEST PICTURE	BEST PICTURE	Bugonia	tt12300742	Ed Guiney & Andrew Lowe, Yorgos Lanthimos, Emma Stone and Lars Knudsen, Producers	Ed Guiney|Andrew Lowe|Yorgos Lanthimos|Emma Stone|Lars Knudsen	nm0347384|nm1103466|nm0487166|nm1297015|nm1185381
+98	2025	Title	BEST PICTURE	BEST PICTURE	F1	tt16311594	Chad Oman, Brad Pitt, Dede Gardner, Jeremy Kleiner, Joseph Kosinski and Jerry Bruckheimer, Producers	Chad Oman|Brad Pitt|Dede Gardner|Jeremy Kleiner|Joseph Kosinski|Jerry Bruckheimer	nm0648288|nm0000093|nm0306890|nm1250070|nm2676052|nm0000988
+98	2025	Title	BEST PICTURE	BEST PICTURE	Frankenstein	tt1312221	Guillermo del Toro, J. Miles Dale and Scott Stuber, Producers	Guillermo del Toro|J. Miles Dale|Scott Stuber	nm0868219|nm0197703|nm0835959
+98	2025	Title	BEST PICTURE	BEST PICTURE	Hamnet	tt14905854	Liza Marshall, Pippa Harris, Nicolas Gonda, Steven Spielberg and Sam Mendes, Producers	Liza Marshall|Pippa Harris|Nicolas Gonda|Steven Spielberg|Sam Mendes	nm0551017|nm0365208|nm1868038|nm0000229|nm0005222
+98	2025	Title	BEST PICTURE	BEST PICTURE	Marty Supreme	tt32916440	Eli Bush, Ronald Bronstein, Josh Safdie, Anthony Katagas and Timothée Chalamet, Producers	Eli Bush|Ronald Bronstein|Josh Safdie|Anthony Katagas|Timothée Chalamet	nm4791912|nm2563482|nm1343394|nm0441097|nm3154303
+98	2025	Title	BEST PICTURE	BEST PICTURE	One Battle after Another	tt30144839	Adam Somner, Sara Murphy and Paul Thomas Anderson, Producers	Adam Somner|Sara Murphy|Paul Thomas Anderson	nm0814114|nm2072976|nm0000759	True
+98	2025	Title	BEST PICTURE	BEST PICTURE	The Secret Agent	tt27847051	Emilie Lesclaux, Producer	Emilie Lesclaux	nm2201794
+98	2025	Title	BEST PICTURE	BEST PICTURE	Sentimental Value	tt27714581	Maria Ekerhovd and Andrea Berentsen Ottmar, Producers	Maria Ekerhovd|Andrea Berentsen Ottmar	nm2250929|nm5269292
+98	2025	Title	BEST PICTURE	BEST PICTURE	Sinners	tt31193180	Zinzi Coogler, Sev Ohanian and Ryan Coogler, Producers	Zinzi Coogler|Sev Ohanian|Ryan Coogler	nm3362858|nm3539578|nm3363032
+98	2025	Title	BEST PICTURE	BEST PICTURE	Train Dreams	tt29768334	Marissa McMahon, Teddy Schwarzman, Will Janowitz, Ashley Schlaifer and Michael Heimler, Producers	Marissa McMahon|Teddy Schwarzman|Will Janowitz|Ashley Schlaifer|Michael Heimler	nm0997470|nm3267061|nm1052666|nm4328012|nm5715332
+98	2025	Production	ART DIRECTION	PRODUCTION DESIGN	Frankenstein	tt1312221	Production Design: Tamara Deverell; Set Decoration: Shane Vieau	Tamara Deverell|Shane Vieau	nm0222383|nm0896580	True
+98	2025	Production	ART DIRECTION	PRODUCTION DESIGN	Hamnet	tt14905854	Production Design: Fiona Crombie; Set Decoration: Alice Felton	Fiona Crombie|Alice Felton	nm2356249|nm1818912
+98	2025	Production	ART DIRECTION	PRODUCTION DESIGN	Marty Supreme	tt32916440	Production Design: Jack Fisk; Set Decoration: Adam Willis	Jack Fisk|Adam Willis	nm0279926|nm1853964
+98	2025	Production	ART DIRECTION	PRODUCTION DESIGN	One Battle after Another	tt30144839	Production Design: Florencia Martin; Set Decoration: Anthony Carlino	Florencia Martin|Anthony Carlino	nm3151515|nm2518113
+98	2025	Production	ART DIRECTION	PRODUCTION DESIGN	Sinners	tt31193180	Production Design: Hannah Beachler; Set Decoration: Monique Champagne	Hannah Beachler|Monique Champagne	nm1667545|nm3053001
+98	2025	Production	SOUND MIXING	SOUND	F1	tt16311594	Gareth John, Al Nelson, Gwendolyn Yates Whittle, Gary A. Rizzo and Juan Peralta	Gareth John|Al Nelson|Gwendolyn Yates Whittle|Gary A. Rizzo|Juan Peralta	nm0424163|nm0625131|nm0946705|nm0729886|nm0672752	True
+98	2025	Production	SOUND MIXING	SOUND	Frankenstein	tt1312221	Greg Chapman, Nathan Robitaille, Nelson Ferreira, Christian Cooke and Brad Zoern	Greg Chapman|Nathan Robitaille|Nelson Ferreira|Christian Cooke|Brad Zoern	nm0152382|nm0733255|nm0274399|nm0177397|nm0957576
+98	2025	Production	SOUND MIXING	SOUND	One Battle after Another	tt30144839	José Antonio García, Christopher Scarabosio and Tony Villaflor	José Antonio García|Christopher Scarabosio|Tony Villaflor	nm0306223|nm0769042|nm4878340
+98	2025	Production	SOUND MIXING	SOUND	Sinners	tt31193180	Chris Welcker, Benjamin A. Burtt, Felipe Pacheco, Brandon Proctor and Steve Boeddeker	Chris Welcker|Benjamin A. Burtt|Felipe Pacheco|Brandon Proctor|Steve Boeddeker	nm2597982|nm8991894|nm8395675|nm0698367|nm0006655
+98	2025	Production	SOUND MIXING	SOUND	Sirāt	tt32298285	Amanda Villavieja, Laia Casanovas and Yasmina Praderas	Amanda Villavieja|Laia Casanovas|Yasmina Praderas	nm1072367|nm4349901|nm2015411
+98	2025	Production	VISUAL EFFECTS	VISUAL EFFECTS	Avatar: Fire and Ash	tt1757678	Joe Letteri, Richard Baneham, Eric Saindon and Daniel Barrett	Joe Letteri|Richard Baneham|Eric Saindon|Daniel Barrett	nm0504784|nm0051824|nm0756590|nm2280778	True
+98	2025	Production	VISUAL EFFECTS	VISUAL EFFECTS	F1	tt16311594	Ryan Tudhope, Nicolas Chevallier, Robert Harrington and Keith Dawson	Ryan Tudhope|Nicolas Chevallier|Robert Harrington|Keith Dawson	nm0876095|nm1349988|nm7301327|nm1337882
+98	2025	Production	VISUAL EFFECTS	VISUAL EFFECTS	Jurassic World Rebirth	tt31036941	David Vickery, Stephen Aplin, Charmaine Chan and Neil Corbould	David Vickery|Stephen Aplin|Charmaine Chan|Neil Corbould	nm1316134|nm0032064|nm2683373|nm0179273
+98	2025	Production	VISUAL EFFECTS	VISUAL EFFECTS	The Lost Bus	tt21103218	Charlie Noble, David Zaretti, Russell Bowen and Brandon K. McLaughlin	Charlie Noble|David Zaretti|Russell Bowen|Brandon K. McLaughlin	nm0633563|nm3973854|nm3923070|nm0572287
+98	2025	Production	VISUAL EFFECTS	VISUAL EFFECTS	Sinners	tt31193180	Michael Ralla, Espen Nordahl, Guido Wolter and Donnie Dean	Michael Ralla|Espen Nordahl|Guido Wolter|Donnie Dean	nm1677432|nm2256596|nm3083445|nm3185336
+98	2025	Writing	WRITING (Adapted Screenplay)	WRITING (Adapted Screenplay)	Bugonia	tt12300742	Screenplay by Will Tracy	Will Tracy	nm4301557
+98	2025	Writing	WRITING (Adapted Screenplay)	WRITING (Adapted Screenplay)	Frankenstein	tt1312221	Written for the Screen by Guillermo del Toro	Guillermo del Toro	nm0868219
+98	2025	Writing	WRITING (Adapted Screenplay)	WRITING (Adapted Screenplay)	Hamnet	tt14905854	Screenplay by Chloé Zhao & Maggie O'Farrell	Chloé Zhao|Maggie O'Farrell	nm2125482|nm9133641
+98	2025	Writing	WRITING (Adapted Screenplay)	WRITING (Adapted Screenplay)	One Battle after Another	tt30144839	Written by Paul Thomas Anderson	Paul Thomas Anderson	nm0000759	True
+98	2025	Writing	WRITING (Adapted Screenplay)	WRITING (Adapted Screenplay)	Train Dreams	tt29768334	Screenplay by Clint Bentley & Greg Kwedar	Clint Bentley|Greg Kwedar	nm3286079|nm3613117
+98	2025	Writing	WRITING (Original Screenplay)	WRITING (Original Screenplay)	Blue Moon	tt32536315	Written by Robert Kaplow	Robert Kaplow	nm2904878
+98	2025	Writing	WRITING (Original Screenplay)	WRITING (Original Screenplay)	It Was Just an Accident	tt36491653	Written by Jafar Panahi; Script collaborators - Nader Saïvar, Shadmehr Rastin, Mehdi Mahmoudian	Jafar Panahi|Nader Saïvar|Shadmehr Rastin|Mehdi Mahmoudian	nm0070159|nm18145787|nm2158640|nm18145788
+98	2025	Writing	WRITING (Original Screenplay)	WRITING (Original Screenplay)	Marty Supreme	tt32916440	Written by Ronald Bronstein & Josh Safdie	Ronald Bronstein|Josh Safdie	nm2563482|nm1343394
+98	2025	Writing	WRITING (Original Screenplay)	WRITING (Original Screenplay)	Sentimental Value	tt27714581	Written by Eskil Vogt, Joachim Trier	Eskil Vogt|Joachim Trier	nm1258777|nm1258686
+98	2025	Writing	WRITING (Original Screenplay)	WRITING (Original Screenplay)	Sinners	tt31193180	Written by Ryan Coogler	Ryan Coogler	nm3363032	True
+98	2025	Special	JEAN HERSHOLT HUMANITARIAN AWARD	JEAN HERSHOLT HUMANITARIAN AWARD			Dolly Parton	Dolly Parton	nm0000573	True
+98	2025	Special	HONORARY AWARD	HONORARY AWARD				Debbie Allen	nm0000739	True			To Debbie Allen, for her career as a trailblazing choreographer and actor whose work across multiple disciplines has captivated and inspired generations.
+98	2025	Special	HONORARY AWARD	HONORARY AWARD				Tom Cruise	nm0000129	True			To Tom Cruise, for his unwavering commitment to the filmmaking community, his vital support of the theatrical experience, and his unmatched body of work.
+98	2025	Special	HONORARY AWARD	HONORARY AWARD				Wynn Thomas	nm0859661	True			To Wynn Thomas, for his artistic innovation, visionary eye, and lasting influence in the field of production design.
+98	2025	SciTech	SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)	SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)				Jamie Caliri|Dyami Caliri		True		Dragonframe represents an expertly designed suite of integrated tools that has transformed stop-motion animation, eliminating fragmented, error-prone methods while enabling precision at scale.	To JAMIE CALIRI and DYAMI CALIRI for the design, engineering and continuing development of the Dragonframe software suite.
+98	2025	SciTech	SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)	SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)				Brent Bell		True		Brent Bell at De La Mare Engineering, Inc. successfully modernized the industry standard for bullet hits by engineering a high-output, lead-free product line through extensive chemical research and the development of specialized and precise manufacturing processes.	To BRENT BELL for the research and development of safe, reliable and effective small lead-free pyrotechnic devices used extensively in motion picture productions throughout the world.
+98	2025	SciTech	SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)	SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)				Josef Köhler		True		Josef Köhler Pyrotechnics set a critical precedent by overcoming significant chemical engineering hurdles to provide the film industry with a non-toxic, low-flash alternative that preserved the use of practical bullet hits while meeting rigorous new European safety and environmental standards.	To JOSEF KÖHLER for developing the first small lead-free pyrotechnic devices available at scale.
+98	2025	SciTech	SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)	SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)				Ian Medwell		True		Sterling Pyrotechnics' high-performance, lead-free alternative to traditional squibs provides the film industry with a non-toxic, repeatable solution for practical bullet effects that maintains technical compatibility with legacy devices.	To IAN MEDWELL for developing small lead-free pyrotechnic devices used extensively for motion picture production throughout the United Kingdom.
+98	2025	SciTech	SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)	SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)				Andrea Weidlich		True		Weidlich’s research and the methods underlying Manuka’s layered material system have been influential across the visual effects industry and have allowed Wētā FX to raise the bar for photorealism.	To ANDREA WEIDLICH for her research on layered materials and implementation of the layering operators and BSDFs in Wētā FX’s Manuka renderer.
+98	2025	SciTech	SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)	SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)				Luca Fascione		True		The Manuka renderer’s efficient and flexible system for layering materials has unlocked workflows that have allowed Wētā FX to scale to ever-larger productions while giving artists both creative freedom and physical accuracy.	To LUCA FASCIONE for the initial design and development of the layered materials system at Wētā FX.
+98	2025	SciTech	SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)	SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)				Vincent Dedun|Emmanuel Turquin|Jonathan Moulin		True		Lama provides an artist-friendly approach to composing materials built from layers representing distinct physical phenomena. Its modular, carefully curated design allows look development artists to create unique, physically plausible appearances without writing shader code. Its ease of use has expanded and accelerated shading workflows at Industrial Light & Magic and led to broader industry adoption via its inclusion in Pixar’s RenderMan.	To VINCENT DEDUN and EMMANUEL TURQUIN for the design, architecture and engineering, and to JONATHAN MOULIN for the design and creative vision, of Lama at Industrial Light & Magic.
+98	2025	SciTech	SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)	SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)				Josh Bainbridge|Nathan Walster		True		Framestore’s layered shading system was among the first to enable its users to generate novel, realistic appearances in a modular workflow by combining material layers in a physically plausible fashion. Its development has enabled Framestore to deliver diverse looks across a broad creative catalog of filmmakers’ requirements.	To JOSH BAINBRIDGE and NATHAN WALSTER for the design, architecture and engineering of the layered shading system at Framestore.
+98	2025	SciTech	SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)	SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)				Bret St.Clair|Marc-André Davignon|Pav Grochola|Edmond Boulet Gilly		True		These tools at Sony Pictures Imageworks enabled the large-scale application of a wide variety of custom artistic styles across animated features that inspired the industry.	To BRET ST.CLAIR and MARC-ANDRÉ DAVIGNON for the design and engineering of the suite of brushing and patching tools, and to PAV GROCHOLA and EDMOND BOULET GILLY for the design and engineering of the Superdraw and Kismet linework tools.
+98	2025	SciTech	SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)	SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)				Baptiste Van Opstal|Jeff Budsberg|Michael Losure|Jon Lanz|Eszter Offertaler		True		From linework authoring and animation to novel brushing and stamping methods, this toolset facilitates the wide range of unique art styles and painterly effects seen across DreamWorks Animation films while providing artistic control at every stage of production.	To BAPTISTE VAN OPSTAL, JEFF BUDSBERG, MICHAEL LOSURE, JON LANZ and ESZTER OFFERTALER for their contributions to the stylized animation toolset at DreamWorks Animation.
+98	2025	SciTech	SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)	SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)				Benjamin Graf		True		dxRevive Pro has transformed modern dialog restoration practices, combining noise reduction, layered separation and resynthesis to achieve results that maintain the realism, continuity and the emotional fidelity of on-set performances thereby reducing the need for ADR in the post-production process.	To BENJAMIN GRAF for the design, engineering and development of dxRevive Pro.
+98	2025	SciTech	SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)	SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)				John Ellwood|Jeff Bloom		True		Titan pioneered the auto-assembly of digital audio, eliminating the need for sound editors to manually align their sessions, and stood as the benchmark for many subsequent systems.	To JOHN ELLWOOD for the innovative rules and heuristics underlying the metadata and timecode matching, and to JEFF BLOOM for the groundbreaking waveform matching, in the Titan auto-assembly software for digital audio.
+98	2025	SciTech	SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)	SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)				Marc Specter		True		With an intuitive user interface and transcription utility that provides audio asset management, enabling direct access to edit decision lists and audio session files, Kraken expedites the assembly of audio files while providing visual aids to find and resolve issues.	To MARC SPECTER for the design and development of the Kraken Dialogue Editors Toolkit, enabling precise audio assembly.
+98	2025	SciTech	SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)	SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)				Justin Webster		True		Providing detailed insight into differences between audio and video files, even in the absence of metadata, Matchbox enables rapid application of changes in post-production while preserving previous creative work.	To JUSTIN WEBSTER for the design and engineering of Matchbox, a system for audio and video matching that enables auto-reconform.
+98	2025	SciTech	SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)	SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)				Paul Debevec		True		Debevec demonstrated the advantages of high dynamic range image-based lighting, and, through advocacy of the approach, led the industry to embrace new workflows. This has enabled artists to work more productively and improved the realism of computer graphics imagery in feature films.	To PAUL DEBEVEC for his pioneering work in high dynamic range, image-based lighting techniques.

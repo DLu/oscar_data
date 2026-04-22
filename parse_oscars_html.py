@@ -4,7 +4,8 @@ import re
 import click
 from tqdm import tqdm
 
-from utilities import find_all_by_class, find_by_class, remove_enclosing, write_csv, BeautifulParser
+from utilities import find_all_by_class, find_by_class, remove_enclosing, BeautifulParser
+from utilities import read_csv, write_csv, parse_years, parse_year
 
 ORDINAL = r'(\d+)(th|st|nd|rd)'
 ORD_TAIL = r'\s+\(' + ORDINAL + r'\)'
@@ -87,7 +88,7 @@ def parse_award(award_html):
     return award_info
 
 
-def parse_awards(filepath):
+def parse_awards(filepath, years=None):
     html = BeautifulParser(open(filepath))
     bar = tqdm(html.find_all_by_class('div', 'awards-result-chron'))
     for row in bar:
@@ -98,6 +99,9 @@ def parse_awards(filepath):
             click.secho(f'Cannot parse year text: "{year_text}"', fg='red')
             exit(-1)
         year = m.group(1)
+        year_i = parse_year(year)
+        if years and year_i not in years:
+            continue
         bar.set_description(year)
         ceremony = int(m.group(2))
 
@@ -167,12 +171,37 @@ def parse_nominations(filepath):
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
+    parser.add_argument('years', nargs='*')
     parser.add_argument('-n', '--parse-nominations', action='store_true')
     args = parser.parse_args()
 
-    awards = list(parse_awards('oscars_html/search_results.html'))
+    if args.years:
+        years = parse_years(args.years)
+        original_awards = read_csv()
+        select_awards = list(parse_awards('oscars_html/search_results.html', years))
+        awards = []
+        while original_awards or select_awards:
+            while original_awards and parse_year(original_awards[0]['Year']) in years:
+                original_awards.pop(0)
+
+            if original_awards:
+                if select_awards:
+                    o_year = parse_year(original_awards[0]['Year'])
+                    s_year = parse_year(select_awards[0]['Year'])
+                    if o_year < s_year:
+                        awards.append(original_awards.pop(0))
+                    else:
+                        awards.append(select_awards.pop(0))
+                else:
+                    awards.append(original_awards.pop(0))
+            else:
+                awards.append(select_awards.pop(0))
+    else:
+        awards = list(parse_awards('oscars_html/search_results.html'))
 
     if args.parse_nominations:
         awards += parse_nominations('oscars_html/nominations.html')
+
+    click.secho(f'Parsed {len(awards)} nominations.', fg='blue')
 
     write_csv(awards)

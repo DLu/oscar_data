@@ -103,3 +103,21 @@ class BeautifulParser(bs4.BeautifulSoup):
 
     def find_all_by_class(self, name, class_name):
         return find_all_by_class(self, name, class_name)
+
+
+def parse_years(years_s_list):
+    # Parse the list of years (if any)
+    years = []
+    for s in years_s_list:
+        if '-' in s:
+            a, _, b = s.partition('-')
+            years += list(range(int(a), int(b) + 1))
+        else:
+            years.append(int(s))
+    if years_s_list and 1933 in years:
+        years.remove(1933)
+    return years
+
+
+def parse_year(year_s):
+    return int(year_s.split('/')[0])

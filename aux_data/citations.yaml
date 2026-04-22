@@ -4589,6 +4589,8 @@
       of laser diodes for theatrical laser projection systems.
     Nominees: Yoshitaka Nakatsu|Yoji Nagao|Tsuyoshi Hirao|Tomonori Morizumi|Kazuma Kozuru
 '2024':
+  ALL102ilm:
+    Citation: To all those who have developed and supported captioning technology, whether open or closed, for film.
   ATT144ing:
     Citation: To ATTILA T. ÁFRA for the creation of Intel Open Image Denoise, and to TIMO AILA for his pioneering work at
       NVIDIA applying U-Nets to denoising.
@@ -4634,10 +4636,10 @@
     Citation: To STEVE WAGNER for the initial concept and software, to GARRETT BROWN for the design, and to JERRY HOLWAY and
       ROBERT ORF for the engineering of the Steadicam Volt stabilization system.
     Nominees: Steve Wagner|Garrett Brown|Jerry Holway|Robert Orf
-  SUT219tem:
-    Citation: To SU TIE for the development of the sensor analysis and stabilization software, to BEI SHIMEN for the electrical
+  SUT220tem:
+    Citation: To SU TIE for the development of the sensor analysis and stabilization software, to BEI SHIMENG for the electrical
       engineering, and to ZHAO YANCHONG for the mechanical design and engineering of the Ronin 2 gimbal system.
-    Nominees: Su Tie|Bei Shimen|Zhao Yanchong
+    Nominees: Su Tie|Bei Shimeng|Zhao Yanchong
   TAB233als:
     Citation: To TABB FIRCHAU for the conception and development, to JOHN ELLISON and STEVE WEBB for the attitude control
       system, to DAVID BLOOMFIELD for the motor design, and to SHANE COLTON for the motor driver system design of the Movi
@@ -4647,3 +4649,103 @@
     Citation: To THIJS VOGELS, FABRICE ROUSSELLE, DAVID ADLER, GERHARD RÖTHLIN and MARK MEYER for the creation of Disney's
       ML Denoiser.
     Nominees: Thijs Vogels|Fabrice Rousselle|David Adler|Gerhard Röthlin|Mark Meyer
+'2025':
+  AND141rer:
+    Citation: To ANDREA WEIDLICH for her research on layered materials and implementation of the layering operators and BSDFs
+      in Wētā FX’s Manuka renderer.
+    Nominees:
+    - Andrea Weidlich
+  BAP168ion:
+    Citation: To BAPTISTE VAN OPSTAL, JEFF BUDSBERG, MICHAEL LOSURE, JON LANZ and ESZTER OFFERTALER for their contributions
+      to the stylized animation toolset at DreamWorks Animation.
+    Nominees:
+    - Baptiste Van Opstal
+    - Jeff Budsberg
+    - Michael Losure
+    - Jon Lanz
+    - Eszter Offertaler
+  BEN077pro:
+    Citation: To BENJAMIN GRAF for the design, engineering and development of dxRevive Pro.
+    Nominees:
+    - Benjamin Graf
+  BRE183rld:
+    Citation: To BRENT BELL for the research and development of safe, reliable and effective small lead-free pyrotechnic devices
+      used extensively in motion picture productions throughout the world.
+    Nominees:
+    - Brent Bell
+  BRE235ols:
+    Citation: To BRET ST.CLAIR and MARC-ANDRÉ DAVIGNON for the design and engineering of the suite of brushing and patching
+      tools, and to PAV GROCHOLA and EDMOND BOULET GILLY for the design and engineering of the Superdraw and Kismet linework
+      tools.
+    Nominees:
+    - Bret St.Clair
+    - Marc-André Davignon
+    - Pav Grochola
+    - Edmond Boulet Gilly
+  DEB153ons:
+    Citation: To Debbie Allen, for her career as a trailblazing choreographer and actor whose work across multiple disciplines
+      has captivated and inspired generations.
+    Nominees:
+    - Debbie Allen
+  IAN143dom:
+    Citation: To IAN MEDWELL for developing small lead-free pyrotechnic devices used extensively for motion picture production
+      throughout the United Kingdom.
+    Nominees:
+    - Ian Medwell
+  JAM122ite:
+    Citation: To JAMIE CALIRI and DYAMI CALIRI for the design, engineering and continuing development of the Dragonframe software
+      suite.
+    Nominees:
+    - Jamie Caliri
+    - Dyami Caliri
+  JOH217dio:
+    Citation: To JOHN ELLWOOD for the innovative rules and heuristics underlying the metadata and timecode matching, and to
+      JEFF BLOOM for the groundbreaking waveform matching, in the Titan auto-assembly software for digital audio.
+    Nominees:
+    - John Ellwood
+    - Jeff Bloom
+  JOS096ale:
+    Citation: To JOSEF KÖHLER for developing the first small lead-free pyrotechnic devices available at scale.
+    Nominees:
+    - Josef Köhler
+  JOS127ore:
+    Citation: To JOSH BAINBRIDGE and NATHAN WALSTER for the design, architecture and engineering of the layered shading system
+      at Framestore.
+    Nominees:
+    - Josh Bainbridge
+    - Nathan Walster
+  JUS128orm:
+    Citation: To JUSTIN WEBSTER for the design and engineering of Matchbox, a system for audio and video matching that enables
+      auto-reconform.
+    Nominees:
+    - Justin Webster
+  LUC099āfx:
+    Citation: To LUCA FASCIONE for the initial design and development of the layered materials system at Wētā FX.
+    Nominees:
+    - Luca Fascione
+  MAR119bly:
+    Citation: To MARC SPECTER for the design and development of the Kraken Dialogue Editors Toolkit, enabling precise audio
+      assembly.
+    Nominees:
+    - Marc Specter
+  PAU095ues:
+    Citation: To PAUL DEBEVEC for his pioneering work in high dynamic range, image-based lighting techniques.
+    Nominees:
+    - Paul Debevec
+  TOM153ork:
+    Citation: To Tom Cruise, for his unwavering commitment to the filmmaking community, his vital support of the theatrical
+      experience, and his unmatched body of work.
+    Nominees:
+    - Tom Cruise
+  VIN179gic:
+    Citation: To VINCENT DEDUN and EMMANUEL TURQUIN for the design, architecture and engineering, and to JONATHAN MOULIN for
+      the design and creative vision, of Lama at Industrial Light & Magic.
+    Nominees:
+    - Vincent Dedun
+    - Emmanuel Turquin
+    - Jonathan Moulin
+  WYN116ign:
+    Citation: To Wynn Thomas, for his artistic innovation, visionary eye, and lasting influence in the field of production
+      design.
+    Nominees:
+    - Wynn Thomas
